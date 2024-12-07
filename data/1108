@@ -745,13 +745,13 @@
     "type": "game",
     "name": "Trial of lust",
     "steam_appid": 3324810,
-    "required_age": 0,
+    "required_age": "18",
     "is_free": false,
     "short_description": "During the Succubus Queen's trials, will your wife remain faithful to you with your support, or will she be taken by another man under your influence?",
     "supported_languages": "English, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/header.jpg?t=1733034513",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/45ecc49ad3cedbe413c5ce3c7670874c6159db03/capsule_231x87.jpg?t=1733034513",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/45ecc49ad3cedbe413c5ce3c7670874c6159db03/capsule_184x69.jpg?t=1733034513",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/header.jpg?t=1733465763",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/45ecc49ad3cedbe413c5ce3c7670874c6159db03/capsule_231x87.jpg?t=1733465763",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/45ecc49ad3cedbe413c5ce3c7670874c6159db03/capsule_184x69.jpg?t=1733465763",
     "website": null,
     "developers": [
       "Broken English"
@@ -759,7 +759,20 @@
     "publishers": [
       "Broken English"
     ],
-    "package_groups": [],
+    "packages": [
+      1177192
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Trial of lust",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -767,21 +780,22 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       3
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2024"
+      "coming_soon": false,
+      "date": "4 Dec, 2024"
     },
     "support_info": {
       "url": "https://ci-en.dlsite.com/creator/6765",
       "email": "r912776@yahoo.com.tw"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/page_bg_generated_v6b.jpg?t=1733034513",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/page.bg.jpg?t=1733034513",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/page_bg_generated_v6b.jpg?t=1733465763",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324810/page.bg.jpg?t=1733465763",
     "content_descriptors": {
       "ids": [
         1,
@@ -793,12 +807,87 @@
     },
     "ratings": {
       "dejus": {
-        "rating_generated": "1",
         "rating": "18",
-        "required_age": "18",
-        "banned": "0",
-        "use_age_gate": "0",
-        "descriptors": "Nudez\nViol\u00eancia\nTemas sens\u00edveis"
+        "descriptors": "Conte\u00fado sexual\r\nNudez\r\nSexo Expl\u00edcito",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "esrb": {
+        "rating": "ao",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "pegi": {
+        "rating": "18",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "bbfc": {
+        "rating": "R18",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "nzoflc": {
+        "rating": "x18",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "cero": {
+        "rating": "z",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "kgrb": {
+        "rating": "19",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "use_age_gate": "true",
+        "required_age": "19"
+      },
+      "usk": {
+        "rating": "18",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "oflc": {
+        "rating": "x18",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "csrr": {
+        "rating": "R",
+        "descriptors": "\u672c\u904a\u6232\u542b\u6709\u5927\u91cf\u8272\u60c5\u8207\u6027\u611b\u5167\u5bb9, \u6240\u6709\u89d2\u8272\u7686\u70ba\u6210\u5e74",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "mda": {
+        "rating": "M18",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "required_age": "18"
+      },
+      "fpb": {
+        "rating": "18",
+        "descriptors": "Sexual Content\r\nSexual Themes\r\nNudity",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "agcom": {
+        "rating": "18",
+        "descriptors": "Sesso",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "crl": {
+        "rating": "18",
+        "descriptors": "\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043e \u043b\u0438\u0446\u0430\u043c \u043c\u043b\u0430\u0434\u0448\u0435 18 \u043b\u0435\u0442.",
+        "use_age_gate": "true",
+        "required_age": "18"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -819,9 +908,9 @@
     "controller_support": "full",
     "short_description": "Dive into the fantasy world of Braise, a narrative adventure game. Explore the Dragon\u2019s Valley and complete quests and puzzles to uncover the mysteries it holds.",
     "supported_languages": "French, English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/header.jpg?t=1732867208",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/e43e8775ddcbb6fb54a0a569f751478d62431dfc/capsule_231x87.jpg?t=1732867208",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/e43e8775ddcbb6fb54a0a569f751478d62431dfc/capsule_184x69.jpg?t=1732867208",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/header.jpg?t=1733558896",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/e43e8775ddcbb6fb54a0a569f751478d62431dfc/capsule_231x87.jpg?t=1733558896",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/e43e8775ddcbb6fb54a0a569f751478d62431dfc/capsule_184x69.jpg?t=1733558896",
     "website": null,
     "developers": [
       "David Musique"
@@ -849,10 +938,10 @@
     },
     "support_info": {
       "url": "",
-      "email": "d.musik3d@gmail.com"
+      "email": "braise.contact@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/page_bg_generated_v6b.jpg?t=1732867208",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/page_bg_generated.jpg?t=1732867208",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/page_bg_generated_v6b.jpg?t=1733558896",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324930/page_bg_generated.jpg?t=1733558896",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1061,9 +1150,9 @@
     ],
     "short_description": "In 'Year of the Ladybug: Season 1,' characters traverse a nightmarish realm filled with fear and despair, revealing sinister secrets while evading the relentless terrors that pursue them at every turn.",
     "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/header.jpg?t=1733025645",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/2f8c81ef76f1cc344739847edd4565c4ec4c5dd1/capsule_231x87.jpg?t=1733025645",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/2f8c81ef76f1cc344739847edd4565c4ec4c5dd1/capsule_184x69.jpg?t=1733025645",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/header.jpg?t=1733438285",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/2f8c81ef76f1cc344739847edd4565c4ec4c5dd1/capsule_231x87.jpg?t=1733438285",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/2f8c81ef76f1cc344739847edd4565c4ec4c5dd1/capsule_184x69.jpg?t=1733438285",
     "website": "https://fictionroast.com",
     "developers": [
       "Aditya Nair",
@@ -1073,29 +1162,46 @@
     "publishers": [
       "Fiction Roast"
     ],
-    "package_groups": [],
+    "packages": [
+      1177293
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Year of the Ladybug: Season 1",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
       25
     ],
+    "achievements": {
+      "total": 18
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "5 Dec, 2024"
     },
     "support_info": {
       "url": "https://fictionroast.com/support.html",
       "email": "fictionroastgameshelp@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/page_bg_generated_v6b.jpg?t=1733025645",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/page.bg.jpg?t=1733025645",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/page_bg_generated_v6b.jpg?t=1733438285",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325130/page.bg.jpg?t=1733438285",
     "content_descriptors": {
       "ids": [
         5
@@ -1220,9 +1326,9 @@
     "controller_support": "full",
     "short_description": "Step into the paws of an unlikely hero and journey through the toy chest! In Teddy Knight, a physics-based action roguelite, you play as Teddy, a brave stuffed knight on a mission to save the toy world from evil. Engage in fast-paced combat with unique \u201cbounce\u201d mechanics in a dark toy universe.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/header.jpg?t=1732298713",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/d07fe40e52c7a56870fb53e653b2dbf9fdb8a547/capsule_231x87.jpg?t=1732298713",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/d07fe40e52c7a56870fb53e653b2dbf9fdb8a547/capsule_184x69.jpg?t=1732298713",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/header.jpg?t=1733220618",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/d07fe40e52c7a56870fb53e653b2dbf9fdb8a547/capsule_231x87.jpg?t=1733220618",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/d07fe40e52c7a56870fb53e653b2dbf9fdb8a547/capsule_184x69.jpg?t=1733220618",
     "website": null,
     "developers": [
       "Singular Division"
@@ -1246,14 +1352,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "2026"
     },
     "support_info": {
       "url": "",
       "email": "singulardivision@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/page_bg_generated_v6b.jpg?t=1732298713",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/page.bg.jpg?t=1732298713",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/page_bg_generated_v6b.jpg?t=1733220618",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325200/page.bg.jpg?t=1733220618",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1371,9 +1477,9 @@
     ],
     "short_description": "Lost &amp; Found Collection is a game where players explore diverse stories on VHS tapes, each unfolding around the same time.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/header.jpg?t=1732278203",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/ca1f354cf0abe12f104eb4f6636341cc8373aa00/capsule_231x87.jpg?t=1732278203",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/ca1f354cf0abe12f104eb4f6636341cc8373aa00/capsule_184x69.jpg?t=1732278203",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/header.jpg?t=1733421937",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/ca1f354cf0abe12f104eb4f6636341cc8373aa00/capsule_231x87.jpg?t=1733421937",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/ca1f354cf0abe12f104eb4f6636341cc8373aa00/capsule_184x69.jpg?t=1733421937",
     "website": null,
     "developers": [
       "Team Monke GAMES"
@@ -1397,15 +1503,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "5 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "tmgcontact029@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/page_bg_generated_v6b.jpg?t=1732278203",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/page_bg_generated.jpg?t=1732278203",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/page_bg_generated_v6b.jpg?t=1733421937",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325690/page_bg_generated.jpg?t=1733421937",
     "content_descriptors": {
       "ids": [
         2,
@@ -1555,11 +1661,11 @@
     "steam_appid": 3325840,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Hollow Space is a multiplayer horror FPS game where you play as a mutant or member of the rescue crew.",
+    "short_description": "In Hollow Space, you are transported to an abandoned space station drifting on the edge of the galaxy. A rescue crew responds to a mysterious SOS signal, only to find that something terrifying lurks in the shadows. Will you dare to face the danger, or will you become the monster yourself?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/header.jpg?t=1733054945",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/7584ebcfb81ea35e94d542d096449c11d0e215c8/capsule_231x87.jpg?t=1733054945",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/7584ebcfb81ea35e94d542d096449c11d0e215c8/capsule_184x69.jpg?t=1733054945",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/header.jpg?t=1733578885",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/7584ebcfb81ea35e94d542d096449c11d0e215c8/capsule_231x87.jpg?t=1733578885",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/7584ebcfb81ea35e94d542d096449c11d0e215c8/capsule_184x69.jpg?t=1733578885",
     "website": null,
     "developers": [
       "ZOJIN"
@@ -1605,8 +1711,8 @@
       "url": "https://discord.gg/6BwKaKpY",
       "email": "contact@zojin.pl"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/page_bg_generated_v6b.jpg?t=1733054945",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/page_bg_generated.jpg?t=1733054945",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/page_bg_generated_v6b.jpg?t=1733578885",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325840/page_bg_generated.jpg?t=1733578885",
     "content_descriptors": {
       "ids": [
         2,
@@ -1674,9 +1780,9 @@
     "is_free": false,
     "short_description": "Blitzthera is a vibrant and fast-paced stylized shooter that delivers an action-packed experience unlike any other. In Blitzthera, players can choose between a first-person or third-person perspective, giving you the freedom to approach the battlefield from the view that best suits your playstyle.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/header.jpg?t=1732888141",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/fc5ed2873d43ba3e7e61676e410e4ca698642fb0/capsule_231x87.jpg?t=1732888141",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/fc5ed2873d43ba3e7e61676e410e4ca698642fb0/capsule_184x69.jpg?t=1732888141",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/header.jpg?t=1733167506",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/fc5ed2873d43ba3e7e61676e410e4ca698642fb0/capsule_231x87.jpg?t=1733167506",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/fc5ed2873d43ba3e7e61676e410e4ca698642fb0/capsule_184x69.jpg?t=1733167506",
     "website": null,
     "developers": [
       "AimDash Studio"
@@ -1713,8 +1819,8 @@
       "url": "https://discord.gg/TRNumvXXcf",
       "email": "aimdashstudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/page_bg_generated_v6b.jpg?t=1732888141",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/page_bg_generated.jpg?t=1732888141",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/page_bg_generated_v6b.jpg?t=1733167506",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325920/page_bg_generated.jpg?t=1733167506",
     "content_descriptors": {
       "ids": [
         2,
@@ -1749,9 +1855,9 @@
     "is_free": false,
     "short_description": "Fight in the wars engulfing the world using the world\u2019s deadliest weapons and combat vehicles, rank your way up by building your reputation from being a simple soldier to become an elite PMC operator.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/header.jpg?t=1733047124",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/bf5cb96c036ab7223ea810a2c488b3b3ab8366c5/capsule_231x87.jpg?t=1733047124",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/bf5cb96c036ab7223ea810a2c488b3b3ab8366c5/capsule_184x69.jpg?t=1733047124",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/header.jpg?t=1733521896",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/bf5cb96c036ab7223ea810a2c488b3b3ab8366c5/capsule_231x87.jpg?t=1733521896",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/bf5cb96c036ab7223ea810a2c488b3b3ab8366c5/capsule_184x69.jpg?t=1733521896",
     "website": null,
     "developers": [
       "Massive Head Games"
@@ -1783,8 +1889,8 @@
       "url": "",
       "email": "admin@massiveheadgames.net"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/page_bg_generated_v6b.jpg?t=1733047124",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/page.bg.jpg?t=1733047124",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/page_bg_generated_v6b.jpg?t=1733521896",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/page.bg.jpg?t=1733521896",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1820,9 +1926,9 @@
       "name": "Chonkers"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325970/header.jpg?t=1732805836",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325970/a66254d3c0a38b3eed4311456b4a1c6571fa03db/capsule_231x87.jpg?t=1732805836",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325970/a66254d3c0a38b3eed4311456b4a1c6571fa03db/capsule_184x69.jpg?t=1732805836",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325970/header.jpg?t=1733221817",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325970/a66254d3c0a38b3eed4311456b4a1c6571fa03db/capsule_231x87.jpg?t=1733221817",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325970/a66254d3c0a38b3eed4311456b4a1c6571fa03db/capsule_184x69.jpg?t=1733221817",
     "website": null,
     "developers": [
       "Solar Eclipse Games"
@@ -9827,6 +9933,478 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Alkohol / Tabak\nSchimpfw\u00f6rte\nFantasy-Gewalt"
+      }
+    }
+  },
+  "3325610": {
+    "type": "game",
+    "name": "IDET",
+    "steam_appid": 3325610,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "In a diner at the edge of time, murder is afoot. Serve gourmet meals to the ethereal patrons of the Duskrise Diner. Form relationships. Embrace culinary bliss. Infinite day, endless taste.",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325610/header.jpg?t=1733350463",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325610/219631079aa09df1cc0e6e55ac73de180c512816/capsule_231x87.jpg?t=1733350463",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325610/219631079aa09df1cc0e6e55ac73de180c512816/capsule_184x69.jpg?t=1733350463",
+    "website": null,
+    "developers": [
+      "Deblue"
+    ],
+    "publishers": [
+      "CRITICAL REFLEX"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      18
+    ],
+    "genres": [
+      23,
+      25,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "support@criticalreflex.com",
+      "email": ""
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325610/page_bg_generated_v6b.jpg?t=1733350463",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325610/page_bg_generated.jpg?t=1733350463",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Schimpfw\u00f6rte\n\u00c4ngstigende Inhalte"
+      }
+    }
+  },
+  "3325960": {
+    "type": "game",
+    "name": "Constantine Scores",
+    "steam_appid": 3325960,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Constantine Scores is a single-player heisting Sci-fi First Person Shooter. Upgrade your arsenal to gain more abilities, weapons, and perks to keep the playing field equal. Fight against three separate factions, spanning multiple contracts, and randomized multi-day campaigns.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325960/header.jpg?t=1733335789",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325960/e054e80823112bdbb22ac1c22741000f0ce0bece/capsule_231x87.jpg?t=1733335789",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325960/e054e80823112bdbb22ac1c22741000f0ce0bece/capsule_184x69.jpg?t=1733335789",
+    "website": null,
+    "developers": [
+      "Kyrios"
+    ],
+    "publishers": [
+      "Kyrios"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      22
+    ],
+    "genres": [
+      1,
+      23
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "kyriosgamesup@gmail.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325960/page_bg_generated_v6b.jpg?t=1733335789",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325960/page.bg.jpg?t=1733335789",
+    "content_descriptors": {
+      "ids": [
+        5
+      ],
+      "notes": "Constantine Scores contains cartoonish representations of general acts of violence, such as shooting guns or using melee weapons and cartoonish blood impacts. Missions involve general acts of robbery and the game includes settings to keep corpses around or have them vanish. Generic references to drugs, though nondescript. Inclusion of Low Poly NPCs that represent criminal or mature content, such as prostitutes, gangsters, strippers, and drug producers."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Conte\u00fado sexual\nViol\u00eancia\nDrogas il\u00edcitas"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nDrastische Gewalt\nDrogen"
+      }
+    }
+  },
+  "3326170": {
+    "type": "game",
+    "name": "CHI Project",
+    "steam_appid": 3326170,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Sci-fi fantasy visual novel, turn-based RPG, and murder mystery -- all in one!",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326170/header.jpg?t=1733438449",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326170/b6b6cbb73547ee3a444dc815bd3f8b687170ce0c/capsule_231x87.jpg?t=1733438449",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326170/b6b6cbb73547ee3a444dc815bd3f8b687170ce0c/capsule_184x69.jpg?t=1733438449",
+    "website": "https://nonpacifistbroom.itch.io/chi-project",
+    "developers": [
+      "The Broom Closet"
+    ],
+    "publishers": [
+      "The Broom Closet"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "categories": [
+      2
+    ],
+    "genres": [
+      3,
+      23
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "2026"
+    },
+    "support_info": {
+      "url": "",
+      "email": "chiproject8888@gmail.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326170/page_bg_generated_v6b.jpg?t=1733438449",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326170/page_bg_generated.jpg?t=1733438449",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt\nAlkohol / Tabak\nSchimpfw\u00f6rte"
+      }
+    }
+  },
+  "3326820": {
+    "type": "game",
+    "name": "Whiskers and Wizardry",
+    "steam_appid": 3326820,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "Step into the magical paws of an overconfident wizard cat in this action-packed roguelite! Craft unique spells, battle hordes of minions and powerful bosses, cleanse the forest of evil, and rescue your Human Wizard Owner. From the creators of Margoq's Lair, a studio focused on roguelite games.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326820/header.jpg?t=1733408903",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326820/bfa0301317f5f603e9d101476145e6b59d7087c5/capsule_231x87.jpg?t=1733408903",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326820/bfa0301317f5f603e9d101476145e6b59d7087c5/capsule_184x69.jpg?t=1733408903",
+    "website": "http://www.zillogames.com",
+    "developers": [
+      "Zillo Games"
+    ],
+    "publishers": [
+      "Zillo Games"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      22,
+      23,
+      28
+    ],
+    "genres": [
+      1,
+      3,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "support@zillogames.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326820/page_bg_generated_v6b.jpg?t=1733408903",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326820/page.bg.jpg?t=1733408903",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Schimpfw\u00f6rte\nFantasy-Gewalt"
+      }
+    }
+  },
+  "3326910": {
+    "type": "game",
+    "name": "Night to Meet Chu!",
+    "steam_appid": 3326910,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Starring VTuber NightMare herself! An ASMR-Enhanced Visual Novel Game! What is the secret hidden your encounter and her inability to find eternal peace?",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Swedish, Norwegian, Finnish, Bulgarian, Portuguese - Portugal, Simplified Chinese, Traditional Chinese, Japanese<strong>*</strong>, Korean<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326910/header.jpg?t=1733348038",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326910/9244fd1c0af3a6adf1f7d4309c46a1a3f0ce56a7/capsule_231x87.jpg?t=1733348038",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326910/9244fd1c0af3a6adf1f7d4309c46a1a3f0ce56a7/capsule_184x69.jpg?t=1733348038",
+    "website": "https://night-meechu-adv.cyberstep.com/#/",
+    "developers": [
+      "CyberStep, Inc."
+    ],
+    "publishers": [
+      "CyberStep, Inc.",
+      "Rabbitfoot"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2
+    ],
+    "genres": [
+      4,
+      25,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "11 Dec, 2024"
+    },
+    "support_info": {
+      "url": "https://night-meechu-adv.cyberstep.com/#/",
+      "email": ""
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326910/page_bg_generated_v6b.jpg?t=1733348038",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326910/page.bg.jpg?t=1733348038",
+    "content_descriptors": {
+      "ids": [
+        1,
+        5
+      ],
+      "notes": "Some of the games include a scene with a girl in a bathing suit at a hot spring, a situation where a girl is approached by a girl who is overly fond of her, a morning in bed with a girl, and a situation where a girl was accidentally killed by a fire in the past. Sexual acts and nudity do not appear."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nConte\u00fado sexual\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt\nSexuelle Andeutungen\nDerbe Sprache"
+      }
+    }
+  },
+  "3325750": {
+    "type": "game",
+    "name": "The Last Progenitor",
+    "steam_appid": 3325750,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "The Last Progenitor is an adult visual novel that emphasizes player choices. You can decide whether to take the helm as the CEO of your late parents' company or begin from the ground up and work your way to the top. Your journey will be rich with intrigue, betrayals, and captivating women.",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325750/header.jpg?t=1733530547",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325750/29fb789ead0850d420d4c74395882194ee573401/capsule_231x87.jpg?t=1733530547",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325750/29fb789ead0850d420d4c74395882194ee573401/capsule_184x69.jpg?t=1733530547",
+    "website": null,
+    "developers": [
+      "SeCe Studio"
+    ],
+    "publishers": [
+      "SeCe Studio"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "categories": [
+      2,
+      22
+    ],
+    "genres": [
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "",
+      "email": "studiosece@gmail.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325750/page_bg_generated_v6b.jpg?t=1733530547",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325750/page.bg.jpg?t=1733530547",
+    "content_descriptors": {
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "notes": "The game is intended for 18+ only, as it graphically depicts sex, violence, and gore. The game is not intended for players who are easily offended."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nLinguagem impr\u00f3pria\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nDrastische Gewalt\nAlkohol / Tabak"
+      }
+    }
+  },
+  "3326660": {
+    "type": "game",
+    "name": "Sofia in Exchange for Lies",
+    "steam_appid": 3326660,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Peek into the sins and memories of five personalities through surveillance cameras\u2500\u2500This is an immersive, mystery adventure game that unravels the thoughts of the dark past that lie dormant inside Sofia,a suspect in the murder of a presidential candidate, and uncovers the truth behind the crime.",
+    "supported_languages": "Japanese<strong>*</strong>, English, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326660/header.jpg?t=1733568230",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326660/d05f3d2e2910b0bc3b505aec697d840081ca2a20/capsule_231x87.jpg?t=1733568230",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326660/d05f3d2e2910b0bc3b505aec697d840081ca2a20/capsule_184x69.jpg?t=1733568230",
+    "website": null,
+    "developers": [
+      "MUTAN",
+      "storynote"
+    ],
+    "publishers": [
+      "MUTAN"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      18
+    ],
+    "genres": [
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "https://www.mutan.co.jp/",
+      "email": "support@mutan.co.jp"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326660/page_bg_generated_v6b.jpg?t=1733568230",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326660/page_bg_generated.jpg?t=1733568230",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Atos criminosos"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
       }
     }
   }
