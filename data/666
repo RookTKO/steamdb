@@ -1224,9 +1224,9 @@
     "is_free": false,
     "short_description": "In this 2004 classic originally released by Atari games, you will navigate 12 sky-high courses. Each course is fraught with different obstacles that will block your path, slide your marble off course, or blow them right into the bottomless void below.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000770/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000770/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2000770/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000770/header.jpg?t=1704463128",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000770/capsule_231x87.jpg?t=1704463128",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000770/capsule_184x69.jpg?t=1704463128",
     "website": null,
     "developers": [
       "Cyparade"
@@ -1234,32 +1234,63 @@
     "publishers": [
       "Ziggurat"
     ],
-    "package_groups": [],
+    "packages": [
+      722403
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ballance",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
-      1,
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "5 Jan, 2024"
     },
     "support_info": {
       "url": "https://www.ziggurat.games/contact",
       "email": "support@zigguratinteractive.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2000770/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2000770/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000770/page_bg_generated_v6b.jpg?t=1704463128",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000770/page_bg_generated.jpg?t=1704463128",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2000800": {
@@ -6403,18 +6434,15 @@
     "short_description": "Starfinder Flip-Mat - Space Station Your Next Port of Call Whether the heroes are defending a bustling space station from invading aliens or just looking for shore leave after a long voyage through deep space, no Game Master wants to spend precious game time drawing every airlock, bulkhead, and corridor.",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000730/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000730/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2000730/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000730/header.jpg?t=1654002967",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000730/capsule_231x87.jpg?t=1654002967",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000730/capsule_184x69.jpg?t=1654002967",
     "website": "https://www.fantasygrounds.com",
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       722390
@@ -6445,7 +6473,8 @@
       27,
       38,
       39,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -6460,11 +6489,19 @@
       "url": "www.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2000730/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2000730/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000730/page_bg_generated_v6b.jpg?t=1654002967",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000730/page_bg_generated.jpg?t=1654002967",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "1998774": {
@@ -7110,9 +7147,9 @@
       "name": "Unexplored 2: The Wayfarer's Legacy"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000810/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000810/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2000810/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000810/header.jpg?t=1727771856",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000810/capsule_231x87.jpg?t=1727771856",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000810/capsule_184x69.jpg?t=1727771856",
     "website": "https://hendrikvisser.artstation.com/",
     "developers": [
       "Ludomotion",
@@ -7138,12 +7175,13 @@
     ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       3,
@@ -7158,11 +7196,16 @@
       "url": "https://www.ludomotion.com",
       "email": "support@ludomotion.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2000810/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2000810/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000810/page_bg_generated_v6b.jpg?t=1727771856",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000810/page.bg.jpg?t=1727771856",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      }
     }
   },
   "1998978": {
@@ -10304,11 +10347,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "The Burrow Miner League is the most popular sport in R&amp;D Mine, and all Penny wants is to fight her big sister Coppra, the Burrow League Champion. To do so, Penny must leave home, explore R&amp;D Mine, defeat the five Burrow League Captains, and finally face her sister in the ultimate battle!",
+    "short_description": "The Burrow League is the most popular sport in R&amp;D Mine, and all Penny wants is to fight her big sister Coppra, the Burrow League Champion. To do so, Penny must leave home, explore R&amp;D Mine, defeat the five Burrow League Captains, and finally face her sister in the ultimate battle!",
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000780/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000780/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2000780/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000780/header.jpg?t=1730730305",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000780/capsule_231x87.jpg?t=1730730305",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000780/capsule_184x69.jpg?t=1730730305",
     "website": null,
     "developers": [
       "Tastie Games LLC."
@@ -10342,17 +10385,25 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "April 2025"
     },
     "support_info": {
       "url": "tastiegames.com",
       "email": "tastiegamesofficial@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2000780/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2000780/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000780/page_bg_generated_v6b.jpg?t=1730730305",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000780/page.bg.jpg?t=1730730305",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "cero": {
+        "rating": "rp"
+      }
     }
   },
   "1998320": {
@@ -12956,18 +13007,15 @@
     "short_description": "Starfinder Flip-Mat - Asteroid Between a Rock and a Hard Place Whether the heroes are searching for the ultimate mother lode of starmetals or hiding out from the law on a deserted space rock, no Game Master wants to spend their time drawing every crater, outcropping, and tunnel.",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000830/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000830/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2000830/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000830/header.jpg?t=1654002865",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000830/capsule_231x87.jpg?t=1654002865",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000830/capsule_184x69.jpg?t=1654002865",
     "website": "https://www.fantasygrounds.com",
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       722422
@@ -12998,7 +13046,8 @@
       27,
       38,
       39,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -13013,11 +13062,19 @@
       "url": "www.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2000830/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2000830/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000830/page_bg_generated_v6b.jpg?t=1654002865",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000830/page_bg_generated.jpg?t=1654002865",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "1998510": {
@@ -13698,9 +13755,9 @@
     "controller_support": "full",
     "short_description": "A clay styled frog platformer. Hop, climb, dash and sprint your way through 10 clay worlds in &quot;classic platformer mode&quot; or put your skills to the test in &quot;challenge mode&quot; with hard precision platformer gameplay. With no attacks and worlds filled with obstacles, all you can do is... Hop For The Best!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000900/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000900/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2000900/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000900/header.jpg?t=1653014846",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000900/capsule_231x87.jpg?t=1653014846",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000900/capsule_184x69.jpg?t=1653014846",
     "website": "https://www.splashfirestudios.com/hop-for-the-best",
     "developers": [
       "SplashFire Studios"
@@ -13730,11 +13787,17 @@
       "url": "https://www.splashfirestudios.com",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2000900/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2000900/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000900/page_bg_generated_v6b.jpg?t=1653014846",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000900/page.bg.jpg?t=1653014846",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      }
     }
   },
   "1998947": {
@@ -14141,9 +14204,9 @@
     "is_free": false,
     "short_description": "Challenging jigsaw puzzles, featuring adult images of 2 couples at a swingers party on a yacht.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000750/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000750/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2000750/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000750/header.jpg?t=1652475918",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000750/capsule_231x87.jpg?t=1652475918",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000750/capsule_184x69.jpg?t=1652475918",
     "website": "http://www.exosyphen.com",
     "developers": [
       "EroticGamesClub"
@@ -14173,7 +14236,8 @@
     "categories": [
       2,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       4,
@@ -14190,8 +14254,8 @@
       "url": "http://www.exosyphen.com",
       "email": "contact@exosyphenstudios.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2000750/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2000750/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000750/page_bg_generated_v6b.jpg?t=1652475918",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000750/page_bg_generated.jpg?t=1652475918",
     "content_descriptors": {
       "ids": [
         1,
@@ -14200,6 +14264,24 @@
         4
       ],
       "notes": "Sexual intercourse and naked characters."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2000760": {
@@ -14210,9 +14292,9 @@
     "is_free": false,
     "short_description": "Saul Myers is back in action and ready to take on the world to get his daughter back. Do you have what it takes to complete his mission?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000760/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000760/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2000760/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000760/header.jpg?t=1699970355",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000760/capsule_231x87.jpg?t=1699970355",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000760/capsule_184x69.jpg?t=1699970355",
     "website": null,
     "developers": [
       "Deep Shadows"
@@ -14220,14 +14302,28 @@
     "publishers": [
       "Ziggurat"
     ],
-    "package_groups": [],
+    "packages": [
+      722400
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Boiling Point: Road to Hell",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -14235,15 +14331,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "14 Nov, 2023"
     },
     "support_info": {
       "url": "https://www.ziggurat.games/",
       "email": "support@ziggurat.games"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2000760/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2000760/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000760/page_bg_generated_v6b.jpg?t=1699970355",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000760/page_bg_generated.jpg?t=1699970355",
     "content_descriptors": {
       "ids": [
         1,
@@ -14251,6 +14347,24 @@
         5
       ],
       "notes": "There is a stripper in the bar, some clothing design could be considered suggestive. You can use and become addicted to drugs and alcohol and the mechanics of the game don\u2019t discourage this too much. Explicit language is also present throughout the game. "
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nDrogas il\u00edcitas\nConte\u00fado sexual"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "1998740": {
@@ -17753,18 +17867,15 @@
     "short_description": "Starfinder Flip-Mat - Starship, The Sunrise Maiden It's Your Ship Now! Whether the heroes are hopping between neighboring planets or exploring distant worlds on the frontiers of the galaxy, no Game Master wants to spend time drawing every cabin and companionway on a starship.",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000790/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000790/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2000790/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000790/header.jpg?t=1653399051",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000790/capsule_231x87.jpg?t=1653399051",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000790/capsule_184x69.jpg?t=1653399051",
     "website": "https://www.fantasygrounds.com",
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       722409
@@ -17795,7 +17906,8 @@
       27,
       38,
       39,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -17810,11 +17922,19 @@
       "url": "www.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2000790/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2000790/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000790/page_bg_generated_v6b.jpg?t=1653399051",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000790/page_bg_generated.jpg?t=1653399051",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "2000920": {

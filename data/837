@@ -5,19 +5,32 @@
     "steam_appid": 2511780,
     "required_age": 0,
     "is_free": false,
-    "short_description": "As head of your clan, face your opponents in strategic PvP battles. Improve your deck of cards, make the right tactical choices, and place your soldiers on the battlefield so that they destroy the enemy. Can you lead your people to victory?",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2511780/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2511780/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2511780/capsule_184x69.jpg",
-    "website": null,
+    "short_description": "As head of your clan, face opposite tribes in strategic solo missions and PvP battles. Build and improve your deck of cards, make the right tactical choices, and place your soldiers on the battlefield so that they destroy the enemy. Can you lead your people to victory?",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511780/header.jpg?t=1730372452",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511780/e4d3a3e5ebc48d365f2b196e0057ff593d182df4/capsule_231x87.jpg?t=1730372452",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511780/e4d3a3e5ebc48d365f2b196e0057ff593d182df4/capsule_184x69.jpg?t=1730372452",
+    "website": "https://www.vestiges-fallen-tribes.com",
     "developers": [
       "WanadevStudio"
     ],
     "publishers": [
       "WanadevStudio"
     ],
-    "package_groups": [],
+    "packages": [
+      903096
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Vestiges: Fallen Tribes",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -29,24 +42,49 @@
       27,
       36,
       49,
-      52
+      52,
+      53,
+      62
     ],
     "genres": [
-      2
+      2,
+      23,
+      70
     ],
+    "achievements": {
+      "total": 10
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "3 Oct, 2024"
     },
     "support_info": {
       "url": "https://discord.com/invite/DKHk5rQ",
       "email": "contact@wanadevstudio.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2511780/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2511780/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511780/page_bg_generated_v6b.jpg?t=1730372452",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511780/page.bg.jpg?t=1730372452",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2511040": {
@@ -828,9 +866,9 @@
     "is_free": false,
     "short_description": "In Dominions 6 you take control of a powerful being that rules a nation and aspires to godhood. The type of Pretender Gods can vary from magically powerful arch mages to old dragons or an enormous tree. Dominions is a deep 4x turn based strategy game with a very large variety of spells and units.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2511500/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2511500/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2511500/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/header.jpg?t=1706365518",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/capsule_231x87.jpg?t=1706365518",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/capsule_184x69.jpg?t=1706365518",
     "website": "https://www.illwinter.com/dom6/",
     "developers": [
       "Illwinter Game Design"
@@ -838,7 +876,20 @@
     "publishers": [
       "Illwinter Game Design"
     ],
-    "package_groups": [],
+    "packages": [
+      903004
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Dominions 6 - Rise of the Pantokrator",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -858,24 +909,43 @@
       44,
       47,
       48,
-      49
+      49,
+      62
     ],
     "genres": [
       2
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "17 Jan, 2024"
     },
     "support_info": {
       "url": "",
       "email": "support@illwinter.cm"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2511500/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2511500/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/page_bg_generated_v6b.jpg?t=1706365518",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/page.bg.jpg?t=1706365518",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2512250": {
@@ -4226,14 +4296,15 @@
     "steam_appid": 2512160,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Unleash your inner Monday rage in Monday Meltdown, a 2D 1v1 multiplayer shooter. Engage in intense battles across casual environments like an office, a grocery store and more. With a vast arsenal of weapons, be the first to achieve 10 kills for victory. Let off some steam and let out Monday madness!",
+    "controller_support": "full",
+    "short_description": "Get ready for a fast-paced chaotic 2D top-down multiplayer shooter for up to 8 players! Dominate friends (or foes) in violent, fast-paced mayhem across different maps and gamemodes, all while taunting them with tilt-enraging phrases and awesome weapons.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2512160/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2512160/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2512160/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512160/header.jpg?t=1733476131",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512160/8ad335be34bea9a568e9874a69b921bb59c27ab2/capsule_231x87.jpg?t=1733476131",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512160/8ad335be34bea9a568e9874a69b921bb59c27ab2/capsule_184x69.jpg?t=1733476131",
     "website": "https://www.footstomp.studio/",
     "developers": [
-      "Footstomp Studios"
+      "NF Mynster"
     ],
     "publishers": [
       "Footstomp Studios"
@@ -4246,7 +4317,9 @@
     },
     "categories": [
       1,
+      22,
       27,
+      28,
       36,
       49
     ],
@@ -4255,22 +4328,43 @@
       23,
       70
     ],
+    "achievements": {
+      "total": 16
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2023"
+      "coming_soon": false,
+      "date": "11 Jan, 2024"
     },
     "support_info": {
       "url": "https://www.footstomp.studio/",
       "email": "nfmynster@footstomp.studio"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2512160/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2512160/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512160/page_bg_generated_v6b.jpg?t=1733476131",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512160/page.bg.jpg?t=1733476131",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
-      "notes": "This game is very bloody & gory. There is no nudity of any kind - only lots of blood."
+      "notes": "This game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content "
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2513200": {
@@ -4897,9 +4991,9 @@
     "is_free": false,
     "short_description": "Void Survivors is a fast-paced action roguelike game where you have to survive relentless hordes of monsters for 20 minutes!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2512430/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2512430/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2512430/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512430/header.jpg?t=1702338253",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512430/capsule_231x87.jpg?t=1702338253",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512430/capsule_184x69.jpg?t=1702338253",
     "website": null,
     "developers": [
       "SoulBlade Studio LLC",
@@ -4933,30 +5027,48 @@
       18,
       22,
       23,
-      25
+      25,
+      62
     ],
     "genres": [
       1,
       4,
-      23,
-      70
+      23
     ],
     "achievements": {
-      "total": 97
+      "total": 100
     },
     "release_date": {
       "coming_soon": false,
-      "date": "29 Sep, 2023"
+      "date": "11 Dec, 2023"
     },
     "support_info": {
       "url": "",
       "email": "soulbladestudio@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2512430/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2512430/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512430/page_bg_generated_v6b.jpg?t=1702338253",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512430/page.bg.jpg?t=1702338253",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2513920": {
@@ -7194,12 +7306,12 @@
     "name": "Warrior Next",
     "steam_appid": 2511900,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
     "short_description": "Few against many... Fight with a handful of Spartans to save Greece. Destroy hordes of enemies until the fight with creatures sent by the Gods. Lots of action for everyone!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2511900/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2511900/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2511900/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511900/header.jpg?t=1725267857",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511900/capsule_231x87.jpg?t=1725267857",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511900/capsule_184x69.jpg?t=1725267857",
     "website": null,
     "developers": [
       "Elder Leaf Studio"
@@ -7216,27 +7328,46 @@
     "categories": [
       2,
       18,
+      23,
       41,
       42
     ],
     "genres": [
       1,
       23,
-      70
+      37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "2 Sep, 2024"
     },
     "support_info": {
       "url": "",
       "email": "elderleafstudio@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2511900/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2511900/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511900/page_bg_generated_v6b.jpg?t=1725267857",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511900/page.bg.jpg?t=1725267857",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2512090": {
@@ -7428,15 +7559,18 @@
   },
   "2512930": {
     "type": "game",
-    "name": "\u4ec0\u4e48\u9e1f\u90fd",
+    "name": "Guardians of the Sanctree",
     "steam_appid": 2512930,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Play as a bird in the Holy Tree City with your companions, build buildings and production lines on the tree trunks, and defend the attack of underground Zerg! But defense is not the end, dig down constantly, destroy their nest, and establish new defenses to deal with deeper threats!",
-    "supported_languages": "Simplified Chinese<strong>*</strong>, English<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2512930/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2512930/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2512930/capsule_184x69.jpg",
+    "dlc": [
+      3322970
+    ],
+    "short_description": "You and allies, avian inhabitants of Sanctree City, build structures and production lines on the tree, crafting weapons to fend off subterranean insects. Defense is just the start\u2014dig deeper, destroy nests, fortify new defenses against escalating threats for an impregnable stronghold.",
+    "supported_languages": "Simplified Chinese, English, Russian, German, Japanese, Thai, Korean, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512930/header.jpg?t=1733147056",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512930/capsule_231x87.jpg?t=1733147056",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512930/capsule_184x69.jpg?t=1733147056",
     "website": null,
     "developers": [
       "HuCang Studio"
@@ -7444,7 +7578,26 @@
     "publishers": [
       "HuCang Studio"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2941270,
+        "description": ""
+      }
+    ],
+    "packages": [
+      903511
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Guardians of the Sanctree",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7452,8 +7605,12 @@
     },
     "categories": [
       1,
+      2,
       9,
-      38
+      22,
+      23,
+      38,
+      62
     ],
     "genres": [
       1,
@@ -7462,19 +7619,44 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 41
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "3 Oct, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "hucang@guguaoao.com"
+      "email": "hucang@guguaoao.com\uff0c 734486085@qq.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2512930/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2512930/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512930/page_bg_generated_v6b.jpg?t=1733147056",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512930/page.bg.jpg?t=1733147056",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "cadpa": {
+        "rating": "12",
+        "required_age": "12"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2513270": {
@@ -7747,17 +7929,23 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Use rusty tools to brutalize a perverted gang of serial torturers in the remote Appalachian Forest.",
+    "short_description": "A first person melee horror game where you use rusty tools to brutalize a gang of serial torturers in the remote Appalachian Forest.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2512560/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2512560/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2512560/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512560/header.jpg?t=1733706545",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512560/capsule_231x87.jpg?t=1733706545",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512560/capsule_184x69.jpg?t=1733706545",
     "website": null,
     "developers": [
       "David Szymanski"
     ],
     "publishers": [
       "David Szymanski"
+    ],
+    "demos": [
+      {
+        "appid": 3144590,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7767,6 +7955,7 @@
     },
     "categories": [
       2,
+      23,
       28
     ],
     "genres": [
@@ -7774,20 +7963,38 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2024"
+      "date": "Q1 2025"
     },
     "support_info": {
       "url": "",
       "email": "duskdeveloper@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2512560/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2512560/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512560/page_bg_generated_v6b.jpg?t=1733706545",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512560/page_bg_generated.jpg?t=1733706545",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
-      "notes": "Realistically brutal melee combat and associated swearing and gore, scenes of the aftermath of gruesome murder and implied bizarre torture.  Some photos of women in undergarments."
+      "notes": "Realistically brutal melee combat and associated swearing and gore, scenes of the aftermath of gruesome murder and implied bizarre torture.  Some photos of women in undergarments and some darkly comical sexual references."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nLinguagem impr\u00f3pria\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nSexuelle Andeutungen\nDerbe Sprache"
+      }
     }
   },
   "2513100": {

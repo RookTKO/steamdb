@@ -3055,9 +3055,9 @@
     "controller_support": "full",
     "short_description": "A chaotic multiplayer party game where the world, and your character, is constantly changing. Battle to keep control of the crown all while That Damn Goat does everything in its (omnipotent) power to get in the way.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2534210/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2534210/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2534210/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2534210/header.jpg?t=1731616806",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2534210/capsule_231x87.jpg?t=1731616806",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2534210/capsule_184x69.jpg?t=1731616806",
     "website": "https://www.rit.edu/magic/that-damn-goat",
     "developers": [
       "MAGIC Spell Studios"
@@ -3065,7 +3065,20 @@
     "publishers": [
       "MAGIC Spell Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      927955
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy That Damn Goat",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3077,24 +3090,43 @@
       28,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       1
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2023"
+      "coming_soon": false,
+      "date": "15 Dec, 2023"
     },
     "support_info": {
       "url": "https://www.rit.edu/magic/that-damn-goat",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2534210/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2534210/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2534210/page_bg_generated_v6b.jpg?t=1731616806",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2534210/page.bg.jpg?t=1731616806",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2532380": {
@@ -5809,11 +5841,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Bloodthief is a fast-paced, melee, retro, FPP experience where you use momentum to skillfully parkour through nonlinear, platforming focused levels and brutally slash your way through enemies. Speed-run through medieval dungeons and castles and learn what dark secrets lie beneath the surface.",
+    "short_description": "Bloodthief is an ultra-fast melee dungeon-runner where you use momentum to parkour through hazardous dungeons and brutally slash through enemies. Speed-run through medieval dungeons and castles and learn what dark secrets lie beneath the surface.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2533600/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2533600/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2533600/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2533600/header.jpg?t=1729983097",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2533600/capsule_231x87.jpg?t=1729983097",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2533600/capsule_184x69.jpg?t=1729983097",
     "website": null,
     "developers": [
       "Blargis"
@@ -5825,10 +5857,12 @@
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
+      22,
+      25,
       28
     ],
     "genres": [
@@ -5843,14 +5877,32 @@
       "url": "",
       "email": "blargis3d@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2533600/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2533600/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2533600/page_bg_generated_v6b.jpg?t=1729983097",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2533600/page_bg_generated.jpg?t=1729983097",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This game contains extreme violence and gore. Melee combat is bloody and gory. "
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nAtos criminosos"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2533450": {
@@ -8874,9 +8926,9 @@
     "is_free": true,
     "short_description": "is a tycoon management game that inherits the classic gameplay of Richest #1. It introduces an exciting new stealing mechanism where you can get rich quick by stealing funds from tycoons to strengthen your own power.",
     "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2532200/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2532200/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2532200/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532200/header.jpg?t=1718242017",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532200/capsule_231x87.jpg?t=1718242017",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532200/capsule_184x69.jpg?t=1718242017",
     "website": null,
     "developers": [
       "Dream Zhu"
@@ -8909,11 +8961,29 @@
       "url": "http://m.qunhei.com/pc/service/aid/169665.html",
       "email": "2290786733@qq.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2532200/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2532200/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532200/page_bg_generated_v6b.jpg?t=1718242017",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532200/page_bg_generated.jpg?t=1718242017",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2534190": {

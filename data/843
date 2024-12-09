@@ -6880,12 +6880,12 @@
     "name": "Idle Stellar",
     "steam_appid": 2530570,
     "required_age": 0,
-    "is_free": true,
-    "short_description": "Embark on an epic adventure through the cosmos in Idle Stellar. Gather, trade, craft, upgrade your spaceship and destroy your enemies. Play actively or relax into idle progression as you experience the feature-rich journey ahead!",
+    "is_free": false,
+    "short_description": "Embark on an epic adventure through the cosmos in Idle Stellar. Gather, craft and upgrade your spaceship to destroy your enemies. Play actively or relax into idle progression as you experience the feature-rich journey ahead!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2530570/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2530570/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2530570/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530570/header.jpg?t=1727452565",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530570/capsule_231x87.jpg?t=1727452565",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530570/capsule_184x69.jpg?t=1727452565",
     "website": null,
     "developers": [
       "Noody Games"
@@ -6893,34 +6893,70 @@
     "publishers": [
       "Noody Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1109681
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Idle Stellar",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       3,
       4,
-      25,
-      37
+      23,
+      25
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Sep, 2024"
     },
     "support_info": {
       "url": "",
       "email": "contact.idlestellar@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2530570/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2530570/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530570/page_bg_generated_v6b.jpg?t=1727452565",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530570/page_bg_generated.jpg?t=1727452565",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2530560": {
