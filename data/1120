@@ -112,22 +112,25 @@
     "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360070/page_bg_generated_v6b.jpg?t=1733256791",
     "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360070/page.bg.jpg?t=1733256791",
     "content_descriptors": {
-      "ids": [],
+      "ids": [
+        1,
+        5
+      ],
       "notes": null
     },
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "l",
-        "required_age": "0",
+        "rating": "14",
+        "required_age": "14",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": ""
+        "descriptors": "Nudez"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "0",
-        "required_age": "0",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
@@ -1174,10 +1177,10 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Uncover secrets, battle demons, and explore a stunning pixel-art world in SneakBit. Will you fulfill the prophecy, or rewrite destiny? Adventure awaits\u2014embrace your role in this thrilling RPG!",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/header.jpg?t=1732612676",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/5bf648c63ff8a8486edb06849ed80e1c44d5d031/capsule_231x87.jpg?t=1732612676",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/5bf648c63ff8a8486edb06849ed80e1c44d5d031/capsule_184x69.jpg?t=1732612676",
+    "supported_languages": "English<strong>*</strong>, Italian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/header.jpg?t=1733950974",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/5bf648c63ff8a8486edb06849ed80e1c44d5d031/capsule_231x87.jpg?t=1733950974",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/5bf648c63ff8a8486edb06849ed80e1c44d5d031/capsule_184x69.jpg?t=1733950974",
     "website": null,
     "developers": [
       "Federico Curzel"
@@ -1185,15 +1188,34 @@
     "publishers": [
       "Federico Curzel"
     ],
-    "package_groups": [],
+    "packages": [
+      1189410
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy SneakBit",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
+      1,
       2,
-      28
+      9,
+      24,
+      28,
+      39,
+      44,
+      62
     ],
     "genres": [
       1,
@@ -1201,15 +1223,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2024"
+      "coming_soon": false,
+      "date": "11 Dec, 2024"
     },
     "support_info": {
       "url": "curzel.it/support",
       "email": "saffo.montesi@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/page_bg_generated_v6b.jpg?t=1732612676",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/page_bg_generated.jpg?t=1732612676",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/page_bg_generated_v6b.jpg?t=1733950974",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360860/page_bg_generated.jpg?t=1733950974",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1241,9 +1263,9 @@
     "is_free": false,
     "short_description": "A PvP spaceship management auto battler! Build a custom spaceship layout and compete against other players. Play your way and be a bounty hunter, space pirate, or merchant trader.",
     "supported_languages": "English, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/header.jpg?t=1732729495",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/1a4559e5164c803ca938712837a08c9390aacded/capsule_231x87.jpg?t=1732729495",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/1a4559e5164c803ca938712837a08c9390aacded/capsule_184x69.jpg?t=1732729495",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/header.jpg?t=1733488531",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/1a4559e5164c803ca938712837a08c9390aacded/capsule_231x87.jpg?t=1733488531",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/1a4559e5164c803ca938712837a08c9390aacded/capsule_184x69.jpg?t=1733488531",
     "website": null,
     "developers": [
       "Final Screw"
@@ -1280,8 +1302,8 @@
       "url": "",
       "email": "support@finalscrew.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/page_bg_generated_v6b.jpg?t=1732729495",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/page_bg_generated.jpg?t=1732729495",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/page_bg_generated_v6b.jpg?t=1733488531",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360950/page_bg_generated.jpg?t=1733488531",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1418,9 +1440,9 @@
       "name": "Corner Kitchen Fast Food Simulator"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/header.jpg?t=1733406907",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/bb4b646b0edc9d8d596640747059730027019a47/capsule_231x87.jpg?t=1733406907",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/bb4b646b0edc9d8d596640747059730027019a47/capsule_184x69.jpg?t=1733406907",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/header.jpg?t=1733896551",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/bb4b646b0edc9d8d596640747059730027019a47/capsule_231x87.jpg?t=1733896551",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/bb4b646b0edc9d8d596640747059730027019a47/capsule_184x69.jpg?t=1733896551",
     "website": null,
     "developers": [
       "Purple Heads Games"
@@ -1443,15 +1465,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "6 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "sunnygamerdev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/page_bg_generated_v6b.jpg?t=1733406907",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/page_bg_generated.jpg?t=1733406907",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/page_bg_generated_v6b.jpg?t=1733896551",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361010/page_bg_generated.jpg?t=1733896551",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1806,9 +1828,9 @@
       "name": "Net.Attack()"
     },
     "supported_languages": "English, German",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/header.jpg?t=1733327022",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/ba016f577050de70eaac636c6dc92fce147ecea0/capsule_231x87.jpg?t=1733327022",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/ba016f577050de70eaac636c6dc92fce147ecea0/capsule_184x69.jpg?t=1733327022",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/header.jpg?t=1734178282",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/c1e2d0f4cc6cc23af9da539a23e0eeba5d064572/capsule_231x87.jpg?t=1734178282",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/c1e2d0f4cc6cc23af9da539a23e0eeba5d064572/capsule_184x69.jpg?t=1734178282",
     "website": "https://www.byterockers.games/",
     "developers": [
       "ByteRockers' Games"
@@ -1839,8 +1861,8 @@
       "url": "https://www.byterockers.games/kontakt?lang=en",
       "email": "info@byterockers.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/page_bg_generated_v6b.jpg?t=1733327022",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/page_bg_generated.jpg?t=1733327022",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/page_bg_generated_v6b.jpg?t=1734178282",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361140/page_bg_generated.jpg?t=1734178282",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1980,9 +2002,9 @@
     "is_free": false,
     "short_description": "Watermelon Simulator is a game in which you can become a watermelon.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Russian, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/header.jpg?t=1732200665",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/c6ac1af18885a09bc93e97da6d03383c327be947/capsule_231x87.jpg?t=1732200665",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/c6ac1af18885a09bc93e97da6d03383c327be947/capsule_184x69.jpg?t=1732200665",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/header.jpg?t=1734116427",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/c6ac1af18885a09bc93e97da6d03383c327be947/capsule_231x87.jpg?t=1734116427",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/c6ac1af18885a09bc93e97da6d03383c327be947/capsule_184x69.jpg?t=1734116427",
     "website": null,
     "developers": [
       "Dynamic Games"
@@ -1990,7 +2012,20 @@
     "publishers": [
       "Dynamic Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1189529
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Watermelon Simulator",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1998,7 +2033,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
@@ -2007,16 +2043,19 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 5
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "13 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "mail@ifulgs.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/page_bg_generated_v6b.jpg?t=1732200665",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/page_bg_generated.jpg?t=1732200665",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/page_bg_generated_v6b.jpg?t=1734116427",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361220/page_bg_generated.jpg?t=1734116427",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2079,11 +2118,14 @@
     "steam_appid": 3361280,
     "required_age": 0,
     "is_free": true,
+    "dlc": [
+      3398840
+    ],
     "short_description": "Clicker game about satellite and signals.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/header.jpg?t=1733339653",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/717233467d7bdd71a8e5b0e9f0cd7f17a10ac9e3/capsule_231x87.jpg?t=1733339653",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/717233467d7bdd71a8e5b0e9f0cd7f17a10ac9e3/capsule_184x69.jpg?t=1733339653",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/header.jpg?t=1734112717",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/717233467d7bdd71a8e5b0e9f0cd7f17a10ac9e3/capsule_231x87.jpg?t=1734112717",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/717233467d7bdd71a8e5b0e9f0cd7f17a10ac9e3/capsule_184x69.jpg?t=1734112717",
     "website": null,
     "developers": [
       "STEVE SEVERDIJA"
@@ -2099,23 +2141,28 @@
     },
     "categories": [
       2,
-      22
+      22,
+      23,
+      25
     ],
     "genres": [
       4,
       23,
       37
     ],
+    "achievements": {
+      "total": 1
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "10 Dec, 2024"
     },
     "support_info": {
       "url": "https://steveseverdija.com",
       "email": "steve.severdija@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/page_bg_generated_v6b.jpg?t=1733339653",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/page.bg.jpg?t=1733339653",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/page_bg_generated_v6b.jpg?t=1734112717",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361280/page.bg.jpg?t=1734112717",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2152,11 +2199,14 @@
       "name": "Funko Fusion"
     },
     "supported_languages": "English, French, Italian, Spanish - Spain, Dutch, Japanese, Korean, Polish, Russian, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese, Turkish, German, Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/header.jpg?t=1733231129",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/45a813a20d181ac0f6ccc6d792a3b090ed6b65d4/capsule_231x87.jpg?t=1733231129",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/45a813a20d181ac0f6ccc6d792a3b090ed6b65d4/capsule_184x69.jpg?t=1733231129",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/header.jpg?t=1734107322",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/45a813a20d181ac0f6ccc6d792a3b090ed6b65d4/capsule_231x87.jpg?t=1734107322",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/45a813a20d181ac0f6ccc6d792a3b090ed6b65d4/capsule_184x69.jpg?t=1734107322",
     "website": "https://www.funkofusion.com/",
     "developers": [
+      "1010 Games Ltd"
+    ],
+    "publishers": [
       "1010 Games Ltd"
     ],
     "packages": [
@@ -2198,8 +2248,8 @@
       "url": "https://www.funkofusion.com/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/page_bg_generated_v6b.jpg?t=1733231129",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/page_bg_generated.jpg?t=1733231129",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/page_bg_generated_v6b.jpg?t=1734107322",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361290/page_bg_generated.jpg?t=1734107322",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2236,11 +2286,14 @@
       "name": "Funko Fusion"
     },
     "supported_languages": "English, French, Italian, Spanish - Spain, Dutch, Japanese, Korean, Polish, Russian, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese, Turkish, German, Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/header.jpg?t=1733231195",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/d516eacd3b25330a6d850b3e63aef05a49cbc905/capsule_231x87.jpg?t=1733231195",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/d516eacd3b25330a6d850b3e63aef05a49cbc905/capsule_184x69.jpg?t=1733231195",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/header.jpg?t=1734108008",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/d516eacd3b25330a6d850b3e63aef05a49cbc905/capsule_231x87.jpg?t=1734108008",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/d516eacd3b25330a6d850b3e63aef05a49cbc905/capsule_184x69.jpg?t=1734108008",
     "website": "https://www.funkofusion.com/",
     "developers": [
+      "1010 Games Ltd"
+    ],
+    "publishers": [
       "1010 Games Ltd"
     ],
     "packages": [
@@ -2282,8 +2335,8 @@
       "url": "https://www.funkofusion.com/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/page_bg_generated_v6b.jpg?t=1733231195",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/page_bg_generated.jpg?t=1733231195",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/page_bg_generated_v6b.jpg?t=1734108008",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361300/page_bg_generated.jpg?t=1734108008",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3093,9 +3146,9 @@
     "is_free": false,
     "short_description": "A galaxy-spanning top-down 2D classic RPG adventure to defeat the invading zenos from Vega.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/header.jpg?t=1733039892",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/1cc6d934f15e5c5161e342c5a0d3e1568e742180/capsule_231x87.jpg?t=1733039892",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/1cc6d934f15e5c5161e342c5a0d3e1568e742180/capsule_184x69.jpg?t=1733039892",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/header.jpg?t=1734163327",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/1cc6d934f15e5c5161e342c5a0d3e1568e742180/capsule_231x87.jpg?t=1734163327",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/1cc6d934f15e5c5161e342c5a0d3e1568e742180/capsule_184x69.jpg?t=1734163327",
     "website": null,
     "developers": [
       "Another Dimension Game Studio"
@@ -3103,7 +3156,20 @@
     "publishers": [
       "Another Dimension Game Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1189707
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Saucepanhead I - Pangalactic Panic",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3112,22 +3178,26 @@
     "categories": [
       2,
       18,
-      22
+      22,
+      62
     ],
     "genres": [
       3,
       25
     ],
+    "achievements": {
+      "total": 5
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "14 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "anotherdimensiongs@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/page_bg_generated_v6b.jpg?t=1733039892",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/page.bg.jpg?t=1733039892",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/page_bg_generated_v6b.jpg?t=1734163327",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361720/page.bg.jpg?t=1734163327",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5873,9 +5943,9 @@
     "controller_support": "full",
     "short_description": "This is a historical strategy game set in the Three Kingdoms era, told from Liu Bei's perspective. It covers the Yellow Turban Rebellion to early Three Kingdoms. Featuring classic turn-based gameplay, it reinterprets historical events, offering both engaging battles and rich cultural insights.",
     "supported_languages": "Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/header.jpg?t=1733130682",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/86da0af04155d31d291a13d229844646f2bec35d/capsule_231x87.jpg?t=1733130682",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/86da0af04155d31d291a13d229844646f2bec35d/capsule_184x69.jpg?t=1733130682",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/header.jpg?t=1733910959",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/86da0af04155d31d291a13d229844646f2bec35d/capsule_231x87.jpg?t=1733910959",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/86da0af04155d31d291a13d229844646f2bec35d/capsule_184x69.jpg?t=1733910959",
     "website": null,
     "developers": [
       "\u5f00\u7ffc\u7f51\u7edc"
@@ -5889,7 +5959,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1190146
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Three Kingdoms: The Tales of Jian An",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5897,8 +5980,10 @@
     },
     "categories": [
       2,
+      22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       2,
@@ -5906,16 +5991,19 @@
       23,
       70
     ],
+    "achievements": {
+      "total": 66
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2024"
+      "coming_soon": false,
+      "date": "11 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "723762907@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/page_bg_generated_v6b.jpg?t=1733130682",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/page_bg_generated.jpg?t=1733130682",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/page_bg_generated_v6b.jpg?t=1733910959",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362990/page_bg_generated.jpg?t=1733910959",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8311,6 +8399,146 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Drastische Gewalt\nAlkohol / Tabak\nSexuelle Andeutungen"
+      }
+    }
+  },
+  "3361210": {
+    "type": "game",
+    "name": "BROK - Natal Tail, A New Christmas",
+    "steam_appid": 3361210,
+    "required_age": 0,
+    "is_free": true,
+    "controller_support": "full",
+    "dlc": [
+      3365410
+    ],
+    "short_description": "A Christmas tale set in the world of BROK the InvestiGator, presented as a visual novel.",
+    "supported_languages": "English, French, Simplified Chinese, German",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361210/header.jpg?t=1734112546",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361210/abdcc5536d6fe0dd91441b7b094452673fe1c61b/capsule_231x87.jpg?t=1734112546",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361210/abdcc5536d6fe0dd91441b7b094452673fe1c61b/capsule_184x69.jpg?t=1734112546",
+    "website": "https://www.brokgame.com",
+    "developers": [
+      "COWCAT"
+    ],
+    "publishers": [
+      "COWCAT"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "categories": [
+      2,
+      13,
+      28
+    ],
+    "genres": [
+      23,
+      25,
+      37
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "13 Dec, 2024"
+    },
+    "support_info": {
+      "url": "https://www.cowcatgames.com",
+      "email": "fabrice.breton@cowcatgames.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361210/page_bg_generated_v6b.jpg?t=1734112546",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361210/page_bg_generated.jpg?t=1734112546",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
+    }
+  },
+  "3361540": {
+    "type": "game",
+    "name": "TYRONE vs COPS 2",
+    "steam_appid": 3361540,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Awaken the latent power of your melanin and kill cops in this thought-provoking game on police brutality in America.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361540/header.jpg?t=1734192440",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361540/a725e4aa55ca699c2e5791bed691438a80d16748/capsule_231x87.jpg?t=1734192440",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361540/a725e4aa55ca699c2e5791bed691438a80d16748/capsule_184x69.jpg?t=1734192440",
+    "website": null,
+    "developers": [
+      "Team SNEED"
+    ],
+    "publishers": [
+      "Team SNEED"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      22
+    ],
+    "genres": [
+      1,
+      23
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Q1 2025"
+    },
+    "support_info": {
+      "url": "http://twitter.com/team_sneed",
+      "email": ""
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361540/page_bg_generated_v6b.jpg?t=1734192440",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361540/page_bg_generated.jpg?t=1734192440",
+    "content_descriptors": {
+      "ids": [
+        1,
+        2,
+        5
+      ],
+      "notes": "TW: police, drugs, violence, firearms, blood, loud noises, rap music, feds. "
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas il\u00edcitas\nConte\u00fado sexual\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogen\nSexuelle Inhalte\nDrastische Gewalt"
       }
     }
   }
