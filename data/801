@@ -2734,12 +2734,15 @@
     "steam_appid": 2403290,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
-    "short_description": "Boyhood's End is an adventure game following Giovanni, the boy with the lowest human score in the universe, and Campenella, the delinquent genius, and their journey on the galactic railroad regarding the &quot;human&quot; and &quot;inhuman&quot;.",
+    "dlc": [
+      3204700,
+      3210610
+    ],
+    "short_description": "Boyhood's End is an adventure horror game following Giovanni, the boy with the lowest human score in the universe, and Campenella, the delinquent genius, and their journey on the galactic railroad regarding the &quot;human&quot; and &quot;inhuman&quot;.",
     "supported_languages": "English, Simplified Chinese, Japanese, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403290/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403290/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2403290/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403290/header.jpg?t=1726650060",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403290/6d3e9f952c46d2c4f285ff579899591b1938c6c2/capsule_231x87.jpg?t=1726650060",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403290/6d3e9f952c46d2c4f285ff579899591b1938c6c2/capsule_184x69.jpg?t=1726650060",
     "website": null,
     "developers": [
       "WSS playground",
@@ -2747,9 +2750,22 @@
     ],
     "publishers": [
       "WSS playground",
-      "PLAYISM"
+      "Alliance Arts"
     ],
-    "package_groups": [],
+    "packages": [
+      864682
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Boyhood's End",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2757,25 +2773,48 @@
     },
     "categories": [
       2,
-      28
+      62
     ],
     "genres": [
       25,
       70
     ],
+    "achievements": {
+      "total": 48
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2023"
+      "coming_soon": false,
+      "date": "5 Sep, 2024"
     },
     "support_info": {
-      "url": "https://playism.com/contact/consumer/",
+      "url": "info@wss.tokyo",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2403290/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2403290/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403290/page_bg_generated_v6b.jpg?t=1726650060",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403290/page.bg.jpg?t=1726650060",
     "content_descriptors": {
-      "ids": [],
+      "ids": [
+        5
+      ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nMedo\nAtos criminosos"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2405880": {
@@ -4331,17 +4370,17 @@
     "steam_appid": 2404880,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Invest in cars, hire employees, and surprise your customers with new services. Strategize your offers and negotiate wisely to build the car buying and selling empire of your dreams. From a simple mechanic to a car dealership owner, the sky's the limit for how far you can take your business.",
+    "short_description": "Uncover a goldmine in the used car market! Sniff out deals, buy low, modify, and sell high. Your journey from amateur grease monkey to car dealer magnate awaits. How fast will you rise in this lucrative venture?",
     "supported_languages": "English<strong>*</strong>, Polish, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2404880/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2404880/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2404880/capsule_184x69.jpg",
-    "website": "https://www.2stepsgames.com",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2404880/header.jpg?t=1733218178",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2404880/capsule_231x87.jpg?t=1733218178",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2404880/capsule_184x69.jpg?t=1733218178",
+    "website": null,
     "developers": [
-      "2steps Games"
+      "Garage Monkeys"
     ],
     "publishers": [
-      "Forestlight Games"
+      "Garage Monkeys"
     ],
     "package_groups": [],
     "platforms": {
@@ -4360,17 +4399,35 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "Q1 2025"
     },
     "support_info": {
       "url": "",
-      "email": "office@forestlightgames.com"
+      "email": "office@garagemonkeys.games"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2404880/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2404880/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2404880/page_bg_generated_v6b.jpg?t=1733218178",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2404880/page.bg.jpg?t=1733218178",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2403304": {
@@ -5424,26 +5481,25 @@
   },
   "2405470": {
     "type": "demo",
-    "name": "IDUN Demo",
+    "name": "IDUN Demo - Frontline Control Game: Move/Hold/Push",
     "steam_appid": 2405470,
     "required_age": 0,
     "is_free": true,
-    "controller_support": "full",
-    "short_description": "Explosive singleplayer action RTS with a story campaign. Hold the line against massive swarms on a fully simulated battlefield.",
+    "short_description": "A defense RTS where you can move turrets at will. Extract resources, upgrade technology, and defend against enemy swarms in a gripping space campaign. Hold the line, set up your turrets, and brace for screen-filling hordes!",
     "fullgame": {
       "appid": "2186360",
-      "name": "IDUN"
+      "name": "IDUN - Frontline Survival"
     },
-    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2405470/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2405470/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2405470/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2405470/header.jpg?t=1730800650",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2405470/capsule_231x87.jpg?t=1730800650",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2405470/capsule_184x69.jpg?t=1730800650",
     "website": "https://www.idungame.com/",
     "developers": [
       "IDUN Interactive"
     ],
     "publishers": [
-      "IDUN Interactive"
+      "Surefire.Games"
     ],
     "package_groups": [],
     "platforms": {
@@ -5454,8 +5510,12 @@
     "categories": [
       2,
       10,
+      23
+    ],
+    "genres": [
+      2,
       23,
-      28
+      25
     ],
     "release_date": {
       "coming_soon": false,
@@ -5465,11 +5525,29 @@
       "url": "",
       "email": "contact@idungame.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2405470/page_bg_generated_v6b.jpg?t=1730800650",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2405470/page.bg.jpg?t=1730800650",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2403936": {
@@ -11825,19 +11903,42 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
+    "dlc": [
+      2558590
+    ],
     "short_description": "After tens of thousands of years, the ancient weapon Holly awakens, starting her revenge against humanity. Experience the strategy of creating pitfalls to trap enemies and the exhilaration of burying them alive. Dive into intense combat!",
     "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Polish, Simplified Chinese, Japanese, Traditional Chinese, Italian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403260/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403260/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2403260/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403260/header.jpg?t=1729484424",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403260/capsule_231x87.jpg?t=1729484424",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403260/capsule_184x69.jpg?t=1729484424",
+    "website": "https://www.acquire.co.jp/holly/",
     "developers": [
       "ACQUIRE Corp."
     ],
     "publishers": [
+      "Aniplex Inc.",
       "ACQUIRE Corp."
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2569230,
+        "description": ""
+      }
+    ],
+    "packages": [
+      864673
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ancient Weapon Holly",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -11847,25 +11948,47 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       2
     ],
+    "achievements": {
+      "total": 24
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Mar, 2024"
     },
     "support_info": {
-      "url": "https://www.acquire.co.jp/support/",
+      "url": "https://www.aniplex.co.jp/support/consumer/#/index",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2403260/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2403260/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403260/page_bg_generated_v6b.jpg?t=1729484424",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403260/page.bg.jpg?t=1729484424",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2404570": {
@@ -12806,12 +12929,12 @@
     "is_free": true,
     "short_description": "\u300a\u51ac\u65e5\u6811\u4e0b\u7684\u56de\u5fc6\u300b\u662f\u75312\u4f4d\u7231\u597d\u8005\u7ec4\u6210\u7684\u793e\u56e2\u201c12PM\u201d\u9996\u6b21\u53d1\u5e03\u7684\u514d\u8d39\u539f\u521b\u89c6\u89c9\u5c0f\u8bf4\uff1a \u6211\u7684\u68a6\u60f3\u662f\u6210\u4e3a\u4e00\u540d\u6559\u5e08\u6216\u8005\u533b\u751f\uff0c\u5728\u5b66\u4e1a\u7ed3\u675f\u540e\u6211\u6536\u5230\u4e86\u6765\u81ea\u533b\u9662\u7684\u7b2c\u4e00\u4efd\u5de5\u4f5c\u5b9e\u4e60\u90ae\u4ef6\u3002\u5728\u8fd9\u6240\u533b\u9662\u91cc\u6211\u5c06\u62c5\u4efb\u5b9e\u4e60\u6cbb\u7597\u5e08\uff08sensei\uff09\u7684\u5de5\u4f5c\uff0c\u800c\u6211\u8d1f\u8d23\u7684\u662f\u4e00\u4f4d\u53eb\u201c\u8a00\u53f6\u201d\u7684\u5973\u5b69\u3002 \u5728\u7167\u987e\u8a00\u53f6\u4e00\u5e74\u4e4b\u540e\u7ec8\u4e8e\u9a6c\u4e0a\u8981\u8fce\u6765\u4e86\u51fa\u9662\u7684\u65e5\u5b50\uff0c\u4f46\u662f\u5728\u67d0\u665a\u6211\u5374\u542c\u5230\u4e86\u6709\u5173\u201d\u5929\u4f7f\u201c\u7684\u5947\u602a\u5bf9\u8bdd\uff0c\u4e3a\u4e86\u5e2e\u52a9\u201c\u8a00\u53f6\u201d\u6211\u5f00\u59cb\u5bfb\u627e\u4e8b\u60c5\u80cc\u540e\u7684\u771f\u76f8\u2026\u2026",
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403320/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2403320/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2403320/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403320/header.jpg?t=1734115638",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403320/capsule_231x87.jpg?t=1734115638",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403320/capsule_184x69.jpg?t=1734115638",
     "website": null,
     "developers": [
-      "12PM"
+      "MagicaLuv"
     ],
     "publishers": [
       "\u9ece\u7fbd\u79d1\u6280"
@@ -12835,13 +12958,31 @@
     },
     "support_info": {
       "url": "",
-      "email": "asumia@foxmail.com"
+      "email": "gamesupport@gklgame.email"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2403320/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2403320/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403320/page_bg_generated_v6b.jpg?t=1734115638",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403320/page.bg.jpg?t=1734115638",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2403220": {

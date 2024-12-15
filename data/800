@@ -145,18 +145,19 @@
   },
   "2400700": {
     "type": "game",
-    "name": "\ube44\uac00 \uc624\uae30 \uc2dc\uc791\ud588\uc9c0\ub9cc, \ub099\uc5fd\uc740 \uc774\ubbf8 \uc816\uc5b4\uc788\uc5c8\ub2e4",
+    "name": "Beginning of the Rain",
     "steam_appid": 2400700,
     "required_age": 0,
     "is_free": false,
     "dlc": [
-      2402480
+      2402480,
+      2755080
     ],
-    "short_description": "&quot;Beginning of the Rain&quot; is a visual Novel simulation game based on emotional illustrations and OSTs. I tell you a lot of efforts to spend the time of youth more beautifully, and various stories that take place in it.",
-    "supported_languages": "Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400700/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400700/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2400700/capsule_184x69.jpg",
+    "short_description": "&quot;Beginning of the Rain&quot; is a Visual Novel Simulation Game based on colorful illustrations and rich OSTs. It tells you the stories about many thing you can feel only as a student.",
+    "supported_languages": "Korean<strong>*</strong>, English<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400700/header.jpg?t=1717954788",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400700/capsule_231x87.jpg?t=1717954788",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400700/capsule_184x69.jpg?t=1717954788",
     "website": "https://www.hoondahl.com",
     "developers": [
       "HOONDAHL Media Studio"
@@ -170,14 +171,29 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      863705
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Beginning of the Rain",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      23,
+      62
     ],
     "genres": [
       4,
@@ -185,18 +201,36 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "23 Dec, 2023"
     },
     "support_info": {
       "url": "https://www.hoondahl.com/",
-      "email": "support@hoondahl.com"
+      "email": "hoondahl@outlook.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2400700/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2400700/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400700/page_bg_generated_v6b.jpg?t=1717954788",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400700/page.bg.jpg?t=1717954788",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Derbe Sprache"
+      }
     }
   },
   "2402360": {
@@ -2158,11 +2192,15 @@
     "steam_appid": 2402280,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Save the living earth with Rage and spirit! Awaken ancient mysteries, rebuild your fallen pack, and unleash your fearsome might to heal a shattered land. A text-based interactive novel set in the World of Darkness.",
+    "dlc": [
+      3200880,
+      2861970
+    ],
+    "short_description": "Save the living earth with Rage and spirit! Can your shattered werewolf pack defeat a Wyrm Spirit that manifests as a lie that you want to believe?",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402280/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402280/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402280/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402280/header.jpg?t=1734034965",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402280/capsule_231x87.jpg?t=1734034965",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402280/capsule_184x69.jpg?t=1734034965",
     "website": "https://www.choiceofgames.com/world-of-darkness/book-of-hungry-names",
     "developers": [
       "Choice of Games"
@@ -2170,7 +2208,26 @@
     "publishers": [
       "Choice of Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2402290,
+        "description": ""
+      }
+    ],
+    "packages": [
+      864293
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Werewolf: The Apocalypse \u2014 The Book of Hungry Names",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -2179,7 +2236,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       3,
@@ -2187,19 +2245,43 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 54
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2023"
+      "coming_soon": false,
+      "date": "25 Apr, 2024"
     },
     "support_info": {
       "url": "https://www.choiceofgames.com/contact-us/",
       "email": "support-bookofhungrynames-steam@choiceofgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402280/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402280/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402280/page_bg_generated_v6b.jpg?t=1734034965",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402280/page_bg_generated.jpg?t=1734034965",
     "content_descriptors": {
-      "ids": [],
-      "notes": null
+      "ids": [
+        2,
+        5
+      ],
+      "notes": "This game contains graphic descriptions of violence, sex, and trauma, including traumas to bodies and souls. It\u2019s text-based, and there\u2019s no visual depiction of blood or gore, but the text is visceral. It tells a story that is meant to be monstrous, but do not mistake it for an excuse to be a monster yourself."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nConte\u00fado sexual\nDrogas il\u00edcitas"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2401640": {
@@ -5195,15 +5277,15 @@
   },
   "2400550": {
     "type": "game",
-    "name": "Volumiq : Community Edition",
+    "name": "Neighborhood",
     "steam_appid": 2400550,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Design your home improvement projects with ease ! Share your creations on the Workshop or download content created by the community.",
+    "short_description": "Dive into a world of creativity and freedom where you can build, customize, and decorate the home of your dreams. Build houses for people, watch them settle in your neighborhood.",
     "supported_languages": "English, French",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400550/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400550/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2400550/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400550/header.jpg?t=1722430444",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400550/capsule_231x87.jpg?t=1722430444",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400550/capsule_184x69.jpg?t=1722430444",
     "website": "https://volumiq.com/",
     "developers": [
       "VOLUMIQ Software SAS"
@@ -5217,7 +5299,7 @@
     "package_groups": [
       {
         "name": "default",
-        "title": "Buy Volumiq : Community Edition",
+        "title": "Buy Neighborhood",
         "description": "",
         "selection_text": "Select a purchase option",
         "save_text": "",
@@ -5230,6 +5312,9 @@
       "mac": false,
       "linux": false
     },
+    "categories": [
+      62
+    ],
     "genres": [
       4,
       23,
@@ -5244,12 +5329,13 @@
       "url": "",
       "email": "contact@volumiq-software.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2400550/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2400550/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400550/page_bg_generated_v6b.jpg?t=1722430444",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400550/page.bg.jpg?t=1722430444",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2402040": {
     "type": "dlc",
@@ -5639,9 +5725,9 @@
     "is_free": false,
     "short_description": "A fantasy topdown multiplayer RPG. Features a combination of 8 races and 6 classes. Explore new lands, trade with villages, upgrade runes, unlock new spells, craft, and more! Team with your friends to raid dungeons for special hidden rewards. Defend Dimraeth and choose your own destiny.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/header.jpg?t=1733481044",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/capsule_231x87.jpg?t=1733481044",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/capsule_184x69.jpg?t=1733481044",
     "website": "http://www.mudtek.dev",
     "developers": [
       "Mudtek LLC"
@@ -5677,11 +5763,29 @@
       "url": "http://www.mudtek.dev",
       "email": "Joseph@mudtek.dev"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402680/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/page_bg_generated_v6b.jpg?t=1733481044",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/page.bg.jpg?t=1733481044",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2402720": {
@@ -6154,13 +6258,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402430/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2402430/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2402430/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402430/header.jpg?t=1693439125",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402430/capsule_231x87.jpg?t=1693439125",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402430/capsule_184x69.jpg?t=1693439125",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -6175,12 +6276,13 @@
       "url": "",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2402430/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2402430/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402430/page_bg_generated_v6b.jpg?t=1693439125",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402430/page_bg_generated.jpg?t=1693439125",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2401410": {
     "type": "game",
@@ -7133,23 +7235,18 @@
     "steam_appid": 2401910,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Dart Racer is an immersive VR arcade racing game set in a futuristic galaxy obsessed with speed. Master the intuitive controls, fine-tune your dart, and compete in thrilling races across a variety of strange environments.",
+    "controller_support": "full",
+    "short_description": "Dart Racer is an arcade racing game set in a futuristic galaxy obsessed with speed. Master the intuitive controls, fine-tune your dart, and compete in thrilling races across a variety of alien environments",
     "supported_languages": "English, Polish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401910/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2401910/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2401910/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401910/header.jpg?t=1734129961",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401910/185a2981a3b158e3c51c9e0c2b8eb99780baa233/capsule_231x87.jpg?t=1734129961",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401910/185a2981a3b158e3c51c9e0c2b8eb99780baa233/capsule_184x69.jpg?t=1734129961",
     "website": null,
     "developers": [
       "LubSoft"
     ],
     "publishers": [
       "LubSoft"
-    ],
-    "demos": [
-      {
-        "appid": 2532710,
-        "description": ""
-      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7159,10 +7256,12 @@
     },
     "categories": [
       2,
+      28,
       52,
-      54
+      53
     ],
     "genres": [
+      1,
       9,
       23,
       70
@@ -7175,11 +7274,29 @@
       "url": "",
       "email": "support@piotrjastrzebski.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2401910/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2401910/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401910/page_bg_generated_v6b.jpg?t=1734129961",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401910/page_bg_generated.jpg?t=1734129961",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2400290": {
