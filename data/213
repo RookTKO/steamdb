@@ -5002,7 +5002,7 @@
     "type": "dlc",
     "name": "Arma 3 Malden",
     "steam_appid": 639600,
-    "required_age": 0,
+    "required_age": "17",
     "is_free": false,
     "short_description": "Welcome back to Malden, soldier! This is where we started our amazing journey with the Arma franchise sixteen years ago. We hope you'll enjoy this re-imagination of Malden.",
     "fullgame": {
@@ -5010,15 +5010,12 @@
       "name": "Arma 3"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Czech, Polish, Portuguese - Brazil, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/639600/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/639600/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/639600/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639600/header.jpg?t=1687259698",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639600/capsule_231x87.jpg?t=1687259698",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639600/capsule_184x69.jpg?t=1687259698",
     "website": "http://www.arma3.com",
     "developers": [
       "Bohemia Interactive"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       31539
@@ -5066,11 +5063,27 @@
       "url": "http://arma3.com/faq",
       "email": "support@bohemia.net"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/639600/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/639600/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639600/page_bg_generated_v6b.jpg?t=1687259698",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639600/page_bg_generated.jpg?t=1687259698",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Intense Violence\r\nBlood\r\nStrong Language",
+        "display_online_notice": "true",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Bad Language\r\nViolence\r\nOnline Gameplay"
+      },
+      "usk": {
+        "rating": "16"
+      }
     }
   },
   "639370": {

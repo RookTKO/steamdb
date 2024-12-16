@@ -534,12 +534,11 @@
     "steam_appid": 394030,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
     "short_description": "Trigonarium is a hardcore twin-stick shooter for fans of challenging arcade gaming. Fight your way through multitudes of enemy formations in constantly shifting battle arenas to face the colossal level bosses.",
     "supported_languages": "English, Finnish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/394030/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/394030/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/394030/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394030/header.jpg?t=1731563702",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394030/capsule_231x87.jpg?t=1731563702",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394030/capsule_184x69.jpg?t=1731563702",
     "website": "http://www.gimblll.com",
     "developers": [
       "Kimmo Lahtinen"
@@ -570,14 +569,15 @@
       1,
       2,
       9,
+      18,
       22,
       23,
       24,
       25,
-      28,
       29,
       39,
-      44
+      44,
+      62
     ],
     "genres": [
       1,
@@ -594,11 +594,29 @@
       "url": "http://www.gimblll.com",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/394030/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/394030/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394030/page_bg_generated_v6b.jpg?t=1731563702",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394030/page.bg.jpg?t=1731563702",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "395441": {
@@ -2417,7 +2435,7 @@
     "type": "dlc",
     "name": "Arma 3 Apex",
     "steam_appid": 395180,
-    "required_age": 0,
+    "required_age": "17",
     "is_free": false,
     "short_description": "Enlist for active duty in a brand new warzone with Arma 3 Apex. With the new 100 km\u00b2 South Pacific environment Tanoa, 13 weapons, 10 vehicles, a new faction, a co-op campaign, Arma 3 Apex introduces fresh opportunities for all combat operations. This is the PC\u2019s premier military game at its finest.",
     "fullgame": {
@@ -2425,9 +2443,9 @@
       "name": "Arma 3"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Czech, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/395180/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/395180/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/395180/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395180/header.jpg?t=1687258131",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395180/capsule_231x87.jpg?t=1687258131",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395180/capsule_184x69.jpg?t=1687258131",
     "website": "https://arma3.com/apex",
     "developers": [
       "Bohemia Interactive"
@@ -2489,11 +2507,27 @@
       "url": "http://arma3.com/faq",
       "email": "support@bohemia.net"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/395180/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/395180/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395180/page_bg_generated_v6b.jpg?t=1687258131",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395180/page_bg_generated.jpg?t=1687258131",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Intense Violence\r\nBlood\r\nStrong Language",
+        "display_online_notice": "true",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Bad Language\r\nViolence\r\nOnline Gameplay"
+      },
+      "usk": {
+        "rating": "16"
+      }
     }
   },
   "393950": {
@@ -5124,9 +5158,9 @@
     "controller_support": "full",
     "short_description": "In this near-future world where Roe v. Wade has been overturned, an abortionist turned pro-life crusader hides dark secrets in his cabin in the woods.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/394930/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/394930/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/394930/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394930/header.jpg?t=1551228034",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394930/capsule_231x87.jpg?t=1551228034",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394930/capsule_184x69.jpg?t=1551228034",
     "website": "http://goneoffdeep.com/godswork/",
     "developers": [
       "Gone Off Deep"
@@ -5152,11 +5186,18 @@
       "url": "",
       "email": "films@devolverdigital.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/394930/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/394930/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394930/page_bg_generated_v6b.jpg?t=1551228034",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394930/page_bg_generated.jpg?t=1551228034",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "video": {
+        "descriptors": "Adult Content \r\nAdult Language\r\nViolence\r\nGraphic Violence",
+        "use_age_gate": "true",
+        "required_age": "14"
+      }
     }
   },
   "395860": {
@@ -7232,9 +7273,9 @@
     "is_free": false,
     "short_description": "Go on an exciting journey in the 14th century of Florence, an amazing city struck by a mysterious disease. The story is brimming with fascinating characters, historical events and captivating locations. History is yours to explore.",
     "supported_languages": "English<strong>*</strong>, Danish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/395920/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/395920/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/395920/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395920/header.jpg?t=1686169743",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395920/capsule_231x87.jpg?t=1686169743",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395920/capsule_184x69.jpg?t=1686169743",
     "website": null,
     "developers": [
       "Serious Games Interactive"
@@ -7264,7 +7305,8 @@
     "categories": [
       2,
       22,
-      29
+      29,
+      62
     ],
     "genres": [
       4,
@@ -7282,11 +7324,29 @@
       "url": "",
       "email": "bf3origin3@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/395920/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/395920/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395920/page_bg_generated_v6b.jpg?t=1686169743",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/395920/page.bg.jpg?t=1686169743",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "395160": {
