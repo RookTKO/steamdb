@@ -469,9 +469,9 @@
     "controller_support": "full",
     "short_description": "Embrace the excitement of the world's favorite sport in Sociable Soccer 25. Created by legendary game designer Jon Hare, Sociable Soccer 25 features his signature fast-paced, arcade-style and intuitive gameplay, enriched with multiplayer head-to-head matches and collectible player cards.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/header.jpg?t=1730374528",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/24d6aff887954a0355d3d1434647ed6ae84b7439/capsule_231x87.jpg?t=1730374528",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/24d6aff887954a0355d3d1434647ed6ae84b7439/capsule_184x69.jpg?t=1730374528",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/header.jpg?t=1732699826",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/24d6aff887954a0355d3d1434647ed6ae84b7439/capsule_231x87.jpg?t=1732699826",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/24d6aff887954a0355d3d1434647ed6ae84b7439/capsule_184x69.jpg?t=1732699826",
     "website": "https://www.sociablesoccer.com",
     "developers": [
       "Amuzo Games",
@@ -480,7 +480,20 @@
     "publishers": [
       "Tower Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1136345
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Sociable Soccer 25",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -495,21 +508,25 @@
       36,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       18
     ],
+    "achievements": {
+      "total": 33
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "14 Nov, 2024"
     },
     "support_info": {
       "url": "https://www.sociablesoccer.com/contact",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/page_bg_generated_v6b.jpg?t=1730374528",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/page.bg.jpg?t=1730374528",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/page_bg_generated_v6b.jpg?t=1732699826",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204590/page.bg.jpg?t=1732699826",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -745,15 +762,21 @@
     "controller_support": "full",
     "short_description": "In this chaotic up to 4 players online cooking game, race to complete recipes while sabotaging your friends! Stun, slow, or distract opponents as you cook, earning bonus points from chefs and boosting your TV rating through creative mayhem. Can you handle the heat?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/header.jpg?t=1731054211",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/6f3fae55dc8fa87a37f4497b5a6a87ec6e810a12/capsule_231x87.jpg?t=1731054211",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/6f3fae55dc8fa87a37f4497b5a6a87ec6e810a12/capsule_184x69.jpg?t=1731054211",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/header.jpg?t=1731356673",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/6f3fae55dc8fa87a37f4497b5a6a87ec6e810a12/capsule_231x87.jpg?t=1731356673",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/6f3fae55dc8fa87a37f4497b5a6a87ec6e810a12/capsule_184x69.jpg?t=1731356673",
     "website": null,
     "developers": [
       "Strive Games"
     ],
     "publishers": [
       "Strive Games"
+    ],
+    "demos": [
+      {
+        "appid": 3333290,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -784,8 +807,8 @@
       "url": "https://www.linkedin.com/in/sarptolga/",
       "email": "chefbrawl1@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/page_bg_generated_v6b.jpg?t=1731054211",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/page.bg.jpg?t=1731054211",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/page_bg_generated_v6b.jpg?t=1731356673",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204850/page.bg.jpg?t=1731356673",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1208,9 +1231,9 @@
     "controller_support": "full",
     "short_description": "How far can you go up? Play rock, paper, and scissors while riding an elevator with no maximum floor.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Indonesian, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/header.jpg?t=1730392225",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/8699c8e4f9e34444b99ca901592e5139e8b0de04/capsule_231x87.jpg?t=1730392225",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/8699c8e4f9e34444b99ca901592e5139e8b0de04/capsule_184x69.jpg?t=1730392225",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/header.jpg?t=1731702354",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/8699c8e4f9e34444b99ca901592e5139e8b0de04/capsule_231x87.jpg?t=1731702354",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/8699c8e4f9e34444b99ca901592e5139e8b0de04/capsule_184x69.jpg?t=1731702354",
     "website": "https://jankenup.com",
     "developers": [
       "Humita Games"
@@ -1218,7 +1241,21 @@
     "publishers": [
       "Humita Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1136701,
+      1189498
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy JanKenUP!",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1231,23 +1268,27 @@
       24,
       28,
       39,
-      44
+      44,
+      62
     ],
     "genres": [
       2,
       4,
       23
     ],
+    "achievements": {
+      "total": 29
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "15 Nov, 2024"
     },
     "support_info": {
       "url": "https://jankenup.com/contact",
       "email": "contact@humitagames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/page_bg_generated_v6b.jpg?t=1730392225",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/page_bg_generated.jpg?t=1730392225",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/page_bg_generated_v6b.jpg?t=1731702354",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205560/page_bg_generated.jpg?t=1731702354",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1611,9 +1652,9 @@
     "is_free": false,
     "short_description": "An epic story unfolds in a medieval Celtic fantasy world. Branching story paths, and tough choices about who to take with you and who to leave behind will ensure replayability. Tactical squad-level combat.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/header.jpg?t=1731099007",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/ac5320a409e17e039e3755ad0cdd53c01130a546/capsule_231x87.jpg?t=1731099007",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/ac5320a409e17e039e3755ad0cdd53c01130a546/capsule_184x69.jpg?t=1731099007",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/header.jpg?t=1731429792",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/56435248995ffbb4246f85dcc6655f5cc1639e6a/capsule_231x87.jpg?t=1731429792",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/56435248995ffbb4246f85dcc6655f5cc1639e6a/capsule_184x69.jpg?t=1731429792",
     "website": null,
     "developers": [
       "Gilligames"
@@ -1644,8 +1685,8 @@
       "url": "",
       "email": "support@gilligames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/page_bg_generated_v6b.jpg?t=1731099007",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/page.bg.jpg?t=1731099007",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/page_bg_generated_v6b.jpg?t=1731429792",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206020/page.bg.jpg?t=1731429792",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1677,9 +1718,9 @@
     "is_free": false,
     "short_description": "In After School Cure (Adventure Game / Visual Novel) play as the spirit Kimiko, and recruit a new member to the spirits living in the school.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/header.jpg?t=1730966793",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/2d475e892c12158b55906ce39b8b5a131da5f89e/capsule_231x87.jpg?t=1730966793",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/2d475e892c12158b55906ce39b8b5a131da5f89e/capsule_184x69.jpg?t=1730966793",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/header.jpg?t=1732065688",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/2d475e892c12158b55906ce39b8b5a131da5f89e/capsule_231x87.jpg?t=1732065688",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/2d475e892c12158b55906ce39b8b5a131da5f89e/capsule_184x69.jpg?t=1732065688",
     "website": null,
     "developers": [
       "Pat Reilly"
@@ -1707,8 +1748,8 @@
       "url": "",
       "email": "support@kasabot.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/page_bg_generated_v6b.jpg?t=1730966793",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/page_bg_generated.jpg?t=1730966793",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/page_bg_generated_v6b.jpg?t=1732065688",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206100/page_bg_generated.jpg?t=1732065688",
     "content_descriptors": {
       "ids": [
         5
@@ -1742,9 +1783,9 @@
     "is_free": false,
     "short_description": "Humans are imprisoned on a platform filled with evolved creatures. Scientists investigate that the creatures feed on fear. Are you ready to survive and face your dark fears?",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Simplified Chinese, Portuguese - Brazil, Bulgarian, Danish, Indonesian, Dutch, Finnish, Traditional Chinese, Japanese, Korean, Spanish - Latin America, Polish, Hungarian, Norwegian, Portuguese - Portugal, Romanian, Russian, Thai, Turkish, Ukrainian, Vietnamese, Greek, Czech, Swedish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/header.jpg?t=1730628456",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/fdc4f0a2407ae2fe688a39821433b4704069fd4a/capsule_231x87.jpg?t=1730628456",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/fdc4f0a2407ae2fe688a39821433b4704069fd4a/capsule_184x69.jpg?t=1730628456",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/header.jpg?t=1731190927",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/fdc4f0a2407ae2fe688a39821433b4704069fd4a/capsule_231x87.jpg?t=1731190927",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/fdc4f0a2407ae2fe688a39821433b4704069fd4a/capsule_184x69.jpg?t=1731190927",
     "website": null,
     "developers": [
       "METAGAR"
@@ -1753,7 +1794,8 @@
       "METAGAR"
     ],
     "packages": [
-      1136919
+      1136919,
+      1186362
     ],
     "package_groups": [
       {
@@ -1788,8 +1830,8 @@
       "url": "",
       "email": "metagar.official@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/page_bg_generated_v6b.jpg?t=1730628456",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/page.bg.jpg?t=1730628456",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/page_bg_generated_v6b.jpg?t=1731190927",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206240/page.bg.jpg?t=1731190927",
     "content_descriptors": {
       "ids": [
         2,
@@ -1828,9 +1870,9 @@
       "name": "\u5343\u91cc\u6c5f\u5c71\u62fc\u62fc\u4e50"
     },
     "supported_languages": "Simplified Chinese, English, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/header.jpg?t=1730997129",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/b8fe5c13393b77a8c0d817aeab431ecc3b2e42d6/capsule_231x87.jpg?t=1730997129",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/b8fe5c13393b77a8c0d817aeab431ecc3b2e42d6/capsule_184x69.jpg?t=1730997129",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/header.jpg?t=1733810551",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/3c4d5fd4e1729330dec0a7619564220f9d0fb558/capsule_231x87.jpg?t=1733810551",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/3c4d5fd4e1729330dec0a7619564220f9d0fb558/capsule_184x69.jpg?t=1733810551",
     "website": null,
     "developers": [
       "\u5317\u6597\u5317\u5de5\u4f5c\u5ba4"
@@ -1861,8 +1903,8 @@
       "url": "",
       "email": "Hexa7@foxmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/page_bg_generated_v6b.jpg?t=1730997129",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/page.bg.jpg?t=1730997129",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/page_bg_generated_v6b.jpg?t=1733810551",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206330/page.bg.jpg?t=1733810551",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1894,9 +1936,9 @@
     "is_free": false,
     "short_description": "Clicker game played at the bottom of the screen. A village chief is lost on the road after his village is destroyed by demons. The lord of the village gives him an order to open up a new frontier and cultivate the land. The village chief's hell of endless cultivation begins.",
     "supported_languages": "English, Japanese, French, Italian, Simplified Chinese, Traditional Chinese, Korean, German",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/header.jpg?t=1730989473",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/1146f4c0d6bd7d12293a9789f5b6d4a9b9a924e4/capsule_231x87.jpg?t=1730989473",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/1146f4c0d6bd7d12293a9789f5b6d4a9b9a924e4/capsule_184x69.jpg?t=1730989473",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/header.jpg?t=1731362415",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/1146f4c0d6bd7d12293a9789f5b6d4a9b9a924e4/capsule_231x87.jpg?t=1731362415",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/1146f4c0d6bd7d12293a9789f5b6d4a9b9a924e4/capsule_184x69.jpg?t=1731362415",
     "website": "https://www.winglay.com/",
     "developers": [
       "WINGLAY"
@@ -1910,7 +1952,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1137003
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Pioneer Clicker",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1920,23 +1975,27 @@
       2,
       22,
       23,
-      25
+      25,
+      62
     ],
     "genres": [
       2,
       4,
       28
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Nov, 2024"
     },
     "support_info": {
       "url": "https://www.winglay.com/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/page_bg_generated_v6b.jpg?t=1730989473",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/page_bg_generated.jpg?t=1730989473",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/page_bg_generated_v6b.jpg?t=1731362415",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206490/page_bg_generated.jpg?t=1731362415",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1972,9 +2031,9 @@
       "name": "WindStop Strategy"
     },
     "supported_languages": "English, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/header.jpg?t=1730366254",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/32c85525102a7e2c9a73524c3116113862ce6350/capsule_231x87.jpg?t=1730366254",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/32c85525102a7e2c9a73524c3116113862ce6350/capsule_184x69.jpg?t=1730366254",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/header.jpg?t=1733715749",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/32c85525102a7e2c9a73524c3116113862ce6350/capsule_231x87.jpg?t=1733715749",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/32c85525102a7e2c9a73524c3116113862ce6350/capsule_184x69.jpg?t=1733715749",
     "website": null,
     "developers": [
       "Xia Start"
@@ -2005,8 +2064,8 @@
       "url": "",
       "email": "zhidaxia@xiastart.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/page_bg_generated_v6b.jpg?t=1730366254",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/page_bg_generated.jpg?t=1730366254",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/page_bg_generated_v6b.jpg?t=1733715749",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206520/page_bg_generated.jpg?t=1733715749",
     "content_descriptors": {
       "ids": [],
       "notes": null

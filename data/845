@@ -827,11 +827,14 @@
     "steam_appid": 2537750,
     "required_age": 0,
     "is_free": true,
-    "short_description": "A boy regains his hope and a girl finds herself in solitude. A kinetic novel telling the stories of two young adults overcoming their darkest days.",
+    "dlc": [
+      2854890
+    ],
+    "short_description": "A boy regains his hope and a girl finds herself in solitude. A kinetic novel that will take you through their darkest days and immerse you in their deepest emotions.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537750/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537750/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2537750/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537750/header.jpg?t=1731531332",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537750/capsule_231x87.jpg?t=1731531332",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537750/capsule_184x69.jpg?t=1731531332",
     "website": "https://violethorizons.com/",
     "developers": [
       "Violet Horizons Productions"
@@ -842,31 +845,53 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": true
     },
     "categories": [
-      2
+      2,
+      22
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 3
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2023"
+      "coming_soon": false,
+      "date": "23 Feb, 2024"
     },
     "support_info": {
       "url": "",
       "email": "support@violethorizons.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2537750/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2537750/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537750/page_bg_generated_v6b.jpg?t=1731531332",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537750/page_bg_generated.jpg?t=1731531332",
     "content_descriptors": {
       "ids": [
         5
       ],
-      "notes": "Contains dark themes including depression, anxiety, self-harm and suicidal thoughts."
+      "notes": "This VN contains themes that may be distressing to many individuals, including:\r\n\r\n- Depression\r\n- Anxiety\r\n- Suicidal Thoughts\r\n- Self Harm\r\n- Substance Abuse\r\n- Drug Overdose"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nTemas sens\u00edveis\nDrogas il\u00edcitas"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2536890": {
@@ -3305,12 +3330,14 @@
     "steam_appid": 2536710,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
+    "dlc": [
+      3366820
+    ],
     "short_description": "Embark on an epic journey in Absence of Light, an enchanting Action RPG set in the mesmerizing world of Cloudia. Unleash devastating attacks, uncover hidden secrets, and save the realm from darkness! Join the gaming community, master formidable combos, and claim your heroic destiny.",
-    "supported_languages": "English<strong>*</strong>, Italian, Spanish - Spain, Simplified Chinese, Traditional Chinese, Danish, Spanish - Latin America, Greek, Dutch, Hungarian, Japanese, Norwegian, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Swedish, Thai, Czech, Turkish, Ukrainian, Vietnamese, Arabic, French, German, Bulgarian, Korean, Finnish, Polish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2536710/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2536710/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2536710/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Portuguese - Brazil, Russian, Arabic, Greek, Indonesian, Romanian, Thai, Turkish, Vietnamese, Danish, Finnish, Dutch, Norwegian, Polish, Swedish, Czech, Ukrainian, Bulgarian, Spanish - Latin America, Hungarian, Portuguese - Portugal<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536710/header.jpg?t=1734419731",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536710/9ed38a91457bbfa7d1525fb4e569aed1cec9f70f/capsule_231x87.jpg?t=1734419731",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536710/9ed38a91457bbfa7d1525fb4e569aed1cec9f70f/capsule_184x69.jpg?t=1734419731",
     "website": "https://www.youtube.com/@BoaNoiteStudio/videos",
     "developers": [
       "Boa Noite"
@@ -3318,7 +3345,20 @@
     "publishers": [
       "Boa Noite"
     ],
-    "package_groups": [],
+    "packages": [
+      911500
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Absence of Light",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3326,28 +3366,49 @@
     },
     "categories": [
       2,
-      28
+      18,
+      62
     ],
     "genres": [
       1,
       3,
       23,
-      25,
-      70
+      25
     ],
+    "achievements": {
+      "total": 10
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "9 Nov, 2024"
     },
     "support_info": {
       "url": "",
       "email": "techrevolutionbr@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2536710/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2536710/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536710/page_bg_generated_v6b.jpg?t=1734419731",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536710/page_bg_generated.jpg?t=1734419731",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2537770": {
@@ -7544,18 +7605,18 @@
     "name": "Vultures - Scavengers of Death",
     "steam_appid": 2537470,
     "required_age": 0,
-    "is_free": true,
-    "short_description": "Face zombies and fearsome monsters in this turn-based survival-horror roguelike as you seek the path to recover a valuable artifact. Unravel the history of Salento Valley and its downfall after a bioterrorist attack led by a secret cult involved with the powerful corporation Eugenesys Tech.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537470/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537470/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2537470/capsule_184x69.jpg",
-    "website": "https://www.backerkit.com/call_to_action/b26640ef-acfb-4c12-aa77-0974e818804e/landing",
+    "is_free": false,
+    "short_description": "Face down the twisted monsters of a 90's survival game inspired world in this tactical turn-based survival horror. As an operative of VULTURES, scavenge the infested metropolis for materials and information that could cure the infection plaguing the world.",
+    "supported_languages": "English, Spanish - Latin America, Portuguese - Brazil, Simplified Chinese, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537470/header.jpg?t=1733757515",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537470/d341db14d5e20ce9fef3e676d4f9c810af5d2be5/capsule_231x87.jpg?t=1733757515",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537470/d341db14d5e20ce9fef3e676d4f9c810af5d2be5/capsule_184x69.jpg?t=1733757515",
+    "website": null,
     "developers": [
       "Team Vultures"
     ],
     "publishers": [
-      "Team Vultures"
+      "Firesquid"
     ],
     "demos": [
       {
@@ -7588,13 +7649,31 @@
       "url": "https://vulturesgame.com/",
       "email": "help@vulturesgame.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2537470/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2537470/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537470/page_bg_generated_v6b.jpg?t=1733757515",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537470/page_bg_generated.jpg?t=1733757515",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "players will encounter battles against mutants and monsters, which may involve depictions of blood and violence.\r\nAdditionally, characters in the game may use strong language, including cursing, and make references to alcohol and tobacco.\r\nThere may be mature themes and topics related to survival in a post-apocalyptic world."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2536910": {
