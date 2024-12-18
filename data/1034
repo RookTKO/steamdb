@@ -590,22 +590,22 @@
     "steam_appid": 3102150,
     "required_age": 0,
     "is_free": true,
-    "short_description": "\u4e0e\u604b\u4eba\u9082\u9005\u524d\u7684\u5c0f\u5c0f\u9884\u77e5\u68a6\u3002",
+    "short_description": "\u4e0e\u604b\u4eba\u9082\u9005\u524d\u7684\u5c0f\u5c0f\u5de7\u5408\u3002",
     "fullgame": {
       "appid": "2116000",
       "name": "\u9634\u6843\u82b1"
     },
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/header.jpg?t=1720848289",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/capsule_231x87.jpg?t=1720848289",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/capsule_184x69.jpg?t=1720848289",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/header.jpg?t=1724950348",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/capsule_231x87.jpg?t=1724950348",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/capsule_184x69.jpg?t=1724950348",
     "website": "https://snowy.games/yin-peach-blossom",
     "developers": [
-      "Snowy",
-      "\u58a8\u8da3\u5c4b\u6587\u5316\u521b\u610f - \u4e0d\u7cfb\u4e4b\u821f"
+      "\u58a8\u8da3\u5c4b\u6587\u5316\u521b\u610f - \u4e0d\u7cfb\u4e4b\u821f",
+      "SnowyYANG"
     ],
     "publishers": [
-      "Snowy"
+      "SnowyYANG"
     ],
     "package_groups": [],
     "platforms": {
@@ -623,15 +623,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "9 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "snowyyang@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/page_bg_generated_v6b.jpg?t=1720848289",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/page_bg_generated.jpg?t=1720848289",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/page_bg_generated_v6b.jpg?t=1724950348",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102150/page_bg_generated.jpg?t=1724950348",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -658,9 +658,9 @@
     "is_free": false,
     "short_description": "GraveyardGambit is an exciting 3D first-person game where you loot graves as a grave robber, evade guards, and buy upgrades. Experience a dark atmosphere, random events, and various weather scenarios.",
     "supported_languages": "German<strong>*</strong>, English<strong>*</strong>, French, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/header.jpg?t=1721722377",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/capsule_231x87.jpg?t=1721722377",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/capsule_184x69.jpg?t=1721722377",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/header.jpg?t=1723190444",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/capsule_231x87.jpg?t=1723190444",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/capsule_184x69.jpg?t=1723190444",
     "website": null,
     "developers": [
       "Malte Lehmann",
@@ -669,7 +669,20 @@
     "publishers": [
       "MaltesMagic Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1101892
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy GraveyardGambit",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -677,7 +690,9 @@
     },
     "categories": [
       2,
-      22
+      22,
+      25,
+      62
     ],
     "genres": [
       1,
@@ -686,16 +701,19 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 27
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "9 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "maltes.magic@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/page_bg_generated_v6b.jpg?t=1721722377",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/page.bg.jpg?t=1721722377",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/page_bg_generated_v6b.jpg?t=1723190444",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102130/page.bg.jpg?t=1723190444",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2919,15 +2937,21 @@
     "is_free": false,
     "short_description": "Worlds brought to life by H.P. Lovecraft and R.W. Chambers combined in the form of a pixelart point&amp;click game. As Solomon Hill, investigate the mysterious death of your twin brother and an ancient plot to bring back the lost city of Carcosa and its resident Hastur, known as the King in Yellow.",
     "supported_languages": "English, Polish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/header.jpg?t=1721386839",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/capsule_231x87.jpg?t=1721386839",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/capsule_184x69.jpg?t=1721386839",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/header.jpg?t=1722255725",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/capsule_231x87.jpg?t=1722255725",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/capsule_184x69.jpg?t=1722255725",
     "website": null,
     "developers": [
       "WeAreWild"
     ],
     "publishers": [
       "WeAreWild"
+    ],
+    "demos": [
+      {
+        "appid": 3137570,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -2950,8 +2974,8 @@
       "url": "",
       "email": "help@wearewild.pl"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/page_bg_generated_v6b.jpg?t=1721386839",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/page.bg.jpg?t=1721386839",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/page_bg_generated_v6b.jpg?t=1722255725",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102330/page.bg.jpg?t=1722255725",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3440,9 +3464,9 @@
       "name": "Sker Ritual"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Turkish, Welsh, Czech, Polish, Thai, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/header.jpg?t=1721651972",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/capsule_231x87.jpg?t=1721651972",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/capsule_184x69.jpg?t=1721651972",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/header.jpg?t=1724929733",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/capsule_231x87.jpg?t=1724929733",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/capsule_184x69.jpg?t=1724929733",
     "website": "http://www.walesinteractive.com/skerritual",
     "developers": [
       "Wales Interactive"
@@ -3495,8 +3519,8 @@
       "url": "www.walesinteractive.com/contact",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/page_bg_generated_v6b.jpg?t=1721651972",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/page_bg_generated.jpg?t=1721651972",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/page_bg_generated_v6b.jpg?t=1724929733",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102160/page_bg_generated.jpg?t=1724929733",
     "content_descriptors": {
       "ids": [
         2,
@@ -6056,9 +6080,6 @@
     "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102080/capsule_231x87.jpg?t=1721953999",
     "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102080/capsule_184x69.jpg?t=1721953999",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -6536,15 +6557,15 @@
     "steam_appid": 3102500,
     "required_age": 0,
     "is_free": true,
-    "controller_support": "full",
-    "short_description": "",
+    "short_description": "Slay monsters and explore procedural worlds in this old school hack and slash Mini-RPG set in a fantasy world. Battles are a combo of turn based and real time elements. Block enemy attacks and enhance your own using active abilities.",
     "fullgame": {
       "appid": "3082490",
       "name": "Anomalous Adventure"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102500/header.jpg?t=1722021481",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102500/capsule_231x87.jpg?t=1722021481",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102500/capsule_184x69.jpg?t=1722021481",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102500/header.jpg?t=1726249229",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102500/capsule_231x87.jpg?t=1726249229",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102500/capsule_184x69.jpg?t=1726249229",
     "website": null,
     "developers": [
       "Andrew Piper"
@@ -6563,21 +6584,24 @@
       2,
       9,
       10,
+      18,
       24,
-      28,
       39,
       44
     ],
+    "genres": [
+      3
+    ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "threaxsoftsupport@threax.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102500/page_bg_generated_v6b.jpg?t=1726249229",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102500/page_bg_generated.jpg?t=1726249229",
     "content_descriptors": {
       "ids": [
         2,
