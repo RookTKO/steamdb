@@ -3077,9 +3077,9 @@
     "is_free": true,
     "short_description": "Embark together on your fantasy adventure! Set hundreds of years in the future on the distant planet of Aida, the shared open-world RPG, anime-infused sci-fi adventure Tower of Fantasy now is officially available on Steam.",
     "supported_languages": "English<strong>*</strong>, French, German, Japanese<strong>*</strong>, Thai, Portuguese - Brazil<strong>*</strong>, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2064650/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2064650/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2064650/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064650/header.jpg?t=1732592440",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064650/capsule_231x87.jpg?t=1732592440",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064650/capsule_184x69.jpg?t=1732592440",
     "website": "https://www.toweroffantasy-global.com/",
     "developers": [
       "Hotta Studio"
@@ -3117,11 +3117,24 @@
       "url": "https://www.toweroffantasy-global.com/",
       "email": "support@toweroffantasy-global.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2064650/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2064650/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064650/page_bg_generated_v6b.jpg?t=1732592440",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064650/page.bg.jpg?t=1732592440",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2066180": {
@@ -4372,16 +4385,22 @@
       2202970
     ],
     "short_description": "Face the Lords of the Void and their endless minions, collect their Soulstones and become a god! In this Action Roguelite, unveil secret spells, craft mighty weapons, unlock multiple characters, discover game-breaking synergies and conquer the power of the void.",
-    "supported_languages": "English<strong>*</strong>, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, French, German, Spanish - Spain, Korean, Polish, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2066020/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2066020/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2066020/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, French, German, Spanish - Spain, Korean, Polish, Traditional Chinese, Italian, Turkish<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/header.jpg?t=1733879069",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/capsule_231x87.jpg?t=1733879069",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/capsule_184x69.jpg?t=1733879069",
     "website": "http://www.soulstonesurvivors.com",
     "developers": [
       "Game Smithing Limited"
     ],
     "publishers": [
       "Game Smithing Limited"
+    ],
+    "demos": [
+      {
+        "appid": 2083070,
+        "description": ""
+      }
     ],
     "packages": [
       738150
@@ -4407,7 +4426,9 @@
       15,
       22,
       23,
-      28
+      28,
+      29,
+      62
     ],
     "genres": [
       1,
@@ -4416,7 +4437,7 @@
       70
     ],
     "achievements": {
-      "total": 256
+      "total": 366
     },
     "release_date": {
       "coming_soon": false,
@@ -4426,11 +4447,27 @@
       "url": "",
       "email": "support@gamesmithing.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2066020/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2066020/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/page_bg_generated_v6b.jpg?t=1733879069",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/page_bg_generated.jpg?t=1733879069",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2065970": {
@@ -7693,17 +7730,23 @@
     "steam_appid": 2064310,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A multiplayer tactical roguelite. Travel alone or with friends in a medieval world of sword wielding dinosaurs. Strategize your way through short adventures where teamwork is the key to success!",
+    "short_description": "A multiplayer tactical roguelike. Travel alone or with friends in a medieval world of sword wielding dinosaurs. Strategize your way through short adventures where teamwork is the key to success!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2064310/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2064310/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2064310/capsule_184x69.jpg",
-    "website": "https://woollywalrusgames.com/games",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064310/header.jpg?t=1734022827",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064310/capsule_231x87.jpg?t=1734022827",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064310/capsule_184x69.jpg?t=1734022827",
+    "website": "https://woollywalrusgames.com/dark-age-dinos",
     "developers": [
       "Woolly Walrus Games"
     ],
     "publishers": [
       "Woolly Walrus Games"
+    ],
+    "demos": [
+      {
+        "appid": 3137950,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7716,16 +7759,8 @@
       2,
       9,
       15,
-      17,
       22,
-      23,
-      24,
-      27,
-      30,
-      38,
-      39,
-      44,
-      48
+      38
     ],
     "genres": [
       2,
@@ -7734,17 +7769,33 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "To be announced"
+      "date": "2025"
     },
     "support_info": {
       "url": "https://woollywalrusgames.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2064310/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2064310/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064310/page_bg_generated_v6b.jpg?t=1734022827",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064310/page_bg_generated.jpg?t=1734022827",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2064380": {
@@ -10401,9 +10452,9 @@
       "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
     },
     "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2064590/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2064590/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2064590/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064590/header.jpg?t=1661867983",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064590/capsule_231x87.jpg?t=1661867983",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064590/capsule_184x69.jpg?t=1661867983",
     "website": "https://wrath.owlcatgames.com/",
     "developers": [
       "Owlcat Games"
@@ -10413,7 +10464,8 @@
       "Owlcat Games"
     ],
     "packages": [
-      737611
+      737611,
+      1171676
     ],
     "package_groups": [
       {
@@ -10440,7 +10492,8 @@
       21,
       22,
       23,
-      29
+      29,
+      62
     ],
     "genres": [
       2,
@@ -10456,14 +10509,22 @@
       "url": "https://forum.owlcatgames.com/t/how-to-submit-bug-reports/17302",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2064590/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2064590/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064590/page_bg_generated_v6b.jpg?t=1661867983",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064590/page.bg.jpg?t=1661867983",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This game contains scenes and texts some people may find disturbing. They are not graphically detailed and presented from an isometric point of view, and most of them occur episodically. However, we consider it our duty to inform our players about them. You may see depictions of blood, gore, dismemberment, torture, slavery, and kidnapping in this game. It also contains textual descriptions and mentions of abuse, child abuse, sexual abuse, sexual assault, self-harm, suicide, cannibalism, and miscarriage. Player discretion is advised."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nMedo\r\nViol\u00eancia\r\nViol\u00eancia Extrema\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "16"
+      }
     }
   },
   "2065550": {
@@ -10546,9 +10607,9 @@
     "is_free": false,
     "short_description": "Artificial intelligence is out of control. Only a Hero can stop this madness. The Hero's goal is to get to the main computer and disable it, thereby disabling all robots. Our hero has only one weapon, but that won't stop him!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2065510/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2065510/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2065510/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065510/header.jpg?t=1657572037",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065510/capsule_231x87.jpg?t=1657572037",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065510/capsule_184x69.jpg?t=1657572037",
     "website": null,
     "developers": [
       "Laush Dmitriy Sergeevich"
@@ -10578,7 +10639,8 @@
     "categories": [
       2,
       18,
-      22
+      22,
+      62
     ],
     "genres": [
       23,
@@ -10595,11 +10657,29 @@
       "url": "",
       "email": "laushds@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2065510/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2065510/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065510/page_bg_generated_v6b.jpg?t=1657572037",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065510/page_bg_generated.jpg?t=1657572037",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2065820": {

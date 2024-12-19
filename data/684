@@ -1924,16 +1924,17 @@
   },
   "2052970": {
     "type": "game",
-    "name": "STRIDEN: Fogbound",
+    "name": "STRIDEN",
     "steam_appid": 2052970,
     "required_age": 0,
     "is_free": false,
-    "short_description": "STRIDEN is a fast-paced, multiplayer, first-person, looter shooter. As a member of the Rebel Clan, your goal is to outlast your opponents. Capture strategic strongholds, evade the deadly radioactive fog, loot for valuable resources, gear up, and unleash your full potential!",
+    "short_description": "Loot, Build, Plunder and send the radio signal for freedom. STRIDEN is the fast-paced, sandbox looter shooter survival game that you've never experienced before.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2052970/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2052970/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2052970/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052970/header.jpg?t=1729685789",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052970/capsule_231x87.jpg?t=1729685789",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052970/capsule_184x69.jpg?t=1729685789",
     "website": "https://www.5fortress.com/",
+    "drm_notice": "None",
     "developers": [
       "5 Fortress"
     ],
@@ -1965,14 +1966,30 @@
       "url": "",
       "email": "community@5fortress.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2052970/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2052970/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052970/page_bg_generated_v6b.jpg?t=1729685789",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052970/page.bg.jpg?t=1729685789",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content"
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nSchimpfw\u00f6rte"
+      }
     }
   },
   "2053750": {
@@ -6734,15 +6751,15 @@
       "name": "War Thunder"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese, Russian<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Czech<strong>*</strong>, Turkish<strong>*</strong>, Portuguese - Portugal, Korean, Portuguese - Brazil, Hungarian, Ukrainian, Traditional Chinese, Romanian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054412/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054412/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2054412/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054412/header.jpg?t=1731053153",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054412/capsule_231x87.jpg?t=1731053153",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054412/capsule_184x69.jpg?t=1731053153",
     "website": "http://warthunder.com/",
     "developers": [
       "Gaijin Entertainment"
     ],
     "publishers": [
-      "Gaijin Distribution KFT"
+      "Gaijin Network Ltd"
     ],
     "packages": [
       733980
@@ -6793,11 +6810,31 @@
       "url": "https://support.gaijin.net/",
       "email": "https://support.gaijin.net/"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2054412/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2054412/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054412/page_bg_generated_v6b.jpg?t=1731053153",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054412/page_bg_generated.jpg?t=1731053153",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t"
+      },
+      "pegi": {
+        "rating": "12"
+      },
+      "usk": {
+        "rating": "12"
+      },
+      "crl": {
+        "rating": "12"
+      },
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Viol\u00eancia\r\nCompras on-line\r\nIntera\u00e7\u00e3o de Usu\u00e1rios",
+        "use_age_gate": "true",
+        "required_age": "12"
+      }
     }
   },
   "2054140": {
@@ -10415,49 +10452,183 @@
     "type": "game",
     "name": "Dragon's Dogma 2",
     "steam_appid": 2054970,
-    "required_age": 0,
+    "required_age": "17",
     "is_free": false,
+    "dlc": [
+      3350020,
+      2593180,
+      2593190,
+      2593200,
+      2593210,
+      2593220,
+      2593230,
+      2593240,
+      2593270,
+      2593260,
+      2694820,
+      2694830,
+      2694840,
+      2694850,
+      2757060,
+      2757080,
+      2757090,
+      2593250,
+      2757120,
+      2757130,
+      2757140,
+      2757170
+    ],
     "short_description": "Dragon\u2019s Dogma 2 is a single player, narrative driven action-RPG that challenges the players to choose their own experience \u2013 from the appearance of their Arisen, their vocation, their party, how to approach different situations and more - in a truly immersive fantasy world.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Spanish - Latin America, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Japanese<strong>*</strong>, Korean, Polish<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1732148252",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_231x87.jpg?t=1732148252",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_184x69.jpg?t=1732148252",
     "website": "https://www.dragonsdogma.com/2/",
+    "drm_notice": "Denuvo Anti-tamper<br>5 different PC within a day machine activation limit",
     "developers": [
       "CAPCOM Co., Ltd."
     ],
     "publishers": [
       "CAPCOM Co., Ltd."
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2674810,
+        "description": ""
+      }
+    ],
+    "packages": [
+      734193,
+      941849
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Dragon's Dogma 2",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
+    "metacritic": {
+      "score": 88,
+      "url": "https://www.metacritic.com/game/pc/dragons-dogma-2?ftag=MCD-06-10aaa1f"
+    },
     "categories": [
       2,
-      18
+      18,
+      22,
+      23,
+      29,
+      61,
+      62
     ],
     "genres": [
       1,
       3
     ],
+    "achievements": {
+      "total": 54
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "21 Mar, 2024"
     },
     "support_info": {
       "url": "http://www.capcom.co.jp/support/contact/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/page_bg_generated_v6b.jpg?t=1732148252",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/page.bg.jpg?t=1732148252",
     "content_descriptors": {
       "ids": [
+        1,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Violence\r\nBlood and Gore\r\nSexual Themes\r\nLanguage",
+        "interactive_elements": "Users Interact\r\nIn-Game Purchases",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "18",
+        "descriptors": "Violence, In-game Purchases",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "usk": {
+        "rating": "16",
+        "descriptors": "Fantasy Gewalt",
+        "required_age": "16",
+        "use_age_gate": "true"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Strong fantasy violence, online interactivity and in-game purchases",
+        "required_age": "15",
+        "use_age_gate": "true"
+      },
+      "nzoflc": {
+        "rating": "r13",
+        "descriptors": "Violence &amp; sexual themes",
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "cero": {
+        "rating": "d",
+        "descriptors": "\u30bb\u30af\u30b7\u30e3\u30eb\u3001\u66b4\u529b\u3001\u98f2\u9152\u30fb\u55ab\u7159\u3001\u72af\u7f6a",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "kgrb": {
+        "rating": "18",
+        "descriptors": "\uc120\uc815\uc131, \ud3ed\ub825\uc131, \uc57d\ubb3c, \ubc94\uc8c4",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Viol\u00eancia\r\nConte\u00fado sexual\r\nDrogas l\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "fpb": {
+        "rating": "16",
+        "descriptors": "Drug, Language, Nude ,Sexual ,Violence, Competitive intensity",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "csrr": {
+        "rating": "R",
+        "descriptors": "\u6027,\u66b4\u529b,\u4e0d\u7576\u8a00\u8a9e",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "crl": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nSelbstmord\nAlkohol / Tabak"
+      }
     }
   },
   "2052490": {

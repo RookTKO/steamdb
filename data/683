@@ -1551,9 +1551,9 @@
     "is_free": false,
     "short_description": "Unlock upgrades, talents and colours for your towers to defend against scores of enemies. Battle on over 50 maps of varying difficulty, plus make your own or download more from the workshop",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2051530/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2051530/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2051530/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051530/header.jpg?t=1661278080",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051530/capsule_231x87.jpg?t=1661278080",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051530/capsule_184x69.jpg?t=1661278080",
     "website": null,
     "developers": [
       "Northern Amusements"
@@ -1582,7 +1582,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       2
@@ -1598,11 +1599,29 @@
       "url": "",
       "email": "northernamusements@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2051530/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2051530/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051530/page_bg_generated_v6b.jpg?t=1661278080",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051530/page_bg_generated.jpg?t=1661278080",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2051610": {
@@ -2928,7 +2947,7 @@
     "type": "game",
     "name": "Resident Evil 4",
     "steam_appid": 2050650,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "controller_support": "full",
     "dlc": [
@@ -2962,9 +2981,9 @@
     ],
     "short_description": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Japanese<strong>*</strong>, Korean, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header_alt_assets_0.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1731387968",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_231x87.jpg?t=1731387968",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_184x69.jpg?t=1731387968",
     "website": "https://www.residentevil.com/re4/",
     "drm_notice": "Denuvo Anti-tamper<br>5 different PC within a day machine activation limit",
     "developers": [
@@ -2981,7 +3000,8 @@
     ],
     "packages": [
       794618,
-      794619
+      994065,
+      1142889
     ],
     "package_groups": [
       {
@@ -2999,12 +3019,18 @@
       "mac": false,
       "linux": false
     },
+    "metacritic": {
+      "score": 91,
+      "url": "https://www.metacritic.com/game/pc/resident-evil-4?ftag=MCD-06-10aaa1f"
+    },
     "categories": [
       2,
       22,
       23,
       28,
-      29
+      29,
+      61,
+      62
     ],
     "genres": [
       1,
@@ -3021,14 +3047,80 @@
       "url": "http://www.capcom.co.jp/support/contact/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/page_bg_generated_v6b.jpg?t=1731387968",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/page.bg.jpg?t=1731387968",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content"
+    },
+    "ratings": {
+      "esrb": {
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "18",
+        "descriptors": "Violence, Bad Language, In-Game Purchase",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "usk": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18",
+        "descriptors": "Drastische Gewalt, Horror, In-Game-K\u00e4ufe"
+      },
+      "oflc": {
+        "rating": "r18",
+        "descriptors": "High impact horror violence, blood and gore, online interactivity",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "cero": {
+        "rating": "z",
+        "descriptors": "\u66b4\u529b",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "kgrb": {
+        "rating": "18",
+        "descriptors": "\ud3ed\ub825\uc131, \uacf5\ud3ec, \uc5b8\uc5b4\uc758 \ubd80\uc801\uc808\uc131, \uc57d\ubb3c",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "dejus": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18",
+        "descriptors": "Linguagem impr\u00f3pria\r\nViol\u00eancia"
+      },
+      "csrr": {
+        "rating": "R",
+        "descriptors": "\u66b4\u529b\u3001\u6050\u6016",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "crl": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "nzoflc": {
+        "rating": "r16",
+        "descriptors": "Graphic violence and horror",
+        "required_age": "16"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2051020": {
@@ -3284,9 +3376,9 @@
     "is_free": false,
     "short_description": "Collect a 3D puzzle, transferring things to the right places to create a beautiful house.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Indonesian, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2050400/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2050400/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2050400/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050400/header.jpg?t=1675944625",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050400/capsule_231x87.jpg?t=1675944625",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050400/capsule_184x69.jpg?t=1675944625",
     "website": null,
     "developers": [
       "Aztech"
@@ -3295,8 +3387,8 @@
       "Azerbaijan Technology"
     ],
     "packages": [
-      732538,
-      734912
+      734912,
+      732538
     ],
     "package_groups": [
       {
@@ -3317,7 +3409,8 @@
     "categories": [
       2,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       1,
@@ -3338,11 +3431,29 @@
       "url": "http://azerbaijan-technology.ru/",
       "email": "info@azerbaijan-technology.ru"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2050400/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2050400/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050400/page_bg_generated_v6b.jpg?t=1675944625",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050400/page_bg_generated.jpg?t=1675944625",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2050330": {
@@ -3525,11 +3636,11 @@
     "steam_appid": 2050680,
     "required_age": 0,
     "is_free": false,
-    "short_description": "The ultimate war sandbox. Participate or simply watch as the gore-y carnage unfolds. Factions. Weapons. Gore. Robbers. Zombies. Knights. Need I say more? Constant new features and updates!",
+    "short_description": "Create intense battles across time periods, join the battle, rewrite history, and become a legend.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Swedish, Ukrainian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2050680/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2050680/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2050680/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050680/header.jpg?t=1727882783",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050680/capsule_231x87.jpg?t=1727882783",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050680/capsule_184x69.jpg?t=1727882783",
     "website": null,
     "developers": [
       "Madar Games"
@@ -3559,7 +3670,8 @@
     "categories": [
       2,
       17,
-      29
+      29,
+      62
     ],
     "genres": [
       1,
@@ -3575,14 +3687,32 @@
       "url": "",
       "email": "savva.madar@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2050680/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2050680/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050680/page_bg_generated_v6b.jpg?t=1727882783",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050680/page_bg_generated.jpg?t=1727882783",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
-      "notes": "Contains, toggle-able, copious amounts of blood, gore, and dismemberment."
+      "notes": "Contains, toggle-able, copious amounts of blood, gore, and dismemberment.\r\n\r\nContains Nazi iconism and references due to historical period represented."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2050470": {
