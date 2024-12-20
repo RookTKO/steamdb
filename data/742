@@ -3842,11 +3842,14 @@
     "steam_appid": 2228010,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      2791520
+    ],
     "short_description": "Explore randomly generated card dungeons where you can only move Right and Down, use Dice to defeat mighty enemies, gather powerful artifacts, and learn new abilities! Will you be able to escape from the dungeon?",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Portuguese - Portugal, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2228010/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2228010/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2228010/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/header.jpg?t=1706165932",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/capsule_231x87.jpg?t=1706165932",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/capsule_184x69.jpg?t=1706165932",
     "website": null,
     "developers": [
       "mc2games"
@@ -3854,13 +3857,20 @@
     "publishers": [
       "mc2games"
     ],
-    "demos": [
+    "packages": [
+      798653
+    ],
+    "package_groups": [
       {
-        "appid": 2586600,
-        "description": ""
+        "name": "default",
+        "title": "Buy Right and Down and Dice",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3868,26 +3878,45 @@
     },
     "categories": [
       2,
-      22
+      22,
+      23,
+      62
     ],
     "genres": [
       2,
       3,
       23
     ],
+    "achievements": {
+      "total": 33
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2023"
+      "coming_soon": false,
+      "date": "23 Jan, 2024"
     },
     "support_info": {
       "url": "http://mc2games.com/",
       "email": "contact@mc2games.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2228010/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2228010/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/page_bg_generated_v6b.jpg?t=1706165932",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/page_bg_generated.jpg?t=1706165932",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2228680": {

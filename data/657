@@ -6787,9 +6787,9 @@
     "is_free": true,
     "short_description": "As the Executive Manager of Limbus Company, lead your group of twelve Sinners, venture into the buried facilities of Lobotomy Corporation, and lay claim on the Golden Boughs.",
     "supported_languages": "English, Japanese, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1973530/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1973530/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1973530/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg?t=1728532474",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/capsule_231x87.jpg?t=1728532474",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/capsule_184x69.jpg?t=1728532474",
     "website": "https://limbuscompany.kr/",
     "developers": [
       "ProjectMoon"
@@ -6820,14 +6820,35 @@
       "url": "",
       "email": "limbussupport@projmoon.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1973530/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1973530/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/page_bg_generated_v6b.jpg?t=1728532474",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/page.bg.jpg?t=1728532474",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This game contains content that is not suitable for all ages or that may be inappropriate for use in the workplace: frequent violence or bloodshed, general adult content"
+    },
+    "ratings": {
+      "kgrb": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "19"
+      },
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nDrogas",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nDrogen\nDerbe Sprache"
+      }
     }
   },
   "1972700": {
@@ -7110,22 +7131,41 @@
     "type": "game",
     "name": "Mortal Kombat 1",
     "steam_appid": 1971870,
-    "required_age": 0,
+    "required_age": "18",
     "is_free": false,
     "controller_support": "full",
     "dlc": [
-      2576740,
-      2576770,
+      3168160,
+      3168150,
+      3168140,
+      3161240,
+      3233540,
       2576780,
-      2576790,
+      3049390,
+      2968450,
+      2968440,
+      2880680,
+      2880670,
+      2777480,
+      2777460,
+      2695690,
+      2695680,
+      2636090,
+      2636080,
       2576800,
-      2576810
+      3226640,
+      2576790,
+      2576810,
+      2576770,
+      2615190,
+      3168020,
+      3286290
     ],
     "short_description": "Discover a reborn Mortal Kombat\u2122 Universe created by the Fire God Liu Kang. Mortal Kombat\u2122 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Polish, Portuguese - Brazil<strong>*</strong>, Russian, Simplified Chinese, Spanish - Latin America<strong>*</strong>, Traditional Chinese, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971870/header.jpg?t=1729006754",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971870/capsule_231x87.jpg?t=1729006754",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971870/capsule_184x69.jpg?t=1729006754",
     "website": "https://www.mortalkombat.com/",
     "drm_notice": "Denuvo Anti-Tamper",
     "developers": [
@@ -7136,8 +7176,8 @@
       "Warner Bros. Games"
     ],
     "packages": [
-      931928,
-      931931
+      931929,
+      1148705
     ],
     "package_groups": [
       {
@@ -7165,13 +7205,17 @@
       22,
       23,
       24,
+      27,
       28,
+      29,
       35,
       36,
       37,
       43,
       44,
-      49
+      49,
+      61,
+      62
     ],
     "genres": [
       1
@@ -7187,14 +7231,73 @@
       "url": "https://support.wbgames.com/",
       "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971870/page_bg_generated_v6b.jpg?t=1729006754",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971870/page.bg.jpg?t=1729006754",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content"
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Intense Violence\r\nBlood and Gore\r\nStrong Language",
+        "interactive_elements": "Users Interact\r\nIn-Game Purchases",
+        "display_online_notice": "true",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "pegi": {
+        "rating": "18",
+        "descriptors": "Violence\r\nBad Language\r\nIn-Game Purchases",
+        "required_age": "18"
+      },
+      "usk": {
+        "rating": "18",
+        "descriptors": "Drastische Gewalt\r\nIn-Game-K\u00e4ufe\r\nChats",
+        "required_age": "18"
+      },
+      "oflc": {
+        "rating": "r18",
+        "descriptors": "High impact violence\r\nBlood and gore\r\nOnline interactivity\r\nIn-game purchases",
+        "required_age": "18"
+      },
+      "nzoflc": {
+        "rating": "r18",
+        "descriptors": "Graphic violence",
+        "required_age": "18"
+      },
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Viol\u00eancia Extrema\r\nDrogas l\u00edcitas\r\nLinguagem impr\u00f3pria",
+        "required_age": "18"
+      },
+      "mda": {
+        "rating": "M18",
+        "descriptors": "Strong Violence and Gore",
+        "required_age": "18"
+      },
+      "fpb": {
+        "rating": "18",
+        "descriptors": "IAT L V PPS CI",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "csrr": {
+        "rating": "R",
+        "descriptors": "Violence\r\nHorror\r\nInappropriate Language",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "1973900": {
@@ -7839,9 +7942,9 @@
       "name": "Neko Maid"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971850/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971850/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1971850/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971850/header.jpg?t=1650646490",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971850/capsule_231x87.jpg?t=1650646490",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971850/capsule_184x69.jpg?t=1650646490",
     "website": null,
     "developers": [
       "Hunny Bunny Studio"
@@ -7858,7 +7961,8 @@
     "categories": [
       2,
       21,
-      22
+      22,
+      62
     ],
     "genres": [
       4,
@@ -7872,8 +7976,8 @@
       "url": "",
       "email": "hunnybunnysstudio@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1971850/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1971850/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971850/page_bg_generated_v6b.jpg?t=1650646490",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971850/page.bg.jpg?t=1650646490",
     "content_descriptors": {
       "ids": [
         1,
@@ -7882,6 +7986,24 @@
         5
       ],
       "notes": "-Nudity or sexual content\r\n-Not suitable for watching at work\r\n-Not suitable for all ages\r\n-All characters in the game are over 18 years old"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Conte\u00fado sexual"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Andeutungen"
+      }
     }
   },
   "1973470": {
