@@ -2127,11 +2127,16 @@
     "steam_appid": 3340750,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Join the cutest adventure in the New Year Location, full of cats! Explore the charming hand-drawn artwork of New Yearlocations as you embark on a quest to find 100 adorable cats hidden throughout the game.",
+    "dlc": [
+      3368440,
+      3368450,
+      3368460
+    ],
+    "short_description": "\ud83d\udc3e Join the cutest adventure in the \ud83c\udf7e New Year \ud83c\udf32, full of cats! Explore the charming hand-drawn artwork of New Year\ud83e\udd42 themed locations as you embark on a quest to find 100 adorable cats hidden throughout the game. \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\u274c Can you find them all? \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83d\udc08\u2705",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Indonesian, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/header.jpg?t=1733173476",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/6b52f40df33077c0425ed01784aacd5cfd1cb21c/capsule_231x87.jpg?t=1733173476",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/6b52f40df33077c0425ed01784aacd5cfd1cb21c/capsule_184x69.jpg?t=1733173476",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/header.jpg?t=1733497834",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/6b52f40df33077c0425ed01784aacd5cfd1cb21c/capsule_231x87.jpg?t=1733497834",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/6b52f40df33077c0425ed01784aacd5cfd1cb21c/capsule_184x69.jpg?t=1733497834",
     "website": null,
     "developers": [
       "100 Cozy Games"
@@ -2157,16 +2162,19 @@
       28,
       37
     ],
+    "achievements": {
+      "total": 100
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "5 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "100cozygames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/page_bg_generated_v6b.jpg?t=1733173476",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/page_bg_generated.jpg?t=1733173476",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/page_bg_generated_v6b.jpg?t=1733497834",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340750/page_bg_generated.jpg?t=1733497834",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4113,10 +4121,10 @@
     "required_age": "18",
     "is_free": false,
     "short_description": "This is a game that utilizes real physics simulation, where the protagonist interacts with props in the scene through a physics simulation engine. Therefore, every time you play, it offers you a different experience.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/header.jpg?t=1732589845",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/418575536b4a46754339060afc0d32cd6ef9d30f/capsule_231x87.jpg?t=1732589845",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/418575536b4a46754339060afc0d32cd6ef9d30f/capsule_184x69.jpg?t=1732589845",
+    "supported_languages": "English<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/header.jpg?t=1734580684",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/418575536b4a46754339060afc0d32cd6ef9d30f/capsule_231x87.jpg?t=1734580684",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/418575536b4a46754339060afc0d32cd6ef9d30f/capsule_184x69.jpg?t=1734580684",
     "website": null,
     "developers": [
       "Banana Hub"
@@ -4124,30 +4132,46 @@
     "publishers": [
       "Banana Hub"
     ],
-    "package_groups": [],
+    "packages": [
+      1182057
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy BDSM Fuel Station - interactive physics simulation",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      23,
+      62
     ],
     "genres": [
       1,
       4,
+      23,
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "9 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "makchunsan@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/page_bg_generated_v6b.jpg?t=1732589845",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/page_bg_generated.jpg?t=1732589845",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/page_bg_generated_v6b.jpg?t=1734580684",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339270/page_bg_generated.jpg?t=1734580684",
     "content_descriptors": {
       "ids": [
         1,
@@ -7540,9 +7564,9 @@
       "name": "Let's Build a Dungeon"
     },
     "supported_languages": "English, German, Japanese, Simplified Chinese, French, Italian, Spanish - Spain, Korean, Portuguese - Brazil, Thai, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/header.jpg?t=1733310534",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/e9231cc92df04e305092575f4dc308b01653a10b/capsule_231x87.jpg?t=1733310534",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/e9231cc92df04e305092575f4dc308b01653a10b/capsule_184x69.jpg?t=1733310534",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/header.jpg?t=1733985528",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/e9231cc92df04e305092575f4dc308b01653a10b/capsule_231x87.jpg?t=1733985528",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/e9231cc92df04e305092575f4dc308b01653a10b/capsule_184x69.jpg?t=1733985528",
     "website": "https://letsbuildadungeon.com/",
     "developers": [
       "Springloaded"
@@ -7574,8 +7598,8 @@
       "url": "https://www.springloadedsoftware.com/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/page_bg_generated_v6b.jpg?t=1733310534",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/page.bg.jpg?t=1733310534",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/page_bg_generated_v6b.jpg?t=1733985528",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340480/page.bg.jpg?t=1733985528",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7737,9 +7761,9 @@
     "is_free": false,
     "short_description": "A Third Person 3D, Adventure puzzle game. You awaken on an intensive care hospital ward and must navigate puzzles and conundrums in order to escape. However there is a rapid onset virus sweeping the secure unit - beware it is highly infectious with fatal consequences!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/header.jpg?t=1733345256",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/e94044ab04fdaa0f9d3f36e8d7cc7011620b3346/capsule_231x87.jpg?t=1733345256",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/e94044ab04fdaa0f9d3f36e8d7cc7011620b3346/capsule_184x69.jpg?t=1733345256",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/header.jpg?t=1734450866",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/e94044ab04fdaa0f9d3f36e8d7cc7011620b3346/capsule_231x87.jpg?t=1734450866",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/e94044ab04fdaa0f9d3f36e8d7cc7011620b3346/capsule_184x69.jpg?t=1734450866",
     "website": null,
     "developers": [
       "Alexander Briffitt"
@@ -7747,14 +7771,28 @@
     "publishers": [
       "Alexander Briffitt"
     ],
-    "package_groups": [],
+    "packages": [
+      1182918
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Red Fox Unit",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -7763,15 +7801,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "17 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "alexbriffitt@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/page_bg_generated_v6b.jpg?t=1733345256",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/page_bg_generated.jpg?t=1733345256",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/page_bg_generated_v6b.jpg?t=1734450866",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341660/page_bg_generated.jpg?t=1734450866",
     "content_descriptors": {
       "ids": [],
       "notes": null

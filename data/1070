@@ -5336,15 +5336,15 @@
   },
   "3211210": {
     "type": "game",
-    "name": "Hentai Castle - Suika-like RPG",
+    "name": "Hentai Castle",
     "steam_appid": 3211210,
     "required_age": 0,
     "is_free": false,
     "short_description": "A Suika-like RPG blend with endless and standard modes, offering relaxing yet challenging gameplay. Unlock levels, defeat castle inhabitants, and upgrade your abilities\u2014all with just one hand and a mouse.",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/header.jpg?t=1729779087",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/52e9f5e48e638f93546e0545021bb4f3b3181681/capsule_231x87.jpg?t=1729779087",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/52e9f5e48e638f93546e0545021bb4f3b3181681/capsule_184x69.jpg?t=1729779087",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Korean, Russian, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/header.jpg?t=1734654851",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/52e9f5e48e638f93546e0545021bb4f3b3181681/capsule_231x87.jpg?t=1734654851",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/52e9f5e48e638f93546e0545021bb4f3b3181681/capsule_184x69.jpg?t=1734654851",
     "website": null,
     "developers": [
       "Iron Jelly"
@@ -5352,7 +5352,20 @@
     "publishers": [
       "Iron Jelly"
     ],
-    "package_groups": [],
+    "packages": [
+      1138520
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hentai Castle",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5360,27 +5373,29 @@
     },
     "categories": [
       2,
+      18,
       22,
-      23,
-      25
+      25,
+      44,
+      62
     ],
     "genres": [
-      2,
-      3,
       4,
-      23,
-      28
+      23
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "19 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "hello.rxiii@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/page_bg_generated_v6b.jpg?t=1729779087",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/page_bg_generated.jpg?t=1729779087",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/page_bg_generated_v6b.jpg?t=1734654851",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211210/page_bg_generated.jpg?t=1734654851",
     "content_descriptors": {
       "ids": [
         1,
@@ -5720,19 +5735,32 @@
     "steam_appid": 3211460,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A dungeon known as the Abyss has suddenly appeared. To open the &quot;Door of Darkness&quot; at its deepest point, the Seeker plunges into the dungeon gate... in search of the truth. Survive the onslaught of dark forces in this twin-stick survival shooter! \u2014 Do you have the will?",
-    "supported_languages": "English, Simplified Chinese, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/header.jpg?t=1730394446",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/ecf06b41f43a176b2e1488aa86abd4506ad9c908/capsule_231x87.jpg?t=1730394446",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/ecf06b41f43a176b2e1488aa86abd4506ad9c908/capsule_184x69.jpg?t=1730394446",
-    "website": null,
+    "short_description": "A dungeon known as the Abyss has suddenly appeared. To open the &quot;Door of Darkness&quot; at its deepest point, the Seeker plunges into the dungeon gate... in search of the truth. Survive the onslaught of dark forces in this twin-stick survival shooter! \u2014 Are You Ready to Face Your Destiny?",
+    "supported_languages": "English, Simplified Chinese, Japanese, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/header.jpg?t=1734435605",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/ecf06b41f43a176b2e1488aa86abd4506ad9c908/capsule_231x87.jpg?t=1734435605",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/ecf06b41f43a176b2e1488aa86abd4506ad9c908/capsule_184x69.jpg?t=1734435605",
+    "website": "https://abyssseeker.success-corp.co.jp/?_ga=2.21491449.358614164.1734435606-427341713.1734435606",
     "developers": [
       "SUCCESS Corp."
     ],
     "publishers": [
       "SUCCESS Corp."
     ],
-    "package_groups": [],
+    "packages": [
+      1138599
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy ABYSS SEEKER\u30fc\u30fcWhat Do You See Deep in The Abyss",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5742,21 +5770,25 @@
       2,
       18,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       1
     ],
+    "achievements": {
+      "total": 17
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "4 Dec, 2024"
     },
     "support_info": {
       "url": "https://www.success-corp.co.jp/inquiry/consumer-inquiries/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/page_bg_generated_v6b.jpg?t=1730394446",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/page.bg.jpg?t=1730394446",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/page_bg_generated_v6b.jpg?t=1734435605",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211460/page.bg.jpg?t=1734435605",
     "content_descriptors": {
       "ids": [],
       "notes": null
