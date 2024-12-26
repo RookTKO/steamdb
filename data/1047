@@ -896,15 +896,15 @@
     "steam_appid": 3142710,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Paradise Beach Simulator is a first-person management simulation game where you transform an abandoned island into a successful business. Welcome your guests, maintain your equipment, manage your staff, and explore your island, all while restoring the beauty of a lost paradise.",
+    "short_description": "Paradise Beach Simulator is a first-person management simulation game where you transform an abandoned island into a thriving business. Welcome your customers, maintain your equipment, manage your staff and discover your island, all while restoring the beauty of a lost paradise.",
     "fullgame": {
       "appid": "2936190",
       "name": "Paradise Beach Simulator"
     },
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese, Korean, Hungarian, Russian, Czech, Turkish, Vietnamese, Arabic, Japanese, Portuguese - Brazil, Thai, Traditional Chinese, Ukrainian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/header.jpg?t=1722686314",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/capsule_231x87.jpg?t=1722686314",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/capsule_184x69.jpg?t=1722686314",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese, Korean, Hungarian, Russian, Czech, Turkish, Vietnamese, Arabic, Japanese, Portuguese - Brazil, Thai, Traditional Chinese, Ukrainian, Bulgarian, Danish, Spanish - Latin America, Finnish, Greek, Indonesian, Norwegian, Dutch, Polish, Portuguese - Portugal, Romanian, Swedish<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/header.jpg?t=1734652073",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/0457fa2b76b9af2eaa795d5ab5f24268a25e6096/capsule_231x87.jpg?t=1734652073",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/0457fa2b76b9af2eaa795d5ab5f24268a25e6096/capsule_184x69.jpg?t=1734652073",
     "website": null,
     "developers": [
       "Beardroid Games"
@@ -927,14 +927,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "https://www.beardroidgames.net/",
       "email": "contact@beardroidgames.net"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/page_bg_generated_v6b.jpg?t=1722686314",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/page.bg.jpg?t=1722686314",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/page_bg_generated_v6b.jpg?t=1734652073",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142710/page.bg.jpg?t=1734652073",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1403,11 +1403,11 @@
     "steam_appid": 3143760,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Establish your bloodline, lead a sinister cult and manage an isolated seaside village, where aquatic monsters crossbreed with humans. Use social manipulation and occult magic to slow down the inevitable descent into a spiral of madness.",
+    "short_description": "Establish your bloodline, lead a sinister cult and manage an isolated seaside village, where aquatic monsters crossbreed with humans. Use social manipulation and eldritch magic to gain power and influence.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/header.jpg?t=1722962347",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/capsule_231x87.jpg?t=1722962347",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/capsule_184x69.jpg?t=1722962347",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/header.jpg?t=1733698026",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/76d8407407f565b84ca2217d6bf8499a2aeb13b9/capsule_231x87.jpg?t=1733698026",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/76d8407407f565b84ca2217d6bf8499a2aeb13b9/capsule_184x69.jpg?t=1733698026",
     "website": null,
     "developers": [
       "simulinati"
@@ -1415,7 +1415,26 @@
     "publishers": [
       "simulinati games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3246760,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1116063
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Marry a Deep One: Innsmouth Simulator",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1423,22 +1442,26 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       25,
       28
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "8 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "simulinati@protonmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/page_bg_generated_v6b.jpg?t=1722962347",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/page.bg.jpg?t=1722962347",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/page_bg_generated_v6b.jpg?t=1733698026",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3143760/page.bg.jpg?t=1733698026",
     "content_descriptors": {
       "ids": [
         5
