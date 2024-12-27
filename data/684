@@ -720,19 +720,35 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "A shoot-em-up of macro proportions! When size-morphing alien girls decide to attack the world, only one man is able to stand against them and put things right- a pizza guy with a pilot's license.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054690/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054690/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2054690/capsule_184x69.jpg",
+    "dlc": [
+      3103880
+    ],
+    "short_description": "A Shoot 'Em Up of macro proportions! When giant anime women invade the galaxy, only a team is able to stand against them and put things right: a pizza guy with a pilot's license, a lovely engineer and a tiny robot flying on a garbage truck spaceship!",
+    "supported_languages": "English, Portuguese - Brazil, French, Spanish - Latin America, Simplified Chinese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054690/header_alt_assets_0.jpg?t=1734725052",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054690/2bd3a10157ddb7e41c8272004ad3c42f600ff6f4/capsule_231x87.jpg?t=1734725052",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054690/2bd3a10157ddb7e41c8272004ad3c42f600ff6f4/capsule_184x69.jpg?t=1734725052",
     "website": null,
     "developers": [
       "Portland Caviar"
     ],
     "publishers": [
-      "TinyHat Studios"
+      "Portland Caviar"
     ],
-    "package_groups": [],
+    "packages": [
+      734108
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Captain Firehawk and the Laser Love Situation",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -740,29 +756,54 @@
     },
     "categories": [
       2,
-      28
+      22,
+      23,
+      28,
+      29,
+      43,
+      62
     ],
     "genres": [
-      1
+      1,
+      23
     ],
+    "achievements": {
+      "total": 32
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2023"
+      "coming_soon": false,
+      "date": "9 Feb, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "contact@tinyhat-studios.com"
+      "email": "portlandcaviar@protonmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2054690/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2054690/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054690/page_bg_generated_v6b.jpg?t=1734725052",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054690/page.bg.jpg?t=1734725052",
     "content_descriptors": {
       "ids": [
         1,
         3,
-        5,
-        4
+        4,
+        5
       ],
-      "notes": "Captain Firehawk is a bullet hell shooter with frequent and graphic depictions of sexual interactions between consenting adults. Mature content in this game includes but is not limited to:\r\n\r\n- Lewd Language\r\n- Foreplay and Sex"
+      "notes": "Captain Firehawk is a shoot 'em up with graphic depictions of sexual interactions between consenting adults. Mature content in this game includes but is not limited to:\r\n\r\n- Lewd Language\r\n- Foreplay and Sex"
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Nudez\r\nViol\u00eancia\r\nLinguagem impr\u00f3pria\r\nSexo Expl\u00edcito",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nAlkohol / Tabak\nGewalt"
+      }
     }
   },
   "2053600": {
@@ -5076,9 +5117,9 @@
     "controller_support": "full",
     "short_description": "Attract customers, train stars, and win the Grand Slam in this tennis club sim!",
     "supported_languages": "English, Simplified Chinese, Traditional Chinese, Japanese, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054810/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054810/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2054810/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054810/header.jpg?t=1701246653",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054810/capsule_231x87.jpg?t=1701246653",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054810/capsule_184x69.jpg?t=1701246653",
     "website": "https://kairosoft.net/game/appli/tennis.html",
     "developers": [
       "Kairosoft Co.,Ltd"
@@ -5109,7 +5150,8 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       2,
@@ -5126,14 +5168,27 @@
       "date": "27 Nov, 2022"
     },
     "support_info": {
-      "url": "",
+      "url": "https://kairosoft.net/steam/faq.html",
       "email": "support@kairosoft.net"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2054810/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2054810/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054810/page_bg_generated_v6b.jpg?t=1701246653",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054810/page_bg_generated.jpg?t=1701246653",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2052200": {
@@ -7085,9 +7140,9 @@
       "appid": "1533420",
       "name": "Neon White"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054540/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054540/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2054540/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054540/header.jpg?t=1655397119",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054540/capsule_231x87.jpg?t=1655397119",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054540/capsule_184x69.jpg?t=1655397119",
     "website": null,
     "developers": [
       "Angel Matrix"
@@ -7125,12 +7180,13 @@
       "url": "",
       "email": "help@annapurnainteractive.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2054540/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2054540/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054540/page_bg_generated_v6b.jpg?t=1655397119",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054540/page_bg_generated.jpg?t=1655397119",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2053803": {
     "type": "dlc",
@@ -9521,12 +9577,11 @@
     "steam_appid": 2053370,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
-    "short_description": "Looking for an immersive VR puzzle adventure? In Chrono Weaver you use advanced technology to slingshot your way across time bending kinetic puzzles. As you explore an unearthly sci-fi world, work with copies of yourself as you travel through time to find solutions to seemingly impossible tests.",
+    "short_description": "Looking for an immersive VR physics puzzler? Chrono Weaver is a single-player co-op game. Work with copies of yourself as you travel through space and time, finding solutions to seemingly impossible tests. Get to work and get lost in this quirky sci-fi world.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2053370/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2053370/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2053370/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2053370/header.jpg?t=1734839804",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2053370/capsule_231x87.jpg?t=1734839804",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2053370/capsule_184x69.jpg?t=1734839804",
     "website": "https://www.ivorycrowgames.com/ChronoWeaver.html",
     "developers": [
       "Ivory Crow Games LLC"
@@ -9534,7 +9589,26 @@
     "publishers": [
       "Ivory Crow Games LLC"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2512470,
+        "description": ""
+      }
+    ],
+    "packages": [
+      733630
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Chrono Weaver",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -9542,9 +9616,9 @@
     },
     "categories": [
       2,
-      28,
       52,
-      54
+      54,
+      62
     ],
     "genres": [
       4,
@@ -9552,18 +9626,23 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "hello@ivorycrowgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2053370/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2053370/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2053370/page_bg_generated_v6b.jpg?t=1734839804",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2053370/page_bg_generated.jpg?t=1734839804",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      }
     }
   },
   "2053220": {

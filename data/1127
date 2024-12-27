@@ -1199,7 +1199,7 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "20 Dec, 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "zm_hz@foxmail.com",
@@ -1760,7 +1760,7 @@
     "short_description": "",
     "fullgame": {
       "appid": "3277410",
-      "name": "Patient-001"
+      "name": "Patient 001"
     },
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383060/header.jpg?t=1733372855",
     "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383060/6aef33d4068c6d9d6f5994bb7ce3fb0c35a19af5/capsule_231x87.jpg?t=1733372855",
@@ -2195,7 +2195,7 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "22 Dec, 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
@@ -2415,15 +2415,21 @@
     "is_free": false,
     "short_description": "Beneath the Bell is a horror game that will drag you into an unsettling nightmare. While driving your car, an unexpected breakdown forces you to stop in front of an abandoned school gate, marking the entrance to a world full of dark mysteries.",
     "supported_languages": "English<strong>*</strong>, Italian, German, Spanish - Spain, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/header.jpg?t=1733602050",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/870f5743a49bcf20d31f56a692cebcab213cc64a/capsule_231x87.jpg?t=1733602050",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/870f5743a49bcf20d31f56a692cebcab213cc64a/capsule_184x69.jpg?t=1733602050",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/header.jpg?t=1735319940",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/870f5743a49bcf20d31f56a692cebcab213cc64a/capsule_231x87.jpg?t=1735319940",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/870f5743a49bcf20d31f56a692cebcab213cc64a/capsule_184x69.jpg?t=1735319940",
     "website": null,
     "developers": [
       "TheCreepyDev"
     ],
     "publishers": [
       "TheCreepyDev"
+    ],
+    "demos": [
+      {
+        "appid": 3414710,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -2447,8 +2453,8 @@
       "url": "",
       "email": "pierluigi.zomparelli@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/page_bg_generated_v6b.jpg?t=1733602050",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/page.bg.jpg?t=1733602050",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/page_bg_generated_v6b.jpg?t=1735319940",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383710/page.bg.jpg?t=1735319940",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2481,9 +2487,9 @@
     "controller_support": "full",
     "short_description": "What lies beyond The 4th Wall?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/header.jpg?t=1734087507",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/a96104a8c3f9c02bdbd0937de42164db6411177e/capsule_231x87.jpg?t=1734087507",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/a96104a8c3f9c02bdbd0937de42164db6411177e/capsule_184x69.jpg?t=1734087507",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/header.jpg?t=1735317267",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/56eeec89a47c5410a19376967103fb3cf7066239/capsule_231x87.jpg?t=1735317267",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/56eeec89a47c5410a19376967103fb3cf7066239/capsule_184x69.jpg?t=1735317267",
     "website": "http://gzstorm.com",
     "developers": [
       "GZ Storm"
@@ -2491,7 +2497,20 @@
     "publishers": [
       "GZ Storm"
     ],
-    "package_groups": [],
+    "packages": [
+      1197114
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The 4th Wall",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2500,21 +2519,25 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       23
     ],
+    "achievements": {
+      "total": 5
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "27 Dec, 2024"
     },
     "support_info": {
       "url": "http://gzstorm.com",
       "email": "jesse@gzstorm.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/page_bg_generated_v6b.jpg?t=1734087507",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/page_bg_generated.jpg?t=1734087507",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/page_bg_generated_v6b.jpg?t=1735317267",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383190/page_bg_generated.jpg?t=1735317267",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2579,9 +2602,9 @@
     "is_free": false,
     "short_description": "Navigate a haunting corn maze in this atmospheric exploration game. Manage your flashlight battery, search for compasses, and uncover eerie secrets while avoiding what lurks in the shadows. Simple mechanics, immersive tension\u2014can you find your way out?",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/header.jpg?t=1733887439",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/00181ad9bbc48772dc45c427be5a0bcf7bdf326c/capsule_231x87.jpg?t=1733887439",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/00181ad9bbc48772dc45c427be5a0bcf7bdf326c/capsule_184x69.jpg?t=1733887439",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/header.jpg?t=1735156820",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/00181ad9bbc48772dc45c427be5a0bcf7bdf326c/capsule_231x87.jpg?t=1735156820",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/00181ad9bbc48772dc45c427be5a0bcf7bdf326c/capsule_184x69.jpg?t=1735156820",
     "website": null,
     "developers": [
       "Wild Wizard Studios"
@@ -2589,7 +2612,20 @@
     "publishers": [
       "Wild Wizard Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1196685
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Corn Maze",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2597,23 +2633,27 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       2,
       4,
       23
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "25 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "WildWizardStudios.Co@Gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/page_bg_generated_v6b.jpg?t=1733887439",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/page_bg_generated.jpg?t=1733887439",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/page_bg_generated_v6b.jpg?t=1735156820",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381880/page_bg_generated.jpg?t=1735156820",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2719,9 +2759,9 @@
     "controller_support": "full",
     "short_description": "Step into a world of seduction and excitement, where a young woman playfully teases her pursuer to catch her. Immerse yourself in thrilling gameplay where you control every moment, guiding your character through dynamic gameplay and fully interactive 3D sex scenes.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/header.jpg?t=1734245096",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/ed441bdb622c91292733aec6f1a3a499a81f6dad/capsule_231x87.jpg?t=1734245096",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/ed441bdb622c91292733aec6f1a3a499a81f6dad/capsule_184x69.jpg?t=1734245096",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/header.jpg?t=1734523389",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/ed441bdb622c91292733aec6f1a3a499a81f6dad/capsule_231x87.jpg?t=1734523389",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/ed441bdb622c91292733aec6f1a3a499a81f6dad/capsule_184x69.jpg?t=1734523389",
     "website": null,
     "developers": [
       "DWGames"
@@ -2755,8 +2795,8 @@
       "url": "https://discord.gg/gez7Tjs4",
       "email": "dwg.devs@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/page_bg_generated_v6b.jpg?t=1734245096",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/page.bg.jpg?t=1734245096",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/page_bg_generated_v6b.jpg?t=1734523389",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381010/page.bg.jpg?t=1734523389",
     "content_descriptors": {
       "ids": [
         1,
@@ -2793,9 +2833,9 @@
     "is_free": false,
     "short_description": "Based on real-time combat, the game introduces a free skill customization system combined with Roguelike elements. Build an army, face Eastern mythical creatures, discover skill combos, and lead your soldiers to conquer a dark, fantasy world!",
     "supported_languages": "English, Simplified Chinese, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/header.jpg?t=1733442747",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/e1ef97084a4629e285c4181c1a6188c83ca7c7f2/capsule_231x87.jpg?t=1733442747",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/e1ef97084a4629e285c4181c1a6188c83ca7c7f2/capsule_184x69.jpg?t=1733442747",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/header.jpg?t=1734688831",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/e1ef97084a4629e285c4181c1a6188c83ca7c7f2/capsule_231x87.jpg?t=1734688831",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/e1ef97084a4629e285c4181c1a6188c83ca7c7f2/capsule_184x69.jpg?t=1734688831",
     "website": null,
     "developers": [
       "Wijat"
@@ -2803,29 +2843,43 @@
     "publishers": [
       "Wijat"
     ],
-    "package_groups": [],
+    "packages": [
+      1197060
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ghostbreaker Corps",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2024"
+      "coming_soon": false,
+      "date": "20 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "xuhuijie530@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/page_bg_generated_v6b.jpg?t=1733442747",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/page_bg_generated.jpg?t=1733442747",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/page_bg_generated_v6b.jpg?t=1734688831",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383020/page_bg_generated.jpg?t=1734688831",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2857,9 +2911,9 @@
     "is_free": false,
     "short_description": "Starry Sky takes you on an exploration of the wonders of the universe, experiencing dynamic starry skies and the world's best stargazing locations. Naming stars to send blessings, feeling the passage of time in the starry sky and meditation music, enjoying tranquility and romance",
     "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/header.jpg?t=1733972159",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/d408eedab1c1d2bade8f3a1715ab90ef681c191e/capsule_231x87.jpg?t=1733972159",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/d408eedab1c1d2bade8f3a1715ab90ef681c191e/capsule_184x69.jpg?t=1733972159",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/header.jpg?t=1734686110",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/d408eedab1c1d2bade8f3a1715ab90ef681c191e/capsule_231x87.jpg?t=1734686110",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/d408eedab1c1d2bade8f3a1715ab90ef681c191e/capsule_184x69.jpg?t=1734686110",
     "website": null,
     "developers": [
       "YUANZE"
@@ -2867,7 +2921,20 @@
     "publishers": [
       "YUANZE"
     ],
-    "package_groups": [],
+    "packages": [
+      1196519
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Starry Sky",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2875,7 +2942,8 @@
     },
     "categories": [
       2,
-      53
+      53,
+      62
     ],
     "genres": [
       4,
@@ -2885,15 +2953,15 @@
       57
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "20 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "923337023@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/page_bg_generated_v6b.jpg?t=1733972159",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/page.bg.jpg?t=1733972159",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/page_bg_generated_v6b.jpg?t=1734686110",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381380/page.bg.jpg?t=1734686110",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3559,9 +3627,9 @@
     "is_free": false,
     "short_description": "Embark on a fantasy journey of growth and discovery. Gather resources, complete missions, and unlock dairies and notes to reveal the backstory of the protagonist\u2019s journey. Explore the world, uncover secrets, and experience a story about responsibility and personal growth.",
     "supported_languages": "English<strong>*</strong>, Simplified Chinese, Malay<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/header.jpg?t=1733505232",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/3ecc17b87c44e4e2e5c97f02f97baf929b5e4b5d/capsule_231x87.jpg?t=1733505232",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/3ecc17b87c44e4e2e5c97f02f97baf929b5e4b5d/capsule_184x69.jpg?t=1733505232",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/header.jpg?t=1734681811",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/3ecc17b87c44e4e2e5c97f02f97baf929b5e4b5d/capsule_231x87.jpg?t=1734681811",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/3ecc17b87c44e4e2e5c97f02f97baf929b5e4b5d/capsule_184x69.jpg?t=1734681811",
     "website": "https://www.facebook.com/profile.php?id=61569791581433",
     "developers": [
       "Echspire Game"
@@ -3569,7 +3637,20 @@
     "publishers": [
       "Echspire Game"
     ],
-    "package_groups": [],
+    "packages": [
+      1197127
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Meaningless Echoes",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3577,7 +3658,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
@@ -3585,16 +3667,19 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 2
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2024"
+      "coming_soon": false,
+      "date": "20 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "nd1208@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/page_bg_generated_v6b.jpg?t=1733505232",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/page_bg_generated.jpg?t=1733505232",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/page_bg_generated_v6b.jpg?t=1734681811",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383230/page_bg_generated.jpg?t=1734681811",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3862,9 +3947,9 @@
     "is_free": true,
     "short_description": "Welcome to Infinity R, an IDLE where the road is endless, the drops are regular, and the only thing standing between you and victory is... well, a bunch of pesky tolls and a never-ending fuel gauge!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/header.jpg?t=1733832126",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/f68e0fd7cd6724df95893237827b2524ca463d97/capsule_231x87.jpg?t=1733832126",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/f68e0fd7cd6724df95893237827b2524ca463d97/capsule_184x69.jpg?t=1733832126",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/header.jpg?t=1734965630",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/f68e0fd7cd6724df95893237827b2524ca463d97/capsule_231x87.jpg?t=1734965630",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/f68e0fd7cd6724df95893237827b2524ca463d97/capsule_184x69.jpg?t=1734965630",
     "website": null,
     "developers": [
       "Pampelemoose"
@@ -3889,16 +3974,19 @@
       28,
       37
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "22 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "infinity.r.game@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/page_bg_generated_v6b.jpg?t=1733832126",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/page_bg_generated.jpg?t=1733832126",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/page_bg_generated_v6b.jpg?t=1734965630",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383130/page_bg_generated.jpg?t=1734965630",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6847,9 +6935,9 @@
     "is_free": false,
     "short_description": "A first-person psychological horror game where your own fear shapes the world around you. Explore a mysterious space station, uncover hidden truths, and stay calm as the game reacts to your every move and emotion.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/header.jpg?t=1734347476",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/52be305a771459a46e31a7a4afd28845e418d787/capsule_231x87.jpg?t=1734347476",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/52be305a771459a46e31a7a4afd28845e418d787/capsule_184x69.jpg?t=1734347476",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/header.jpg?t=1734620107",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/52be305a771459a46e31a7a4afd28845e418d787/capsule_231x87.jpg?t=1734620107",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/52be305a771459a46e31a7a4afd28845e418d787/capsule_184x69.jpg?t=1734620107",
     "website": null,
     "developers": [
       "End of File Studio"
@@ -6877,8 +6965,8 @@
       "url": "",
       "email": "echoesoffearofficial@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/page_bg_generated_v6b.jpg?t=1734347476",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/page_bg_generated.jpg?t=1734347476",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/page_bg_generated_v6b.jpg?t=1734620107",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382780/page_bg_generated.jpg?t=1734620107",
     "content_descriptors": {
       "ids": [
         2,

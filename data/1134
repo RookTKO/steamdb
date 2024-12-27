@@ -6,9 +6,9 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402670/header.jpg?t=1734530802",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402670/d35366a3a39ceb3fc23266be8c73084fb089dde1/capsule_231x87.jpg?t=1734530802",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402670/d35366a3a39ceb3fc23266be8c73084fb089dde1/capsule_184x69.jpg?t=1734530802",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402670/header.jpg?t=1734688064",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402670/d35366a3a39ceb3fc23266be8c73084fb089dde1/capsule_231x87.jpg?t=1734688064",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402670/d35366a3a39ceb3fc23266be8c73084fb089dde1/capsule_184x69.jpg?t=1734688064",
     "website": null,
     "package_groups": [],
     "platforms": {
@@ -18,7 +18,7 @@
     },
     "release_date": {
       "coming_soon": false,
-      "date": "13 Dec, 2024"
+      "date": "20 Dec, 2024"
     },
     "support_info": {
       "url": "",
@@ -114,9 +114,9 @@
       "name": "Project Three"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/header.jpg?t=1734132668",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/3ac10eb92da2d6e8a65894adab0cfe511aebaa2d/capsule_231x87.jpg?t=1734132668",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/3ac10eb92da2d6e8a65894adab0cfe511aebaa2d/capsule_184x69.jpg?t=1734132668",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/header.jpg?t=1734646767",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/3ac10eb92da2d6e8a65894adab0cfe511aebaa2d/capsule_231x87.jpg?t=1734646767",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/3ac10eb92da2d6e8a65894adab0cfe511aebaa2d/capsule_184x69.jpg?t=1734646767",
     "website": "https://www.youtube.com/@towodev/",
     "developers": [
       "Dominik Kopeck\u00fd"
@@ -149,8 +149,8 @@
       "url": "",
       "email": "saukr.business@email.cz"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/page_bg_generated_v6b.jpg?t=1734132668",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/page.bg.jpg?t=1734132668",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/page_bg_generated_v6b.jpg?t=1734646767",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404310/page.bg.jpg?t=1734646767",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -249,9 +249,9 @@
     "is_free": false,
     "short_description": "SYM Shepherd - Sam the German Shepherd is exploring a construction site. Help him perform tasks in this fun &amp; challenging dog simulator.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/header.jpg?t=1734151720",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/b04168658ce2dfefb604cb178ed633667a1b69f3/capsule_231x87.jpg?t=1734151720",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/b04168658ce2dfefb604cb178ed633667a1b69f3/capsule_184x69.jpg?t=1734151720",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/header.jpg?t=1735286706",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/b04168658ce2dfefb604cb178ed633667a1b69f3/capsule_231x87.jpg?t=1735286706",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/b04168658ce2dfefb604cb178ed633667a1b69f3/capsule_184x69.jpg?t=1735286706",
     "website": "http://store.steampowered.com/search/?publisher=Archor%20Games",
     "developers": [
       "Archor Wright"
@@ -259,14 +259,28 @@
     "publishers": [
       "Archor Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1203970
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy SYM Shepherd",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -275,15 +289,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "24 Dec, 2024"
+      "coming_soon": false,
+      "date": "27 Dec, 2024"
     },
     "support_info": {
       "url": "http://store.steampowered.com/search/?publisher=Archor%20Games",
       "email": "archor@archor.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/page_bg_generated_v6b.jpg?t=1734151720",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/page.bg.jpg?t=1734151720",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/page_bg_generated_v6b.jpg?t=1735286706",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403500/page.bg.jpg?t=1735286706",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -828,7 +842,7 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "24 Dec, 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
@@ -2829,9 +2843,9 @@
       "name": "Lost Islands"
     },
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/header.jpg?t=1734496895",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/fa6eefbc5aaa706818de59ea1e6598c514e2b197/capsule_231x87.jpg?t=1734496895",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/fa6eefbc5aaa706818de59ea1e6598c514e2b197/capsule_184x69.jpg?t=1734496895",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/header.jpg?t=1735138505",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/fa6eefbc5aaa706818de59ea1e6598c514e2b197/capsule_231x87.jpg?t=1735138505",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/fa6eefbc5aaa706818de59ea1e6598c514e2b197/capsule_184x69.jpg?t=1735138505",
     "website": null,
     "developers": [
       "Jolly Roger Game"
@@ -2880,8 +2894,8 @@
       "url": "www.jollyrogergame.com",
       "email": "contacts@jollyrogergame.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/page_bg_generated_v6b.jpg?t=1734496895",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/page_bg_generated.jpg?t=1734496895",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/page_bg_generated_v6b.jpg?t=1735138505",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404660/page_bg_generated.jpg?t=1735138505",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2914,29 +2928,42 @@
       "appid": "1885570",
       "name": "Happy Live,Show Up!"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/header.jpg?t=1734503391",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/bd4771fd249e9d1bbad18b8e8b49f06d470198c2/capsule_231x87.jpg?t=1734503391",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/bd4771fd249e9d1bbad18b8e8b49f06d470198c2/capsule_184x69.jpg?t=1734503391",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/header.jpg?t=1734581837",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/bd4771fd249e9d1bbad18b8e8b49f06d470198c2/capsule_231x87.jpg?t=1734581837",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/bd4771fd249e9d1bbad18b8e8b49f06d470198c2/capsule_184x69.jpg?t=1734581837",
     "website": null,
     "developers": [
       "Favorite"
     ],
-    "package_groups": [],
+    "packages": [
+      1203524
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u30cf\u30c3\u30d4\u30fc\u30e9\u30a4\u30f4 \u30b7\u30e7\u30a6\u30a2\u30c3\u30d7\uff01 Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "18 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "info@syawaseworks.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/page_bg_generated_v6b.jpg?t=1734503391",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/page_bg_generated.jpg?t=1734503391",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/page_bg_generated_v6b.jpg?t=1734581837",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402130/page_bg_generated.jpg?t=1734581837",
     "content_descriptors": {
       "ids": [],
       "notes": null
