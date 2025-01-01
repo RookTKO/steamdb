@@ -6383,14 +6383,27 @@
       "name": "Caribbean Legend"
     },
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/header.jpg?t=1734887732",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/8274b8b96196bfec744d73c7a6abc1a400e4529d/capsule_231x87.jpg?t=1734887732",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/8274b8b96196bfec744d73c7a6abc1a400e4529d/capsule_184x69.jpg?t=1734887732",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/header.jpg?t=1735419480",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/8274b8b96196bfec744d73c7a6abc1a400e4529d/capsule_231x87.jpg?t=1735419480",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/8274b8b96196bfec744d73c7a6abc1a400e4529d/capsule_184x69.jpg?t=1735419480",
     "website": null,
     "developers": [
       "BlackMark Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1202199
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Caribbean Legend - Ships Pack: Part I",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6402,21 +6415,22 @@
       22,
       23,
       29,
-      30
+      30,
+      62
     ],
     "genres": [
       3
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "27 Dec, 2024"
+      "coming_soon": false,
+      "date": "28 Dec, 2024"
     },
     "support_info": {
       "url": "https://discord.gg/caribbeanlegend",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/page_bg_generated_v6b.jpg?t=1734887732",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/page_bg_generated.jpg?t=1734887732",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/page_bg_generated_v6b.jpg?t=1735419480",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398030/page_bg_generated.jpg?t=1735419480",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7494,6 +7508,75 @@
         "banned": "1",
         "use_age_gate": "0",
         "descriptors": "Sexuelle Inhalte\nDrastische Gewalt\nAlkohol / Tabak"
+      }
+    }
+  },
+  "3396500": {
+    "type": "demo",
+    "name": "Zombie Pandemia 2D Demo",
+    "steam_appid": 3396500,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "",
+    "fullgame": {
+      "appid": "3316360",
+      "name": "Zombie Pandemia 2D"
+    },
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396500/header.jpg?t=1735688892",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396500/c638eb24f0901b22bbb1983104fcea7696456d93/capsule_231x87.jpg?t=1735688892",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396500/c638eb24f0901b22bbb1983104fcea7696456d93/capsule_184x69.jpg?t=1735688892",
+    "website": null,
+    "developers": [
+      "SpaceGhostTriFF"
+    ],
+    "publishers": [
+      "SpaceGhostTriFF"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      10,
+      17
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "31 Dec, 2024"
+    },
+    "support_info": {
+      "url": "https://guns.lol/triff",
+      "email": "spaceghosttriff@gmail.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396500/page_bg_generated_v6b.jpg?t=1735688892",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396500/page.bg.jpg?t=1735688892",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "16"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nSchimpfw\u00f6rte"
       }
     }
   }
