@@ -5155,9 +5155,9 @@
     "is_free": false,
     "short_description": "\u904e\u53bb\u306e\u666f\u8272\u3092\u983c\u308a\u306b\u601d\u3044\u51fa\u3068\u907a\u54c1\u3092\u56de\u53ce\u3059\u308b\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30b2\u30fc\u30e0\u3002 \u907a\u54c1\u6574\u7406\u306e\u305f\u3081\u5b9f\u5bb6\u3092\u8a2a\u308c\u305f\u969b\u3001\u898b\u3064\u3051\u305f\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u3002 \u305d\u306e\u30ab\u30e1\u30e9\u306f\u904e\u53bb\u306e\u5bb6\u306e\u666f\u8272\u3084\u6614\u306e\u4e21\u89aa\u3001\u5b50\u4f9b\u306e\u9803\u306e\u81ea\u5206\u306e\u59ff\u307e\u3067\u6620\u3057\u305f\u3002 \u30ab\u30e1\u30e9\u306b\u6620\u308b\u904e\u53bb\u306e\u666f\u8272\u304b\u3089\u3001\u5927\u5207\u306a\u601d\u3044\u51fa\u3068\u907a\u54c1\u3092\u56de\u53ce\u3057\u3066\u3044\u304f\u3002 \u4e0d\u601d\u8b70\u306a\u30ab\u30e1\u30e9\u306b\u3064\u3044\u3066\u306e\u79d8\u5bc6\u3082\u660e\u3089\u304b\u306b\u3002 \u904e\u53bb\u3001\u73fe\u5728\u3001\u305d\u3057\u3066\u672a\u6765\u306b\u7e4b\u304c\u308b\u7269\u8a9e\u3002",
     "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/header.jpg?t=1733560119",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/63cfd525554c53dd1ce1efe18975f5c3d999a178/capsule_231x87.jpg?t=1733560119",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/63cfd525554c53dd1ce1efe18975f5c3d999a178/capsule_184x69.jpg?t=1733560119",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/header.jpg?t=1734255308",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/63cfd525554c53dd1ce1efe18975f5c3d999a178/capsule_231x87.jpg?t=1734255308",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/63cfd525554c53dd1ce1efe18975f5c3d999a178/capsule_184x69.jpg?t=1734255308",
     "website": "https://mugen-ollie-games.studio.site/",
     "developers": [
       "\u7121\u9650\u30aa\u30fc\u30ea\u30fc\u30b2\u30fc\u30e0\u30ba"
@@ -5165,28 +5165,42 @@
     "publishers": [
       "\u7121\u9650\u30aa\u30fc\u30ea\u30fc\u30b2\u30fc\u30e0\u30ba"
     ],
-    "package_groups": [],
+    "packages": [
+      1192941
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u907a\u54c1",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       25
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "15 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "mugenolliegames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/page_bg_generated_v6b.jpg?t=1733560119",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/page_bg_generated.jpg?t=1733560119",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/page_bg_generated_v6b.jpg?t=1734255308",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371200/page_bg_generated.jpg?t=1734255308",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5649,15 +5663,21 @@
     "is_free": false,
     "short_description": "Wake up in a magical forest... as a rabbit. Something strange has happened to you, and solving it won\u2019t be easy. Explore fascinating worlds, face challenging puzzles, and unravel the mystery of how you lost your human form. Each jump brings you closer to the truth... Are you ready to discover it?",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Korean, Danish, Finnish, Dutch, Japanese, Norwegian, Portuguese - Brazil, Portuguese - Portugal, Swedish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/header.jpg?t=1732954552",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/ea3292aa1d87b77ce5c0804fae1dfab673dc6e1d/capsule_231x87.jpg?t=1732954552",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/ea3292aa1d87b77ce5c0804fae1dfab673dc6e1d/capsule_184x69.jpg?t=1732954552",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/header.jpg?t=1734448841",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/ea3292aa1d87b77ce5c0804fae1dfab673dc6e1d/capsule_231x87.jpg?t=1734448841",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/ea3292aa1d87b77ce5c0804fae1dfab673dc6e1d/capsule_184x69.jpg?t=1734448841",
     "website": "https://betakingstudios.com",
     "developers": [
       "Betaking Studios"
     ],
     "publishers": [
       "Betaking Studios"
+    ],
+    "demos": [
+      {
+        "appid": 3408730,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5681,8 +5701,8 @@
       "url": "https://betakingstudios.com",
       "email": "betakingstudios@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/page_bg_generated_v6b.jpg?t=1732954552",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/page.bg.jpg?t=1732954552",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/page_bg_generated_v6b.jpg?t=1734448841",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371710/page.bg.jpg?t=1734448841",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5782,9 +5802,9 @@
       "name": "NARAKA: BLADEPOINT"
     },
     "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, French, German, Spanish - Spain, Russian, Turkish, Portuguese - Portugal, Vietnamese, Thai<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/header.jpg?t=1733479404",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/3c5ce1f98a3d089682e46d2f5df07e94b0aaba94/capsule_231x87.jpg?t=1733479404",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/3c5ce1f98a3d089682e46d2f5df07e94b0aaba94/capsule_184x69.jpg?t=1733479404",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/header.jpg?t=1734575742",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/3c5ce1f98a3d089682e46d2f5df07e94b0aaba94/capsule_231x87.jpg?t=1734575742",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/3c5ce1f98a3d089682e46d2f5df07e94b0aaba94/capsule_184x69.jpg?t=1734575742",
     "website": "https://www.narakathegame.com",
     "developers": [
       "24 Entertainment"
@@ -5832,8 +5852,8 @@
       "url": "https://gm.163.com/user_help.html?paper_id=4718",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/page_bg_generated_v6b.jpg?t=1733479404",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/page_bg_generated.jpg?t=1733479404",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/page_bg_generated_v6b.jpg?t=1734575742",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371820/page_bg_generated.jpg?t=1734575742",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5852,9 +5872,6 @@
       "kgrb": {
         "rating": "15",
         "descriptors": "\uff0a \uc0ac\uc2e4\uc801\uc778 \ud3ed\ub825 \ud45c\ud604\r\n- \ucc3d, \uce7c, \ud65c \ub4f1 \uc0ac\uc2e4\uc801\uc73c\ub85c \ud45c\ud604\ub41c \ubb34\uae30\ub958\ub97c \uc0ac\uc6a9\ud558\uc5ec \ub300\uc804\ud568"
-      },
-      "esrb": {
-        "rating": "t"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -5878,9 +5895,9 @@
       "name": "NARAKA: BLADEPOINT"
     },
     "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, French, German, Spanish - Spain, Russian, Turkish, Portuguese - Portugal, Vietnamese, Thai<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/header.jpg?t=1733480239",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/66172205e7240a6ade0f3ea4c0f2581fb01a893f/capsule_231x87.jpg?t=1733480239",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/66172205e7240a6ade0f3ea4c0f2581fb01a893f/capsule_184x69.jpg?t=1733480239",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/header.jpg?t=1734575445",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/66172205e7240a6ade0f3ea4c0f2581fb01a893f/capsule_231x87.jpg?t=1734575445",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/66172205e7240a6ade0f3ea4c0f2581fb01a893f/capsule_184x69.jpg?t=1734575445",
     "website": "https://www.narakathegame.com",
     "developers": [
       "24 Entertainment"
@@ -5928,8 +5945,8 @@
       "url": "https://gm.163.com/user_help.html?paper_id=4718",
       "email": "service@narakathegame.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/page_bg_generated_v6b.jpg?t=1733480239",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/page_bg_generated.jpg?t=1733480239",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/page_bg_generated_v6b.jpg?t=1734575445",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371830/page_bg_generated.jpg?t=1734575445",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5948,9 +5965,6 @@
       "kgrb": {
         "rating": "15",
         "descriptors": "\uff0a \uc0ac\uc2e4\uc801\uc778 \ud3ed\ub825 \ud45c\ud604\r\n- \ucc3d, \uce7c, \ud65c \ub4f1 \uc0ac\uc2e4\uc801\uc73c\ub85c \ud45c\ud604\ub41c \ubb34\uae30\ub958\ub97c \uc0ac\uc6a9\ud558\uc5ec \ub300\uc804\ud568"
-      },
-      "esrb": {
-        "rating": "t"
       },
       "steam_germany": {
         "rating_generated": "1",
