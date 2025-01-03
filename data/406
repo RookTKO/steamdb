@@ -180,47 +180,85 @@
     "steam_appid": 1219240,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
-    "short_description": "Get injected into the microscopic world of BioGun. Face viral threats and winding corridors on your mission to save man\u2019s best friend from the inside. Will you be the vaccine to save dog-kind from extinction or will DocX have to return to the drawing board?",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1219240/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1219240/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1219240/capsule_184x69.jpg",
+    "short_description": "Get injected into the microscopic world of BioGun. Face viral threats and winding corridors on your mission to save man\u2019s best friend from the inside. Will you save dog-kind from extinction?",
+    "supported_languages": "English<strong>*</strong>, French, German, Russian, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219240/header.jpg?t=1730924044",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219240/180f9981cceacda7354d55ad455213c7c359abca/capsule_231x87.jpg?t=1730924044",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219240/180f9981cceacda7354d55ad455213c7c359abca/capsule_184x69.jpg?t=1730924044",
     "website": "https://www.biogungame.com/",
     "developers": [
       "Dapper Dog Digital"
     ],
     "publishers": [
-      "Ravenage Games"
+      "Dapper Dog Digital"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 1861680,
+        "description": ""
+      }
+    ],
+    "packages": [
+      422128
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy BioGun",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
-      28
+      18,
+      22,
+      23,
+      62
     ],
     "genres": [
       1,
       23,
       25
     ],
+    "achievements": {
+      "total": 34
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "31 Jul, 2024"
     },
     "support_info": {
       "url": "https://www.biogungame.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1219240/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1219240/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219240/page_bg_generated_v6b.jpg?t=1730924044",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219240/page.bg.jpg?t=1730924044",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "1219580": {
@@ -4815,9 +4853,9 @@
     "is_free": true,
     "short_description": "HEAT REBORN is a free massively multiplayer online first-person shooter. Completely re-created the original HEAT PROJECT with modern game engine. Brings you the improvement of graphics, game balance, and even with numbers of new game mode for you!",
     "supported_languages": "Traditional Chinese, English, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1219590/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1219590/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1219590/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219590/header.jpg?t=1620563914",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219590/capsule_231x87.jpg?t=1620563914",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219590/capsule_184x69.jpg?t=1620563914",
     "website": "https://www.heatreborn.com/",
     "developers": [
       "HEAT REBORN DEV TEAM"
@@ -4851,14 +4889,32 @@
       "url": "https://www.heatreborn.com/join-discord/",
       "email": "support@heatreborn.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1219590/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1219590/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219590/page_bg_generated_v6b.jpg?t=1620563914",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219590/page_bg_generated.jpg?t=1620563914",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "Includes intense violence and blood."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nDerbe Sprache"
+      }
     }
   },
   "1220100": {
@@ -5378,15 +5434,15 @@
     "is_free": true,
     "short_description": "Reach your place in the stars!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1218670/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1218670/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1218670/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218670/header.jpg?t=1735878817",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218670/capsule_231x87.jpg?t=1735878817",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218670/capsule_184x69.jpg?t=1735878817",
     "website": "https://coldandold.com",
     "developers": [
       "Tameem Hamoui"
     ],
     "publishers": [
-      "Cold & Old"
+      "Cold And Old"
     ],
     "package_groups": [],
     "platforms": {
@@ -5415,11 +5471,24 @@
       "url": "https://coldandold.com/support/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1218670/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1218670/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218670/page_bg_generated_v6b.jpg?t=1735878817",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218670/page.bg.jpg?t=1735878817",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "1220670": {

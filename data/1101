@@ -7,10 +7,10 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "An action, adventure &amp; dungeon exploration RPG, where you play as the ninjas Shin &amp; Nobi in their quest to save the world of Sogen!",
-    "supported_languages": "English, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/header.jpg?t=1731080820",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/eb90a34a02b1b4070c81225081e0f638cfbb8243/capsule_231x87.jpg?t=1731080820",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/eb90a34a02b1b4070c81225081e0f638cfbb8243/capsule_184x69.jpg?t=1731080820",
+    "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, Galician<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/header.jpg?t=1735350370",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/4fafc88cec1a911e34b96c9be56181b6985c64e4/capsule_231x87.jpg?t=1735350370",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/4fafc88cec1a911e34b96c9be56181b6985c64e4/capsule_184x69.jpg?t=1735350370",
     "website": "https://katanadragon.com/",
     "developers": [
       "Tsunoa Games"
@@ -18,11 +18,17 @@
     "publishers": [
       "Tsunoa Games"
     ],
+    "demos": [
+      {
+        "appid": 3404960,
+        "description": ""
+      }
+    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": true
+      "linux": false
     },
     "categories": [
       2,
@@ -42,8 +48,8 @@
       "url": "https://katanadragon.com/",
       "email": "contact@tsunoagames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/page_bg_generated_v6b.jpg?t=1731080820",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/page.bg.jpg?t=1731080820",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/page_bg_generated_v6b.jpg?t=1735350370",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303010/page.bg.jpg?t=1735350370",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -158,9 +164,9 @@
     "is_free": false,
     "short_description": "Sweet Fantasy- A simple and beautiful puzzle game based on a fantasy world, with relaxing music accompaniment. After completing the level, you can enjoy the girl's photos in the gallery. (Anime style)",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Russian, Bulgarian, Hungarian, Indonesian, Turkish, Greek, Norwegian, Czech, Japanese, Polish, Thai, Ukrainian, Swedish, Simplified Chinese, Traditional Chinese, Romanian, Finnish, Dutch, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America, Vietnamese, Arabic, Korean, Azerbaijani, Armenian, Igbo, Sindhi, Sinhala, Quechua, Croatian, Icelandic, Cherokee, Galician, Catalan, Afrikaans, Hindi, Gujarati, Swahili, Kyrgyz, Kazakh, Georgian, Turkmen, Tamil, K'iche', Tajik, Serbian, Sotho, Odia, Welsh, Konkani, Bangla, Amharic, Nepali, Basque, Hebrew, Kannada, Estonian, Irish, Latvian, Tigrinya, Slovak, Slovenian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Tswana, Maori, Wolof, Bosnian, Persian, Telugu, Urdu, Uzbek, Valencian, Belarusian, Kinyarwanda, Luxembourgish, Zulu, Xhosa, Lithuanian, Yoruba, Sorani, Uyghur, Filipino, Mongolian, Scots, Hausa, Dari, Albanian, Assamese, Tatar, Malay, Macedonian, Marathi, Malayalam, Maltese, Khmer",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/header.jpg?t=1729652879",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/bf4f1973af994fdc752ef710ffbce431246bf476/capsule_231x87.jpg?t=1729652879",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/bf4f1973af994fdc752ef710ffbce431246bf476/capsule_184x69.jpg?t=1729652879",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/header.jpg?t=1734022839",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/bf4f1973af994fdc752ef710ffbce431246bf476/capsule_231x87.jpg?t=1734022839",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/bf4f1973af994fdc752ef710ffbce431246bf476/capsule_184x69.jpg?t=1734022839",
     "website": null,
     "developers": [
       "King Kong"
@@ -168,29 +174,47 @@
     "publishers": [
       "King Kong Gaming"
     ],
-    "package_groups": [],
+    "packages": [
+      1169829
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Sweet Fantasy",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "12 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "gameplaymiddle@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/page_bg_generated_v6b.jpg?t=1729652879",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/page_bg_generated.jpg?t=1729652879",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/page_bg_generated_v6b.jpg?t=1734022839",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303100/page_bg_generated.jpg?t=1734022839",
     "content_descriptors": {
       "ids": [
         1,
@@ -295,9 +319,9 @@
     "is_free": false,
     "short_description": "The city begins to fold! Find the key items that will help you escape before it's too late!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/header.jpg?t=1730259178",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/7858f14bb11c90ccf886bce8c9723c4a1f535ef1/capsule_231x87.jpg?t=1730259178",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/7858f14bb11c90ccf886bce8c9723c4a1f535ef1/capsule_184x69.jpg?t=1730259178",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/header.jpg?t=1733281943",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/7858f14bb11c90ccf886bce8c9723c4a1f535ef1/capsule_231x87.jpg?t=1733281943",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/7858f14bb11c90ccf886bce8c9723c4a1f535ef1/capsule_184x69.jpg?t=1733281943",
     "website": "https://yahaha.com/horror-template",
     "developers": [
       "LittleMaru"
@@ -327,8 +351,8 @@
       "url": "https://yahaha.com/",
       "email": "steam@yahaha.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/page_bg_generated_v6b.jpg?t=1730259178",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/page.bg.jpg?t=1730259178",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/page_bg_generated_v6b.jpg?t=1733281943",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303140/page.bg.jpg?t=1733281943",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -360,9 +384,9 @@
     "is_free": false,
     "short_description": "This is a innovative roguelike TD game made with the \u300eY3 Editor\u300f. No need for path planning or tower combos\u2014just one tower! With almost 100 weapons, you\u2019ll be mowing down foes and dominating the battlefield. Enjoy the rush and let off some steam!",
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/header.jpg?t=1732590254",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/07d5290d358cffe086d63b37a2ed542b861ae47a/capsule_231x87.jpg?t=1732590254",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/07d5290d358cffe086d63b37a2ed542b861ae47a/capsule_184x69.jpg?t=1732590254",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/header.jpg?t=1734407247",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/07d5290d358cffe086d63b37a2ed542b861ae47a/capsule_231x87.jpg?t=1734407247",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/07d5290d358cffe086d63b37a2ed542b861ae47a/capsule_184x69.jpg?t=1734407247",
     "website": null,
     "developers": [
       "New Folder"
@@ -391,7 +415,6 @@
     },
     "categories": [
       2,
-      23,
       62
     ],
     "genres": [
@@ -406,8 +429,8 @@
       "url": "",
       "email": "3995223208@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/page_bg_generated_v6b.jpg?t=1732590254",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/page.bg.jpg?t=1732590254",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/page_bg_generated_v6b.jpg?t=1734407247",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303150/page.bg.jpg?t=1734407247",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -710,11 +733,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "She is the dark magician, an apostle of the great Kraken, Nialato. Show the foolish mortals the terrifying power of the Kraken through brute strength and magical prowess Experience the thrill of hack-and-slash action alongside the fearsome Kraken",
+    "short_description": "She is the dark magician, an apostle of the great Kraken, Nialato. Through brute strength and magical prowess, show the terrifying Kraken powers to the foolish humans! Experience the thrill of unparalleled hack-and-slash action with the fearsome Kraken",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian, Vietnamese, Japanese, Simplified Chinese, Traditional Chinese, Thai, Turkish, Portuguese - Brazil, Polish, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/header.jpg?t=1732499293",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/f50e2c00584bf99e4457d977452066b61d4d4f82/capsule_231x87.jpg?t=1732499293",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/f50e2c00584bf99e4457d977452066b61d4d4f82/capsule_184x69.jpg?t=1732499293",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/header.jpg?t=1734405913",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/f50e2c00584bf99e4457d977452066b61d4d4f82/capsule_231x87.jpg?t=1734405913",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/f50e2c00584bf99e4457d977452066b61d4d4f82/capsule_184x69.jpg?t=1734405913",
     "website": null,
     "developers": [
       "nStarcube"
@@ -722,7 +745,20 @@
     "publishers": [
       "nStarcube"
     ],
-    "package_groups": [],
+    "packages": [
+      1178360
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Kraken City",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -731,22 +767,26 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       23
     ],
+    "achievements": {
+      "total": 14
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "9 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "official@nstarcube.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/page_bg_generated_v6b.jpg?t=1732499293",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/page_bg_generated.jpg?t=1732499293",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/page_bg_generated_v6b.jpg?t=1734405913",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303320/page_bg_generated.jpg?t=1734405913",
     "content_descriptors": {
       "ids": [
         1,
