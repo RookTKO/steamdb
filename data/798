@@ -3271,10 +3271,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Let your talent shine when you sing along your favorite songs in this fun party game! A variety of modes let you play with friends or compete against them. An open song format and AI powered editor tools provide boundless possibilites.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2394070/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2394070/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2394070/capsule_184x69.jpg",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Korean, Polish, Portuguese - Portugal, Russian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394070/header.jpg?t=1734865169",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394070/capsule_231x87.jpg?t=1734865169",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394070/capsule_184x69.jpg?t=1734865169",
     "website": "https://melodymania.org",
     "developers": [
       "Andreas Achim Stange"
@@ -3307,10 +3307,16 @@
       9,
       17,
       18,
+      22,
       24,
+      30,
+      36,
       37,
+      38,
       39,
-      49
+      49,
+      51,
+      62
     ],
     "genres": [
       4,
@@ -3325,14 +3331,32 @@
       "date": "3 Jul, 2023"
     },
     "support_info": {
-      "url": "",
+      "url": "https://melodymania.org/how-to-report-issues",
       "email": "email@melodymania.org"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2394070/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2394070/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394070/page_bg_generated_v6b.jpg?t=1734865169",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394070/page_bg_generated.jpg?t=1734865169",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Schimpfw\u00f6rte"
+      }
     }
   },
   "2394780": {
@@ -3531,45 +3555,87 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Crypt Custodian is a charming metroidvania about cleaning up the afterlife. Play as Pluto- a mischievous cat who has died, and is sentenced to be the afterworlds janitor... FOREVER! Hang out with other doomed ghosts, battle beasts, and explore a vastly expansive landscape.",
-    "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2394650/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2394650/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2394650/capsule_184x69.jpg",
+    "short_description": "Crypt Custodian is a charming metroidvania about cleaning up the afterlife. Play as Pluto - a mischievous cat who has died, and is sentenced to be the afterworld's janitor... FOREVER! Hang out with other doomed ghosts, battle beasts, and explore a vastly expansive landscape.",
+    "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Japanese, Korean, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394650/header.jpg?t=1733682818",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394650/capsule_231x87.jpg?t=1733682818",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394650/capsule_184x69.jpg?t=1733682818",
     "website": null,
     "developers": [
       "Kyle Thompson"
     ],
     "publishers": [
-      "Kyle Thompson"
+      "Kyle Thompson",
+      "Top Hat Studios, Inc.",
+      "H2 Interactive Co., Ltd."
     ],
-    "package_groups": [],
+    "packages": [
+      861492
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Crypt Custodian",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
+    "metacritic": {
+      "score": 82,
+      "url": "https://www.metacritic.com/game/pc/crypt-custodian?ftag=MCD-06-10aaa1f"
+    },
     "categories": [
       2,
       22,
-      28
+      23,
+      28,
+      62
     ],
     "genres": [
       25
     ],
+    "achievements": {
+      "total": 48
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "27 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "kyle@isletsgame.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2394650/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2394650/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394650/page_bg_generated_v6b.jpg?t=1733682818",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394650/page_bg_generated.jpg?t=1733682818",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2394830": {

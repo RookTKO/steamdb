@@ -321,17 +321,18 @@
     "steam_appid": 2271930,
     "required_age": 0,
     "is_free": false,
-    "short_description": "\u300cIfSunSets\u300d is a adventure RPG/ survival game. During the day time, get supplies for the survival all over the island. At night, you will encounter a strong and dreadful monsters tracking you down.",
-    "supported_languages": "English<strong>*</strong>, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2271930/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2271930/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2271930/capsule_184x69.jpg",
-    "website": "https://www.youtube.com/@polymorph_studios_IfSunSets",
+    "short_description": "\u300cIfSunSets\u300d is a survival RPG adventure game. During the day, secure necessary supplies across the island, and survive the night against strong and terrifying monsters that track you down. You can utilize resources you've secured to build a base to fend off threatening monsters.",
+    "supported_languages": "English, Korean, Japanese, Simplified Chinese, Traditional Chinese, French, German, Spanish - Spain, Portuguese - Brazil, Portuguese - Portugal, Russian, Spanish - Latin America, Turkish, Hindi, Arabic",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271930/header.jpg?t=1734676485",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271930/fa5f3b4f05f27e1d77605e8be3d5e1c0dfccf58b/capsule_231x87.jpg?t=1734676485",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271930/fa5f3b4f05f27e1d77605e8be3d5e1c0dfccf58b/capsule_184x69.jpg?t=1734676485",
+    "website": null,
+    "ext_user_account_notice": "Epic Online Services (required for multiplayer) ",
     "developers": [
       "POLYMORPH"
     ],
     "publishers": [
-      "POLYMORPH"
+      "Smilegate"
     ],
     "demos": [
       {
@@ -339,7 +340,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      815022
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy IfSunSets",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -349,26 +363,56 @@
       1,
       2,
       9,
-      38
+      22,
+      23,
+      38,
+      62
     ],
     "genres": [
       3,
       23,
-      25
+      25,
+      70
     ],
+    "achievements": {
+      "total": 11
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "4 Nov, 2024"
     },
     "support_info": {
-      "url": "http://www.polymorph-studios.com/",
-      "email": "plm@polymorph-studios.com"
+      "url": "https://bit.ly/4fKqyQa",
+      "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2271930/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2271930/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271930/page_bg_generated_v6b.jpg?t=1734676485",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271930/page.bg.jpg?t=1734676485",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "kgrb": {
+        "rating": "15",
+        "descriptors": "This game may contain mild violence.",
+        "required_age": "15"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2272150": {
@@ -2687,9 +2731,9 @@
     "is_free": false,
     "short_description": "Cut out your webcam background without a greenscreen. Build your own avatar or choose from our diverse set of avatars and place it in any virtual environment for your video meetings or streaming events. Your Avatar tracks your movement and speech as an animated virtual you.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Norwegian, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2271950/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2271950/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2271950/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271950/header.jpg?t=1684897042",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271950/capsule_231x87.jpg?t=1684897042",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271950/capsule_184x69.jpg?t=1684897042",
     "website": "https://personifyinc.com/",
     "drm_notice": "Personify Inc<br>3 Activations concurrent machine activation limit",
     "ext_user_account_notice": "personifyinc.com ",
@@ -2734,12 +2778,13 @@
       "url": "https://support.personifyinc.com/s/",
       "email": "support@personifyinc.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2271950/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2271950/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271950/page_bg_generated_v6b.jpg?t=1684897042",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271950/page.bg.jpg?t=1684897042",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2272310": {
     "type": "game",
@@ -2979,9 +3024,9 @@
     ],
     "short_description": "Fairy Biography3 : Obsession is a casual strategy game. Players first use advanced spells - [Artillery Artillery] to attack naughty demon spirits, obtain their most important thing [Yuan Shen], and finally break through the demon spirits created by them. phantom!",
     "supported_languages": "English, Simplified Chinese<strong>*</strong>, Japanese<strong>*</strong>, Traditional Chinese, Korean, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2272050/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2272050/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2272050/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272050/header.jpg?t=1732846062",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272050/capsule_231x87.jpg?t=1732846062",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272050/capsule_184x69.jpg?t=1732846062",
     "website": null,
     "developers": [
       "lovelygames"
@@ -3011,13 +3056,8 @@
     "categories": [
       2,
       22,
-      23
-    ],
-    "genres": [
-      1,
-      4,
       23,
-      28
+      62
     ],
     "achievements": {
       "total": 13
@@ -3030,14 +3070,27 @@
       "url": "",
       "email": "lovelygames888@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2272050/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2272050/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272050/page_bg_generated_v6b.jpg?t=1732846062",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272050/page.bg.jpg?t=1732846062",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
       "notes": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Nudity or Sexual Content, General Mature Content.\r\nAll characters involved in sexual content are over the age of 18."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Andeutungen"
+      }
     }
   },
   "2271790": {
@@ -6803,9 +6856,9 @@
     "controller_support": "full",
     "short_description": "You are lost on a cursed island full of monsters... Luckily, your arm is a shotgun! Explore a mini open world and blast your way through waves of demons in this short adventure.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2272770/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2272770/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2272770/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272770/header.jpg?t=1677800239",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272770/capsule_231x87.jpg?t=1677800239",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272770/capsule_184x69.jpg?t=1677800239",
     "website": null,
     "developers": [
       "Antonio Freyre"
@@ -6835,7 +6888,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -6853,11 +6907,29 @@
       "url": "merlinogames.com",
       "email": "hi+steam@merlinogames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2272770/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2272770/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272770/page_bg_generated_v6b.jpg?t=1677800239",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272770/page_bg_generated.jpg?t=1677800239",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2272720": {
@@ -7863,21 +7935,21 @@
   },
   "2273570": {
     "type": "game",
-    "name": "Speed Dates Part I",
+    "name": "Speed Dates",
     "steam_appid": 2273570,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Speed Dates Part I is a romantic-comedy interactive (FMV) game where you determine the course of the conversation with the options that appear. Experience a speed date with 18 attractive women.",
-    "supported_languages": "Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2273570/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2273570/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2273570/capsule_184x69.jpg",
+    "short_description": "Embark Speed Dates, where you control first dates with 18 attractive women in this interactive FMV game. Shape your story with charm and humor for a personalized romantic journey.",
+    "supported_languages": "Turkish<strong>*</strong>, English, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273570/header.jpg?t=1730881878",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273570/capsule_231x87.jpg?t=1730881878",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273570/capsule_184x69.jpg?t=1730881878",
     "website": null,
     "developers": [
-      "ikarus studios"
+      "Icarus Interactive Entertainment"
     ],
     "publishers": [
-      "ikarus studios"
+      "Icarus Interactive Entertainment"
     ],
     "packages": [
       815600
@@ -7885,7 +7957,7 @@
     "package_groups": [
       {
         "name": "default",
-        "title": "Buy Speed Dates Part I",
+        "title": "Buy Speed Dates",
         "description": "",
         "selection_text": "Select a purchase option",
         "save_text": "",
@@ -7899,7 +7971,9 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      13,
+      62
     ],
     "genres": [
       4,
@@ -7907,19 +7981,38 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 0
+    },
     "release_date": {
       "coming_soon": false,
       "date": "31 Mar, 2023"
     },
     "support_info": {
-      "url": "https://ikarusmedya.com/",
-      "email": "info@ikarusmedya.com"
+      "url": "https://icarusinteractive.co/",
+      "email": "info@icarusinteractive.co"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2273570/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2273570/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273570/page_bg_generated_v6b.jpg?t=1730881878",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273570/page.bg.jpg?t=1730881878",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Andeutungen"
+      }
     }
   },
   "2272850": {
@@ -7927,12 +8020,15 @@
     "name": "Love Birds",
     "steam_appid": 2272850,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
+    "dlc": [
+      2823220
+    ],
     "short_description": "Get them cats! Play alone or join your friends to free every last imprisoned bird, but that's not your only goal. All those forest freaks are gonna be out to get you. Explore the many different biomes, and build up your base! Raise a bird army!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2272850/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2272850/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2272850/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272850/header.jpg?t=1718309076",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272850/capsule_231x87.jpg?t=1718309076",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272850/capsule_184x69.jpg?t=1718309076",
     "website": null,
     "developers": [
       "Jaxon Hill",
@@ -7940,12 +8036,6 @@
     ],
     "publishers": [
       "Monkey Love Inc"
-    ],
-    "demos": [
-      {
-        "appid": 2431050,
-        "description": ""
-      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7961,21 +8051,39 @@
     ],
     "genres": [
       1,
-      4
+      4,
+      37
     ],
+    "achievements": {
+      "total": 9
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "13 Jun, 2024"
     },
     "support_info": {
       "url": "https://www.reddit.com/r/Monkey_Love_Support/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2272850/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2272850/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272850/page_bg_generated_v6b.jpg?t=1718309076",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272850/page.bg.jpg?t=1718309076",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2273810": {

@@ -128,11 +128,11 @@
     "steam_appid": 2279180,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Death nomad is a roguelike-survival game with procedurally generated environments. The environment will force you to improve your equipment, defense and constantly move around the world, prolonging your chances of survive.",
+    "short_description": "Death nomad is a roguelite-survival game with procedurally generated environments. The environment will force you to improve your equipment, defense and constantly move around the world, prolonging your chances of survive.",
     "supported_languages": "English, Spanish - Spain, Simplified Chinese, Portuguese - Portugal, Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279180/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279180/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2279180/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279180/header.jpg?t=1729875177",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279180/capsule_231x87.jpg?t=1729875177",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279180/capsule_184x69.jpg?t=1729875177",
     "website": null,
     "developers": [
       "Cosmic Noise"
@@ -140,32 +140,72 @@
     "publishers": [
       "Cosmic Noise"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3293120,
+        "description": ""
+      }
+    ],
+    "packages": [
+      817578
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Death Nomad",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      1,
+      2,
+      9,
+      38,
+      62
     ],
     "genres": [
       1,
-      23
+      23,
+      70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "2 Aug, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "raspydevs.sp@gmail.com"
+      "email": "cosmicnoisedev@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2279180/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2279180/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279180/page_bg_generated_v6b.jpg?t=1729875177",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279180/page.bg.jpg?t=1729875177",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2279600": {
@@ -229,13 +269,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277330/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277330/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2277330/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277330/header.jpg?t=1732450169",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277330/6a5d0befdd48081ed65afa8afc57d73606dba314/capsule_231x87.jpg?t=1732450169",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277330/6a5d0befdd48081ed65afa8afc57d73606dba314/capsule_184x69.jpg?t=1732450169",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -255,7 +292,8 @@
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2278580": {
     "type": "game",
@@ -369,11 +407,14 @@
     "steam_appid": 2279960,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Use your brain to defeat several unique fights whether base game or custom community made content! Learn from your defeats and overcome your overwhelming foe in this Boss Rush RPG game! Maybe, you can help Alice escape the BR World and learn true Self Defense! eh, don't count on it.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279960/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279960/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2279960/capsule_184x69.jpg",
+    "dlc": [
+      2295080
+    ],
+    "short_description": "Use your wits to defeat many cartoonishly unique fights whether in game or custom community made fights! Learn from your defeats and best your overwhelming foe in this Boss Rush RPG game! Maybe, you can help Alice escape the BR World and learn true Self Defense! eh, don't count on it.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279960/header.jpg?t=1726446294",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279960/capsule_231x87.jpg?t=1726446294",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279960/capsule_184x69.jpg?t=1726446294",
     "website": null,
     "developers": [
       "Team Fury"
@@ -387,35 +428,67 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      817903
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Self Defense Kinda...",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": false
     },
     "categories": [
       2,
+      22,
       23,
-      30
+      62
     ],
     "genres": [
       2,
       3,
       23
     ],
+    "achievements": {
+      "total": 35
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "29 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "teamfuryhelp@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2279960/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2279960/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279960/page_bg_generated_v6b.jpg?t=1726446294",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279960/page_bg_generated.jpg?t=1726446294",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Linguagem impr\u00f3pria\r\nDrogas il\u00edcitas\r\nViol\u00eancia",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2279400": {
@@ -700,21 +773,17 @@
     "steam_appid": 2278390,
     "required_age": 0,
     "is_free": true,
-    "short_description": "A sandbox game where you can explore the magical and mystical world of elementals\u3002 Create&amp;discover Elfen fairy Realms and more: peaceful and meditative exploration in the endless fantasy world of Ynithia^",
-    "supported_languages": "English, Japanese, French, Italian, German, Greek, Russian, Ukrainian, Korean, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278390/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278390/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2278390/capsule_184x69.jpg",
+    "short_description": "A sandbox game where you can explore the magical and mystical world of elementals\u3002 \u22c6\ua673\u2734\ufe0e\u263d\u26e4\u272e\u22c6\u2671 \u2605 ^ Create, discover and study ElfenAlien fairyy Realms of Ynithia^ and much more: yayfully emotinal fantasy, colorful amazing miracle challenges and achievements of Subculturarial living in Ypony^",
+    "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Russian<strong>*</strong>, French, Italian, German, Greek, Simplified Chinese, Traditional Chinese, Korean, Hebrew<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278390/header.jpg?t=1726596737",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278390/55926e7c7764ddf3b338f2a851136d1803f50d85/capsule_231x87.jpg?t=1726596737",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278390/55926e7c7764ddf3b338f2a851136d1803f50d85/capsule_184x69.jpg?t=1726596737",
     "website": null,
     "developers": [
-      "fruityEcology",
-      "frufi",
-      "fufifantasy",
-      "El\u00e9  de yni^",
-      "Monsieur Michel\u2605Vetsak de Ypony^"
+      "fruityEcology"
     ],
     "publishers": [
-      "VetcakMinyasha"
+      "fruityEcology"
     ],
     "package_groups": [],
     "platforms": {
@@ -740,14 +809,27 @@
       "date": "28 Feb, 2023"
     },
     "support_info": {
-      "url": "https://vk.com/yni21",
+      "url": "",
       "email": "vetcakminyasha@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2278390/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2278390/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278390/page_bg_generated_v6b.jpg?t=1726596737",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278390/page.bg.jpg?t=1726596737",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2279410": {
@@ -1536,11 +1618,11 @@
     "steam_appid": 2277870,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Point-&amp;-click detective adventure game, you are a retired private detective investigating the case of a missing child while facing his own past demons. Midnight Cove, the wicked Victorian city you live in, features semi-open world mechanics, side-quests, pets, character relationships and much more.",
-    "supported_languages": "English<strong>*</strong>, Spanish - Spain, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277870/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277870/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2277870/capsule_184x69.jpg",
+    "short_description": "Point-&amp;-Click Adventure Game,Play as a retired private detective investigating a missing child case while battling your past demons. Explore Midnight Cove, a wicked Victorian city with semi-open world mechanics and characters relationships. Experience the story episodically, chapter by chapter.",
+    "supported_languages": "English<strong>*</strong>, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277870/header.jpg?t=1735162239",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277870/ab9e494e6fae814dbc2d6f73fe40838a23f94203/capsule_231x87.jpg?t=1735162239",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277870/ab9e494e6fae814dbc2d6f73fe40838a23f94203/capsule_184x69.jpg?t=1735162239",
     "website": "https://deadlycrowgames.com",
     "developers": [
       "DeadlyCrow Games"
@@ -1548,13 +1630,20 @@
     "publishers": [
       "DeadlyCrow Games"
     ],
-    "demos": [
+    "packages": [
+      817089
+    ],
+    "package_groups": [
       {
-        "appid": 2625840,
-        "description": ""
+        "name": "default",
+        "title": "Buy The Midnight Crimes",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1562,7 +1651,8 @@
     },
     "categories": [
       2,
-      18
+      22,
+      62
     ],
     "genres": [
       1,
@@ -1570,23 +1660,43 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 13
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "25 Dec, 2024"
     },
     "support_info": {
       "url": "support.deadlycrowgames.com",
       "email": "support@deadlycrowgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2277870/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2277870/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277870/page_bg_generated_v6b.jpg?t=1735162239",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277870/page_bg_generated.jpg?t=1735162239",
     "content_descriptors": {
       "ids": [
-        1,
         2,
         5
       ],
       "notes": "Discretion is advised as this game may contain sensitive content for some people such as alcohol and drug abuse, fist fights and shooting, some elements may contain blood and some dialogues may deal with issues such as physical and sexual abuse."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas il\u00edcitas\nViol\u00eancia\nConte\u00fado sexual"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogen\nDrastische Gewalt\nSexuelle Andeutungen"
+      }
     }
   },
   "2279710": {
@@ -2265,48 +2375,87 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Face your fears in this chilling 2D survival horror action game about understanding and overcoming mental health struggles. Explore twisted nightmares, engage in challenging fast-paced combat and survive encounters with terrifying stalker enemies.",
-    "supported_languages": "English, French, Spanish - Spain, Spanish - Latin America",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278940/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278940/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2278940/capsule_184x69.jpg",
-    "website": "https://noxiasomnia.com",
+    "supported_languages": "English, French",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278940/header.jpg?t=1713537859",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278940/capsule_231x87.jpg?t=1713537859",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278940/capsule_184x69.jpg?t=1713537859",
+    "website": "https://www.reframegames.com/",
     "developers": [
       "Reframe Games"
     ],
     "publishers": [
       "Reframe Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2570120,
+        "description": ""
+      }
+    ],
+    "packages": [
+      817499
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Noxia Somnia",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": false
     },
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       23,
       25
     ],
+    "achievements": {
+      "total": 21
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "25 Jan, 2024"
     },
     "support_info": {
       "url": "https://noxiasite.com",
       "email": "reframegamesinc@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2278940/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2278940/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278940/page_bg_generated_v6b.jpg?t=1713537859",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278940/page.bg.jpg?t=1713537859",
     "content_descriptors": {
       "ids": [
         5
       ],
-      "notes": "Contains depictions and themes of depression, anxiety, and suicide. Player discretion advised."
+      "notes": "Noxia Somnia includes references and dialogue about depressing topics such as alcohol usage, self-harm, and suicide. Visual depictions of suicide such as hanging bodies can be seen in the game as well. Noxia Somnia also includes a large amount of blood, gore, and violence throughout."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nMedo\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2279940": {
@@ -2938,9 +3087,9 @@
     "is_free": false,
     "short_description": "Find the objects that are hidden on the map.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Indonesian, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278130/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278130/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2278130/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278130/header.jpg?t=1709428716",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278130/capsule_231x87.jpg?t=1709428716",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278130/capsule_184x69.jpg?t=1709428716",
     "website": null,
     "developers": [
       "Top-Down Games"
@@ -2949,8 +3098,8 @@
       "Hede"
     ],
     "packages": [
-      817215,
-      824231
+      824231,
+      817215
     ],
     "package_groups": [
       {
@@ -2971,7 +3120,8 @@
     "categories": [
       2,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       1,
@@ -2994,11 +3144,29 @@
       "url": "http://hede.ru/",
       "email": "info@hede.ru"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2278130/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2278130/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278130/page_bg_generated_v6b.jpg?t=1709428716",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278130/page_bg_generated.jpg?t=1709428716",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2278820": {
@@ -5475,17 +5643,18 @@
     "steam_appid": 2277300,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A month after the death of his friend, Chris decides to invite his late friend's son\u2014Jeff\u2014to stay at his house for two weeks while he's in transition to go to college. On the eve of Jeff moving in, Chris decides to mention to his wife the danger that she's about to face; the boy is unusually clumsy.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277300/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277300/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2277300/capsule_184x69.jpg",
+    "short_description": "NTR'd By Clumsiness is an NTR kinetic novel full of comedy and accidental infidelity! As Chris welcomes his late friend's clumsy son in his house, watch as his wife Natasha bends over backward (by tripping and falling) to make his stay comfortable. Accidental sex is the name of the game (literally)!",
+    "supported_languages": "English, Simplified Chinese, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277300/header.jpg?t=1735935280",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277300/capsule_231x87.jpg?t=1735935280",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277300/capsule_184x69.jpg?t=1735935280",
     "website": "https://hangovercatpurrroduction.com/",
     "developers": [
       "Hangover Cat Purrroduction"
     ],
     "publishers": [
-      "Hangover Cat Purrroduction"
+      "Hangover Cat Purrroduction",
+      "Saikey Studios"
     ],
     "packages": [
       816893
@@ -5507,31 +5676,52 @@
       "linux": true
     },
     "categories": [
-      2
+      2,
+      22,
+      29,
+      62
     ],
     "genres": [
       4,
-      23,
-      70
+      23
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
       "coming_soon": false,
-      "date": "14 Mar, 2023"
+      "date": "15 May, 2024"
     },
     "support_info": {
       "url": "https://hangovercatpurrroduction.com/",
       "email": "hself@hangovercatpurrroduction.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2277300/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2277300/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277300/page_bg_generated_v6b.jpg?t=1735935280",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277300/page_bg_generated.jpg?t=1735935280",
     "content_descriptors": {
       "ids": [
         1,
         3,
-        5,
-        4
+        4,
+        5
       ],
-      "notes": "The game contains explicit depictions of sexual acts and nudity. Here's a list of what you should expect:\r\n- Lots of sexual content\r\n- Accidental sex\r\n- Cheating (NTR)\r\n- Non-consensual sex (mostly by accident) \r\n- Alcohol use\r\n- Nudity\r\n- Oral, vaginal (not implemented yet), and anal sex (not implemented yet)\r\n- Stupid excuses for sex\r\n- Sexual innuendo\r\n\r\nAll characters depicted are over the age of 18."
+      "notes": "The game contains explicit depictions of sexual acts and nudity. Here's a list of what you should expect:\r\n- Lots of sexual content\r\n- Accidental sex\r\n- Cheating (NTR)\r\n- Non-consensual sex (mostly by accident) \r\n- Alcohol use\r\n- Nudity\r\n- Oral, vaginal, and anal sex\r\n- Stupid excuses for sex\r\n- Sexual innuendo\r\n\r\nAll characters depicted are over the age of 18."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Nudez\r\nLinguagem impr\u00f3pria\r\nDrogas l\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nAlkohol / Tabak\nDerbe Sprache"
+      }
     }
   },
   "2279700": {
@@ -6580,17 +6770,16 @@
     "required_age": 0,
     "is_free": true,
     "short_description": "Embark on a dark squad RPG journey inspired by King Arthur's perilous adventures. Gather loyal heroes, explore a vast world, and battle against mythical bosses and monsters to restore the kingdom's former glory.",
-    "supported_languages": "English, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279730/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279730/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2279730/capsule_184x69.jpg",
-    "website": "https://playkingarthurlegendsrise.com/",
-    "ext_user_account_notice": "Kabam ID (Supports Linking to Steam Account)",
+    "supported_languages": "English, Korean, French, Italian, German, Spanish - Spain, Russian, Japanese, Simplified Chinese, Traditional Chinese, Thai, Portuguese - Brazil",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279730/header.jpg?t=1734488663",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279730/f5810e014677b63046615c09c30d3021cdc86a3a/capsule_231x87.jpg?t=1734488663",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279730/f5810e014677b63046615c09c30d3021cdc86a3a/capsule_184x69.jpg?t=1734488663",
+    "website": "https://kingarthur.netmarble.com/",
     "developers": [
       "Kabam Games, Inc."
     ],
     "publishers": [
-      "Kabam Games, Inc."
+      "Netmarble Corp"
     ],
     "package_groups": [],
     "platforms": {
@@ -6612,14 +6801,32 @@
       "date": "Coming soon"
     },
     "support_info": {
-      "url": "https://kabam.com/support/",
+      "url": "https://help.netmarble.com/game/kingarthur",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2279730/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2279730/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279730/page_bg_generated_v6b.jpg?t=1734488663",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279730/page_bg_generated.jpg?t=1734488663",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Conte\u00fado sexual\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2277191": {
@@ -9109,9 +9316,9 @@
     "is_free": false,
     "short_description": "14 Days of Desire is a choice-driven adult Visual Novel. Enjoy two weeks of vacation by exploring the beachside city and its alluring residence while growing closer to your step family",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279620/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279620/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2279620/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279620/header.jpg?t=1675421991",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279620/capsule_231x87.jpg?t=1675421991",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279620/capsule_184x69.jpg?t=1675421991",
     "website": null,
     "developers": [
       "Softlock Interactive"
@@ -9140,7 +9347,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       4
@@ -9156,8 +9364,8 @@
       "url": "",
       "email": "softlockinteractive@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2279620/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2279620/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279620/page_bg_generated_v6b.jpg?t=1675421991",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279620/page_bg_generated.jpg?t=1675421991",
     "content_descriptors": {
       "ids": [
         1,
@@ -9166,6 +9374,24 @@
         4
       ],
       "notes": "14 Days of Desire is not suitable for all audiences as it contains mature language, nudity, and graphic sexual content including Oral, Vaginal, BDSM, Pet Play, Prostitution, a Futanari Character, Public Sex, and other sexual acts. The game also has occasional use of alcohol.\r\n\r\nAll sexual situations depicted are consensual and between adults 18 years or older.\r\n\r\nThis game has many adult situations, and is suitable only for persons 18 or older."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nDerbe Sprache"
+      }
     }
   },
   "2277420": {

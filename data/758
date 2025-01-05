@@ -1813,10 +1813,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "This game is a JRPG featuring a girl exploring the demon-infested Hell Palace. During her journey, the demon-slaying girl, Akari, encounters incidents where people's souls have been stolen. In order to save everyone, Akari challenges the Hell Palace and the story begins.",
-    "supported_languages": "Japanese, English, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2275710/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2275710/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2275710/capsule_184x69.jpg",
+    "supported_languages": "Japanese, English, Simplified Chinese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275710/header.jpg?t=1734684711",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275710/capsule_231x87.jpg?t=1734684711",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275710/capsule_184x69.jpg?t=1734684711",
     "website": null,
     "developers": [
       "Ofuro Works"
@@ -1824,14 +1824,28 @@
     "publishers": [
       "OTAKU Plan"
     ],
-    "package_groups": [],
+    "packages": [
+      816367
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Akari and the Abyss",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
@@ -1839,18 +1853,36 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "1 Mar, 2024"
     },
     "support_info": {
       "url": "",
       "email": "otakuplan.staff@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2275710/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2275710/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275710/page_bg_generated_v6b.jpg?t=1734684711",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275710/page_bg_generated.jpg?t=1734684711",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2275720": {
@@ -2357,9 +2389,9 @@
     "is_free": false,
     "short_description": "A Horror Survival Game where you enter a backroom-style area trying to fight off entities and escape the many many levels. Will you dare to play?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2275290/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2275290/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2275290/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275290/header.jpg?t=1736005103",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275290/capsule_231x87.jpg?t=1736005103",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275290/capsule_184x69.jpg?t=1736005103",
     "website": null,
     "developers": [
       "New Life Studios"
@@ -2374,30 +2406,43 @@
       "linux": false
     },
     "categories": [
-      2
+      1,
+      9,
+      36,
+      38,
+      49
     ],
     "genres": [
       1,
       2,
       4,
       23,
-      25
+      25,
+      29
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "January 2025"
     },
     "support_info": {
       "url": "https://www.newlifestudios.co.uk/",
       "email": "support@newlifestudios.co.uk"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2275290/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2275290/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275290/page_bg_generated_v6b.jpg?t=1736005103",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275290/page.bg.jpg?t=1736005103",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "14"
+      }
     }
   },
   "2276260": {
@@ -8351,15 +8396,15 @@
   },
   "2275440": {
     "type": "game",
-    "name": "Twilight of Modernity",
+    "name": "Solar Nations 2",
     "steam_appid": 2275440,
     "required_age": 0,
     "is_free": false,
-    "short_description": "In this Grand Strategy game, you take control of the worlds Great Powers in 2022 and weather the storm of change as you navigate the uncertain waters of the future. Control the greatest military forces in the world and wage wars on an unprecedented scale: the whole Solar System is yours to conquer!",
+    "short_description": "In this Grand Strategy game, you take control of the Solar System's Great Powers in 2092 and weather the storm of change as you navigate the uncertain waters of the future. Control the greatest military forces in the world and wage wars on an epic scale: outer space is yours to conquer!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2275440/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2275440/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2275440/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275440/header.jpg?t=1735332312",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275440/21c43cbe3a4871cf411f5c04d3ab864acd9b42f4/capsule_231x87.jpg?t=1735332312",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275440/21c43cbe3a4871cf411f5c04d3ab864acd9b42f4/capsule_184x69.jpg?t=1735332312",
     "website": null,
     "developers": [
       "Flomgus Games"
@@ -8390,17 +8435,25 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "31 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "flomgusgames@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2275440/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2275440/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275440/page_bg_generated_v6b.jpg?t=1735332312",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275440/page_bg_generated.jpg?t=1735332312",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia\r\nAtos criminosos",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "2276060": {
@@ -9762,11 +9815,11 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Manage your own supermarket! Organize and restock shelves, check customers out, make local trade deals, and befriend a quirky cast of characters. Salvage a failing shop in the once-thriving town and grow it into a thriving business empire. But be warned: not everyone in town wants you to succeed.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274620/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274620/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2274620/capsule_184x69.jpg",
-    "website": "https://crinklecutgames.com/",
+    "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274620/header.jpg?t=1732611819",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274620/74d4aeb27d1bb35dfc7f971d05c76e52ef2e6c16/capsule_231x87.jpg?t=1732611819",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274620/74d4aeb27d1bb35dfc7f971d05c76e52ef2e6c16/capsule_184x69.jpg?t=1732611819",
+    "website": "https://pqube.co.uk/games/discounty/",
     "developers": [
       "Crinkle Cut Games"
     ],
@@ -9790,17 +9843,30 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "To be announced"
+      "date": "2025"
     },
     "support_info": {
       "url": "https://twitter.com/DiscountyGame",
       "email": "crinklecutgames@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2274620/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2274620/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274620/page_bg_generated_v6b.jpg?t=1732611819",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274620/page_bg_generated.jpg?t=1732611819",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2274960": {
@@ -9858,25 +9924,26 @@
   },
   "2274180": {
     "type": "demo",
-    "name": "The Settlings Demo",
+    "name": "Craftlings Demo",
     "steam_appid": 2274180,
     "required_age": 0,
     "is_free": true,
-    "short_description": "",
+    "controller_support": "full",
+    "short_description": "Welcome to Craftlings, a humorous, relaxing resource-management strategy game, set in a vibrant fantasy world where you guide hapless creatures to build settlements, automate production chains, then mobilize them to protect their homes.",
     "fullgame": {
       "appid": "1771110",
-      "name": "The Settlings"
+      "name": "Craftlings"
     },
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274180/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274180/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2274180/capsule_184x69.jpg",
-    "website": null,
+    "supported_languages": "English, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, French, German",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274180/header.jpg?t=1734455368",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274180/9ecd3bd578a74374039cf9176fee2a972ad39843/capsule_231x87.jpg?t=1734455368",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274180/9ecd3bd578a74374039cf9176fee2a972ad39843/capsule_184x69.jpg?t=1734455368",
+    "website": "https://craftlings-game.com",
     "developers": [
-      "Ariano"
+      "ARIANO Games GmbH"
     ],
     "publishers": [
-      "Ariano"
+      "Raw Fury"
     ],
     "package_groups": [],
     "platforms": {
@@ -9886,21 +9953,47 @@
     },
     "categories": [
       2,
-      10
+      10,
+      25,
+      28
     ],
+    "genres": [
+      2
+    ],
+    "achievements": {
+      "total": 0
+    },
     "release_date": {
       "coming_soon": false,
       "date": "19 Jan, 2023"
     },
     "support_info": {
-      "url": "",
-      "email": "support@thesettlings.com"
+      "url": "https://rawfury.atlassian.net/servicedesk/customer/portal/1",
+      "email": "support@rawfury.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274180/page_bg_generated_v6b.jpg?t=1734455368",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274180/page.bg.jpg?t=1734455368",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Alkohol / Tabak\nFantasy-Gewalt"
+      }
     }
   },
   "2275970": {
