@@ -2303,11 +2303,14 @@
     "steam_appid": 1973310,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Point and click your way through Phoenix Springs, a mystery adventure game set in a stunning neo-noir world. It begins with an investigation: find your brother Leo. You already know where it ends.",
+    "dlc": [
+      3308160
+    ],
+    "short_description": "Lose yourself in the mystery of Phoenix Springs \u2013 a modern point-and-click set in a dreamlike neo-noir world. It begins with an investigation: find your brother Leo. You already know where it ends.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1973310/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1973310/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1973310/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973310/header.jpg?t=1732820056",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973310/capsule_231x87.jpg?t=1732820056",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973310/capsule_184x69.jpg?t=1732820056",
     "website": "https://www.calligramstudio.com",
     "developers": [
       "Calligram Studio"
@@ -2321,34 +2324,69 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      712615
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Phoenix Springs",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       25
     ],
+    "achievements": {
+      "total": 78
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Oct, 2024"
     },
     "support_info": {
       "url": "https://www.calligramstudio.com",
-      "email": "calligrammers@gmail.com"
+      "email": "hi@calligramstudio.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1973310/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1973310/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973310/page_bg_generated_v6b.jpg?t=1732820056",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973310/page_bg_generated.jpg?t=1732820056",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
-      "notes": "Cartoon / stylised nudity and mild violence."
+      "notes": "Phoenix Springs may not be appropriate for all ages. Includes cartoon/fantasy violence and nudity. Insinuated consumption of drugs and alcohol.  "
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas il\u00edcitas\nNudez\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt\nDrogen"
+      }
     }
   },
   "1971930": {
@@ -4522,9 +4560,9 @@
     "is_free": false,
     "short_description": "Magnytour is a tactical bicycle race boardgame. Take the role of a team manager and guide your team of 3 runners trough a series of grueling races and wind your way through mountains and plains. Play solo or multiplayer online.",
     "supported_languages": "English, French",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971570/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971570/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1971570/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971570/header.jpg?t=1704644298",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971570/capsule_231x87.jpg?t=1704644298",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971570/capsule_184x69.jpg?t=1704644298",
     "website": "https://www.magnytour.com",
     "developers": [
       "Pandaroo Interactive"
@@ -4561,7 +4599,9 @@
       1,
       2,
       36,
-      49
+      44,
+      49,
+      62
     ],
     "genres": [
       9,
@@ -4576,11 +4616,24 @@
       "url": "",
       "email": "info@magnytour.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1971570/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1971570/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971570/page_bg_generated_v6b.jpg?t=1704644298",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971570/page_bg_generated.jpg?t=1704644298",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "1972090": {
@@ -9038,14 +9091,15 @@
     "steam_appid": 1972440,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "dlc": [
       1996410
     ],
     "short_description": "Chess, but you replace your entire army with a royal shotgun. A unique strategy roguelike based on the timeless checkboard classic.",
-    "supported_languages": "English, French, Spanish - Spain, Simplified Chinese, Korean, Russian, Ukrainian, German, Japanese, Polish, Catalan",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1972440/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1972440/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1972440/capsule_184x69.jpg",
+    "supported_languages": "English, French, Spanish - Spain, Simplified Chinese, Korean, Russian, Ukrainian, German, Japanese, Polish, Catalan, Dutch, Romanian, Vietnamese, Italian, Portuguese - Brazil, Spanish - Latin America",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/header.jpg?t=1734989205",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/2a0e3105097770c33f8a7167a4a9a08e9d826bc5/capsule_231x87.jpg?t=1734989205",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/2a0e3105097770c33f8a7167a4a9a08e9d826bc5/capsule_184x69.jpg?t=1734989205",
     "website": null,
     "developers": [
       "PUNKCAKE Delicieux"
@@ -9075,13 +9129,16 @@
     ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
       22,
-      23
+      23,
+      28,
+      30,
+      62
     ],
     "genres": [
       1,
@@ -9089,7 +9146,7 @@
       23
     ],
     "achievements": {
-      "total": 84
+      "total": 110
     },
     "release_date": {
       "coming_soon": false,
@@ -9099,11 +9156,27 @@
       "url": "https://punkcake.club",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1972440/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1972440/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/page_bg_generated_v6b.jpg?t=1734989205",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/page.bg.jpg?t=1734989205",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "1973651": {
