@@ -1411,9 +1411,9 @@
     "controller_support": "full",
     "short_description": "Welcome to All the Stars, a retro-inspired space shooter where thrilling combat meets a cosmic narrative. Face waves of enemies, alien horrors, and a galaxy-changing choice. It\u2019s an amateur passion project but it just might surprise you, no load screens, no microtransactions, just pure arcade action",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/header.jpg?t=1734201008",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/ab73001ef268430ba104e7544c8eac6c5bf853e0/capsule_231x87.jpg?t=1734201008",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/ab73001ef268430ba104e7544c8eac6c5bf853e0/capsule_184x69.jpg?t=1734201008",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/header.jpg?t=1735769433",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/ab73001ef268430ba104e7544c8eac6c5bf853e0/capsule_231x87.jpg?t=1735769433",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/ab73001ef268430ba104e7544c8eac6c5bf853e0/capsule_184x69.jpg?t=1735769433",
     "website": null,
     "developers": [
       "Zacharia Gebro"
@@ -1421,7 +1421,20 @@
     "publishers": [
       "Zacharia Gebro"
     ],
-    "package_groups": [],
+    "packages": [
+      1203299
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy All The Stars",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1434,7 +1447,8 @@
       24,
       28,
       39,
-      44
+      44,
+      62
     ],
     "genres": [
       1,
@@ -1442,15 +1456,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "1 Jan, 2025"
+      "coming_soon": false,
+      "date": "31 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "allthestarstm@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/page_bg_generated_v6b.jpg?t=1734201008",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/page.bg.jpg?t=1734201008",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/page_bg_generated_v6b.jpg?t=1735769433",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401500/page.bg.jpg?t=1735769433",
     "content_descriptors": {
       "ids": [
         5
@@ -5995,6 +6009,73 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Alkohol / Tabak"
+      }
+    }
+  },
+  "3400360": {
+    "type": "game",
+    "name": "Extreme Cycling",
+    "steam_appid": 3400360,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Dive into the excitement of snow-covered cycling adventures! Take on challenging snow-filled tracks, icy trails, and frosty mountains as you race through a winter wonderland.",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Portuguese - Portugal, Russian, Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400360/header.jpg?t=1736530066",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400360/47c64af4294d405e27e7f9eb9e1c112fe0bfdc20/capsule_231x87.jpg?t=1736530066",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400360/47c64af4294d405e27e7f9eb9e1c112fe0bfdc20/capsule_184x69.jpg?t=1736530066",
+    "website": "https://www.yashfuturetech.com",
+    "developers": [
+      "Yash Future Tech Solutions Pvt Ltd"
+    ],
+    "publishers": [
+      "Yash Future Tech Solutions Pvt Ltd"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      18,
+      22
+    ],
+    "genres": [
+      9,
+      18,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "23 Jan, 2025"
+    },
+    "support_info": {
+      "url": "https://www.yashfuturetech.com",
+      "email": "support@yashfuturetech.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400360/page_bg_generated_v6b.jpg?t=1736530066",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400360/page.bg.jpg?t=1736530066",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
       }
     }
   }

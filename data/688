@@ -1979,11 +1979,12 @@
     "steam_appid": 2066330,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Guardian is a rogue-like, 2D platformer set in the fantastic land of Erstwhile for the annual LARP event. Our heroine, Aria, dons the identity of Arcas and sets out on a quest to rescue the Greek Pantheon! With clever platforming and careful upgrades, help Aria achieve her goal and return home.",
+    "controller_support": "full",
+    "short_description": "Guardian is a 2D action-platformer set in the fantastic land of Erstwhile for the annual LARP event. Our heroine, Aria, dons the identity of Arcas and sets out on a quest to rescue the Greek Pantheon! With clever platforming and careful upgrades, help Aria achieve her goal and return home.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2066330/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2066330/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2066330/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066330/header.jpg?t=1705427993",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066330/capsule_231x87.jpg?t=1705427993",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066330/capsule_184x69.jpg?t=1705427993",
     "website": null,
     "developers": [
       "Black Banshee Studios"
@@ -1998,7 +1999,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      28
     ],
     "genres": [
       1,
@@ -2014,11 +2016,30 @@
       "url": "https://www.cellecgames.com/contact-us/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2066330/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2066330/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066330/page_bg_generated_v6b.jpg?t=1705427993",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066330/page.bg.jpg?t=1705427993",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "e10"
+      },
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2065761": {
