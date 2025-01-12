@@ -4961,9 +4961,9 @@
     "controller_support": "full",
     "short_description": "SEA BIKERS JETSKI Adrenaline knows no bounds in this 3D jetski racing game. With an arcade focus and frenetic gameplay, you'll zoom through tracks filled with obstacles, tight turns, and other tough pilots. Are you ready to master the waters and claim the title of champion?",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/header.jpg?t=1734261187",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/284900f6b34a5f18fd5dbae3570bffae754f08fc/capsule_231x87.jpg?t=1734261187",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/284900f6b34a5f18fd5dbae3570bffae754f08fc/capsule_184x69.jpg?t=1734261187",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/header.jpg?t=1735227338",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/284900f6b34a5f18fd5dbae3570bffae754f08fc/capsule_231x87.jpg?t=1735227338",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/284900f6b34a5f18fd5dbae3570bffae754f08fc/capsule_184x69.jpg?t=1735227338",
     "website": "https://8arte.games/",
     "developers": [
       "8\u00ba Arte Games"
@@ -4971,7 +4971,20 @@
     "publishers": [
       "8\u00ba Arte Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1197203
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Sea Bikers Jetski",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4981,23 +4994,27 @@
       2,
       22,
       25,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       9,
       18
     ],
+    "achievements": {
+      "total": 25
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "26 Dec, 2024"
     },
     "support_info": {
       "url": "https://8arte.games",
       "email": "admin@8arte.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/page_bg_generated_v6b.jpg?t=1734261187",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/page_bg_generated.jpg?t=1734261187",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/page_bg_generated_v6b.jpg?t=1735227338",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383460/page_bg_generated.jpg?t=1735227338",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5254,10 +5271,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "&quot;Moon Keys&quot; is a 3D platformer focused on gameplay with a subtle story in the background. The game has three sections: underground, surface, and space. It\u2019s played with 40 keyboard keys, which are randomly assigned. Each time a key is pressed, the assigned keys change.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/header.jpg?t=1734265049",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/027d77878fd02c299c1d7dabbf593ac6078a97ea/capsule_231x87.jpg?t=1734265049",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/027d77878fd02c299c1d7dabbf593ac6078a97ea/capsule_184x69.jpg?t=1734265049",
+    "supported_languages": "English, Turkish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/header.jpg?t=1736623569",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/027d77878fd02c299c1d7dabbf593ac6078a97ea/capsule_231x87.jpg?t=1736623569",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/027d77878fd02c299c1d7dabbf593ac6078a97ea/capsule_184x69.jpg?t=1736623569",
     "website": null,
     "developers": [
       "Ahmet YILDIRIM"
@@ -5265,32 +5282,47 @@
     "publishers": [
       "Meyusa Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1197111
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Moon Keys",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
+      2,
       4,
       23,
       25,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Dec, 2024"
     },
     "support_info": {
       "url": "https://www.instagram.com/meyusastudio/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/page_bg_generated_v6b.jpg?t=1734265049",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/page_bg_generated.jpg?t=1734265049",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/page_bg_generated_v6b.jpg?t=1736623569",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383180/page_bg_generated.jpg?t=1736623569",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5596,9 +5628,9 @@
     "is_free": true,
     "short_description": "Wander though nature. Overcome dangers. Get to the end of your pilgrimage... But don't dig any deeper.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/header.jpg?t=1733997159",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/9e3365743d4d4650ac464769671714643e322c6f/capsule_231x87.jpg?t=1733997159",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/9e3365743d4d4650ac464769671714643e322c6f/capsule_184x69.jpg?t=1733997159",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/header.jpg?t=1735735897",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/9e3365743d4d4650ac464769671714643e322c6f/capsule_231x87.jpg?t=1735735897",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/9e3365743d4d4650ac464769671714643e322c6f/capsule_184x69.jpg?t=1735735897",
     "website": null,
     "developers": [
       "The Lonely Dane"
@@ -5620,15 +5652,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "1 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "thelonelydaneofficial@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/page_bg_generated_v6b.jpg?t=1733997159",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/page.bg.jpg?t=1733997159",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/page_bg_generated_v6b.jpg?t=1735735897",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383780/page.bg.jpg?t=1735735897",
     "content_descriptors": {
       "ids": [
         5
@@ -5796,9 +5828,9 @@
       "name": "Poker Train"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/header.jpg?t=1734855943",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/f1e72ba2503606bca2f999ddbd4777f11188657f/capsule_231x87.jpg?t=1734855943",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/f1e72ba2503606bca2f999ddbd4777f11188657f/capsule_184x69.jpg?t=1734855943",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/header.jpg?t=1736264539",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/f1e72ba2503606bca2f999ddbd4777f11188657f/capsule_231x87.jpg?t=1736264539",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/f1e72ba2503606bca2f999ddbd4777f11188657f/capsule_184x69.jpg?t=1736264539",
     "website": "https://store.steampowered.com/developer/TTLCIC",
     "developers": [
       "TTLCIC"
@@ -5844,8 +5876,8 @@
       "url": "",
       "email": "SquirrelsrgNUTS@protonmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/page_bg_generated_v6b.jpg?t=1734855943",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/page_bg_generated.jpg?t=1734855943",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/page_bg_generated_v6b.jpg?t=1736264539",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383310/page_bg_generated.jpg?t=1736264539",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6234,9 +6266,9 @@
     "is_free": false,
     "short_description": "Explore a world of magic and adventure in the world of Aritas and defeat the Demon Lord! Play alone in singleplayer or with friends on LAN in this classic-inspired RPG!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/header.jpg?t=1734769514",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/b6c4a70a6057de1155c9c40da4c9f413742227e6/capsule_231x87.jpg?t=1734769514",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/b6c4a70a6057de1155c9c40da4c9f413742227e6/capsule_184x69.jpg?t=1734769514",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/header.jpg?t=1735236901",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/b6c4a70a6057de1155c9c40da4c9f413742227e6/capsule_231x87.jpg?t=1735236901",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/b6c4a70a6057de1155c9c40da4c9f413742227e6/capsule_184x69.jpg?t=1735236901",
     "website": null,
     "developers": [
       "Sunrealm Studios"
@@ -6244,7 +6276,20 @@
     "publishers": [
       "Sunrealm Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1197349
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Aritas: The Demon Lord",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6256,7 +6301,8 @@
       9,
       47,
       48,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -6265,15 +6311,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "26 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "gretto.kh@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/page_bg_generated_v6b.jpg?t=1734769514",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/page_bg_generated.jpg?t=1734769514",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/page_bg_generated_v6b.jpg?t=1735236901",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383930/page_bg_generated.jpg?t=1735236901",
     "content_descriptors": {
       "ids": [
         1,
@@ -8175,9 +8221,9 @@
     "is_free": true,
     "short_description": "A 2D pixel-graphics bullet-hell with a last-chance shield mechanic",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/header.jpg?t=1735054804",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/eb48cefdfb52623aa6bbae836269b26ce0121826/capsule_231x87.jpg?t=1735054804",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/eb48cefdfb52623aa6bbae836269b26ce0121826/capsule_184x69.jpg?t=1735054804",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/header.jpg?t=1736636802",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/eb48cefdfb52623aa6bbae836269b26ce0121826/capsule_231x87.jpg?t=1736636802",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/eb48cefdfb52623aa6bbae836269b26ce0121826/capsule_184x69.jpg?t=1736636802",
     "website": null,
     "developers": [
       "sodaJar"
@@ -8192,7 +8238,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22
     ],
     "genres": [
       1,
@@ -8200,16 +8247,19 @@
       23,
       37
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "sodaJar.gd@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/page_bg_generated_v6b.jpg?t=1735054804",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/page.bg.jpg?t=1735054804",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/page_bg_generated_v6b.jpg?t=1736636802",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383970/page.bg.jpg?t=1736636802",
     "content_descriptors": {
       "ids": [],
       "notes": null
