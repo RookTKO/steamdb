@@ -2373,9 +2373,9 @@
     "controller_support": "full",
     "short_description": "KALAKALA is a 4-player party game where players compete to grab skulls as their attack method. Depending on the mode, the scoring system varies. Aim for the highest score within the limited time and become the champion!",
     "supported_languages": "English, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/header.jpg?t=1735577475",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/4024d8f896770b012cc0f56a41c69a2b08b8a595/capsule_231x87.jpg?t=1735577475",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/4024d8f896770b012cc0f56a41c69a2b08b8a595/capsule_184x69.jpg?t=1735577475",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/header.jpg?t=1736108781",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/4024d8f896770b012cc0f56a41c69a2b08b8a595/capsule_231x87.jpg?t=1736108781",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/4024d8f896770b012cc0f56a41c69a2b08b8a595/capsule_184x69.jpg?t=1736108781",
     "website": null,
     "developers": [
       "Remains Games"
@@ -2410,8 +2410,8 @@
       "url": "https://www.facebook.com/profile.php?id=61557022869632",
       "email": "remainsgamesstudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/page_bg_generated_v6b.jpg?t=1735577475",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/page_bg_generated.jpg?t=1735577475",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/page_bg_generated_v6b.jpg?t=1736108781",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407040/page_bg_generated.jpg?t=1736108781",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3297,9 +3297,9 @@
     "is_free": false,
     "short_description": "Dive into a world of adorable hamsters and endless fun! &quot;Hamster Funland&quot; is a charming match-2 puzzle game inspired by the classic Pikachu game. Match tiles, customize your hamsters, and build the playground!",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/header.jpg?t=1735788941",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/2bc0e18984338c8a4459898da889d014bf4d5d6c/capsule_231x87.jpg?t=1735788941",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/2bc0e18984338c8a4459898da889d014bf4d5d6c/capsule_184x69.jpg?t=1735788941",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/header.jpg?t=1735911609",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/2bc0e18984338c8a4459898da889d014bf4d5d6c/capsule_231x87.jpg?t=1735911609",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/2bc0e18984338c8a4459898da889d014bf4d5d6c/capsule_184x69.jpg?t=1735911609",
     "website": null,
     "developers": [
       "Berry Wanderer"
@@ -3307,7 +3307,20 @@
     "publishers": [
       "Berry Wanderer"
     ],
-    "package_groups": [],
+    "packages": [
+      1205230
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hamster Funland",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3316,21 +3329,25 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       23
     ],
+    "achievements": {
+      "total": 19
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "January 2025"
+      "coming_soon": false,
+      "date": "3 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "berrywanderer@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/page_bg_generated_v6b.jpg?t=1735788941",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/page.bg.jpg?t=1735788941",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/page_bg_generated_v6b.jpg?t=1735911609",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407170/page.bg.jpg?t=1735911609",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3530,15 +3547,21 @@
     "is_free": false,
     "short_description": "An turn based combat RPG, that tells the story of Paul Kimbel, a troubled author who seeks redemption and a way to return from the dead.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/header.jpg?t=1735218589",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/fbf341f45b8cb08d00d6405538ee30d5be5b2e1a/capsule_231x87.jpg?t=1735218589",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/fbf341f45b8cb08d00d6405538ee30d5be5b2e1a/capsule_184x69.jpg?t=1735218589",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/header.jpg?t=1736447888",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/fbf341f45b8cb08d00d6405538ee30d5be5b2e1a/capsule_231x87.jpg?t=1736447888",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/fbf341f45b8cb08d00d6405538ee30d5be5b2e1a/capsule_184x69.jpg?t=1736447888",
     "website": null,
     "developers": [
       "Deadpixel"
     ],
     "publishers": [
       "Deadpixel"
+    ],
+    "demos": [
+      {
+        "appid": 3408050,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -3562,8 +3585,8 @@
       "url": "",
       "email": "thispixelisdead@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/page_bg_generated_v6b.jpg?t=1735218589",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/page.bg.jpg?t=1735218589",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/page_bg_generated_v6b.jpg?t=1736447888",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407990/page.bg.jpg?t=1736447888",
     "content_descriptors": {
       "ids": [
         5
@@ -6871,5 +6894,70 @@
       "notes": null
     },
     "ratings": null
+  },
+  "3405100": {
+    "type": "game",
+    "name": "Crashed",
+    "steam_appid": 3405100,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "Crashed is a third-person stealth game where you play as B.O.B., stranded on the quirky planet SnamSam. The mission? Rebuild the craft and escape! You\u2019ll sneak through restricted areas and take daring routes. A splash of humour as B.O.B.\u2019s detachable head knocks off the Snailmen's heads!",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405100/header.jpg?t=1736846459",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405100/8ac62e2b0f2b9eb56c6f76ff611906f295eb0681/capsule_231x87.jpg?t=1736846459",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405100/8ac62e2b0f2b9eb56c6f76ff611906f295eb0681/capsule_184x69.jpg?t=1736846459",
+    "website": null,
+    "developers": [
+      "Bober Productions"
+    ],
+    "publishers": [
+      "Bober Productions"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2
+    ],
+    "genres": [
+      4,
+      23,
+      37
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "",
+      "email": "boberprod@gmail.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405100/page_bg_generated_v6b.jpg?t=1736846459",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405100/page_bg_generated.jpg?t=1736846459",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
+    }
   }
 }
