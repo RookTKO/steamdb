@@ -2791,13 +2791,13 @@
     "type": "game",
     "name": "Quake Champions",
     "steam_appid": 611500,
-    "required_age": 0,
+    "required_age": "17",
     "is_free": true,
     "short_description": "Step into the Arena. Compete against players from around the world in this fast-paced shooter that combines the dark mythos of the original Quake with the skill-based competition of Quake III Arena. Become a Champion.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/611500/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/611500/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/611500/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/header.jpg?t=1695914844",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/capsule_231x87.jpg?t=1695914844",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/capsule_184x69.jpg?t=1695914844",
     "website": "https://quake.bethesda.net/",
     "ext_user_account_notice": "Bethesda.net (Supports Linking to Steam Account)",
     "developers": [
@@ -2817,7 +2817,7 @@
       {
         "name": "platinum",
         "title": "Buy Platinum",
-        "description": "Click <a href=\"https://store.steampowered.com/app/682890/\" target=\"_blank\" rel=\"\"  >HERE</a> for more information.",
+        "description": "Click HERE for more information.",
         "selection_text": "Select a purchase option",
         "save_text": "",
         "display_type": "1",
@@ -2850,14 +2850,51 @@
       "url": "help.bethesda.net",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/611500/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/611500/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/page_bg_generated_v6b.jpg?t=1695914844",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/page.bg.jpg?t=1695914844",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood and Gore, Drug Reference, Language, Violence, In-Game Purchases",
+        "display_online_notice": "true",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Strong violence, online interactivity",
+        "use_age_gate": "true",
+        "required_age": "15"
+      },
+      "kgrb": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18",
+        "descriptors": "Violence\r\nLanguage\r\nAlcohol, Tobacco, Drug"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nDrogas il\u00edcitas\nConte\u00fado sexual"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nDrogen\nSexuelle Andeutungen"
+      }
     }
   },
   "610220": {
@@ -4268,22 +4305,23 @@
     "type": "game",
     "name": "House Party",
     "steam_appid": 611790,
-    "required_age": "18",
+    "required_age": "17",
     "is_free": false,
     "controller_support": "full",
     "dlc": [
       944540,
+      2363800,
       1524910,
       1648810,
-      2363800,
+      2783130,
       2229630,
       2229631
     ],
     "short_description": "House Party is an edgy comedy adventure game inspired by classic comedies of the '90s. Every decision changes your story and every character has something to reveal. There\u2019s also a button to take your pants off.",
-    "supported_languages": "English<strong>*</strong>, Simplified Chinese, French, Russian, Spanish - Latin America, German, Turkish, Italian, Polish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/611790/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/611790/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/611790/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, Simplified Chinese, French, Russian, Spanish - Latin America, German, Turkish, Italian, Polish, Czech<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/header.jpg?t=1725647165",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/capsule_231x87.jpg?t=1725647165",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/capsule_184x69.jpg?t=1725647165",
     "website": "https://housepartygame.com",
     "developers": [
       "Eek! Games, LLC"
@@ -4316,7 +4354,8 @@
       22,
       23,
       28,
-      29
+      29,
+      62
     ],
     "genres": [
       3,
@@ -4326,7 +4365,7 @@
       28
     ],
     "achievements": {
-      "total": 76
+      "total": 79
     },
     "release_date": {
       "coming_soon": false,
@@ -4336,14 +4375,82 @@
       "url": "http://forum.eekllc.com",
       "email": "support@eekllc.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/611790/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/611790/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/page_bg_generated_v6b.jpg?t=1725647165",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/page.bg.jpg?t=1725647165",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
       "notes": "VIOLENCE\r\nSTRONG SEXUAL CONTENT\r\nNUDITY\r\nSTRONG LANGUAGE\r\nUSE OF ALCOHOL\r\nUSE OF DRUGS\r\nMATURE HUMOR"
+    },
+    "ratings": {
+      "esrb": {
+        "use_age_gate": "true",
+        "required_age": "17",
+        "rating": "m",
+        "descriptors": "Violence\r\nStrong Sexual Content\r\nNudity\r\nStrong Language\r\nUse of Alcohol\r\nUse of Drugs\r\nMature Humor"
+      },
+      "pegi": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "bbfc": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "usk": {
+        "use_age_gate": "true",
+        "required_age": "18",
+        "rating": "18",
+        "descriptors": "keine Jugendfreigabe gem\u00e4\u00df\u00a714 JuSchG"
+      },
+      "oflc": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "nzoflc": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "cero": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "kgrb": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "dejus": {
+        "use_age_gate": "true",
+        "required_age": "16",
+        "rating": "16",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia\r\nLinguagem impr\u00f3pria\r\nConte\u00fado sexual\r\nNudez\r\nDrogas l\u00edcitas\r\nDrogas il\u00edcitas"
+      },
+      "mda": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "fpb": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "csrr": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "crl": {
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "610550": {
@@ -12028,21 +12135,21 @@
     "type": "game",
     "name": "Desperados III",
     "steam_appid": 610370,
-    "required_age": 0,
+    "required_age": "17",
     "is_free": false,
     "controller_support": "full",
     "dlc": [
+      1308850,
       1279740,
       1287600,
       1287601,
-      1287602,
-      1308850
+      1287602
     ],
     "short_description": "Desperados III is a story-driven, hardcore tactical stealth game, set in a ruthless Wild West scenario. Play smart if you want to succeed. A good plan can make the difference between survival and finding yourself at the business end of a pistol.",
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French, Italian, Spanish - Spain, Korean, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Japanese, Polish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/610370/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/610370/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/610370/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/header.jpg?t=1725010859",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/capsule_231x87.jpg?t=1725010859",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/capsule_184x69.jpg?t=1725010859",
     "website": "https://desperadosgame.com",
     "developers": [
       "Mimimi Games"
@@ -12085,7 +12192,8 @@
       23,
       28,
       29,
-      43
+      43,
+      62
     ],
     "genres": [
       2
@@ -12101,14 +12209,41 @@
       "url": "",
       "email": "support@quanticlab.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/610370/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/610370/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/page_bg_generated_v6b.jpg?t=1725010859",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/page.bg.jpg?t=1725010859",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood\r\nStrong Language\r\nSuggestive Themes\r\nViolence",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Conte\u00fado Sexual, Drogas L\u00edcitas e Viol\u00eancia"
+      },
+      "pegi": {
+        "rating": "18",
+        "descriptors": "Violence\r\nBad Language"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Strong Violence"
+      },
+      "usk": {
+        "rating": "16"
+      },
+      "nzoflc": {
+        "rating": "m",
+        "descriptors": "Violence &amp; offensive language"
+      }
     }
   },
   "609270": {

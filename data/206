@@ -7237,9 +7237,9 @@
     ],
     "short_description": "Welcome to 1bitHeart\u2015the latest title from Alicemare and LiEat developer \u25b3\u25cb\u25a1\u00d7 (Miwashiba). In this unique and endearing adventure game, take on the role of Nanashi, a lonely, agoraphobic boy, as you solve a slew of mysteries around town while also making friends.",
     "supported_languages": "English, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/618720/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/618720/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/618720/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/618720/header.jpg?t=1573114631",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/618720/capsule_231x87.jpg?t=1573114631",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/618720/capsule_184x69.jpg?t=1573114631",
     "website": "http://1bitheart.nobody.jp/",
     "developers": [
       "\u25b3\u25cb\u25a1\u00d7 (Miwashiba)"
@@ -7269,7 +7269,8 @@
     "categories": [
       2,
       22,
-      29
+      29,
+      62
     ],
     "genres": [
       4,
@@ -7287,11 +7288,29 @@
       "url": "",
       "email": "support@playism.jp"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/618720/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/618720/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/618720/page_bg_generated_v6b.jpg?t=1573114631",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/618720/page_bg_generated.jpg?t=1573114631",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "619610": {
@@ -8299,7 +8318,7 @@
     "type": "game",
     "name": "Ancestors Legacy",
     "steam_appid": 620590,
-    "required_age": "18",
+    "required_age": "17",
     "is_free": false,
     "controller_support": "full",
     "dlc": [
@@ -8310,15 +8329,15 @@
     ],
     "short_description": "Ancestors Legacy is a squad-based real time strategy with a strong focus on tactics. Inspired by medieval European history, it brings to life four different nations and their conflicts, usually solved by war.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Russian, Czech, Simplified Chinese, Japanese, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/620590/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/620590/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/620590/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620590/header.jpg?t=1713951716",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620590/capsule_231x87.jpg?t=1713951716",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620590/capsule_184x69.jpg?t=1713951716",
     "website": "https://destructivecreations.pl/ancestors-legacy/",
     "developers": [
       "Destructive Creations"
     ],
     "publishers": [
-      "Fulqrum Publishing"
+      "Destructive Creations"
     ],
     "demos": [
       {
@@ -8361,7 +8380,8 @@
       36,
       38,
       43,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -8377,14 +8397,59 @@
       "url": "",
       "email": "support@destructivecreations.pl"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/620590/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/620590/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620590/page_bg_generated_v6b.jpg?t=1713951716",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620590/page.bg.jpg?t=1713951716",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Strong violence and coarse language, online interactivity"
+      },
+      "usk": {
+        "rating": "16"
+      },
+      "pegi": {
+        "rating": "18",
+        "descriptors": "violence, bad language",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Intense Violence\r\nBlood and Gore\r\nStrong Language\r\nPartial Nudity",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "bbfc": {
+        "rating": "18",
+        "descriptors": "violence, bad language",
+        "required_age": "18",
+        "use_age_gate": "true"
+      },
+      "nzoflc": {
+        "rating": "r13",
+        "descriptors": "Violence, offensive language"
+      },
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Viol\u00eancia\r\nViol\u00eancia Extrema\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "620310": {
@@ -10970,13 +11035,13 @@
     "type": "game",
     "name": "Just Cause\u2122 3: Multiplayer Mod",
     "steam_appid": 619910,
-    "required_age": "18",
+    "required_age": "17",
     "is_free": true,
     "short_description": "Just Cause 3 Multiplayer mod is a free fan-created project bringing an explosive and highly-customizable multiplayer.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/619910/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/619910/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/619910/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619910/header.jpg?t=1728484966",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619910/capsule_231x87.jpg?t=1728484966",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619910/capsule_184x69.jpg?t=1728484966",
     "website": "https://just-cause.mp",
     "developers": [
       "nanos GbR"
@@ -10999,8 +11064,7 @@
     ],
     "genres": [
       1,
-      29,
-      73
+      29
     ],
     "release_date": {
       "coming_soon": false,
@@ -11010,14 +11074,83 @@
       "url": "https://community.nanos.io/index.php?/forum/38-just-cause-3-multiplayer/",
       "email": "support@nanos.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/619910/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/619910/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619910/page_bg_generated_v6b.jpg?t=1728484966",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619910/page_bg_generated.jpg?t=1728484966",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood\r\nIntense Violence\r\nStrong Language",
+        "display_online_notice": "true",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "18",
+        "descriptors": "Multiple, motiveless killing\r\nStrong Language",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "usk": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Strong Violence\r\nOnline Interactivity",
+        "use_age_gate": "true",
+        "required_age": "15"
+      },
+      "nzoflc": {
+        "rating": "r13",
+        "descriptors": "Violence\r\nOffensive Language",
+        "use_age_gate": "true",
+        "required_age": "13"
+      },
+      "cero": {
+        "rating": "z",
+        "descriptors": "\u66b4\u529b\r\n\u72af\u7f6a",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "kgrb": {
+        "rating": "18",
+        "descriptors": "Violence\r\nBad Language",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "dejus": {
+        "rating": "16",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "mda": {
+        "rating": "AA16",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "fpb": {
+        "rating": "13",
+        "use_age_gate": "true",
+        "required_age": "13"
+      },
+      "csrr": {
+        "rating": "R",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "crl": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "620910": {
@@ -12824,10 +12957,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Immerse yourself in a voxel game exclusively designed for VR. A beautiful infinite procedural world. Explore, gather resources, craft with your hands in 3D, and build anything you can imagine. Featuring great VR controls, near-infinite view distance, Steam Workshop mod support, and much more!",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/619500/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/619500/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/619500/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Ukrainian, Polish<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619500/header.jpg?t=1730054137",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619500/capsule_231x87.jpg?t=1730054137",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619500/capsule_184x69.jpg?t=1730054137",
     "website": "http://www.cyubevr.com",
     "developers": [
       "Stonebrick Studios"
@@ -12860,7 +12993,8 @@
       22,
       30,
       52,
-      54
+      54,
+      62
     ],
     "genres": [
       23,
@@ -12868,7 +13002,7 @@
       70
     ],
     "achievements": {
-      "total": 58
+      "total": 61
     },
     "release_date": {
       "coming_soon": false,
@@ -12878,11 +13012,25 @@
       "url": "https://discord.gg/cyubevr",
       "email": "support@stonebrickstudios.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/619500/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/619500/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619500/page_bg_generated_v6b.jpg?t=1730054137",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619500/page.bg.jpg?t=1730054137",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "620740": {
@@ -13900,10 +14048,10 @@
       1026800
     ],
     "short_description": "You\u2019re a machine learning specialist who makes neural networks but your cat seems to be better at it. Now you must solve puzzles to build a cat-to-human translation system (who knows what else this cat is capable of!). Earn a fortune, buy kickass cat outfits, learn how machine learning really works!",
-    "supported_languages": "English, Russian, German, Hungarian, Korean, Greek, Portuguese - Brazil, Simplified Chinese, Polish, French, Italian, Spanish - Spain, Czech, Japanese, Spanish - Latin America, Traditional Chinese, Turkish, Vietnamese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/619150/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/619150/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/619150/capsule_184x69.jpg",
+    "supported_languages": "English, Russian, German, Hungarian, Korean, Greek, Portuguese - Brazil, Simplified Chinese, Polish, French, Italian, Spanish - Spain, Czech, Japanese, Spanish - Latin America, Traditional Chinese, Turkish, Vietnamese, Arabic, Bulgarian, Danish, Dutch, Finnish, Indonesian, Portuguese - Portugal, Romanian, Swedish, Thai, Ukrainian, Hebrew, Norwegian, Malay",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619150/header.jpg?t=1730896204",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619150/35006cab0caa0f3d47b1fb831e73ffb84b000ffe/capsule_231x87.jpg?t=1730896204",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619150/35006cab0caa0f3d47b1fb831e73ffb84b000ffe/capsule_184x69.jpg?t=1730896204",
     "website": "https://luden.io/wtl/",
     "developers": [
       "Luden.io"
@@ -13931,12 +14079,17 @@
       "mac": true,
       "linux": true
     },
+    "metacritic": {
+      "score": 73,
+      "url": "https://www.metacritic.com/game/pc/while-true-learn()?ftag=MCD-06-10aaa1f"
+    },
     "categories": [
       2,
       22,
       23,
       28,
-      29
+      29,
+      62
     ],
     "genres": [
       23,
@@ -13953,11 +14106,29 @@
       "url": "https://luden.io/wtl/",
       "email": "info@luden.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/619150/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/619150/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619150/page_bg_generated_v6b.jpg?t=1730896204",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619150/page_bg_generated.jpg?t=1730896204",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "618200": {

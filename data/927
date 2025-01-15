@@ -4010,9 +4010,9 @@
       "appid": "2771670",
       "name": "Psychopomp"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2782070/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2782070/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2782070/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782070/header.jpg?t=1706685177",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782070/capsule_231x87.jpg?t=1706685177",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782070/capsule_184x69.jpg?t=1706685177",
     "website": null,
     "developers": [
       "Fading Club"
@@ -4047,8 +4047,8 @@
       "url": "https://fadingclub.neocities.org/",
       "email": "fadingclubgames@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2782070/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2782070/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782070/page_bg_generated_v6b.jpg?t=1706685177",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782070/page_bg_generated.jpg?t=1706685177",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4080,16 +4080,22 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Espionage is a 2D narrative puzzle game. The story is set on an alternate history of World War II. You will be a spy deep within enemy lines, facing life-and-death trials and the choice between morality and duty in a series of operations, ultimately growing into a true revolutionary warrior.",
-    "supported_languages": "English, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781280/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781280/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2781280/capsule_184x69.jpg",
+    "supported_languages": "English, Simplified Chinese, Traditional Chinese, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781280/header.jpg?t=1732526239",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781280/capsule_231x87.jpg?t=1732526239",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781280/capsule_184x69.jpg?t=1732526239",
     "website": null,
     "developers": [
       "Cube of Cube"
     ],
     "publishers": [
       "Edigger"
+    ],
+    "demos": [
+      {
+        "appid": 3317400,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4115,8 +4121,8 @@
       "url": "",
       "email": "publish@ediggerstudio.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2781280/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2781280/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781280/page_bg_generated_v6b.jpg?t=1732526239",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781280/page_bg_generated.jpg?t=1732526239",
     "content_descriptors": {
       "ids": [
         5
@@ -4149,19 +4155,35 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "A whimsical cat adventure where you climb, talk, fly and smack your way to places where no cat has ever gone before",
+    "dlc": [
+      2903230
+    ],
+    "short_description": "A short cat adventure packed with curious characters, strange environments and good vibes.\u200b Climb, talk, fly and smack your way to places where no cat has ever gone before!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781210/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781210/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2781210/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781210/header.jpg?t=1732810521",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781210/capsule_231x87.jpg?t=1732810521",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781210/capsule_184x69.jpg?t=1732810521",
     "website": null,
     "developers": [
-      "Zylinski Games"
+      "Karl Zylinski"
     ],
     "publishers": [
-      "Zylinski Games"
+      "Karl Zylinski"
     ],
-    "package_groups": [],
+    "packages": [
+      993887
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy CAT & ONION",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4169,22 +4191,28 @@
     },
     "categories": [
       2,
-      28
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       23,
       25
     ],
+    "achievements": {
+      "total": 5
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "12 Mar, 2024"
     },
     "support_info": {
       "url": "https://discord.gg/4FsHgtBmFK",
       "email": "cat@zylinski.se"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2781210/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2781210/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781210/page_bg_generated_v6b.jpg?t=1732810521",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781210/page_bg_generated.jpg?t=1732810521",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4215,13 +4243,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783690/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783690/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2783690/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783690/header.jpg?t=1707176252",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783690/capsule_231x87.jpg?t=1707176252",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783690/capsule_184x69.jpg?t=1707176252",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -4777,9 +4802,9 @@
     "is_free": true,
     "short_description": "Help your partner perform the heist of a lifetime! Send him instructions for how to get to each vault and make a getaway with your newly found fortune!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781490/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781490/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2781490/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781490/header.jpg?t=1718853292",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781490/capsule_231x87.jpg?t=1718853292",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781490/capsule_184x69.jpg?t=1718853292",
     "website": null,
     "developers": [
       "Magnarris"
@@ -4801,8 +4826,12 @@
       2,
       4,
       23,
+      25,
       37
     ],
+    "achievements": {
+      "total": 5
+    },
     "release_date": {
       "coming_soon": false,
       "date": "6 Feb, 2024"
@@ -4811,8 +4840,8 @@
       "url": "",
       "email": "hrishikeshs2005@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2781490/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2781490/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781490/page_bg_generated_v6b.jpg?t=1718853292",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781490/page_bg_generated.jpg?t=1718853292",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4848,9 +4877,9 @@
       "name": "Leaving DNA"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781690/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781690/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2781690/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781690/header.jpg?t=1709775016",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781690/capsule_231x87.jpg?t=1709775016",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781690/capsule_184x69.jpg?t=1709775016",
     "website": null,
     "developers": [
       "The Impious Monk"
@@ -4881,8 +4910,8 @@
       "url": "",
       "email": "leavingdna@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2781690/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2781690/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781690/page_bg_generated_v6b.jpg?t=1709775016",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781690/page.bg.jpg?t=1709775016",
     "content_descriptors": {
       "ids": [
         1,
@@ -7311,17 +7340,23 @@
     "steam_appid": 2783460,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Manage the shared inventory of your party of adventurers and send them out to fight against other players in this roguelike auto-battler. Reforge and combine your items to change their shape and exploit the grid bonuses to the fullest.",
+    "short_description": "Manage the shared inventory of your party of adventurers and send them out to fight against other players in this roguelike auto-battler. Combine the items you collect on your way to make more powerful ones, and change their shape on the forge to exploit the grid bonuses to the fullest!",
     "supported_languages": "English, Spanish - Spain",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2783460/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783460/header.jpg?t=1736962087",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783460/capsule_231x87.jpg?t=1736962087",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783460/capsule_184x69.jpg?t=1736962087",
     "website": null,
     "developers": [
       "Junjo"
     ],
     "publishers": [
       "Junjo"
+    ],
+    "demos": [
+      {
+        "appid": 2919350,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7333,11 +7368,11 @@
       1,
       2,
       27,
-      36,
       49
     ],
     "genres": [
-      2
+      2,
+      23
     ],
     "release_date": {
       "coming_soon": true,
@@ -7347,8 +7382,8 @@
       "url": "",
       "email": "dev@junjo.es"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2783460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2783460/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783460/page_bg_generated_v6b.jpg?t=1736962087",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783460/page_bg_generated.jpg?t=1736962087",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7457,9 +7492,9 @@
     "is_free": true,
     "short_description": "\ub3c5\ud2b9\ud55c \uc870\uc791 \ubc29\uc2dd\uc758 SF VR \ud50c\ub77c\uc774\ud2b8 \uc288\ud305! \uc6b0\uc8fc \uc804\ud22c\uae30\uc758 \ud30c\uc77c\ub7ff\uc774 \ub418\uc5b4 \ube60\ub978 \ud398\uc774\uc2a4\uc758 \uc6b0\uc8fc \uacf5\ub300\uacf5\uc804\uc744 \uacbd\ud5d8\ud574\ubcf4\uc138\uc694!",
     "supported_languages": "Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2782480/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2782480/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2782480/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782480/header.jpg?t=1708082381",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782480/capsule_231x87.jpg?t=1708082381",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782480/capsule_184x69.jpg?t=1708082381",
     "website": null,
     "developers": [
       "Team.STORMHAWK"
@@ -7491,8 +7526,8 @@
       "url": "",
       "email": "teamstormhawk@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2782480/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2782480/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782480/page_bg_generated_v6b.jpg?t=1708082381",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782480/page_bg_generated.jpg?t=1708082381",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8011,9 +8046,9 @@
     "controller_support": "full",
     "short_description": "Gear up for an epic tank showdown in this dynamic local multiplayer game! Outwit friends in intense PvP battles or team up to defend against ruthless enemies in PvE!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781730/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781730/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2781730/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781730/header.jpg?t=1712339828",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781730/capsule_231x87.jpg?t=1712339828",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781730/capsule_184x69.jpg?t=1712339828",
     "website": null,
     "developers": [
       "Ryan Pace"
@@ -8070,8 +8105,8 @@
       "url": "",
       "email": "pacerproductions100@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2781730/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2781730/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781730/page_bg_generated_v6b.jpg?t=1712339828",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781730/page_bg_generated.jpg?t=1712339828",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8394,17 +8429,30 @@
     "controller_support": "full",
     "short_description": "Is the dark world you travel simply a little nightmare, or our future to come?",
     "supported_languages": "English, Korean, French, Italian, German, Spanish - Spain, Arabic, Indonesian, Japanese, Portuguese - Portugal, Russian, Simplified Chinese, Thai, Traditional Chinese, Turkish, Vietnamese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2782420/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2782420/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2782420/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782420/header.jpg?t=1729757869",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782420/capsule_231x87.jpg?t=1729757869",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782420/capsule_184x69.jpg?t=1729757869",
     "website": null,
     "developers": [
-      "THEAND Co."
+      "PlayDay Co., Ltd."
     ],
     "publishers": [
-      "THEAND Co."
+      "PlayDay Co., Ltd."
     ],
-    "package_groups": [],
+    "packages": [
+      994304
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Minimal Escape",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8412,21 +8460,27 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
+      1,
+      23,
       25
     ],
+    "achievements": {
+      "total": 26
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Mar, 2024"
     },
     "support_info": {
       "url": "https://theand.kr/",
-      "email": "theandgaems2018@gmail.com"
+      "email": "playday0201@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2782420/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2782420/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782420/page_bg_generated_v6b.jpg?t=1729757869",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782420/page.bg.jpg?t=1729757869",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10260,11 +10314,11 @@
     "steam_appid": 2783730,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Translate your games and apps, easily add languages and updates with Raiverb. This AI-driven CAT software leverages your existing content to deliver context-aware, accurate and fitting translations.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783730/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783730/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2783730/capsule_184x69.jpg",
+    "short_description": "Localize your games or apps faster and easier, add new languages or translate your updates with ease. Raiverb is a versatile localization assistant, capable to leverage your existing content to deliver context-aware, accurate and fitting translations. Includes a range of quality-of-life features.",
+    "supported_languages": "English, French, Simplified Chinese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783730/header.jpg?t=1717580248",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783730/capsule_231x87.jpg?t=1717580248",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783730/capsule_184x69.jpg?t=1717580248",
     "website": "https://www.bouncerock.com/hub/raiverb/",
     "developers": [
       "Adrien Pierret"
@@ -10287,15 +10341,15 @@
       60
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "9 Apr, 2024"
     },
     "support_info": {
       "url": "https://www.bouncerock.com/hub/raiverb/contact/",
       "email": "contact@bouncerock.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2783730/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2783730/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783730/page_bg_generated_v6b.jpg?t=1717580248",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783730/page.bg.jpg?t=1717580248",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10328,9 +10382,9 @@
     "controller_support": "full",
     "short_description": "A stylized night-time speed-running game",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783520/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783520/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2783520/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783520/header.jpg?t=1709586168",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783520/capsule_231x87.jpg?t=1709586168",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783520/capsule_184x69.jpg?t=1709586168",
     "website": null,
     "developers": [
       "Sarthak Kamboj"
@@ -10362,8 +10416,8 @@
       "url": "",
       "email": "sarthakkamboj22@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2783520/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2783520/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783520/page_bg_generated_v6b.jpg?t=1709586168",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783520/page_bg_generated.jpg?t=1709586168",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10488,15 +10542,21 @@
     "controller_support": "full",
     "short_description": "Interwoven is a fantasy hack-and-slash centered around the peak of the Hundred Years' War. Join Alrion and Gylfie on a continental journey to escape an elite, rogue task force that seeks to capture them, dead or alive.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783800/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783800/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2783800/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783800/header.jpg?t=1718039631",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783800/capsule_231x87.jpg?t=1718039631",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783800/capsule_184x69.jpg?t=1718039631",
     "website": null,
     "developers": [
       "Matchwork Studios"
     ],
     "publishers": [
       "Matchwork Studios"
+    ],
+    "demos": [
+      {
+        "appid": 2869490,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -10522,8 +10582,8 @@
       "url": "",
       "email": "matchworkstudio@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2783800/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2783800/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783800/page_bg_generated_v6b.jpg?t=1718039631",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783800/page.bg.jpg?t=1718039631",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10549,21 +10609,27 @@
   },
   "2782010": {
     "type": "game",
-    "name": "Daydreamer",
+    "name": "DAYDREAMER",
     "steam_appid": 2782010,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Daydreamer: An action-adventure RPG game where you dream away your classes to explore an action-packed world of adventure made from the topics surrounding you. Your brain is the limit! so go and have fun!",
+    "short_description": "Daydreamer: An action-adventure RPG game where you dream away your classes to explore an action-packed world of adventure made from the topics surrounding you. Your brain is the limit! So go and have fun!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2782010/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2782010/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2782010/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782010/header.jpg?t=1717705255",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782010/capsule_231x87.jpg?t=1717705255",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782010/capsule_184x69.jpg?t=1717705255",
     "website": null,
     "developers": [
       "Underground-Games"
     ],
     "publishers": [
       "Underground-Games"
+    ],
+    "demos": [
+      {
+        "appid": 2987240,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -10578,18 +10644,19 @@
       1,
       3,
       23,
-      25
+      25,
+      70
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "May 2024"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "underground.games227@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2782010/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2782010/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782010/page_bg_generated_v6b.jpg?t=1717705255",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782010/page_bg_generated.jpg?t=1717705255",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10621,9 +10688,9 @@
     "is_free": false,
     "short_description": "Soulslike PvPvE medieval Dungeon-crawler, with extraction possibility and incoming zone. The Combat is Physicbased and has dismemberment, higher speed-stats of yours slowdown enemy's, and projectiles, you can find rare Items or NPCs in the Dungeon that give you Quests or fight Bosses.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783550/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2783550/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2783550/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783550/header.jpg?t=1735064718",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783550/capsule_231x87.jpg?t=1735064718",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783550/capsule_184x69.jpg?t=1735064718",
     "website": null,
     "developers": [
       "me"
@@ -10657,14 +10724,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "Q4 2028"
     },
     "support_info": {
       "url": "",
       "email": "GreatestDungeon@proton.me"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2783550/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2783550/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783550/page_bg_generated_v6b.jpg?t=1735064718",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783550/page_bg_generated.jpg?t=1735064718",
     "content_descriptors": {
       "ids": [],
       "notes": null
