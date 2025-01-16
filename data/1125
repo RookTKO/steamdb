@@ -7453,9 +7453,9 @@
     "is_free": false,
     "short_description": "This will be the most thrilling pool game you have ever played. Join up to 3 of your friends in this exciting pool roulette game! Eliminate each other with pool until only one person is left.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Ukrainian, Russian, Bulgarian, Hungarian, Indonesian, Turkish, Greek, Norwegian, Czech, Japanese, Polish, Thai, Swedish, Simplified Chinese, Traditional Chinese, Romanian, Finnish, Dutch, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America, Vietnamese, Arabic, Korean, Filipino",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/header.jpg?t=1734567438",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/ec613fd58d146e679f1368fcbe9ce280a065f404/capsule_231x87.jpg?t=1734567438",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/ec613fd58d146e679f1368fcbe9ce280a065f404/capsule_184x69.jpg?t=1734567438",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/header.jpg?t=1736814636",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/ec613fd58d146e679f1368fcbe9ce280a065f404/capsule_231x87.jpg?t=1736814636",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/ec613fd58d146e679f1368fcbe9ce280a065f404/capsule_184x69.jpg?t=1736814636",
     "website": null,
     "developers": [
       "WaveBox Labs"
@@ -7463,7 +7463,20 @@
     "publishers": [
       "WaveBox Labs"
     ],
-    "package_groups": [],
+    "packages": [
+      1194704
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Nine-Ball Roulette",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7474,7 +7487,8 @@
       22,
       23,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       3,
@@ -7482,16 +7496,19 @@
       28,
       70
     ],
+    "achievements": {
+      "total": 16
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "13 Jan, 2025"
     },
     "support_info": {
       "url": "https://www.youtube.com/@WaveBoxLabs",
       "email": "wavebox66@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/page_bg_generated_v6b.jpg?t=1734567438",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/page_bg_generated.jpg?t=1734567438",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/page_bg_generated_v6b.jpg?t=1736814636",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376250/page_bg_generated.jpg?t=1736814636",
     "content_descriptors": {
       "ids": [
         5
@@ -10431,5 +10448,69 @@
       "notes": null
     },
     "ratings": null
+  },
+  "3377280": {
+    "type": "dlc",
+    "name": "Carrier Battles - Hailstone 44",
+    "steam_appid": 3377280,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "New 1944-Scenario Operation Hailstone",
+    "fullgame": {
+      "appid": "1163340",
+      "name": "Carrier Battles 4 Guadalcanal - Pacific War Naval Warfare"
+    },
+    "supported_languages": "English, French, Spanish - Spain, Simplified Chinese, Japanese, Italian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3377280/header.jpg?t=1737037978",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3377280/bc32a9c3e2fd7bdeae75770b2a00d3ae2506512e/capsule_231x87.jpg?t=1737037978",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3377280/bc32a9c3e2fd7bdeae75770b2a00d3ae2506512e/capsule_184x69.jpg?t=1737037978",
+    "website": "https://carrier-battles.com",
+    "developers": [
+      "Avalon Digital",
+      "Cyril Jarnot"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "categories": [
+      1,
+      2,
+      21,
+      27
+    ],
+    "genres": [
+      2,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "January 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "support@avalon-digital.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3377280/page_bg_generated_v6b.jpg?t=1737037978",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3377280/page.bg.jpg?t=1737037978",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
+    }
   }
 }

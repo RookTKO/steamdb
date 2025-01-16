@@ -7,9 +7,9 @@
     "is_free": false,
     "short_description": "The Ultimate TrickShot Simulation with realistic physics! Experience a variety of trickshot with simple mouse controls. Some stages are difficult. Pushing the limits of your precision and patience. When you pull off a miraculous trickshot, you\u2019ll roar with triumph!",
     "supported_languages": "English, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/header.jpg?t=1735033823",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/b9984cbeffc630e17df103b9f67f617cb2c07f89/capsule_231x87.jpg?t=1735033823",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/b9984cbeffc630e17df103b9f67f617cb2c07f89/capsule_184x69.jpg?t=1735033823",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/header.jpg?t=1736859489",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/b9984cbeffc630e17df103b9f67f617cb2c07f89/capsule_231x87.jpg?t=1736859489",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/b9984cbeffc630e17df103b9f67f617cb2c07f89/capsule_184x69.jpg?t=1736859489",
     "website": null,
     "developers": [
       "BeaTeb"
@@ -17,7 +17,20 @@
     "publishers": [
       "BeaTeb"
     ],
-    "package_groups": [],
+    "packages": [
+      1197430
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy TrickShot Simulator",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -26,23 +39,27 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       4,
       23,
       28
     ],
+    "achievements": {
+      "total": 19
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "13 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "beateb.dev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/page_bg_generated_v6b.jpg?t=1735033823",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/page_bg_generated.jpg?t=1735033823",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/page_bg_generated_v6b.jpg?t=1736859489",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384190/page_bg_generated.jpg?t=1736859489",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3362,21 +3379,21 @@
   },
   "3384440": {
     "type": "game",
-    "name": "\u90e8\u843d\u53ec\u5524",
+    "name": "\u90e8\u843d\u53ec\u5524 Call of Clans",
     "steam_appid": 3384440,
     "required_age": 0,
     "is_free": true,
-    "short_description": "\u300a\u90e8\u843d\u53ec\u5524\u300b\u662f\u4e00\u6b3e\u4ee5\u897f\u65b9\u9b54\u5e7b\u4e3a\u80cc\u666f\u7684\u7ebf\u4e0a\u56de\u5408\u5236\u6218\u68cb\u7ade\u6280\u5361\u724c\uff0c\u60a8\u53ef\u4ee5\u5229\u7528\u968f\u4ece\u5361\u548c\u6280\u80fd\u5361\u6784\u7b51\u4e00\u5957\u7b56\u7565\u591a\u53d8\u7684\u5361\u7ec4\uff0c\u5728\u5251\u4e0e\u9b54\u6cd5\u7684\u4e16\u754c\u4e2d\u6311\u6218\u5b9e\u529b\u65d7\u9f13\u76f8\u5f53\u7684\u73a9\u5bb6\u5bf9\u624b\uff1b\u60a8\u4e5f\u80fd\u4e0e\u5176\u4ed6\u73a9\u5bb6\u7ec4\u961f\u4e92\u52a8\uff0c\u6311\u6218\u6781\u5177\u6311\u6218\u6027\u7684\u7ec4\u961f\u526f\u672c\u3002",
-    "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/header.jpg?t=1734942009",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/af9144947f751bef0a7755ff95ae5c726a4d0214/capsule_231x87.jpg?t=1734942009",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/af9144947f751bef0a7755ff95ae5c726a4d0214/capsule_184x69.jpg?t=1734942009",
+    "short_description": "Call of Clans is an online turn-based strategy card game set in a magical world. Build a versatile deck with minion and skill cards to challenge equally matched opponents in a world of swords and magic. Team up with others to conquer challenging co-op dungeons",
+    "supported_languages": "Simplified Chinese, English, French, German, Spanish - Spain, Russian, Turkish, Japanese, Polish, Thai, Traditional Chinese, Dutch, Portuguese - Brazil, Vietnamese, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/header.jpg?t=1737000828",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/0a3ea8ea8afa3bada4036b30ab5af8c624b7c723/capsule_231x87.jpg?t=1737000828",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/0a3ea8ea8afa3bada4036b30ab5af8c624b7c723/capsule_184x69.jpg?t=1737000828",
     "website": null,
     "developers": [
-      "buluozhaohuan"
+      "Call of Clans"
     ],
     "publishers": [
-      "buluozhaohuan"
+      "Call of Clans"
     ],
     "package_groups": [],
     "platforms": {
@@ -3386,31 +3403,33 @@
     },
     "categories": [
       1,
+      2,
       9,
-      20,
       35,
       36,
       38,
+      44,
       49
     ],
     "genres": [
       2,
       3,
+      4,
+      23,
       25,
-      29,
       37,
       70
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "Q1 2025"
     },
     "support_info": {
       "url": "",
       "email": "coolstarcs1@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/page_bg_generated_v6b.jpg?t=1734942009",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/page.bg.jpg?t=1734942009",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/page_bg_generated_v6b.jpg?t=1737000828",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384440/page.bg.jpg?t=1737000828",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4752,9 +4771,9 @@
       "appid": "2594970",
       "name": "Botanical Chronicle"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/header.jpg?t=1735438225",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/9eb831c9e1c43aa803842bde56d0cb82b7aa2d4c/capsule_231x87.jpg?t=1735438225",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/9eb831c9e1c43aa803842bde56d0cb82b7aa2d4c/capsule_184x69.jpg?t=1735438225",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/header.jpg?t=1736992611",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/9eb831c9e1c43aa803842bde56d0cb82b7aa2d4c/capsule_231x87.jpg?t=1736992611",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/9eb831c9e1c43aa803842bde56d0cb82b7aa2d4c/capsule_184x69.jpg?t=1736992611",
     "website": "https://zil.ink/qrqn",
     "developers": [
       "Metapolis Games"
@@ -4762,22 +4781,35 @@
     "publishers": [
       "Metapolis Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1198234
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Botanical Chronicle Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "15 Jan, 2025"
     },
     "support_info": {
       "url": "https://www.metapolis.games/contact-2",
       "email": "Siavash@metapolis.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/page_bg_generated_v6b.jpg?t=1735438225",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/page_bg_generated.jpg?t=1735438225",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/page_bg_generated_v6b.jpg?t=1736992611",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386490/page_bg_generated.jpg?t=1736992611",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9344,10 +9376,10 @@
     "controller_support": "full",
     "short_description": "A colossal sunset that enigmatically beckons you. Four mysterious torii gates encircle an eerie stage.And a girl walking towards you. Can you uncover the anomalies and escape this sinister world? Experience the ultimate Japanese mystery horror escape in this immersive walking simulator!",
     "supported_languages": "English, Japanese, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/header.jpg?t=1735830499",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/8446f453423f6064d83e411288829ba56fb00fda/capsule_231x87.jpg?t=1735830499",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/8446f453423f6064d83e411288829ba56fb00fda/capsule_184x69.jpg?t=1735830499",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/header.jpg?t=1737014020",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/8446f453423f6064d83e411288829ba56fb00fda/capsule_231x87.jpg?t=1737014020",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/8446f453423f6064d83e411288829ba56fb00fda/capsule_184x69.jpg?t=1737014020",
+    "website": "https://eargaming.com/yuhi_luredbyeeriesundown/",
     "developers": [
       "EAR LLC (HorrorGameDev)"
     ],
@@ -9378,8 +9410,8 @@
       "url": "",
       "email": "eargamimgdev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/page_bg_generated_v6b.jpg?t=1735830499",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/page.bg.jpg?t=1735830499",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/page_bg_generated_v6b.jpg?t=1737014020",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384900/page.bg.jpg?t=1737014020",
     "content_descriptors": {
       "ids": [
         2,
