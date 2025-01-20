@@ -2538,9 +2538,9 @@
     "is_free": false,
     "short_description": "Embark on a chilling adventure through a mysterious forest on a cold Christmas Eve night, searching for ornaments to decorate a Christmas tree. But beware\u2014something lurks in the\u00a0 snowy darkness\u2026",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/header.jpg?t=1735436615",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/efe7930217b0cfcb00ea69eb25fa5b0e8165ebef/capsule_231x87.jpg?t=1735436615",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/efe7930217b0cfcb00ea69eb25fa5b0e8165ebef/capsule_184x69.jpg?t=1735436615",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/header.jpg?t=1736548961",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/efe7930217b0cfcb00ea69eb25fa5b0e8165ebef/capsule_231x87.jpg?t=1736548961",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/efe7930217b0cfcb00ea69eb25fa5b0e8165ebef/capsule_184x69.jpg?t=1736548961",
     "website": null,
     "developers": [
       "Night Drive Interactive"
@@ -2548,14 +2548,28 @@
     "publishers": [
       "Night Drive Interactive"
     ],
-    "package_groups": [],
+    "packages": [
+      1204118
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy KLAWS",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -2564,15 +2578,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "10 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "nightdriveinteractive@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/page_bg_generated_v6b.jpg?t=1735436615",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/page.bg.jpg?t=1735436615",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/page_bg_generated_v6b.jpg?t=1736548961",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/page.bg.jpg?t=1736548961",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8107,6 +8121,73 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Gewalt"
+      }
+    }
+  },
+  "3404140": {
+    "type": "game",
+    "name": "Bloody Night Cult",
+    "steam_appid": 3404140,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "A 2000s-inspired horror with VHS low-poly graphics. Try to unravel the mystery behind your brother\u2019s disappearance while being HUNTED by a sinister cult.",
+    "supported_languages": "English, Portuguese - Brazil",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404140/header.jpg?t=1737326473",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404140/ce06b168294e7f8f6388c41286850894a1ab20dc/capsule_231x87.jpg?t=1737326473",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404140/ce06b168294e7f8f6388c41286850894a1ab20dc/capsule_184x69.jpg?t=1737326473",
+    "website": null,
+    "developers": [
+      "Fyre Studios"
+    ],
+    "publishers": [
+      "Fyre Studios"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      22
+    ],
+    "genres": [
+      23
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "",
+      "email": "fyrestudioscontact@gmail.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404140/page_bg_generated_v6b.jpg?t=1737326473",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404140/page_bg_generated.jpg?t=1737326473",
+    "content_descriptors": {
+      "ids": [
+        2,
+        5
+      ],
+      "notes": "Dismemberment\r\nSuicide\r\nViscera\r\nBlood"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nTemas sens\u00edveis\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nSchimpfw\u00f6rte"
       }
     }
   }
