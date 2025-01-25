@@ -1024,9 +1024,9 @@
       "appid": "2399570",
       "name": "Skystead Ranch"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/header.jpg?t=1736420716",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/99aeb97a9dfca83a33d85cf24989d647df6c5263/capsule_231x87.jpg?t=1736420716",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/99aeb97a9dfca83a33d85cf24989d647df6c5263/capsule_184x69.jpg?t=1736420716",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/header.jpg?t=1737480962",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/99aeb97a9dfca83a33d85cf24989d647df6c5263/capsule_231x87.jpg?t=1737480962",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/99aeb97a9dfca83a33d85cf24989d647df6c5263/capsule_184x69.jpg?t=1737480962",
     "website": null,
     "developers": [
       "ToastieLabs"
@@ -1034,22 +1034,35 @@
     "publishers": [
       "ToastieLabs"
     ],
-    "package_groups": [],
+    "packages": [
+      1215283
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Skystead Ranch - Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
-      "date": "17 Jan, 2025"
+      "coming_soon": false,
+      "date": "21 Jan, 2025"
     },
     "support_info": {
       "url": "https://www.toastielabs.co.uk/contact",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/page_bg_generated_v6b.jpg?t=1736420716",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/page_bg_generated.jpg?t=1736420716",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/page_bg_generated_v6b.jpg?t=1737480962",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437920/page_bg_generated.jpg?t=1737480962",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6880,6 +6893,71 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Drastische Gewalt"
+      }
+    }
+  },
+  "3436490": {
+    "type": "game",
+    "name": "Stella Can't Hear",
+    "steam_appid": 3436490,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Key Features: Explore 20+ Levels of Platforming challenges. Discover and rescue 9 other Dog Friends Unique Tap-to-Tell Movement system. Agility Course level to refine reaction speed. Complete the Stella-Pedia to learn about Real World Stella.",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436490/header.jpg?t=1737777004",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436490/2e8f3948822223d51c4fbfb364a17bde68e885a8/capsule_231x87.jpg?t=1737777004",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436490/2e8f3948822223d51c4fbfb364a17bde68e885a8/capsule_184x69.jpg?t=1737777004",
+    "website": null,
+    "developers": [
+      "Entropico"
+    ],
+    "publishers": [
+      "Entropico"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2
+    ],
+    "genres": [
+      4,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Q1 2025"
+    },
+    "support_info": {
+      "url": "https://www.armstronggamedesign.com/",
+      "email": ""
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436490/page_bg_generated_v6b.jpg?t=1737777004",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436490/page.bg.jpg?t=1737777004",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
       }
     }
   }
