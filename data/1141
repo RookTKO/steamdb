@@ -4197,11 +4197,12 @@
     "steam_appid": 3425720,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "SHWA [\u0283w\u0251:], meaning &quot;choice&quot; in French and pronounced &quot;shwa,&quot; invites you to become a god. With the power to erase through your &quot;choices,&quot; you hold the ability to alter the fate of the world.",
     "supported_languages": "Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/header.jpg?t=1736512224",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/5e236bc0f0b911e52c76d6a78d042d0dc8816f16/capsule_231x87.jpg?t=1736512224",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/5e236bc0f0b911e52c76d6a78d042d0dc8816f16/capsule_184x69.jpg?t=1736512224",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/header.jpg?t=1737456940",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/5e236bc0f0b911e52c76d6a78d042d0dc8816f16/capsule_231x87.jpg?t=1737456940",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/5e236bc0f0b911e52c76d6a78d042d0dc8816f16/capsule_184x69.jpg?t=1737456940",
     "website": null,
     "developers": [
       "SECHAN BARAM"
@@ -4217,7 +4218,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      28
     ],
     "genres": [
       23,
@@ -4232,8 +4234,8 @@
       "url": "",
       "email": "sechan-baram@naver.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/page_bg_generated_v6b.jpg?t=1736512224",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/page_bg_generated.jpg?t=1736512224",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/page_bg_generated_v6b.jpg?t=1737456940",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425720/page_bg_generated.jpg?t=1737456940",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8344,6 +8346,72 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
+      }
+    }
+  },
+  "3425340": {
+    "type": "demo",
+    "name": "\u4e2d\u56fd\u8db3\u7403\u6a21\u62df\u5668 Demo",
+    "steam_appid": 3425340,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "",
+    "fullgame": {
+      "appid": "3304320",
+      "name": "CFS (Chinese Football Simulator)"
+    },
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425340/header.jpg?t=1737955400",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425340/f6c587640bd6baa9699c0dcd5ea1b4fabd262954/capsule_231x87.jpg?t=1737955400",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425340/f6c587640bd6baa9699c0dcd5ea1b4fabd262954/capsule_184x69.jpg?t=1737955400",
+    "website": null,
+    "developers": [
+      "\u609f\u7a7a\u5b9e\u9a8c\u5ba4"
+    ],
+    "publishers": [
+      "\u609f\u7a7a\u5b9e\u9a8c\u5ba4"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      10,
+      22,
+      23,
+      30
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "gokulab.com",
+      "email": "li.gokulab@gmail.com"
+    },
+    "background": "",
+    "background_raw": "",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Alkohol / Tabak"
       }
     }
   }
