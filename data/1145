@@ -3370,9 +3370,9 @@
     "is_free": false,
     "short_description": "Fantasy Extraction Adventure Across Space and Time.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/header.jpg?t=1736823685",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/01ebc652f253906de059f82608a16ea809b2d28d/capsule_231x87.jpg?t=1736823685",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/01ebc652f253906de059f82608a16ea809b2d28d/capsule_184x69.jpg?t=1736823685",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/header.jpg?t=1737342402",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/01ebc652f253906de059f82608a16ea809b2d28d/capsule_231x87.jpg?t=1737342402",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/01ebc652f253906de059f82608a16ea809b2d28d/capsule_184x69.jpg?t=1737342402",
     "website": null,
     "developers": [
       "AFM"
@@ -3405,8 +3405,8 @@
       "url": "",
       "email": "tbd"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/page_bg_generated_v6b.jpg?t=1736823685",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/page_bg_generated.jpg?t=1736823685",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/page_bg_generated_v6b.jpg?t=1737342402",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436940/page_bg_generated.jpg?t=1737342402",
     "content_descriptors": {
       "ids": [
         2,
@@ -4080,9 +4080,9 @@
     "is_free": false,
     "short_description": "The End of Infinite Return is a story that unravels the fate and secrets of the secret agent Lexy as she goes on missions in a simulated world.Use a variety of firearms to defeat enemies and solve puzzles while deciding your own fate.",
     "supported_languages": "English, Japanese, Korean, Spanish - Latin America",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/header.jpg?t=1736938405",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/7ee669acf2967f575f5408c6a06d1d2ebe43aa73/capsule_231x87.jpg?t=1736938405",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/7ee669acf2967f575f5408c6a06d1d2ebe43aa73/capsule_184x69.jpg?t=1736938405",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/header.jpg?t=1738142614",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/7ee669acf2967f575f5408c6a06d1d2ebe43aa73/capsule_231x87.jpg?t=1738142614",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/7ee669acf2967f575f5408c6a06d1d2ebe43aa73/capsule_184x69.jpg?t=1738142614",
     "website": null,
     "developers": [
       "Doubleagames"
@@ -4090,14 +4090,28 @@
     "publishers": [
       "Doubleagames"
     ],
-    "package_groups": [],
+    "packages": [
+      1214493
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The End of Infinity Return",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -4105,15 +4119,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "29 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "asyuram77@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/page_bg_generated_v6b.jpg?t=1736938405",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/page.bg.jpg?t=1736938405",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/page_bg_generated_v6b.jpg?t=1738142614",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435400/page.bg.jpg?t=1738142614",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7658,6 +7672,137 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Fantasy-Gewalt"
+      }
+    }
+  },
+  "3436500": {
+    "type": "game",
+    "name": "Typewriter Monkeys",
+    "steam_appid": 3436500,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Infinite monkeys with infinite typewriters will eventually write Shakespeare... right? Find out in this cozy automation idler! Strategically place different kinds of monkeys with typewriters then level them up as you type longer and longer words!",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436500/header.jpg?t=1738430407",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436500/58c30efb55aba029f3d6bfd9bf9946415cc81dc7/capsule_231x87.jpg?t=1738430407",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436500/58c30efb55aba029f3d6bfd9bf9946415cc81dc7/capsule_184x69.jpg?t=1738430407",
+    "website": null,
+    "developers": [
+      "T. T. Hew Games"
+    ],
+    "publishers": [
+      "T. T. Hew Games"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2
+    ],
+    "genres": [
+      2,
+      4,
+      23,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "m@tthew.games"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436500/page_bg_generated_v6b.jpg?t=1738430407",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436500/page.bg.jpg?t=1738430407",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
+    }
+  },
+  "3437700": {
+    "type": "game",
+    "name": "Fishing Alone",
+    "steam_appid": 3437700,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Fishing Alone is a game where you play as an automata service robot, endlessly fishing in a tranquil, post-apocalyptic world, uncovering fragments of the lost human past.",
+    "supported_languages": "English, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437700/header.jpg?t=1738380259",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437700/e6c400aa0734aa3f6dced3a1f1292e269f60c935/capsule_231x87.jpg?t=1738380259",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437700/e6c400aa0734aa3f6dced3a1f1292e269f60c935/capsule_184x69.jpg?t=1738380259",
+    "website": null,
+    "developers": [
+      "TheSQUID"
+    ],
+    "publishers": [
+      "TheSQUID"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2
+    ],
+    "genres": [
+      4,
+      23,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "",
+      "email": "thesquidgamedev@gmail.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437700/page_bg_generated_v6b.jpg?t=1738380259",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437700/page_bg_generated.jpg?t=1738380259",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
       }
     }
   }

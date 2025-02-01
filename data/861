@@ -5927,13 +5927,16 @@
     "name": "Ruins To Fortress",
     "steam_appid": 2585860,
     "required_age": 0,
-    "is_free": false,
-    "short_description": "Survival is your only goal on this forsaken island. Experience a Rust-like 2D game focusing on base building, survival, PvP combat, and strategic map control. Prepare to embark on a journey as you carve your own path on this unforgiving island.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2585860/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2585860/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2585860/capsule_184x69.jpg",
-    "website": null,
+    "is_free": true,
+    "dlc": [
+      3103100
+    ],
+    "short_description": "Explore a post-apocalyptic island, craft, build, tear down enemy bases, defend and nuke your rivals! Life's about surviving in this multiplayer game, no matter what it takes!",
+    "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Portugal, Japanese, Russian, Simplified Chinese, Thai, Polish, Portuguese - Brazil",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585860/header.jpg?t=1736225589",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585860/capsule_231x87.jpg?t=1736225589",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585860/capsule_184x69.jpg?t=1736225589",
+    "website": "https://www.ruinstofortress.com/",
     "developers": [
       "NimbleBeasts"
     ],
@@ -5944,35 +5947,63 @@
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       1,
       2,
       9,
-      15,
       22,
-      35,
       36,
       38,
+      47,
+      48,
       49
     ],
     "genres": [
-      1
+      1,
+      23,
+      29,
+      37,
+      70
     ],
+    "achievements": {
+      "total": 24
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "13 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "nimblebeasts@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2585860/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2585860/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585860/page_bg_generated_v6b.jpg?t=1736225589",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585860/page_bg_generated.jpg?t=1736225589",
     "content_descriptors": {
-      "ids": [],
-      "notes": null
+      "ids": [
+        1,
+        5
+      ],
+      "notes": "The developer states that the game contains mature content, including unclothed characters without visible genitalia and pixel art blood effects that appear when the player is hit by NPCs or other players."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2583000": {
