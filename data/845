@@ -7970,11 +7970,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Play as a cute crow, fly around town, poop on people, and steal their shiny trinkets! In this sandbox-y adventure game, help your animal friends create adorable chaos and have a beak-tastic time customizing your adorable crow appearance! Why? Just caws!",
-    "supported_languages": "English<strong>*</strong>, French, German, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Spanish - Spain, Spanish - Latin America, Arabic, Japanese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537920/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537920/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2537920/capsule_184x69.jpg",
+    "short_description": "You're a little crow trying to prove herself to the world. Make new animal friends, poop on unsuspecting hoomans, and steal all the shiny trinkets! Each level is a little sandbox full of fun items to discover and puzzles to solve, while leaving a bit of chaos behind. Why? Just caws!",
+    "supported_languages": "English<strong>*</strong>, French, German, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Spanish - Spain, Spanish - Latin America, Japanese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537920/header.jpg?t=1726253214",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537920/capsule_231x87.jpg?t=1726253214",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537920/capsule_184x69.jpg?t=1726253214",
     "website": "http://unboundcreations.com/games/crowy",
     "developers": [
       "Unbound Creations"
@@ -7982,7 +7982,20 @@
     "publishers": [
       "Unbound Creations"
     ],
-    "package_groups": [],
+    "packages": [
+      911934
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Just Crow Things",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -7993,7 +8006,8 @@
       13,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -8002,19 +8016,40 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 36
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "15 Aug, 2024"
     },
     "support_info": {
       "url": "http://unboundcreations.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2537920/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2537920/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537920/page_bg_generated_v6b.jpg?t=1726253214",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537920/page.bg.jpg?t=1726253214",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Atos criminosos\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2536560": {
