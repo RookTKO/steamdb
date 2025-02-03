@@ -1373,9 +1373,9 @@
     "is_free": false,
     "short_description": "UFO: Extraterrestrials PLATINUM is a new edition that includes a number of enhancements that give the player a new perspective on the classic game: new alien species, heavy weapon platforms, heavy mortar, crash site bombardment, unique items, UFO swarms and configurability.",
     "supported_languages": "English, German, Spanish - Spain, Czech, French, Italian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1662770/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1662770/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1662770/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662770/header.jpg?t=1696088947",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662770/capsule_231x87.jpg?t=1696088947",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662770/capsule_184x69.jpg?t=1696088947",
     "website": "http://ufo-extraterrestrials.com/",
     "developers": [
       "Chaos Concept"
@@ -1406,7 +1406,8 @@
       2,
       15,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
@@ -1424,11 +1425,30 @@
       "url": "",
       "email": "support@ufo2extraterrestrials.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1662770/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1662770/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662770/page_bg_generated_v6b.jpg?t=1696088947",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662770/page_bg_generated.jpg?t=1696088947",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "12"
+      },
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "1664240": {
@@ -3919,12 +3939,12 @@
     "steam_appid": 1662860,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Drug Dealing RPG rogue-like strategy crime saga with choose your own adventure elements. The police and the jackboys aren't your biggest enemy... Time is!",
+    "short_description": "Drug Dealing RPG roguelite strategy crime saga with choose your own adventure elements. The police and the jackboys aren't your biggest enemy... Time is!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1662860/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1662860/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1662860/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662860/header.jpg?t=1720479242",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662860/capsule_231x87.jpg?t=1720479242",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662860/capsule_184x69.jpg?t=1720479242",
+    "website": "https://www.lathongaming.com",
     "developers": [
       "Sancho Lathon Jr"
     ],
@@ -3951,7 +3971,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -3963,7 +3984,7 @@
       70
     ],
     "achievements": {
-      "total": 1
+      "total": 22
     },
     "release_date": {
       "coming_soon": false,
@@ -3973,13 +3994,29 @@
       "url": "",
       "email": "lathongaming@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1662860/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1662860/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662860/page_bg_generated_v6b.jpg?t=1720479242",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662860/page_bg_generated.jpg?t=1720479242",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "Game contains mature storylines and the selling of drugs to teach people that the life of a drug dealer in seldom glamorous and often fatal!"
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Drogas il\u00edcitas\r\nViol\u00eancia\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogen\nDrastische Gewalt\nDerbe Sprache"
+      }
     }
   },
   "1662640": {
@@ -6650,11 +6687,15 @@
     "steam_appid": 1664200,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
+    "dlc": [
+      2880260
+    ],
     "short_description": "Build a deck and battle online in real-time action with rollback netcode!",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1664200/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1664200/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1664200/capsule_184x69.jpg",
+    "supported_languages": "English, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664200/header.jpg?t=1726610901",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664200/capsule_231x87.jpg?t=1726610901",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664200/capsule_184x69.jpg?t=1726610901",
     "website": null,
     "developers": [
       "Thomas Moon Kang"
@@ -6662,39 +6703,74 @@
     "publishers": [
       "Thomas Moon Kang"
     ],
-    "package_groups": [],
+    "packages": [
+      591473
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Duelists of Eden",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
-      "linux": false
+      "linux": true
     },
     "categories": [
       1,
       2,
-      18,
+      22,
+      23,
       24,
+      28,
       36,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
       23
     ],
+    "achievements": {
+      "total": 24
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2023"
+      "coming_soon": false,
+      "date": "7 Mar, 2024"
     },
     "support_info": {
       "url": "www.DuelistsOfEden.com",
       "email": "OneStepFromEden at gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1664200/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1664200/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664200/page_bg_generated_v6b.jpg?t=1726610901",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664200/page_bg_generated.jpg?t=1726610901",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "1663650": {
@@ -9178,9 +9254,9 @@
     "is_free": false,
     "short_description": "Where there is sky and sea, there is a story. Experience the &quot;slow life&quot; of your dreams on a southern island!",
     "supported_languages": "Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663560/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663560/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1663560/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663560/header.jpg?t=1628557217",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663560/capsule_231x87.jpg?t=1628557217",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663560/capsule_184x69.jpg?t=1628557217",
     "website": null,
     "developers": [
       "G-MODE"
@@ -9209,7 +9285,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       28
@@ -9222,11 +9299,29 @@
       "url": "",
       "email": "steam-develop@gmodecorp.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1663560/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1663560/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663560/page_bg_generated_v6b.jpg?t=1628557217",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663560/page_bg_generated.jpg?t=1628557217",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "1664210": {
@@ -13654,15 +13749,16 @@
     "controller_support": "full",
     "short_description": "REPLACED is a 2.5D sci-fi retro-futuristic action platformer where you play as R.E.A.C.H. - an artificial intelligence trapped in a human body against its own will. REPLACED combines cinematic platforming, pixel art and free-flow action combat set in an alternative 1980\u2019s.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish, Ukrainian, Belarusian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663850/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663850/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1663850/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663850/header.jpg?t=1731183122",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663850/capsule_231x87.jpg?t=1731183122",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663850/capsule_184x69.jpg?t=1731183122",
     "website": "https://playreplaced.com/",
     "developers": [
       "Sad Cat Studios"
     ],
     "publishers": [
-      "Coatsink"
+      "Coatsink",
+      "Thunderful"
     ],
     "package_groups": [],
     "platforms": {
@@ -13687,14 +13783,30 @@
       "url": "https://coatsink.com/contact",
       "email": "support@coatsink.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1663850/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1663850/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663850/page_bg_generated_v6b.jpg?t=1731183122",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663850/page_bg_generated.jpg?t=1731183122",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This game contains combat scenes that feature violence and gore.  Dialogue and cutscenes contain strong language. Includes references to alcohol, tobacco use, crude/mature humour and mature references in music lyrics."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Viol\u00eancia Extrema\r\nLinguagem impr\u00f3pria\r\nDrogas l\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Selbstmord\nDrogen\nDerbe Sprache"
+      }
     }
   },
   "1662480": {

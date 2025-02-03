@@ -1928,9 +1928,9 @@
     "is_free": true,
     "short_description": "\u7121\u6599\u3067\u6c17\u8efd\u306b\u904a\u3079\u308b\uff01\u521d\u5fc3\u8005\u3082\u7c21\u5358\u306b\u697d\u3057\u3081\u308b\u9ebb\u96c0\u30b2\u30fc\u30e0\u2014\u2014\u300e\u96c0\u7687\u9ebb\u96c0\u300f\u3002\u3064\u3044\u306bSteam\u3067\u767b\u5834\uff01",
     "supported_languages": "Simplified Chinese, Japanese<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1973970/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1973970/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1973970/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973970/header.jpg?t=1689301665",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973970/capsule_231x87.jpg?t=1689301665",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973970/capsule_184x69.jpg?t=1689301665",
     "website": "https://www.facebook.com/mahjongkings1",
     "developers": [
       "Loyujer Studio"
@@ -1966,11 +1966,16 @@
       "url": "",
       "email": "support@mahjongkings.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1973970/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1973970/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973970/page_bg_generated_v6b.jpg?t=1689301665",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973970/page.bg.jpg?t=1689301665",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      }
     }
   },
   "1972830": {
@@ -4558,9 +4563,9 @@
     "controller_support": "full",
     "short_description": "An extremely unforgiving and constrained precision oriented platformer with fast paced flow!!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971670/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971670/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1971670/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971670/header.jpg?t=1738525112",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971670/4c1d1995dc79ca145796160ce0b438c593ccace5/capsule_231x87.jpg?t=1738525112",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971670/4c1d1995dc79ca145796160ce0b438c593ccace5/capsule_184x69.jpg?t=1738525112",
     "website": null,
     "developers": [
       "Panic OK!!"
@@ -4592,14 +4597,30 @@
       "url": "@PanicDiet on twitter",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1971670/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1971670/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971670/page_bg_generated_v6b.jpg?t=1738525112",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971670/page.bg.jpg?t=1738525112",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
-      "notes": "May contain mature content not appropriate for all ages."
+      "notes": "May contain mature content depicting an adult fictional character in revealing outfits not suitable for all ages."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "1971570": {
