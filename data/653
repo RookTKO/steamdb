@@ -3746,11 +3746,11 @@
     "steam_appid": 1960480,
     "required_age": 0,
     "is_free": false,
-    "short_description": "In AutoForge you will build an expansive automated factory reaching up to the sky and deep into the ground, unlock and explore regions of a vast world filled with wonder and danger, upgrade yourself with ancient technologies, and then defend it all from the unfriendly denizens of the world.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1960480/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1960480/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1960480/capsule_184x69.jpg",
+    "short_description": "A 2D automation sandbox adventure. Build an automated factory with Mana-powered machines, progress through an expansive tech tree, explore a vast and wonderful world, upgrade yourself with ancient technologies, and defend it all from invasions.",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1960480/header.jpg?t=1735685221",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1960480/capsule_231x87.jpg?t=1735685221",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1960480/capsule_184x69.jpg?t=1735685221",
     "website": null,
     "developers": [
       "Siege Games"
@@ -3758,32 +3758,63 @@
     "publishers": [
       "Siege Games"
     ],
-    "package_groups": [],
+    "packages": [
+      707853
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy AutoForge",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
-      28
+      28,
+      70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Mar, 2024"
     },
     "support_info": {
       "url": "",
       "email": "contact@siegegames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1960480/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1960480/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1960480/page_bg_generated_v6b.jpg?t=1735685221",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1960480/page.bg.jpg?t=1735685221",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "1961210": {
@@ -16256,9 +16287,9 @@
     "is_free": true,
     "short_description": "The Warrior\u2019s Path is a singleplayer RPG, focused on your decisions in many different events. Those decisions can have longterm effects on other events. Prepare your character for hard fights with different crafting skills. How long can you walk on the warriors path? What's your story?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1961020/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1961020/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1961020/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1961020/header.jpg?t=1689497449",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1961020/capsule_231x87.jpg?t=1689497449",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1961020/capsule_184x69.jpg?t=1689497449",
     "website": "https://tidestorm.de/the-warriors-path/",
     "developers": [
       "Julian R\u00f6ckl"
@@ -16291,14 +16322,30 @@
       "url": "https://tidestorm.de/contact/",
       "email": "contact@tidestorm.de"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1961020/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1961020/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1961020/page_bg_generated_v6b.jpg?t=1689497449",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1961020/page_bg_generated.jpg?t=1689497449",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "3d swordfights in a low poly game, including blood. \r\nAlso fights against creatures like bears and wolves. Not really brutal."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nLinguagem impr\u00f3pria\r\nDrogas il\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "1959430": {
