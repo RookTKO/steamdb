@@ -6669,15 +6669,15 @@
   },
   "3296200": {
     "type": "game",
-    "name": "5 \u043d\u043e\u0447\u0435\u0439 \u0441 \u0422\u0438\u043c\u043e\u0445\u043e\u0439 4: \u0428\u043a\u043e\u043b\u0430",
+    "name": "5 nights at Timokha 4: School",
     "steam_appid": 3296200,
     "required_age": 0,
     "is_free": false,
     "short_description": "Continuation of the legendary saga about the naughty Timokha and his delicious pie!",
     "supported_languages": "English, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/header.jpg?t=1732032951",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/1234ab3e9249104d6797847d3fde3f459eb63cd6/capsule_231x87.jpg?t=1732032951",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/1234ab3e9249104d6797847d3fde3f459eb63cd6/capsule_184x69.jpg?t=1732032951",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/header.jpg?t=1735010296",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/5410a3324ebcce9941b740f058d5eca5e8ba74cf/capsule_231x87.jpg?t=1735010296",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/5410a3324ebcce9941b740f058d5eca5e8ba74cf/capsule_184x69.jpg?t=1735010296",
     "website": null,
     "developers": [
       "Team GZ"
@@ -6685,7 +6685,20 @@
     "publishers": [
       "Team GZ"
     ],
-    "package_groups": [],
+    "packages": [
+      1167450
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy 5 nights at Timokha 4: School",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6693,23 +6706,27 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
       23,
       25
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "19 Dec, 2024"
+      "coming_soon": false,
+      "date": "20 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "vadimch1102@yandex.ru"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/page_bg_generated_v6b.jpg?t=1732032951",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/page.bg.jpg?t=1732032951",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/page_bg_generated_v6b.jpg?t=1735010296",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296200/page.bg.jpg?t=1735010296",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11640,6 +11657,79 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
+      }
+    }
+  },
+  "3296340": {
+    "type": "demo",
+    "name": "House Of Decay Demo",
+    "steam_appid": 3296340,
+    "required_age": 0,
+    "is_free": true,
+    "controller_support": "full",
+    "short_description": "Retro 3d platformer metroidvania slasher with collectathon elements. Travel through the world of demons, search for collectibles and new abilities, unlock shortcuts, looking for pets and fight with cute monsters\ud83d\udc96Add to wishlist now!\ud83d\udc96",
+    "fullgame": {
+      "appid": "2899350",
+      "name": "House Of Decay"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Greek, Japanese, Russian, Simplified Chinese, Traditional Chinese, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296340/header.jpg?t=1739012538",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296340/3ea08f221bee141aa317ea171d56c6607e7e2412/capsule_231x87.jpg?t=1739012538",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296340/3ea08f221bee141aa317ea171d56c6607e7e2412/capsule_184x69.jpg?t=1739012538",
+    "website": "https://whiteboxcon.com/",
+    "developers": [
+      "White Box"
+    ],
+    "publishers": [
+      "White Box"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      10,
+      23,
+      28
+    ],
+    "genres": [
+      1,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "24 Feb, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "whiteboxcon+HouseOfDecayDemo@GoogleMail.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296340/page_bg_generated_v6b.jpg?t=1739012538",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296340/page_bg_generated.jpg?t=1739012538",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
       }
     }
   }
