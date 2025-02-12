@@ -7738,9 +7738,9 @@
       "name": "Blood Bar Tycoon"
     },
     "supported_languages": "English, French, German, Spanish - Spain, Simplified Chinese, Spanish - Latin America, Japanese, Portuguese - Brazil, Italian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/header.jpg?t=1734117718",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/5344ba7a60468db69469cf03dd53659f0caa4615/capsule_231x87.jpg?t=1734117718",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/5344ba7a60468db69469cf03dd53659f0caa4615/capsule_184x69.jpg?t=1734117718",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/header.jpg?t=1738666576",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/5344ba7a60468db69469cf03dd53659f0caa4615/capsule_231x87.jpg?t=1738666576",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/5344ba7a60468db69469cf03dd53659f0caa4615/capsule_184x69.jpg?t=1738666576",
     "website": "https://clevertrickster.com/blood-bar-tycoon/",
     "developers": [
       "Clever Trickster Studio"
@@ -7748,13 +7748,20 @@
     "publishers": [
       "Clever Trickster Productions"
     ],
-    "demos": [
+    "packages": [
+      1193503
+    ],
+    "package_groups": [
       {
-        "appid": 2879720,
-        "description": ""
+        "name": "default",
+        "title": "Buy Blood Bar Tycoon - Supporter Pack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7762,7 +7769,8 @@
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       2,
@@ -7771,15 +7779,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "4 Feb, 2025"
     },
     "support_info": {
       "url": "https://clevertrickster.com/blood-bar-tycoon/",
       "email": "hello@clevertrickster.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/page_bg_generated_v6b.jpg?t=1734117718",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/page.bg.jpg?t=1734117718",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/page_bg_generated_v6b.jpg?t=1738666576",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372940/page.bg.jpg?t=1738666576",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -13041,5 +13049,76 @@
       "notes": null
     },
     "ratings": null
+  },
+  "3374230": {
+    "type": "demo",
+    "name": "Hungry Meem Demo",
+    "steam_appid": 3374230,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "Meems, the hungry creatures that live under the World Tree, are in danger of extinction! Let's make the Meems' lives happy by exploring around the World Tree with them and developing their settlement!",
+    "fullgame": {
+      "appid": "3051240",
+      "name": "Hungry Meem"
+    },
+    "supported_languages": "English, Simplified Chinese, Traditional Chinese, Japanese, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3374230/header.jpg?t=1739334080",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3374230/36c25cb3ffb3f5f3eee588731473caa9bc41d245/capsule_231x87.jpg?t=1739334080",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3374230/36c25cb3ffb3f5f3eee588731473caa9bc41d245/capsule_184x69.jpg?t=1739334080",
+    "website": "https://hungrymeem.com",
+    "developers": [
+      "Drecom Co., Ltd."
+    ],
+    "publishers": [
+      "Drecom Co., Ltd."
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      10,
+      18
+    ],
+    "genres": [
+      4,
+      25,
+      28
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "11 Feb, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "contact\uff20hungrymeem.com"
+    },
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3374230/page_bg_generated_v6b.jpg?t=1739334080",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3374230/page_bg_generated.jpg?t=1739334080",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
+    }
   }
 }
