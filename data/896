@@ -91,16 +91,17 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Witness anomalies at a gas station in Winona, Arizona. Experience the tense atmosphere of the gas station through the eyes of Rayne Williams, an experienced D.I.B Agent. Explore the story with your own playstyle.",
-    "supported_languages": "English<strong>*</strong>, Turkish, German, Russian, French, Italian, Spanish - Spain, Ukrainian, Azerbaijani<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688960/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688960/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2688960/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, Turkish, Russian, Simplified Chinese, Japanese, Korean<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688960/header.jpg?t=1737791610",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688960/capsule_231x87.jpg?t=1737791610",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688960/capsule_184x69.jpg?t=1737791610",
     "website": null,
     "developers": [
       "Demonsoft Games"
     ],
     "publishers": [
-      "Demonsoft Games"
+      "Blackburne Games Studio FZ LLC",
+      "Indienext"
     ],
     "package_groups": [],
     "platforms": {
@@ -124,15 +125,32 @@
     },
     "support_info": {
       "url": "",
-      "email": "eternitysecho@demonsoftgames.com"
+      "email": "demonsoftgames@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2688960/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2688960/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688960/page_bg_generated_v6b.jpg?t=1737791610",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688960/page_bg_generated.jpg?t=1737791610",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "usk": {
+        "rating": "16",
+        "use_age_gate": "true"
+      },
+      "dejus": {
+        "rating": "16"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2688790": {
@@ -3748,50 +3766,73 @@
   },
   "2688600": {
     "type": "game",
-    "name": "Descent from Arkov's tower",
+    "name": "Descent from Arkov's tower Prologue",
     "steam_appid": 2688600,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
     "controller_support": "full",
-    "short_description": "Highly moddable retro roguelike. Descent from Arkov's Tower - or die trying!",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688600/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688600/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2688600/capsule_184x69.jpg",
+    "short_description": "Highly moddable retro roguelike. Descend from Arkov's Tower - or die trying!",
+    "supported_languages": "English, German",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688600/header.jpg?t=1726500955",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688600/capsule_231x87.jpg?t=1726500955",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688600/capsule_184x69.jpg?t=1726500955",
     "website": null,
     "developers": [
       "Saturn91"
     ],
     "publishers": [
-      "Saturn91"
+      "DreamStudios"
     ],
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": true
     },
     "categories": [
       2,
+      22,
       28
     ],
     "genres": [
       23,
-      25
+      25,
+      37
     ],
+    "achievements": {
+      "total": 32
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "22 Mar, 2024"
     },
     "support_info": {
       "url": "saturn91.dev",
       "email": "saturn91gamedev@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2688600/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2688600/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688600/page_bg_generated_v6b.jpg?t=1726500955",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688600/page.bg.jpg?t=1726500955",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2689430": {
@@ -4010,15 +4051,12 @@
       "name": "All World Pro Wrestling"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2688460/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688460/header.jpg?t=1734034998",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688460/capsule_231x87.jpg?t=1734034998",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688460/capsule_184x69.jpg?t=1734034998",
     "website": "https://www.heartschoice.com",
     "developers": [
       "Heart's Choice"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       962922
@@ -4042,7 +4080,8 @@
     "categories": [
       2,
       21,
-      23
+      23,
+      62
     ],
     "genres": [
       3,
@@ -4058,8 +4097,8 @@
       "url": "https://www.choiceofgames.com/contact-us",
       "email": "support-awpw-steam@heartschoice.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2688460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2688460/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688460/page_bg_generated_v6b.jpg?t=1734034998",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688460/page_bg_generated.jpg?t=1734034998",
     "content_descriptors": {
       "ids": [
         1,
@@ -4068,6 +4107,22 @@
         5
       ],
       "notes": "This game is about hot, sweaty, naked men wrestling and having sex."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nLinguagem impr\u00f3pria\r\nConte\u00fado sexual\r\nSexo Expl\u00edcito\r\nDrogas l\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2689100": {
@@ -5193,9 +5248,9 @@
     "is_free": false,
     "short_description": "An unknown crack resembling the Mesozoic Era discovered in the near future. Collect dinosaur eggs while avoiding the eyes of dangerous dinosaurs. Collect dinosaur eggs and hatch them to collect dinosaurs!! Collect points to get upgraded and enjoy a great vacation!!",
     "supported_languages": "English<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688370/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688370/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2688370/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688370/header.jpg?t=1701908700",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688370/capsule_231x87.jpg?t=1701908700",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688370/capsule_184x69.jpg?t=1701908700",
     "website": "https://www.einpictures.co.kr/",
     "developers": [
       "einpictures"
@@ -5225,7 +5280,8 @@
     "categories": [
       2,
       52,
-      54
+      54,
+      62
     ],
     "genres": [
       1,
@@ -5240,11 +5296,38 @@
       "url": "https://www.einpictures.co.kr/",
       "email": "einpictures@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2688370/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2688370/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688370/page_bg_generated_v6b.jpg?t=1701908700",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688370/page.bg.jpg?t=1701908700",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "mda": {
+        "rating": "AA16"
+      },
+      "fpb": {
+        "rating": "A"
+      },
+      "csrr": {
+        "rating": "G"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "\u00c4ngstigende Inhalte"
+      }
     }
   },
   "2688110": {
@@ -5380,10 +5463,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "A rogue-like battler on a match-3 board. Match gems to attack enemies, avoid damage and gather collectibles. Use your level-up upgrades to become stronger and try different play styles. Be careful though - enemies can also level up!",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688520/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2688520/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2688520/capsule_184x69.jpg",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688520/header.jpg?t=1726725784",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688520/capsule_231x87.jpg?t=1726725784",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688520/capsule_184x69.jpg?t=1726725784",
     "website": null,
     "developers": [
       "Procedural Odyssey Games"
@@ -5391,33 +5474,72 @@
     "publishers": [
       "Procedural Odyssey Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3022400,
+        "description": ""
+      }
+    ],
+    "packages": [
+      962942
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hrumka",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": true
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
       4,
-      23
+      23,
+      70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q2 2024"
+      "coming_soon": false,
+      "date": "18 Sep, 2024"
     },
     "support_info": {
       "url": "",
       "email": "proceduralodyssey@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2688520/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2688520/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688520/page_bg_generated_v6b.jpg?t=1726725784",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688520/page.bg.jpg?t=1726725784",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2689370": {
