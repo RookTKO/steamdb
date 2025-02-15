@@ -1378,11 +1378,12 @@
     "steam_appid": 1964930,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A game about a duck and a scientist who don't get along. This cute platformer is one that can be enjoyed by the whole family. Progress through the story to unlock options in the level editor. Share levels with friends or with a community of other players.",
+    "controller_support": "full",
+    "short_description": "A charming platformer about a duck and a scientist who don't get along. Encounter other animals, collect stars, and fight Dr. Agnes Shelly, all in an effort to save your babies. Create your own levels and share them with the world.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1964930/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1964930/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1964930/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964930/header.jpg?t=1739410317",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964930/c52133f5fd9d61b0995353bc0075a22acd359421/capsule_231x87.jpg?t=1739410317",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964930/c52133f5fd9d61b0995353bc0075a22acd359421/capsule_184x69.jpg?t=1739410317",
     "website": null,
     "developers": [
       "Kevin Adams"
@@ -1390,15 +1391,24 @@
     "publishers": [
       "Kevin Adams"
     ],
+    "demos": [
+      {
+        "appid": 2840450,
+        "description": ""
+      }
+    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": true
     },
     "categories": [
+      1,
       2,
-      18
+      17,
+      28,
+      44
     ],
     "genres": [
       1,
@@ -1407,17 +1417,27 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "11 Sep, 2042"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
-      "email": "kevinadamsdev@gmail.com"
+      "email": "luckyadamsdev@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1964930/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1964930/page.bg.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964930/page_bg_generated_v6b.jpg?t=1739410317",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964930/page.bg.jpg?t=1739410317",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "1964310": {
@@ -9334,9 +9354,9 @@
     "is_free": false,
     "short_description": "This game is meant to capture the feeling and essence of playing golf for the very first time. No stats and no frills like range finders and gauges. Just golf.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1964940/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1964940/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1964940/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964940/header.jpg?t=1728541006",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964940/capsule_231x87.jpg?t=1728541006",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964940/capsule_184x69.jpg?t=1728541006",
     "website": null,
     "developers": [
       "Cannibal Interactive"
@@ -9364,7 +9384,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       18
@@ -9377,11 +9398,25 @@
       "url": "",
       "email": "cannibalinteractive@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1964940/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1964940/page_bg_generated.jpg",
+    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964940/page_bg_generated_v6b.jpg?t=1728541006",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964940/page_bg_generated.jpg?t=1728541006",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "1964080": {
