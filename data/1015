@@ -5758,9 +5758,9 @@
     "is_free": false,
     "short_description": "Defend the vibrant world of Illumina from descending enemies in this retro-styled, fast-paced, single-player arcade game. Utilize strategic upgrades to keep the city safe and enjoy an electrifying soundtrack while you do it!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045650/header.jpg?t=1718962028",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045650/capsule_231x87.jpg?t=1718962028",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045650/capsule_184x69.jpg?t=1718962028",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045650/header.jpg?t=1727424328",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045650/capsule_231x87.jpg?t=1727424328",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045650/capsule_184x69.jpg?t=1727424328",
     "website": "https://digitalcryptlcl.wixsite.com/digitalcrypt",
     "developers": [
       "James Stringer"
@@ -5768,29 +5768,47 @@
     "publishers": [
       "Digital Crypt"
     ],
-    "package_groups": [],
+    "packages": [
+      1082603
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Illumina Defender",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
-      2
+      2,
+      23
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q3 2024"
+      "coming_soon": false,
+      "date": "27 Sep, 2024"
     },
     "support_info": {
       "url": "https://digitalcryptlcl.wixsite.com/digitalcrypt",
       "email": "digitalcryptlcl@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045650/page_bg_generated_v6b.jpg?t=1718962028",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045650/page.bg.jpg?t=1718962028",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3045650?t=1727424328",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045650/page_bg_raw.jpg?t=1727424328",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5819,55 +5837,78 @@
     "name": "Bl\u00eaktre 2081",
     "steam_appid": 3045400,
     "required_age": 0,
-    "is_free": true,
-    "short_description": "MMORPG/Sim Life, you're a migrant trying to survive in Bl\u00eaktre City. Work as beggar, a cop, a prostitute, a drug dealer, a banker, a fascist leader, a terrorist ... in a word : get rich or die trying !",
-    "supported_languages": "French",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045400/header.jpg?t=1718961923",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045400/capsule_231x87.jpg?t=1718961923",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045400/capsule_184x69.jpg?t=1718961923",
-    "website": "https://blektre2081.5tfu.org",
+    "is_free": false,
+    "short_description": "Bl\u00eaktre 2081 is a real-life simulator where you face the thrills and struggles of a capitalist society. Survive this harsh world and carve your own path in the society : be a cop, a trader, a dealer, a junkie, a welfare recipient, or just try to get by ! A required training for the near future.",
+    "supported_languages": "French, English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045400/header.jpg?t=1739819137",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045400/dea54afa325b689e10eba16ae99cdec4bc1b1bf1/capsule_231x87.jpg?t=1739819137",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045400/dea54afa325b689e10eba16ae99cdec4bc1b1bf1/capsule_184x69.jpg?t=1739819137",
+    "website": "https://blektre.com",
     "developers": [
       "Charles Torris"
     ],
     "publishers": [
       "Charles Torris"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3383480,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1082522
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Bl\u00eaktre 2081",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       1,
       9,
       20,
+      22,
       27,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       3,
       23,
-      29,
-      37
+      29
     ],
+    "achievements": {
+      "total": 25
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "14 Feb, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/Vb7hDN8MhZ",
       "email": "erreure@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045400/page_bg_generated_v6b.jpg?t=1718961923",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045400/page_bg_generated.jpg?t=1718961923",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3045400?t=1739819137",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3045400?t=1739819137",
     "content_descriptors": {
       "ids": [
         5
       ],
-      "notes": null
+      "notes": "Contains light and humorous depictions of activities such as drug trafficking, prostitution, the meat industry, banking, police repression."
     },
     "ratings": {
       "dejus": {
@@ -5876,7 +5917,7 @@
         "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Drogas il\u00edcitas\nLinguagem impr\u00f3pria\nConte\u00fado sexual"
+        "descriptors": "Drogas il\u00edcitas\nViol\u00eancia\nTemas sens\u00edveis"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -5884,7 +5925,7 @@
         "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Drogen\nSexuelle Andeutungen\nGewalt"
+        "descriptors": "Drogen\nSexuelle Inhalte\nSelbstmord"
       }
     }
   },
@@ -5896,9 +5937,9 @@
     "is_free": false,
     "short_description": "A tourist ship you were on accidentally fell into the sea due to an accident. When you wake up, you seem to have been drifted by the sea to an uninhabited island. There are many strange plants on this uninhabited island, as if they are plants that do not exist in this world. What will happen there?",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Ukrainian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Korean<strong>*</strong>, Malay<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046270/header.jpg?t=1718970940",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046270/capsule_231x87.jpg?t=1718970940",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046270/capsule_184x69.jpg?t=1718970940",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046270/header.jpg?t=1720761565",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046270/capsule_231x87.jpg?t=1720761565",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046270/capsule_184x69.jpg?t=1720761565",
     "website": null,
     "developers": [
       "Hentai works"
@@ -5906,7 +5947,20 @@
     "publishers": [
       "Hentai works"
     ],
-    "package_groups": [],
+    "packages": [
+      1082814
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hentai Tales: Uninhabited Island",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -5915,23 +5969,27 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
       4,
       23
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "12 Jul, 2024"
+      "coming_soon": false,
+      "date": "11 Jul, 2024"
     },
     "support_info": {
       "url": "",
       "email": "puzzlelive2dproject@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046270/page_bg_generated_v6b.jpg?t=1718970940",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046270/page_bg_generated.jpg?t=1718970940",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3046270?t=1720761565",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3046270?t=1720761565",
     "content_descriptors": {
       "ids": [
         1,
@@ -5968,15 +6026,21 @@
     "is_free": false,
     "short_description": "Ghetto Zombies is a colorfull pixel art shooter where the ghetto are the last hope against the zombies. In this humorous apocalypse, graffiti the city and use your crazy guns to defeat fun freaky-zombies\u00a0hordes!",
     "supported_languages": "English, Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047820/header.jpg?t=1719487824",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047820/capsule_231x87.jpg?t=1719487824",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047820/capsule_184x69.jpg?t=1719487824",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047820/header.jpg?t=1737483244",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047820/capsule_231x87.jpg?t=1737483244",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047820/capsule_184x69.jpg?t=1737483244",
     "website": "http://www.fogogames.com.br/",
     "developers": [
       "Fogo Games"
     ],
     "publishers": [
       "Fogo Games"
+    ],
+    "demos": [
+      {
+        "appid": 3419980,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5985,28 +6049,25 @@
       "linux": false
     },
     "categories": [
-      1,
       2,
-      9,
-      18,
-      24,
-      39,
-      44
+      18
     ],
     "genres": [
       1,
-      23
+      4,
+      23,
+      25
     ],
     "release_date": {
       "coming_soon": true,
       "date": "Coming soon"
     },
     "support_info": {
-      "url": "",
+      "url": "https://www.fogogames.com.br/",
       "email": "suporte@fogogames.com.br"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047820/page_bg_generated_v6b.jpg?t=1719487824",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047820/page.bg.jpg?t=1719487824",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3047820?t=1737483244",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047820/page_bg_raw.jpg?t=1737483244",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6036,11 +6097,11 @@
     "steam_appid": 3047180,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Visual Novel and Walking Symulator style game with multiple endings. A love letter to the classical horror stories about old haunted houses, basements and ofcourse attics. Psychological horror inspired by author's experience with OCD-like symptoms and intrusive thoughts.",
+    "short_description": "Visual Novel and Walking Simulator style game with multiple endings. A love letter to the classical horror stories about old haunted houses, basements and ofcourse attics. Psychological horror inspired by author's experience with OCD-like symptoms and intrusive thoughts.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047180/header.jpg?t=1718973670",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047180/capsule_231x87.jpg?t=1718973670",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047180/capsule_184x69.jpg?t=1718973670",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047180/header.jpg?t=1726587705",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047180/capsule_231x87.jpg?t=1726587705",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047180/capsule_184x69.jpg?t=1726587705",
     "website": null,
     "developers": [
       "IchiMakes"
@@ -6048,7 +6109,20 @@
     "publishers": [
       "IchiMakes"
     ],
-    "package_groups": [],
+    "packages": [
+      1083107
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Attic",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6056,22 +6130,26 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       3,
       23
     ],
+    "achievements": {
+      "total": 16
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "17 Sep, 2024"
     },
     "support_info": {
       "url": "",
       "email": "theatticgame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047180/page_bg_generated_v6b.jpg?t=1718973670",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047180/page.bg.jpg?t=1718973670",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3047180?t=1726587705",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047180/page_bg_raw.jpg?t=1726587705",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6136,8 +6214,8 @@
       "url": "",
       "email": "fluddformat@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046470/page_bg_generated_v6b.jpg?t=1718986446",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046470/page.bg.jpg?t=1718986446",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3046470?t=1718986446",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046470/page_bg_raw.jpg?t=1718986446",
     "content_descriptors": {
       "ids": [],
       "notes": null
