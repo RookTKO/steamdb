@@ -4272,8 +4272,8 @@
       "url": "",
       "email": "kanggunsoft@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3460720?t=1738162379",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3460720?t=1738162379",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4303,11 +4303,11 @@
     "steam_appid": 3460690,
     "required_age": 0,
     "is_free": false,
-    "short_description": "An arcade shooting game featuring Ari's adventure to find her cat, Chuchu.",
+    "short_description": "Ari\u2019s side-scrolling shooting adventure to find the cat ChuChu! Use over 20 spells with simple controls for strategic gameplay. Create and share maps with the Map Maker, or conquer maps made by other players!",
     "supported_languages": "English, Japanese, Simplified Chinese, Korean<strong>*</strong>, Traditional Chinese, German, Spanish - Spain, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460690/header.jpg?t=1738160468",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460690/69c071f32b8e0d255dde093912cce51ddf751ae9/capsule_231x87.jpg?t=1738160468",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460690/69c071f32b8e0d255dde093912cce51ddf751ae9/capsule_184x69.jpg?t=1738160468",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460690/header.jpg?t=1738769773",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460690/69c071f32b8e0d255dde093912cce51ddf751ae9/capsule_231x87.jpg?t=1738769773",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460690/69c071f32b8e0d255dde093912cce51ddf751ae9/capsule_184x69.jpg?t=1738769773",
     "website": null,
     "developers": [
       "ODDCADIA"
@@ -4321,7 +4321,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1222673
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Finding Chuchu",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4330,22 +4343,26 @@
     "categories": [
       2,
       18,
-      22
+      22,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 29
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "6 Feb, 2025"
+      "coming_soon": false,
+      "date": "5 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "kanggunsoft@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460690/page_bg_generated_v6b.jpg?t=1738160468",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460690/page_bg_generated.jpg?t=1738160468",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3460690?t=1738769773",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3460690?t=1738769773",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10629,6 +10646,74 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Gewalt\nDerbe Sprache"
+      }
+    }
+  },
+  "3460080": {
+    "type": "demo",
+    "name": "\u620e\u8f9e\u6c49\u6708 Demo",
+    "steam_appid": 3460080,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "",
+    "fullgame": {
+      "appid": "3111720",
+      "name": "\u620e\u8f9e\u6c49\u6708ArmedFarewell"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Russian, Hungarian, Indonesian, Turkish, Norwegian, Czech, Japanese, Polish, Swedish, Simplified Chinese, Traditional Chinese, Romanian, Dutch, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America, Vietnamese, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460080/header.jpg?t=1740110298",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460080/89a713f964d43a3fdf58af8325ab2ec20a26ddb2/capsule_231x87.jpg?t=1740110298",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460080/89a713f964d43a3fdf58af8325ab2ec20a26ddb2/capsule_184x69.jpg?t=1740110298",
+    "website": null,
+    "developers": [
+      "\u58a8\u6da7\u9601"
+    ],
+    "publishers": [
+      "\u58a8\u6da7\u9601"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      10
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "25 Feb, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "rchy1950@qq.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3460080?t=1740110298",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3460080?t=1740110298",
+    "content_descriptors": {
+      "ids": [
+        2,
+        5
+      ],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
       }
     }
   }
