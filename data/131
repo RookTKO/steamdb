@@ -9364,16 +9364,16 @@
     "type": "game",
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae Remastered (2017)",
     "steam_appid": 393080,
-    "required_age": 0,
+    "required_age": "17",
     "is_free": false,
     "dlc": [
       594970
     ],
     "short_description": "One of the most critically-acclaimed games in history, Call of Duty: Modern Warfare is back, remastered in true high-definition, featuring improved textures, physically based rendering, high-dynamic range lighting and much more.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/393080/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/393080/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/393080/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393080/header.jpg?t=1678298772",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393080/capsule_231x87.jpg?t=1678298772",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393080/capsule_184x69.jpg?t=1678298772",
     "website": "https://www.callofduty.com/modern-warfare-remastered",
     "developers": [
       "Raven Software",
@@ -9410,7 +9410,8 @@
       22,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       1
@@ -9426,11 +9427,59 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/393080/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/393080/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/393080?t=1678298772",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/393080?t=1678298772",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood\r\nIntense Violence\r\nStrong Language",
+        "display_online_notice": "true",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence"
+      },
+      "usk": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "oflc": {
+        "rating": "ma15"
+      },
+      "nzoflc": {
+        "rating": "r16"
+      },
+      "kgrb": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "dejus": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "fpb": {
+        "rating": "16"
+      },
+      "csrr": {
+        "rating": "C15"
+      },
+      "crl": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "cero": {
+        "rating": "c"
+      }
     }
   },
   "393660": {

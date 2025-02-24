@@ -7513,17 +7513,17 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Decades after the outbreak, you play as a survivor stranded in an old-world suburban neighborhood. Explore the lives of people Long Gone through their forgotten belongings and uncover secrets as you search for supplies in this 2.5D pixel puzzle platformer inspired by adventure games of old.",
+    "short_description": "Decades have passed, play as a survivor stranded in an old-world suburban neighborhood. Explore the secret lives of people Long Gone through their forgotten belongings and platform through overgrown streets in this 3D pixel adventure inspired by games of old. Oh, and watch out for the zombies.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977610/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977610/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977610/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977610/header.jpg?t=1740239768",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977610/capsule_231x87.jpg?t=1740239768",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977610/capsule_184x69.jpg?t=1740239768",
     "website": null,
     "developers": [
       "Hillfort Games"
     ],
     "publishers": [
-      "Indie"
+      "Hillfort Games"
     ],
     "package_groups": [],
     "platforms": {
@@ -7543,20 +7543,65 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "hillfortgames.dev@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977610/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977610/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977610?t=1740239768",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977610/page_bg_raw.jpg?t=1740239768",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "Blood and Gore"
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Cartoon Violence\r\nAnimated Blood"
+      },
+      "pegi": {
+        "rating": "16"
+      },
+      "bbfc": {
+        "rating": "15"
+      },
+      "usk": {
+        "rating": "16"
+      },
+      "oflc": {
+        "rating": "ma15"
+      },
+      "nzoflc": {
+        "rating": "ma15"
+      },
+      "cero": {
+        "rating": "c"
+      },
+      "kgrb": {
+        "rating": "15"
+      },
+      "dejus": {
+        "rating": "16"
+      },
+      "mda": {
+        "rating": "AA16"
+      },
+      "fpb": {
+        "rating": "16"
+      },
+      "csrr": {
+        "rating": "C15"
+      },
+      "crl": {
+        "rating": "16"
+      },
+      "agcom": {
+        "rating": "16"
+      }
     }
   },
   "1978520": {
@@ -9379,9 +9424,9 @@
     "is_free": false,
     "short_description": "Crawl into the ultimate co-op RPG lizard simulator, set in a variety of lush environments ranging from beautiful jungle rainforests to harsh dry savannahs. Grow your lizard to incredible sizes while honing your platforming skills to become the ultimate lizard!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1979520/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1979520/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1979520/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979520/header.jpg?t=1719463017",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979520/capsule_231x87.jpg?t=1719463017",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979520/capsule_184x69.jpg?t=1719463017",
     "website": "https://fletchersgamedesign.com/",
     "developers": [
       "Fletcher Poole"
@@ -9389,7 +9434,20 @@
     "publishers": [
       "Fletty Games"
     ],
-    "package_groups": [],
+    "packages": [
+      714670
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Lizard Quest!",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -9399,7 +9457,8 @@
       1,
       9,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       3,
@@ -9407,18 +9466,31 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "26 Jun, 2024"
     },
     "support_info": {
       "url": "https://fletchersgamedesign.com/",
       "email": "fpoole666@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1979520/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1979520/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1979520?t=1719463017",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979520/page_bg_raw.jpg?t=1719463017",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "1979440": {
@@ -10798,9 +10870,9 @@
     "is_free": true,
     "short_description": "GoRogue is Third person shooter with multiplayer support.",
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Turkish<strong>*</strong>, Arabic<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1979160/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1979160/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1979160/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979160/header.jpg?t=1660439561",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979160/capsule_231x87.jpg?t=1660439561",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979160/capsule_184x69.jpg?t=1660439561",
     "website": null,
     "developers": [
       "Dromosys"
@@ -10841,12 +10913,13 @@
       "url": "www.dromosys.com",
       "email": "dromosys@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1979160/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1979160/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1979160?t=1660439561",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1979160?t=1660439561",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "1979073": {
     "type": "dlc",
