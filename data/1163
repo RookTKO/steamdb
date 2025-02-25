@@ -42,8 +42,8 @@
       "url": "",
       "email": "plazookas@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490870/page_bg_generated_v6b.jpg?t=1738301801",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490870/page_bg_generated.jpg?t=1738301801",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490870?t=1738301801",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490870?t=1738301801",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -337,11 +337,12 @@
     "steam_appid": 3491290,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "Trapped on death row, unravel the dark mystery of an ancient horror to escape alive. Outsmart the abyss, cheat death - if you dare.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491290/header.jpg?t=1738853221",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491290/1d0e43325f09cc565bddc3fb572824b6eb85009b/capsule_231x87.jpg?t=1738853221",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491290/1d0e43325f09cc565bddc3fb572824b6eb85009b/capsule_184x69.jpg?t=1738853221",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491290/header.jpg?t=1739546477",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491290/1d0e43325f09cc565bddc3fb572824b6eb85009b/capsule_231x87.jpg?t=1739546477",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491290/1d0e43325f09cc565bddc3fb572824b6eb85009b/capsule_184x69.jpg?t=1739546477",
     "website": "https://www.bitfoxden.com/",
     "developers": [
       "BIT FOX DEN"
@@ -349,7 +350,20 @@
     "publishers": [
       "BIT FOX DEN"
     ],
-    "package_groups": [],
+    "packages": [
+      1232958
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Unblinking",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -357,22 +371,27 @@
     },
     "categories": [
       2,
-      22
+      22,
+      28,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "9 Feb, 2025"
+      "coming_soon": false,
+      "date": "13 Feb, 2025"
     },
     "support_info": {
       "url": "https://bitfoxden.com/",
       "email": "support@bitfoxden.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491290/page_bg_generated_v6b.jpg?t=1738853221",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491290/page_bg_generated.jpg?t=1738853221",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491290?t=1739546477",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491290?t=1739546477",
     "content_descriptors": {
       "ids": [
         5
@@ -1460,9 +1479,9 @@
       "appid": "392160",
       "name": "X4: Foundations"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491170/header.jpg?t=1738316483",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491170/46c70d313bcec35b54b5289344bbfbfb4309452b/capsule_231x87.jpg?t=1738316483",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491170/46c70d313bcec35b54b5289344bbfbfb4309452b/capsule_184x69.jpg?t=1738316483",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491170/header.jpg?t=1739271349",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491170/46c70d313bcec35b54b5289344bbfbfb4309452b/capsule_231x87.jpg?t=1739271349",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491170/46c70d313bcec35b54b5289344bbfbfb4309452b/capsule_184x69.jpg?t=1739271349",
     "website": "https://www.egosoft.com/",
     "developers": [
       "Egosoft"
@@ -1470,7 +1489,20 @@
     "publishers": [
       "Egosoft"
     ],
-    "package_groups": [],
+    "packages": [
+      1232922
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy X4: Hyperion Pack Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -1480,15 +1512,15 @@
       50
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2025"
+      "coming_soon": false,
+      "date": "11 Feb, 2025"
     },
     "support_info": {
       "url": "https://www.egosoft.com/support/index_en.php",
       "email": "info@egosoft.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491170/page_bg_generated_v6b.jpg?t=1738316483",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491170/page_bg_generated.jpg?t=1738316483",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491170?t=1739271349",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491170?t=1739271349",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1727,8 +1759,8 @@
       "url": "",
       "email": "support@pochemultd.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490010/page_bg_generated_v6b.jpg?t=1738320259",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490010/page_bg_generated.jpg?t=1738320259",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490010?t=1738320259",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490010?t=1738320259",
     "content_descriptors": {
       "ids": [
         1,
@@ -1860,8 +1892,8 @@
       "url": "https://pinelgames.com",
       "email": "contact@pinelgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491530/page_bg_generated_v6b.jpg?t=1738428390",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491530/page.bg.jpg?t=1738428390",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491530?t=1738428390",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491530/page_bg_raw.jpg?t=1738428390",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2210,8 +2242,8 @@
       "url": "",
       "email": "jmauro@revenantfilms.studio"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491680/page_bg_generated_v6b.jpg?t=1738443924",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491680/page_bg_generated.jpg?t=1738443924",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491680?t=1738443924",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491680?t=1738443924",
     "content_descriptors": {
       "ids": [
         2,
@@ -2312,9 +2344,9 @@
     "is_free": false,
     "short_description": "With smart3Dplanner2 you are able to create 3D floor plans and furnish and decorate them with the help of an extensive furniture library.",
     "supported_languages": "English, French, German, Spanish - Spain, Arabic, Simplified Chinese, Japanese, Korean, Portuguese - Portugal, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491860/header.jpg?t=1738776277",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491860/ba8f4f0c996620eecf94cf845a0ea9ceb730cca4/capsule_231x87.jpg?t=1738776277",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491860/ba8f4f0c996620eecf94cf845a0ea9ceb730cca4/capsule_184x69.jpg?t=1738776277",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491860/header.jpg?t=1739529128",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491860/ba8f4f0c996620eecf94cf845a0ea9ceb730cca4/capsule_231x87.jpg?t=1739529128",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491860/ba8f4f0c996620eecf94cf845a0ea9ceb730cca4/capsule_184x69.jpg?t=1739529128",
     "website": "https://cad-floor-plan.com/",
     "developers": [
       "Sebastian Kemper"
@@ -2322,7 +2354,20 @@
     "publishers": [
       "Sebastian Kemper"
     ],
-    "package_groups": [],
+    "packages": [
+      1233159
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy smart3Dplanner2 | 3D Floor Plan & Interior Design",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -2335,15 +2380,15 @@
       57
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "14 Feb, 2025"
     },
     "support_info": {
       "url": "https://cad-floor-plan.com/contact",
       "email": "contact.kemper.apps@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491860/page_bg_generated_v6b.jpg?t=1738776277",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491860/page.bg.jpg?t=1738776277",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491860?t=1739529128",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491860/page_bg_raw.jpg?t=1739529128",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3119,9 +3164,9 @@
       "name": "Oblitus mortis"
     },
     "supported_languages": "English, Spanish - Spain, Spanish - Latin America, Portuguese - Brazil, Portuguese - Portugal",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490310/header.jpg?t=1738499582",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490310/1d3f4d5174720ab87bc1579fdedf2ba5bcf8e1ab/capsule_231x87.jpg?t=1738499582",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490310/1d3f4d5174720ab87bc1579fdedf2ba5bcf8e1ab/capsule_184x69.jpg?t=1738499582",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490310/header.jpg?t=1740254026",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490310/1d3f4d5174720ab87bc1579fdedf2ba5bcf8e1ab/capsule_231x87.jpg?t=1740254026",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490310/1d3f4d5174720ab87bc1579fdedf2ba5bcf8e1ab/capsule_184x69.jpg?t=1740254026",
     "website": "https://www.amalivaca.com/oblitus-mortis",
     "developers": [
       "Oblitus mortis"
@@ -3152,8 +3197,8 @@
       "url": "https://www.amalivaca.com/oblitus-mortis",
       "email": "oblitusmortis@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490310/page_bg_generated_v6b.jpg?t=1738499582",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490310/page.bg.jpg?t=1738499582",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490310?t=1740254026",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490310/page_bg_raw.jpg?t=1740254026",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3550,8 +3595,8 @@
       "url": "",
       "email": "uselesstorch@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491380/page_bg_generated_v6b.jpg?t=1738566000",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491380/page.bg.jpg?t=1738566000",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491380?t=1738566000",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491380/page_bg_raw.jpg?t=1738566000",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10751,6 +10796,234 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Drastische Gewalt"
+      }
+    }
+  },
+  "3491450": {
+    "type": "game",
+    "name": "Cyber Girl 2.0: RUNNING",
+    "steam_appid": 3491450,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "She's back! Prepare for stunning visuals as you run, fly, and gun in this challenging 2-D platformer! Overcome puzzles, obstacles, and enemies as you race through this exciting adventure!",
+    "supported_languages": "English, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491450/header.jpg?t=1740457885",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491450/1e4afeaee25dbded07349f6b87cdcdc5c2c9ade4/capsule_231x87.jpg?t=1740457885",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491450/1e4afeaee25dbded07349f6b87cdcdc5c2c9ade4/capsule_184x69.jpg?t=1740457885",
+    "website": null,
+    "developers": [
+      "PsychoGameFan"
+    ],
+    "publishers": [
+      "ImagineVR/ImaginePLAY"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      28
+    ],
+    "genres": [
+      1,
+      4,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "https://imaginevr.io",
+      "email": "info@imaginevr.io"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491450?t=1740457885",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491450?t=1740457885",
+    "content_descriptors": {
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "notes": "The game features nude females as the character and enemies. While none of their interactions are sexual in nature, during the game over scene, an animated scene is shown depicting animated non-consensual machine-based sex. Such scenes contain BDSM with machines via coercion."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexo Expl\u00edcito\nViol\u00eancia\nTemas sens\u00edveis"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexualisierte Gewalt / Sexual violence\nGewalt"
+      }
+    }
+  },
+  "3491050": {
+    "type": "dlc",
+    "name": "Yoshima: Hentai Simulator - Animation Pack",
+    "steam_appid": 3491050,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "The coolest Animation Pack of the game &quot;Yoshima: Hentai Simulator&quot; from TopHouse.",
+    "fullgame": {
+      "appid": "3298250",
+      "name": "Yoshima: Hentai Simulator"
+    },
+    "supported_languages": "English, French, Italian, German, Portuguese - Brazil, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Polish, Turkish, Ukrainian, Japanese, Russian, Thai",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491050/header.jpg?t=1740477678",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491050/d0347bc77b9a3d5b38aca9420a97ebec450552e6/capsule_231x87.jpg?t=1740477678",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491050/d0347bc77b9a3d5b38aca9420a97ebec450552e6/capsule_184x69.jpg?t=1740477678",
+    "website": null,
+    "developers": [
+      "Sugureta"
+    ],
+    "publishers": [
+      "TopHouse Publishing"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      21,
+      22
+    ],
+    "genres": [
+      3,
+      4,
+      23,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "7 Mar, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "publishing.contact@tophouse.fun"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491050?t=1740477678",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491050?t=1740477678",
+    "content_descriptors": {
+      "ids": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "notes": "All characters in the game are adults. The game contains adult content including nudity and NSFW content. The game contains alcohol consumption, some profanity.\r\n\r\nThe game features nude girl and animated H-scenes. The game contains adult material and scenes of a sexual nature with various fetishes that some viewers may find offensive: blowjob, titjob, cunnilingus, vaginal, anal, non-penetrative sexual acts, creampie. All sex in the game is consensual."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nDrogas l\u00edcitas\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nAlkohol / Tabak\nSchimpfw\u00f6rte"
+      }
+    }
+  },
+  "3491040": {
+    "type": "dlc",
+    "name": "Yoshima: Hentai Simulator - Wallpaper Pack",
+    "steam_appid": 3491040,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "The cutest Wallpaper Pack of the game &quot;Yoshima: Hentai Simulator&quot; from TopHouse.",
+    "fullgame": {
+      "appid": "3298250",
+      "name": "Yoshima: Hentai Simulator"
+    },
+    "supported_languages": "English, French, Italian, German, Portuguese - Brazil, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Polish, Turkish, Ukrainian, Japanese, Russian, Thai",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491040/header.jpg?t=1740477710",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491040/856bd7ffde8c05d24693a5fb75d694876a565d6d/capsule_231x87.jpg?t=1740477710",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491040/856bd7ffde8c05d24693a5fb75d694876a565d6d/capsule_184x69.jpg?t=1740477710",
+    "website": null,
+    "developers": [
+      "Sugureta"
+    ],
+    "publishers": [
+      "TopHouse Publishing"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      21,
+      22
+    ],
+    "genres": [
+      3,
+      4,
+      23,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "7 Mar, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "publishing.contact@tophouse.fun"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491040?t=1740477710",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491040?t=1740477710",
+    "content_descriptors": {
+      "ids": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "notes": "All characters in the game are adults. The game contains adult content including nudity and NSFW content. The game contains alcohol consumption, some profanity.\r\n\r\nThe game features nude girl and animated H-scenes. The game contains adult material and scenes of a sexual nature with various fetishes that some viewers may find offensive: blowjob, titjob, cunnilingus, vaginal, anal, non-penetrative sexual acts, creampie. All sex in the game is consensual."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nDrogas l\u00edcitas\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nAlkohol / Tabak\nSchimpfw\u00f6rte"
       }
     }
   }
