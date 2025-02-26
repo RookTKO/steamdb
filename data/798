@@ -5451,11 +5451,18 @@
     "steam_appid": 2396220,
     "required_age": 0,
     "is_free": false,
-    "short_description": "InfiniPicross 3: The Conclusion of the InfiniPicross series! Faster and more complex procedural puzzles (as well as better looking), even more puzzles (IP 2.0 puzzles packed in), a smooth interface built on previous improvements, easy to tweak themes and a very easy built-in puzzle editor.",
+    "controller_support": "full",
+    "dlc": [
+      2440340,
+      2440341,
+      2440342,
+      3547280
+    ],
+    "short_description": "InfiniPicross 3: The Conclusion of the InfiniPicross series! Faster and more complex procedural puzzles (as well as better looking), even more puzzles, a smooth interface built on previous improvements, easy to tweak themes and a very easy built-in puzzle editor.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2396220/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2396220/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2396220/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396220/header.jpg?t=1740550593",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396220/capsule_231x87.jpg?t=1740550593",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396220/capsule_184x69.jpg?t=1740550593",
     "website": null,
     "developers": [
       "Reverse Impact"
@@ -5463,7 +5470,26 @@
     "publishers": [
       "Reverse Impact"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3552230,
+        "description": ""
+      }
+    ],
+    "packages": [
+      862073
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy InfiniPicross 3",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5472,27 +5498,51 @@
     "categories": [
       2,
       17,
-      18,
-      23
+      22,
+      23,
+      28,
+      30,
+      62
     ],
     "genres": [
       2,
       4,
       23
     ],
+    "achievements": {
+      "total": 22
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2023"
+      "coming_soon": false,
+      "date": "25 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@reverseimpact.net"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2396220/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2396220/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2396220?t=1740550593",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2396220?t=1740550593",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2394400": {
@@ -8156,9 +8206,9 @@
     "is_free": false,
     "short_description": "Embark on a mind-bending adventure as Brainroll! Solve challenging puzzles in this sokoban-style game by moving brain blocks while sliding on ice. Relax in Brainroll's world, where clever thinking is the key to success. Get ready to roll your way to victory in this puzzle-packed sliding experience!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2396530/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2396530/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2396530/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396530/header.jpg?t=1688927626",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396530/capsule_231x87.jpg?t=1688927626",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396530/capsule_184x69.jpg?t=1688927626",
     "website": "https://www.nullsson.se/",
     "developers": [
       "Nullsson"
@@ -8188,7 +8238,8 @@
     "categories": [
       2,
       18,
-      23
+      23,
+      62
     ],
     "genres": [
       2
@@ -8201,11 +8252,29 @@
       "url": "",
       "email": "admin@nullsson.se"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2396530/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2396530/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2396530?t=1688927626",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396530/page_bg_raw.jpg?t=1688927626",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2396820": {
@@ -13203,12 +13272,12 @@
     "name": "\u541e\u98df\u5929\u57302\uff1a\u8a95\u751fReborn",
     "steam_appid": 2396910,
     "required_age": 0,
-    "is_free": true,
-    "short_description": "\u3000\u3000\u300a\u541e\u98df\u5929\u57302\uff1a\u8a95\u751fReborn\u300b\u662f\u4e00\u6b3e\u7d93\u5178\u4e09\u570bMMORPG\uff0c\u73a9\u5bb6\u5728\u904a\u6232\u4e2d\u5c07\u6295\u8eab\u8ecd\u65c5\uff0c\u6210\u70ba\u5321\u5fa9\u6f22\u5ba4\u6216\u5321\u6f22\u5ba4(?)\u7684\u82f1\u96c4\u4eba\u7269\u3002\u904e\u7a0b\u4e2d\u4f60\u6703\u8207\u5404\u8def\u8c6a\u5091\u76f8\u9047\u3001\u7fd2\u5f97\u4e00\u8eab\u6b66\u85dd\uff0c\u66f4\u80fd\u548c\u5176\u4ed6\u73a9\u5bb6\u7d50\u4ea4\u4e92\u52d5\uff0c\u5171\u540c\u6253\u9020\u5c6c\u65bc\u4f60\u7684\u541e\u98df\u65b0\u4e16\u754c\uff01",
+    "is_free": false,
+    "short_description": "\u300a\u541e\u98df\u5929\u57302\uff1a\u8a95\u751fReborn\u300b\u662f\u4e00\u6b3e\u7d93\u5178\u4e09\u570bMMORPG\uff0c\u73a9\u5bb6\u5728\u904a\u6232\u4e2d\u5c07\u6295\u8eab\u8ecd\u65c5\uff0c\u6210\u70ba\u5321\u5fa9\u6f22\u5ba4\u6216\u5321\u6f22\u5ba4(?)\u7684\u82f1\u96c4\u4eba\u7269\u3002\u904e\u7a0b\u4e2d\u4f60\u6703\u8207\u5404\u8def\u8c6a\u5091\u76f8\u9047\u3001\u7fd2\u5f97\u4e00\u8eab\u6b66\u85dd\uff0c\u66f4\u80fd\u548c\u4f86\u81ea\u5176\u4ed6\u7570\u4e16\u754c\u7684\u73a9\u5bb6\u7d50\u4ea4\u4e92\u52d5\uff0c\u5171\u540c\u6253\u9020\u5c6c\u65bc\u4f60\u7684\u541e\u98df\u65b0\u4e16\u754c\uff01",
     "supported_languages": "Traditional Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2396910/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2396910/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2396910/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396910/header.jpg?t=1740539606",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396910/e608f69e7f9c25d1e7882e704617d4e10344e1e4/capsule_231x87.jpg?t=1740539606",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396910/e608f69e7f9c25d1e7882e704617d4e10344e1e4/capsule_184x69.jpg?t=1740539606",
     "website": null,
     "developers": [
       "Chinesegamer"
@@ -13224,27 +13293,50 @@
     },
     "categories": [
       1,
-      20
+      20,
+      35,
+      62
     ],
     "genres": [
       3,
       25,
-      29,
-      37
+      29
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "16 Feb, 2024"
     },
     "support_info": {
       "url": "",
       "email": "service@gametopia.com.tw"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2396910/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2396910/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2396910?t=1740539606",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396910/6d1ebfcf786f8fe70a8bb6d6abe0908b381de465/page_bg_raw.jpg?t=1740539606",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "csrr": {
+        "rating": "C12",
+        "descriptors": "\u25a0\u672c\u8edf\u9ad4\u4f9d\u904a\u6232\u8edf\u9ad4\u5206\u7d1a\u7ba1\u7406\u8fa6\u6cd5\uff0c\u5206\u985e\u70ba\u8f14\u5c0e\u7d1a12+\r\n\u25a0\u672c\u904a\u6232\u5167\u5bb9\u6d89\u53ca\u300c\u66b4\u529b\u300d-\u6709\u6253\u9b25\u3001\u653b\u64ca\u7b49\u672a\u9054\u8840\u8165\u4e4b\u756b\u9762\u6216\u6709\u8f15\u5fae\u6050\u6016\u4e4b\u756b\u9762\u3002"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2395190": {

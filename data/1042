@@ -5178,13 +5178,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128880/header.jpg?t=1722849863",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128880/capsule_231x87.jpg?t=1722849863",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128880/capsule_184x69.jpg?t=1722849863",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128880/header.jpg?t=1723477558",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128880/capsule_231x87.jpg?t=1723477558",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128880/capsule_184x69.jpg?t=1723477558",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -5199,8 +5196,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3128880?t=1723477558",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3128880?t=1723477558",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5215,9 +5212,9 @@
     "is_free": false,
     "short_description": "Right Click To Activate Translator is a pixel side-scrolling language puzzle game. On your journey to find your missing pet cat &quot;Shiro,&quot; you are transported to an otherworldly realm, facing an unfamiliar language and &quot;Octocats.&quot; Remember, &quot;Right Click to Open the Translator.&quot;",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128590/header.jpg?t=1722876930",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128590/capsule_231x87.jpg?t=1722876930",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128590/capsule_184x69.jpg?t=1722876930",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128590/header.jpg?t=1723622877",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128590/capsule_231x87.jpg?t=1723622877",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128590/capsule_184x69.jpg?t=1723622877",
     "website": null,
     "developers": [
       "Octocat.RI"
@@ -5234,7 +5231,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       23,
@@ -5249,8 +5247,8 @@
       "url": "",
       "email": "octocat@ahympia.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128590/page_bg_generated_v6b.jpg?t=1722876930",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128590/page.bg.jpg?t=1722876930",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3128590?t=1723622877",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128590/page_bg_raw.jpg?t=1723622877",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5280,11 +5278,18 @@
     "steam_appid": 3128520,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
+    "dlc": [
+      3128890,
+      3128900,
+      3128910,
+      3128920
+    ],
     "short_description": "Purrfect cat organizer \u2013 fit them all",
     "supported_languages": "English, Traditional Chinese, Japanese, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128520/header.jpg?t=1722956444",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128520/capsule_231x87.jpg?t=1722956444",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128520/capsule_184x69.jpg?t=1722956444",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128520/header.jpg?t=1734603751",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128520/capsule_231x87.jpg?t=1734603751",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128520/capsule_184x69.jpg?t=1734603751",
     "website": "https://www.reddeergames.com/",
     "developers": [
       "RedDeer.Games"
@@ -5292,7 +5297,20 @@
     "publishers": [
       "RedDeer.Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1110931
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Fit My Cat",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5301,35 +5319,47 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      28,
+      62
     ],
     "genres": [
       4,
       23,
       28
     ],
+    "achievements": {
+      "total": 10
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "23 Aug, 2024"
     },
     "support_info": {
       "url": "https://www.reddeergames.com/",
       "email": "support@reddeer.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128520/page_bg_generated_v6b.jpg?t=1722956444",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128520/page.bg.jpg?t=1722956444",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3128520?t=1734603751",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128520/page_bg_raw.jpg?t=1734603751",
     "content_descriptors": {
       "ids": [],
       "notes": null
     },
     "ratings": {
+      "pegi": {
+        "rating": "3"
+      },
+      "usk": {
+        "rating": "0"
+      },
+      "oflc": {
+        "rating": "g"
+      },
+      "kgrb": {
+        "rating": "all"
+      },
       "dejus": {
-        "rating_generated": "1",
-        "rating": "l",
-        "required_age": "0",
-        "banned": "0",
-        "use_age_gate": "0",
-        "descriptors": ""
+        "rating": "l"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -5708,15 +5738,15 @@
       "name": "\u5341\u5143\u600e\u4e48\u4e70\u4e0b\u4e16\u754c"
     },
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128430/header.jpg?t=1722932242",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128430/capsule_231x87.jpg?t=1722932242",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128430/capsule_184x69.jpg?t=1722932242",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128430/header.jpg?t=1728537881",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128430/44a29a0739143efcd62c48916e71b06abf1fd1f4/capsule_231x87.jpg?t=1728537881",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128430/44a29a0739143efcd62c48916e71b06abf1fd1f4/capsule_184x69.jpg?t=1728537881",
     "website": null,
     "developers": [
-      "\u68a6\u6e38\u52c7\u8005"
+      "\u9762\u5305\u732b\u7231\u597d\u8005\u534f\u4f1a"
     ],
     "publishers": [
-      "\u68a6\u6e38\u52c7\u8005"
+      "\u9762\u5305\u732b\u7231\u597d\u8005\u534f\u4f1a"
     ],
     "package_groups": [],
     "platforms": {
@@ -5730,15 +5760,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "10 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "mengyouyongzhe@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3128430?t=1728537881",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3128430?t=1728537881",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5833,11 +5863,11 @@
     "steam_appid": 3128440,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Moments is a game where you knock the moon out of the sky, bounce it along the clouds and land it in a black hole. Its a puzzle game where you guide a falling moon by placing objects in its path so it can reach its goal.",
+    "short_description": "Moments is a game where you knock the moon out of the sky, bounce it along the clouds and land it in a black hole. It's a challenging puzzle game with over 90 levels. The first 20 are free in the demo below",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128440/header.jpg?t=1722969357",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128440/capsule_231x87.jpg?t=1722969357",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128440/capsule_184x69.jpg?t=1722969357",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128440/header.jpg?t=1725569934",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128440/capsule_231x87.jpg?t=1725569934",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128440/capsule_184x69.jpg?t=1725569934",
     "website": null,
     "developers": [
       "Toofane"
@@ -5845,28 +5875,48 @@
     "publishers": [
       "Toofane"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3185910,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1110906
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Moments",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "August 2024"
+      "coming_soon": false,
+      "date": "23 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "dafunnyj@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128440/page_bg_generated_v6b.jpg?t=1722969357",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128440/page.bg.jpg?t=1722969357",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3128440?t=1725569934",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128440/page_bg_raw.jpg?t=1725569934",
     "content_descriptors": {
       "ids": [],
       "notes": null

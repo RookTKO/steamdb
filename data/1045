@@ -497,11 +497,14 @@
     "steam_appid": 3137500,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3152990
+    ],
     "short_description": "Become the co-author of an amazing book! All you have to do is choose which of the four lovely heroines will inspire you!",
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137500/header.jpg?t=1722414370",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137500/capsule_231x87.jpg?t=1722414370",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137500/capsule_184x69.jpg?t=1722414370",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137500/header.jpg?t=1740486103",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137500/capsule_231x87.jpg?t=1740486103",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137500/capsule_184x69.jpg?t=1740486103",
     "website": null,
     "developers": [
       "Team Emily"
@@ -509,31 +512,49 @@
     "publishers": [
       "Team Emily"
     ],
-    "package_groups": [],
+    "packages": [
+      1113943
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy EmyLiveShow: How To Write A Bestseller",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
       2,
-      22
+      22,
+      23,
+      62
     ],
     "genres": [
       3,
       4,
       25
     ],
+    "achievements": {
+      "total": 15
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "21 Feb, 2025"
     },
     "support_info": {
       "url": "emyliveshow.com",
       "email": "emyliveshow@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137500/page_bg_generated_v6b.jpg?t=1722414370",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137500/page.bg.jpg?t=1722414370",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3137500?t=1740486103",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137500/page_bg_raw.jpg?t=1740486103",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -545,7 +566,7 @@
         "required_age": "14",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Conte\u00fado sexual"
+        "descriptors": "Conte\u00fado sexual\nDrogas l\u00edcitas\nLinguagem impr\u00f3pria"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -553,7 +574,7 @@
         "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Sexuelle Inhalte"
+        "descriptors": "Sexuelle Inhalte\nAlkohol / Tabak\nGewalt"
       }
     }
   },
@@ -1323,17 +1344,23 @@
     "steam_appid": 3137010,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Meat Engine is a Sci-Fi boomer shooter inspired by Scorn, Quake, Dusk and Doom. The game is set in a dark and distant future stricken with war and death.",
+    "short_description": "Meat Engine is a Sci-Fi boomer shooter inspired by Scorn, Quake, Dusk and Doom. The game is set in a dark and distant future stricken with war and death. Featuring fast and brutal retro combat.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137010/header.jpg?t=1722921192",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137010/capsule_231x87.jpg?t=1722921192",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137010/capsule_184x69.jpg?t=1722921192",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137010/header.jpg?t=1740561070",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137010/1ea633c1d4b6ebfc3533fbcb5d413273d5211e3a/capsule_231x87.jpg?t=1740561070",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137010/1ea633c1d4b6ebfc3533fbcb5d413273d5211e3a/capsule_184x69.jpg?t=1740561070",
     "website": null,
     "developers": [
       "Involution Entertainment"
     ],
     "publishers": [
       "Involution Entertainment"
+    ],
+    "demos": [
+      {
+        "appid": 3145390,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -1343,7 +1370,8 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       1,
@@ -1357,8 +1385,8 @@
       "url": "",
       "email": "james265lenny@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137010/page_bg_generated_v6b.jpg?t=1722921192",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137010/page_bg_generated.jpg?t=1722921192",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3137010?t=1740561070",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3137010?t=1740561070",
     "content_descriptors": {
       "ids": [
         5
@@ -3377,38 +3405,52 @@
     "is_free": false,
     "short_description": "DEATH MOON is a murder mystery death game visual novel inspired by games like Danganropa. However, ironically, in this &quot;death game&quot;, death itself is not permanent. Every time you die, you open your eyes at the start of the loop forever trapped in an endless game of death and misery.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137460/header.jpg?t=1722652784",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137460/capsule_231x87.jpg?t=1722652784",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137460/capsule_184x69.jpg?t=1722652784",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137460/header.jpg?t=1734357139",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137460/capsule_231x87.jpg?t=1734357139",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137460/capsule_184x69.jpg?t=1734357139",
     "website": null,
     "developers": [
       "Hina Aozora Studios"
     ],
     "publishers": [
-      "Tentacles Games Entertainment"
+      "Hina Aozora Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1113931
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Death Moon",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2024"
+      "coming_soon": false,
+      "date": "16 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "aozorahina2024@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137460/page_bg_generated_v6b.jpg?t=1722652784",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137460/page_bg_generated.jpg?t=1722652784",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3137460?t=1734357139",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3137460?t=1734357139",
     "content_descriptors": {
       "ids": [
         1,
@@ -3599,11 +3641,11 @@
     "steam_appid": 3136930,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A retro-style fantasy horror game where you must run, hide, and try to escape as a gnome from the giant demonic knight that hunts you down on your quest to collect ingredients.",
+    "short_description": "A retro-style fantasy horror game where you must try to escape as a gnome from the giant demonic knight that hunts you down on your quest to collect ingredients.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136930/header.jpg?t=1722967377",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136930/capsule_231x87.jpg?t=1722967377",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136930/capsule_184x69.jpg?t=1722967377",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136930/header.jpg?t=1724267709",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136930/capsule_231x87.jpg?t=1724267709",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136930/capsule_184x69.jpg?t=1724267709",
     "website": null,
     "developers": [
       "Dead Bunny Interactive"
@@ -3611,7 +3653,20 @@
     "publishers": [
       "Dead Bunny Interactive"
     ],
-    "package_groups": [],
+    "packages": [
+      1113757
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Gnome Expedition",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3619,22 +3674,25 @@
     },
     "categories": [
       2,
-      22
+      62
     ],
     "genres": [
       1,
       25
     ],
+    "achievements": {
+      "total": 7
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "17 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "deadbunnyinteractive@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136930/page_bg_generated_v6b.jpg?t=1722967377",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136930/page_bg_generated.jpg?t=1722967377",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136930?t=1724267709",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136930?t=1724267709",
     "content_descriptors": {
       "ids": [
         5
@@ -3672,9 +3730,9 @@
       "name": "The Songbird Guild"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136950/header.jpg?t=1722704903",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136950/capsule_231x87.jpg?t=1722704903",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136950/capsule_184x69.jpg?t=1722704903",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136950/header.jpg?t=1723695036",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136950/capsule_231x87.jpg?t=1723695036",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136950/capsule_184x69.jpg?t=1723695036",
     "website": "https://www.yurisoftgames.com/",
     "developers": [
       "Yurisoft"
@@ -3700,15 +3758,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "14 Aug, 2024"
     },
     "support_info": {
       "url": "https://www.yurisoftgames.com/",
       "email": "yurisoftgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136950/page_bg_generated_v6b.jpg?t=1722704903",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136950/page_bg_generated.jpg?t=1722704903",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136950?t=1723695036",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136950?t=1723695036",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3992,8 +4050,8 @@
       "url": "https://weibo.com/u/7182676360",
       "email": "fei727261@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137440/page_bg_generated_v6b.jpg?t=1722844965",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137440/page_bg_generated.jpg?t=1722844965",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3137440?t=1722844965",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3137440?t=1722844965",
     "content_descriptors": {
       "ids": [
         1,
@@ -4166,9 +4224,9 @@
     "is_free": true,
     "short_description": "A top-down 3D stealth game where remaining undetected is of utmost priority. Take down security guards and stay in the shadows to reach the vault and extract a highly valuable relic.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137150/header.jpg?t=1722867544",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137150/capsule_231x87.jpg?t=1722867544",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137150/capsule_184x69.jpg?t=1722867544",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137150/header.jpg?t=1725052020",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137150/capsule_231x87.jpg?t=1725052020",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137150/capsule_184x69.jpg?t=1725052020",
     "website": null,
     "developers": [
       "Carlos Garrido"
@@ -4190,15 +4248,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "30 Aug, 2024"
     },
     "support_info": {
       "url": "https://www.digipen.edu/",
       "email": "games@digipen.edu"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137150/page_bg_generated_v6b.jpg?t=1722867544",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137150/page.bg.jpg?t=1722867544",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3137150?t=1725052020",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3137150/page_bg_raw.jpg?t=1725052020",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5248,9 +5306,9 @@
     "is_free": true,
     "short_description": "An astronomical puzzle game about discovering the rotational speeds and radii of epicycles.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135170/header.jpg?t=1722903157",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135170/capsule_231x87.jpg?t=1722903157",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135170/capsule_184x69.jpg?t=1722903157",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135170/header.jpg?t=1724050975",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135170/capsule_231x87.jpg?t=1724050975",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135170/capsule_184x69.jpg?t=1724050975",
     "website": null,
     "developers": [
       "clrmt"
@@ -5268,18 +5326,22 @@
       2
     ],
     "genres": [
+      23,
       37
     ],
+    "achievements": {
+      "total": 2
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "18 Aug, 2024"
+      "coming_soon": false,
+      "date": "19 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "clrmt@naver.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135170/page_bg_generated_v6b.jpg?t=1722903157",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135170/page_bg_generated.jpg?t=1722903157",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3135170?t=1724050975",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3135170?t=1724050975",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5379,9 +5441,9 @@
     "is_free": true,
     "short_description": "Cycle of Steel is a pixel-art roguelike where tyrannical robot knights run amok. Arm and upgrade your robot to fight through a perilous factory. End the knight\u2019s reign of terror!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136590/header.jpg?t=1722969465",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136590/capsule_231x87.jpg?t=1722969465",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136590/capsule_184x69.jpg?t=1722969465",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136590/header.jpg?t=1724197721",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136590/capsule_231x87.jpg?t=1724197721",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136590/capsule_184x69.jpg?t=1724197721",
     "website": null,
     "developers": [
       "Team Steel"
@@ -5405,15 +5467,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "christiang1245@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136590/page_bg_generated_v6b.jpg?t=1722969465",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136590/page_bg_generated.jpg?t=1722969465",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136590?t=1724197721",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136590?t=1724197721",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5445,9 +5507,9 @@
     "is_free": false,
     "short_description": "A alpaca arrives at a place called Wowo Island and begins a leisurely and happy adventure. You can level up and there are many magical weapons and monsters on the island. Start your adventure now.",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136260/header.jpg?t=1723005020",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136260/e8dd933885e9139ed2f61c4df193346fcee1b3f3/capsule_231x87.jpg?t=1723005020",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136260/e8dd933885e9139ed2f61c4df193346fcee1b3f3/capsule_184x69.jpg?t=1723005020",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136260/header.jpg?t=1724138765",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136260/e8dd933885e9139ed2f61c4df193346fcee1b3f3/capsule_231x87.jpg?t=1724138765",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136260/e8dd933885e9139ed2f61c4df193346fcee1b3f3/capsule_184x69.jpg?t=1724138765",
     "website": null,
     "developers": [
       "XYxiaoyuan\u6e90\u6e90"
@@ -5455,14 +5517,28 @@
     "publishers": [
       "XYxiaoyuan\u6e90\u6e90"
     ],
-    "package_groups": [],
+    "packages": [
+      1113524
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Wowo Island",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -5472,16 +5548,19 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 19
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "522081989@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136260/page_bg_generated_v6b.jpg?t=1723005020",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136260/page.bg.jpg?t=1723005020",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136260?t=1724138765",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136260/page_bg_raw.jpg?t=1724138765",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5582,9 +5661,6 @@
     "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136480/capsule_231x87.jpg?t=1723014049",
     "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136480/capsule_184x69.jpg?t=1723014049",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -5599,8 +5675,8 @@
       "url": "",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136480/page_bg_generated_v6b.jpg?t=1723014049",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136480/page.bg.jpg?t=1723014049",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136480?t=1723014049",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136480/page_bg_raw.jpg?t=1723014049",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5646,8 +5722,8 @@
       "url": "",
       "email": "iiro.uski@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136160/page_bg_generated_v6b.jpg?t=1723000182",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136160/page_bg_generated.jpg?t=1723000182",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136160?t=1723000182",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136160?t=1723000182",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5679,9 +5755,9 @@
     "is_free": false,
     "short_description": "As a Stationmaster of a sleepy English station, it is your duty to carry out the nightly tasks and tend to the customers, but can the customers be trusted?",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136400/header.jpg?t=1723015862",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136400/capsule_231x87.jpg?t=1723015862",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136400/capsule_184x69.jpg?t=1723015862",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136400/header.jpg?t=1726816592",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136400/capsule_231x87.jpg?t=1726816592",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136400/capsule_184x69.jpg?t=1726816592",
     "website": null,
     "developers": [
       "Sitting Elephant"
@@ -5689,7 +5765,20 @@
     "publishers": [
       "Sitting Elephant"
     ],
-    "package_groups": [],
+    "packages": [
+      1113572
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Train Station",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5697,21 +5786,21 @@
     },
     "categories": [
       2,
-      18
+      62
     ],
     "genres": [
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Sep, 2024"
     },
     "support_info": {
       "url": "https://x.com/SE_GameDev",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136400/page_bg_generated_v6b.jpg?t=1723015862",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136400/page_bg_generated.jpg?t=1723015862",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136400?t=1726816592",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3136400?t=1726816592",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5743,9 +5832,9 @@
     "is_free": false,
     "short_description": "This game casts you as a spirited long-haired girl on an adventure in a room brimming with treasures and traps.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135560/header.jpg?t=1723033160",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135560/capsule_231x87.jpg?t=1723033160",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135560/capsule_184x69.jpg?t=1723033160",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135560/header.jpg?t=1724463180",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135560/capsule_231x87.jpg?t=1724463180",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135560/capsule_184x69.jpg?t=1724463180",
     "website": null,
     "developers": [
       "didigames"
@@ -5753,29 +5842,43 @@
     "publishers": [
       "didigames"
     ],
-    "package_groups": [],
+    "packages": [
+      1113293
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Chasm",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "11 Aug, 2024"
+      "coming_soon": false,
+      "date": "23 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "litjksvk@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135560/page_bg_generated_v6b.jpg?t=1723033160",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135560/page_bg_generated.jpg?t=1723033160",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3135560?t=1724463180",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3135560?t=1724463180",
     "content_descriptors": {
       "ids": [],
       "notes": null

@@ -1016,7 +1016,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -1024,14 +1025,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "Esdipgames@esdip.online"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324980/page_bg_generated_v6b.jpg?t=1731600375",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324980/page_bg_generated.jpg?t=1731600375",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3324980?t=1731600375",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3324980?t=1731600375",
     "content_descriptors": {
       "ids": [
         2,
@@ -1977,8 +1978,8 @@
       "url": "",
       "email": "solareclipse.devs@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3325970?t=1733221817",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3325970?t=1733221817",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9410,11 +9411,12 @@
     "steam_appid": 3324650,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "&quot;Judenki Kashite&quot; is a story-driven action game that tells the tale of an otter who lost his family and a stray cat who lost her home.",
     "supported_languages": "English, Japanese, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324650/header.jpg?t=1732159007",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324650/da0834ee104723d32345a519bbf727f44987b85f/capsule_231x87.jpg?t=1732159007",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324650/da0834ee104723d32345a519bbf727f44987b85f/capsule_184x69.jpg?t=1732159007",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324650/header.jpg?t=1740564018",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324650/da0834ee104723d32345a519bbf727f44987b85f/capsule_231x87.jpg?t=1740564018",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324650/da0834ee104723d32345a519bbf727f44987b85f/capsule_184x69.jpg?t=1740564018",
     "website": null,
     "developers": [
       "GIX"
@@ -9435,7 +9437,9 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      28,
+      62
     ],
     "genres": [
       1,
@@ -9449,8 +9453,8 @@
       "url": "",
       "email": "tkgix2@gix.gg"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324650/page_bg_generated_v6b.jpg?t=1732159007",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324650/page.bg.jpg?t=1732159007",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3324650?t=1740564018",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324650/page_bg_raw.jpg?t=1740564018",
     "content_descriptors": {
       "ids": [
         1,
@@ -10577,17 +10581,30 @@
       "name": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal"
     },
     "supported_languages": "Simplified Chinese, Traditional Chinese, English, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326620/header.jpg?t=1733826030",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326620/c76cf9e98ca432bde1369ba8e8e4694d6633cd02/capsule_231x87.jpg?t=1733826030",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326620/c76cf9e98ca432bde1369ba8e8e4694d6633cd02/capsule_184x69.jpg?t=1733826030",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326620/header.jpg?t=1740364159",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326620/c76cf9e98ca432bde1369ba8e8e4694d6633cd02/capsule_231x87.jpg?t=1740364159",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326620/c76cf9e98ca432bde1369ba8e8e4694d6633cd02/capsule_184x69.jpg?t=1740364159",
     "website": null,
     "developers": [
       "\u9b3c\u8c37\u5de5\u4f5c\u5ba4"
     ],
     "publishers": [
-      "LightningGames"
+      "Lightning Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1177790
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Tale of Immortal - Five Blooms",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -10599,7 +10616,8 @@
       22,
       23,
       30,
-      42
+      42,
+      62
     ],
     "genres": [
       1,
@@ -10609,15 +10627,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "26 Dec, 2024"
     },
     "support_info": {
       "url": "http://www.lightning.games",
       "email": "info@lightning.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326620/page_bg_generated_v6b.jpg?t=1733826030",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326620/page.bg.jpg?t=1733826030",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3326620?t=1740364159",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326620/page_bg_raw.jpg?t=1740364159",
     "content_descriptors": {
       "ids": [],
       "notes": null

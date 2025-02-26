@@ -1715,9 +1715,9 @@
     "is_free": true,
     "short_description": "An autobattler where you traverse a mysterious labyrinth. Summoning familiars to fight enemies and finding collectables along the way, as you delve deeper to find what lies at the end.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2419330/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2419330/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2419330/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2419330/header.jpg?t=1685135243",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2419330/capsule_231x87.jpg?t=1685135243",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2419330/capsule_184x69.jpg?t=1685135243",
     "website": null,
     "developers": [
       "Goatfish Games"
@@ -1749,11 +1749,29 @@
       "url": "https://www.digipen.edu/",
       "email": "games@digipen.edu"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2419330/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2419330/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2419330?t=1685135243",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2419330/page_bg_raw.jpg?t=1685135243",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2419320": {
@@ -7733,19 +7751,32 @@
     "steam_appid": 2420620,
     "required_age": 0,
     "is_free": false,
-    "short_description": "When her fellow Demon Slayer, Ayano, disappears in the depths of an enormous dungeon, Shion and her friends take it upon themselves to find her.",
+    "short_description": "Shion's fellow Demon Slayer has gone missing in an otherworldly cave, and it's up to her teammates to find and rescue her! Just what horrors await them?",
     "supported_languages": "English, Japanese, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2420620/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2420620/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2420620/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420620/header.jpg?t=1729090187",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420620/capsule_231x87.jpg?t=1729090187",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420620/capsule_184x69.jpg?t=1729090187",
+    "website": "https://www.kaguragames.com/",
     "developers": [
       "7th Door"
     ],
     "publishers": [
       "Kagura Games"
     ],
-    "package_groups": [],
+    "packages": [
+      871160
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Demon Slayer Shion",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7753,25 +7784,44 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       3,
       23
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "17 Nov, 2023"
     },
     "support_info": {
       "url": "",
       "email": "info@kaguragames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2420620/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2420620/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2420620?t=1729090187",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420620/page_bg_raw.jpg?t=1729090187",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Schimpfw\u00f6rte"
+      }
     }
   },
   "2419623": {
@@ -8028,18 +8078,23 @@
     "steam_appid": 2420700,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Investigate the open world of Forenious to find a missing friend while going against Advanced AI that reacts to everything you do and will do everything in their power to stop you. DO NOT GET CAUGHT.",
+    "short_description": "You need to find your missing friend. Go against a super advanced AI that learns your tactics and predicts your actions. Every mistake you make is detrimental while facing it. Find your friend, and do NOT get caught.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2420700/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2420700/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2420700/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420700/header.jpg?t=1728217993",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420700/59c30b31dd71640314aa10950905b16d7baf8718/capsule_231x87.jpg?t=1728217993",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420700/59c30b31dd71640314aa10950905b16d7baf8718/capsule_184x69.jpg?t=1728217993",
     "website": null,
     "developers": [
-      "Black Fire Studios",
-      "AGW"
+      "The Creej Crew"
     ],
     "publishers": [
-      "Black Fire Studios"
+      "The Creej Crew"
+    ],
+    "demos": [
+      {
+        "appid": 2653340,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -8049,28 +8104,56 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       1,
       2,
       23,
-      25,
-      70
+      25
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q3 2024"
+      "date": "2025"
     },
     "support_info": {
       "url": "",
       "email": "creepycreejgame@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2420700/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2420700/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2420700?t=1728217993",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420700/page_bg_raw.jpg?t=1728217993",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "display_online_notice": "true"
+      },
+      "pegi": {
+        "rating": "15"
+      },
+      "usk": {
+        "rating": "16"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa\nAtos criminosos\nTemas sens\u00edveis"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2418260": {

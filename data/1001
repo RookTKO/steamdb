@@ -39,8 +39,8 @@
       "url": "https://www.weibo.com/LunaticWorks",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003490?t=1716559565",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003490?t=1716559565",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -438,8 +438,8 @@
       "url": "",
       "email": "astrodlegame@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003440?t=1716558010",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003440?t=1716558010",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1235,8 +1235,8 @@
       "url": "https://www.facebook.com/usanik.games",
       "email": "usachev.nikolai@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003850/page_bg_generated_v6b.jpg?t=1718208030",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003850/page_bg_generated.jpg?t=1718208030",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003850?t=1718208030",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003850?t=1718208030",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1537,8 +1537,8 @@
       "url": "www.gamesfoundation.com",
       "email": "support@gamesfoundation.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003480?t=1716538339",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003480?t=1716538339",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1921,9 +1921,6 @@
     "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004490/capsule_231x87.jpg?t=1716544272",
     "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004490/capsule_184x69.jpg?t=1716544272",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -1938,8 +1935,8 @@
       "url": "",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004490/page_bg_generated_v6b.jpg?t=1716544272",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004490/page_bg_generated.jpg?t=1716544272",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004490?t=1716544272",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004490?t=1716544272",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2032,17 +2029,30 @@
     "controller_support": "full",
     "short_description": "A minimalist sci-fi physics based ball-rolling puzzle game. Use abilities and gather collectables to solve puzzles and unlock secrets!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003580/header.jpg?t=1718556974",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003580/capsule_231x87.jpg?t=1718556974",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003580/capsule_184x69.jpg?t=1718556974",
-    "website": "https://xitol.net/games/mineral/",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003580/header.jpg?t=1734350199",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003580/capsule_231x87.jpg?t=1734350199",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003580/capsule_184x69.jpg?t=1734350199",
+    "website": "http://mineral-game.com/",
     "developers": [
       "Xitol"
     ],
     "publishers": [
       "Xitol"
     ],
-    "package_groups": [],
+    "packages": [
+      1068533
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Mineral",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2051,21 +2061,25 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       4
     ],
+    "achievements": {
+      "total": 35
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "August 2024"
+      "coming_soon": false,
+      "date": "8 Aug, 2024"
     },
     "support_info": {
-      "url": "https://xitol.net/games/mineral/",
-      "email": ""
+      "url": "http://mineral-game.com/support",
+      "email": "game-support@xitol.net"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003580/page_bg_generated_v6b.jpg?t=1718556974",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003580/page.bg.jpg?t=1718556974",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003580?t=1734350199",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003580/page_bg_raw.jpg?t=1734350199",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2458,9 +2472,9 @@
       "name": "Hunter's Requiem"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004540/header.jpg?t=1716586699",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004540/capsule_231x87.jpg?t=1716586699",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004540/capsule_184x69.jpg?t=1716586699",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004540/header.jpg?t=1718950637",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004540/capsule_231x87.jpg?t=1718950637",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004540/capsule_184x69.jpg?t=1718950637",
     "website": "https://hunters-requiem.github.io/",
     "developers": [
       "Shaney Etkin",
@@ -2490,15 +2504,15 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "shattergames2024@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004540?t=1718950637",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004540?t=1718950637",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2562,8 +2576,8 @@
       "url": "",
       "email": "sunnygamestudios@outlook.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004200?t=1717847755",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004200?t=1717847755",
     "content_descriptors": {
       "ids": [
         1,
@@ -2959,13 +2973,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004460/header.jpg?t=1717542142",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004460/capsule_231x87.jpg?t=1717542142",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004460/capsule_184x69.jpg?t=1717542142",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004460/header.jpg?t=1720454845",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004460/capsule_231x87.jpg?t=1720454845",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004460/capsule_184x69.jpg?t=1720454845",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -2980,8 +2991,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004460?t=1720454845",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004460?t=1720454845",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4224,8 +4235,8 @@
       "url": "",
       "email": "overdog.info@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003820/page_bg_generated_v6b.jpg?t=1718281970",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003820/page.bg.jpg?t=1718281970",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003820?t=1718281970",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003820/page_bg_raw.jpg?t=1718281970",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6174,9 +6185,9 @@
     "is_free": false,
     "short_description": "Immerse yourself in a thrilling Breakout adventure with 20 unique levels that challenge your reflexes, strategy, and endurance. Each level is meticulously designed and features creative obstacles that provide hours of fun. Are you ready to take on the challenge and master every surprise?",
     "supported_languages": "English, French, Italian, German, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003780/header.jpg?t=1717148851",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003780/capsule_231x87.jpg?t=1717148851",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003780/capsule_184x69.jpg?t=1717148851",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003780/header.jpg?t=1719831403",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003780/capsule_231x87.jpg?t=1719831403",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003780/capsule_184x69.jpg?t=1719831403",
     "website": "https://tb.teemetal.de",
     "developers": [
       "Teemetal Game Studio"
@@ -6184,29 +6195,46 @@
     "publishers": [
       "Forestier Software"
     ],
-    "package_groups": [],
+    "packages": [
+      1068596
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Thor's Breakout",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 30
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "1 Jul, 2024"
     },
     "support_info": {
       "url": "https://www.forestier.de",
       "email": "support@forestier.de"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003780/page_bg_generated_v6b.jpg?t=1717148851",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003780/page_bg_generated.jpg?t=1717148851",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003780?t=1719831403",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003780?t=1719831403",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6365,11 +6393,15 @@
     "steam_appid": 3003700,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3003790,
+      3006850
+    ],
     "short_description": "Welcome to wonderland, a place of dreams. Take on the role of Alister Hinch and go on a journey through this surreal realm of enchantment and wonder. Experience making friends in this realm... Now, what ending will you choose to have?",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003700/header.jpg?t=1718380766",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003700/capsule_231x87.jpg?t=1718380766",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003700/capsule_184x69.jpg?t=1718380766",
+    "supported_languages": "English, Japanese, Spanish - Spain",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003700/header.jpg?t=1738736743",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003700/capsule_231x87.jpg?t=1738736743",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003700/capsule_184x69.jpg?t=1738736743",
     "website": null,
     "developers": [
       "JuiceBox Indie"
@@ -6404,6 +6436,8 @@
     },
     "categories": [
       2,
+      22,
+      23,
       62
     ],
     "genres": [
@@ -6413,7 +6447,7 @@
       25
     ],
     "achievements": {
-      "total": 2
+      "total": 15
     },
     "release_date": {
       "coming_soon": false,
@@ -6423,16 +6457,13 @@
       "url": "",
       "email": "llamalover9000@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003700/page_bg_generated_v6b.jpg?t=1718380766",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003700/page.bg.jpg?t=1718380766",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003700?t=1738736743",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003700/page_bg_raw.jpg?t=1738736743",
     "content_descriptors": {
       "ids": [],
       "notes": null
     },
     "ratings": {
-      "esrb": {
-        "rating": "e"
-      },
       "dejus": {
         "rating_generated": "1",
         "rating": "12",
@@ -6526,9 +6557,9 @@
     "is_free": true,
     "short_description": "\u300a\u7687\u5e1d\u300b\u662f\u4e00\u6b3e\u738b\u671d\u517b\u6210\u6a21\u62df\u6e38\u620f\u3002",
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003570/header.jpg?t=1718422931",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003570/capsule_231x87.jpg?t=1718422931",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003570/capsule_184x69.jpg?t=1718422931",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003570/header.jpg?t=1721451620",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003570/capsule_231x87.jpg?t=1721451620",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003570/capsule_184x69.jpg?t=1721451620",
     "website": null,
     "developers": [
       "realfun studio"
@@ -6551,16 +6582,19 @@
       28,
       37
     ],
+    "achievements": {
+      "total": 18
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "19 Jul, 2024"
     },
     "support_info": {
       "url": "https://www.realfunstudio.com/",
       "email": "feed@realfunstudio.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003570/page_bg_generated_v6b.jpg?t=1718422931",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003570/page_bg_generated.jpg?t=1718422931",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003570?t=1721451620",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003570?t=1721451620",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6592,9 +6626,9 @@
     "is_free": false,
     "short_description": "Gear up, soldier, and prepare for the ultimate FPS showdown in Delta Strike!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004230/header.jpg?t=1718339903",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004230/capsule_231x87.jpg?t=1718339903",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004230/capsule_184x69.jpg?t=1718339903",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004230/header.jpg?t=1718982417",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004230/capsule_231x87.jpg?t=1718982417",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004230/capsule_184x69.jpg?t=1718982417",
     "website": null,
     "ext_user_account_notice": "Gamesoft Authentication Service ",
     "developers": [
@@ -6603,7 +6637,20 @@
     "publishers": [
       "Gamesoft Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1068767
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Delta Strike",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6614,7 +6661,8 @@
       9,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -6622,15 +6670,15 @@
       29
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Jun, 2024"
     },
     "support_info": {
       "url": "https://gamesoftstudios.in",
       "email": "parasgahlan95@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004230/page_bg_generated_v6b.jpg?t=1718339903",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004230/page_bg_generated.jpg?t=1718339903",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004230?t=1718982417",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004230?t=1718982417",
     "content_descriptors": {
       "ids": [
         2,
@@ -6803,9 +6851,9 @@
       "appid": "1921480",
       "name": "#BLUD"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004440/header.jpg?t=1717184397",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004440/capsule_231x87.jpg?t=1717184397",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004440/capsule_184x69.jpg?t=1717184397",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004440/header.jpg?t=1718729566",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004440/capsule_231x87.jpg?t=1718729566",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004440/capsule_184x69.jpg?t=1718729566",
     "website": null,
     "developers": [
       "Exit 73 Games"
@@ -6813,22 +6861,35 @@
     "publishers": [
       "Humble Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1068863
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy #BLUD Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "18 Jun, 2024"
     },
     "support_info": {
       "url": "https://www.humblegames.com/contact-us/",
       "email": "info@exit73studios.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004440/page_bg_generated_v6b.jpg?t=1717184397",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004440/page_bg_generated.jpg?t=1717184397",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004440?t=1718729566",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004440?t=1718729566",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6859,17 +6920,17 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "A cinematic roguelike deckbuilder where your cards are &quot;Machines&quot; designed to attack or &quot;Physically&quot; block damage by sacrificing themselves. Install functional components onto cards like a machine, trigger powerful chain reactions, and experiment with a trove of exciting possibilities.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004810/header.jpg?t=1717210371",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004810/capsule_231x87.jpg?t=1717210371",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004810/capsule_184x69.jpg?t=1717210371",
-    "website": null,
+    "short_description": "A cinematic roguelike deckbuilder where your cards are 'Machines' that activate physically. Enemies can strike, pierce, or bomb them into pieces. Install components to make your cards tough or dangerous, trigger chain reactions, and experiment with thrilling ways to destroy your enemies.",
+    "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004810/header.jpg?t=1725789748",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004810/capsule_231x87.jpg?t=1725789748",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004810/capsule_184x69.jpg?t=1725789748",
+    "website": "https://www.enigmaequation.com/",
     "developers": [
-      "The Only Studio"
+      "Enigma Equation"
     ],
     "publishers": [
-      "The Only Studio"
+      "Enigma Equation"
     ],
     "package_groups": [],
     "platforms": {
@@ -6880,7 +6941,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       2
@@ -6891,10 +6953,10 @@
     },
     "support_info": {
       "url": "",
-      "email": "operativematrix@gmail.com"
+      "email": "giap@enigmaequation.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004810/page_bg_generated_v6b.jpg?t=1717210371",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004810/page_bg_generated.jpg?t=1717210371",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004810?t=1725789748",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004810?t=1725789748",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7171,9 +7233,9 @@
     "is_free": false,
     "short_description": "Break bricks, collect power-ups, endless levels for high scores. Test your skills, adaptability, and strategy. Addictive and fun! Let's play!",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish<strong>*</strong>, Ukrainian<strong>*</strong>, Russian<strong>*</strong>, Bulgarian<strong>*</strong>, Hungarian<strong>*</strong>, Indonesian<strong>*</strong>, Turkish<strong>*</strong>, Greek<strong>*</strong>, Norwegian<strong>*</strong>, Czech<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Thai<strong>*</strong>, Swedish<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Romanian<strong>*</strong>, Finnish<strong>*</strong>, Dutch<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Vietnamese<strong>*</strong>, Arabic<strong>*</strong>, Korean<strong>*</strong>, Uzbek<strong>*</strong>, Urdu<strong>*</strong>, Armenian<strong>*</strong>, Igbo<strong>*</strong>, Sindhi<strong>*</strong>, Sinhala<strong>*</strong>, Croatian<strong>*</strong>, Icelandic<strong>*</strong>, Cherokee<strong>*</strong>, Galician<strong>*</strong>, Catalan<strong>*</strong>, Afrikaans<strong>*</strong>, Kannada<strong>*</strong>, Luxembourgish<strong>*</strong>, Hindi<strong>*</strong>, Gujarati<strong>*</strong>, Kyrgyz<strong>*</strong>, Kazakh<strong>*</strong>, Turkmen<strong>*</strong>, K'iche'<strong>*</strong>, Kinyarwanda<strong>*</strong>, Tajik<strong>*</strong>, Serbian<strong>*</strong>, Odia<strong>*</strong>, Welsh<strong>*</strong>, Konkani<strong>*</strong>, Bangla<strong>*</strong>, Nepali<strong>*</strong>, Basque<strong>*</strong>, Hebrew<strong>*</strong>, Latvian<strong>*</strong>, Tigrinya<strong>*</strong>, Slovak<strong>*</strong>, Slovenian<strong>*</strong>, Swahili<strong>*</strong>, Punjabi (Gurmukhi)<strong>*</strong>, Punjabi (Shahmukhi)<strong>*</strong>, Georgian<strong>*</strong>, Maori<strong>*</strong>, Wolof<strong>*</strong>, Bosnian<strong>*</strong>, Persian<strong>*</strong>, Telugu<strong>*</strong>, Tamil<strong>*</strong>, Irish<strong>*</strong>, Estonian<strong>*</strong>, Valencian<strong>*</strong>, Belarusian<strong>*</strong>, Quechua<strong>*</strong>, Zulu<strong>*</strong>, Xhosa<strong>*</strong>, Lithuanian<strong>*</strong>, Sotho<strong>*</strong>, Sorani<strong>*</strong>, Yoruba<strong>*</strong>, Uyghur<strong>*</strong>, Scots<strong>*</strong>, Tswana<strong>*</strong>, Filipino<strong>*</strong>, Mongolian<strong>*</strong>, Hausa<strong>*</strong>, Dari<strong>*</strong>, Azerbaijani<strong>*</strong>, Amharic<strong>*</strong>, Albanian<strong>*</strong>, Assamese<strong>*</strong>, Tatar<strong>*</strong>, Macedonian<strong>*</strong>, Marathi<strong>*</strong>, Malayalam<strong>*</strong>, Malay<strong>*</strong>, Maltese<strong>*</strong>, Khmer<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003670/header.jpg?t=1718630100",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003670/capsule_231x87.jpg?t=1718630100",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003670/capsule_184x69.jpg?t=1718630100",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003670/header.jpg?t=1718935033",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003670/capsule_231x87.jpg?t=1718935033",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003670/capsule_184x69.jpg?t=1718935033",
     "website": null,
     "developers": [
       "Wending Studio"
@@ -7217,8 +7279,8 @@
       "url": "",
       "email": "zerolin_0428@163.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003670/page_bg_generated_v6b.jpg?t=1718630100",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003670/page_bg_generated.jpg?t=1718630100",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003670?t=1718935033",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003670?t=1718935033",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9613,16 +9675,16 @@
     "steam_appid": 3003540,
     "required_age": 0,
     "is_free": true,
-    "short_description": "",
+    "short_description": "Help Nora find the missing items around her house! Try the regular difficulty mode as well as shadows and dark mode.",
     "fullgame": {
       "appid": "2859820",
       "name": "Nora: In Search of Hidden Ingredients"
     },
     "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003540/header.jpg?t=1718049548",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003540/capsule_231x87.jpg?t=1718049548",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003540/capsule_184x69.jpg?t=1718049548",
-    "website": "https://www.facebook.com/error300com",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003540/header.jpg?t=1726468493",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003540/capsule_231x87.jpg?t=1726468493",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003540/capsule_184x69.jpg?t=1726468493",
+    "website": "https://error300.com/",
     "developers": [
       "Error 300"
     ],
@@ -9646,11 +9708,11 @@
       "date": "10 Jun, 2024"
     },
     "support_info": {
-      "url": "https://www.facebook.com/error300com",
+      "url": "https://error300.com/",
       "email": "contact@error300.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003540?t=1726468493",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003540?t=1726468493",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10123,9 +10185,9 @@
     "is_free": false,
     "short_description": "Where is the Tutorial is a game where the biggest challenge is simply figuring out how to play. Dropped into a whimsical world with no instructions, no hints, and no mercy, you're left to navigate a series of increasingly bizarre levels using only your wits and a growing sense of frustration.",
     "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003650/header.jpg?t=1718327326",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003650/capsule_231x87.jpg?t=1718327326",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003650/capsule_184x69.jpg?t=1718327326",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003650/header.jpg?t=1734869636",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003650/capsule_231x87.jpg?t=1734869636",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003650/capsule_184x69.jpg?t=1734869636",
     "website": null,
     "developers": [
       "OlympicHamster"
@@ -10133,31 +10195,48 @@
     "publishers": [
       "OlympicHamster"
     ],
-    "package_groups": [],
+    "packages": [
+      1068554
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Where is the Tutorial",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       2,
       4,
       23
     ],
+    "achievements": {
+      "total": 16
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "5 Jul, 2024"
+      "coming_soon": false,
+      "date": "27 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "hamsterolympic@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003650/page_bg_generated_v6b.jpg?t=1718327326",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003650/page_bg_generated.jpg?t=1718327326",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003650?t=1734869636",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3003650?t=1734869636",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10269,11 +10348,11 @@
     "steam_appid": 3005490,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Rise Achlys is a brutal gothic metroidvania and souls-like inspired by Castlevania. The story-driven game features a vampire protagonist and iconic characters like Dracula and Frankenstein, with themes of time travel and fantasy. It also integrates unique music mechanics into the gameplay.",
+    "short_description": "Rise Achlys is a brutal gothic soulsvania and rogue-lite inspired by Castlevania. The story-driven game features a vampire protagonist and iconic characters like Dracula and Frankenstein, with time travel and fantasy themes. It also integrates unique music mechanics into the gameplay.",
     "supported_languages": "English<strong>*</strong>, Simplified Chinese, Russian, Turkish<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005490/header.jpg?t=1718379410",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005490/capsule_231x87.jpg?t=1718379410",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005490/capsule_184x69.jpg?t=1718379410",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005490/header.jpg?t=1737372314",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005490/capsule_231x87.jpg?t=1737372314",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005490/capsule_184x69.jpg?t=1737372314",
     "website": "https://www.goodgamedesignfolks.com/",
     "developers": [
       "Good Game Design Folks"
@@ -10288,7 +10367,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -10303,8 +10383,8 @@
       "url": "https://www.goodgamedesignfolks.com/",
       "email": "contact@goodgamedesignfolks.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005490/page_bg_generated_v6b.jpg?t=1718379410",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005490/page.bg.jpg?t=1718379410",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3005490?t=1737372314",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005490/page_bg_raw.jpg?t=1737372314",
     "content_descriptors": {
       "ids": [
         2,
@@ -10337,41 +10417,58 @@
     "steam_appid": 3004090,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Unbodied is a small adventure full of magic, puzzles, and strange characters.",
-    "supported_languages": "English, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004090/header.jpg?t=1718393185",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004090/capsule_231x87.jpg?t=1718393185",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004090/capsule_184x69.jpg?t=1718393185",
-    "website": null,
+    "short_description": "Unbodied, a small adventure in which you play a skeleton whose body has been stolen. Control your magic wand, solve all the puzzles and find all the spells to finish with the powerful wizard and thus, recover what is yours.",
+    "supported_languages": "English, Spanish - Spain, Japanese, Turkish, Catalan",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004090/header.jpg?t=1723826830",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004090/capsule_231x87.jpg?t=1723826830",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004090/capsule_184x69.jpg?t=1723826830",
+    "website": "https://silver-island.es/",
     "developers": [
       "Guillermo Siliuto Pineda"
     ],
     "publishers": [
       "Guillermo Siliuto Pineda"
     ],
-    "package_groups": [],
+    "packages": [
+      1068721
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Unbodied",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
       25
     ],
+    "achievements": {
+      "total": 13
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "15 Aug, 2024"
+      "coming_soon": false,
+      "date": "16 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "gsiliutop@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004090/page_bg_generated_v6b.jpg?t=1718393185",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004090/page.bg.jpg?t=1718393185",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004090?t=1723826830",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004090/page_bg_raw.jpg?t=1723826830",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10401,11 +10498,11 @@
     "steam_appid": 3004800,
     "required_age": 0,
     "is_free": false,
-    "short_description": "VR RPG Design and Build your own Base, Craft Weapons and Armor. No Gore. Any Height Player. Seated and Standing.",
+    "short_description": "VR RPG Design and Build your own Base, Craft Weapons and Armor. 1.3 Has Blood and Dismember. Any Height Player. Seated and Standing.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004800/header.jpg?t=1718424885",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004800/capsule_231x87.jpg?t=1718424885",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004800/capsule_184x69.jpg?t=1718424885",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004800/header.jpg?t=1733016657",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004800/3a29f4dbac69eb1ee9e6b6dd5d781c352cc35447/capsule_231x87.jpg?t=1733016657",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004800/3a29f4dbac69eb1ee9e6b6dd5d781c352cc35447/capsule_184x69.jpg?t=1733016657",
     "website": null,
     "developers": [
       "Syco Rift Games"
@@ -10413,7 +10510,20 @@
     "publishers": [
       "Syco Rift Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1068982
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Syco Realm VR",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -10422,7 +10532,8 @@
     "categories": [
       2,
       52,
-      54
+      54,
+      62
     ],
     "genres": [
       1,
@@ -10432,15 +10543,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "28 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "sycorealmvr@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004800/page_bg_generated_v6b.jpg?t=1718424885",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004800/page.bg.jpg?t=1718424885",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004800?t=1733016657",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004800/page_bg_raw.jpg?t=1733016657",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10697,9 +10808,9 @@
     "is_free": false,
     "short_description": "Danger looms over Calder and its citizens. Is it linked to the Alchemy Academy, the workings of a secretive cult, or an ancient god rising to erase the city? In this narrative game with multiple endings, each choice you make unfolds its own story.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004580/header.jpg?t=1718723825",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004580/capsule_231x87.jpg?t=1718723825",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004580/capsule_184x69.jpg?t=1718723825",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004580/header.jpg?t=1720960692",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004580/capsule_231x87.jpg?t=1720960692",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004580/capsule_184x69.jpg?t=1720960692",
     "website": null,
     "developers": [
       "Hokkori Games"
@@ -10714,7 +10825,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       25
@@ -10727,8 +10839,8 @@
       "url": "",
       "email": "hokkorigames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004580/page_bg_generated_v6b.jpg?t=1718723825",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004580/page.bg.jpg?t=1718723825",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004580?t=1720960692",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004580/page_bg_raw.jpg?t=1720960692",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10760,16 +10872,22 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Solace Creek is a Horror game with a focus on suspense, exploration, stealth &amp; puzzle solving. You wake up in a sinister place, haunted by a monstrous presence. Uncover the mystery of this dark place... or become its prey.",
-    "supported_languages": "English, German",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004130/header.jpg?t=1718803440",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004130/capsule_231x87.jpg?t=1718803440",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004130/capsule_184x69.jpg?t=1718803440",
+    "supported_languages": "English, German, Italian, Japanese, Polish, Russian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004130/header.jpg?t=1737405086",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004130/742a0955524748df68e223f38f56bd6c4bdfff13/capsule_231x87.jpg?t=1737405086",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004130/742a0955524748df68e223f38f56bd6c4bdfff13/capsule_184x69.jpg?t=1737405086",
     "website": null,
     "developers": [
       "starlit studio"
     ],
     "publishers": [
-      " starlit studio"
+      "starlit studio"
+    ],
+    "demos": [
+      {
+        "appid": 3064300,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -10781,10 +10899,12 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
-      23
+      23,
+      25
     ],
     "release_date": {
       "coming_soon": true,
@@ -10794,8 +10914,8 @@
       "url": "",
       "email": "info.starlitstudios@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004130/page_bg_generated_v6b.jpg?t=1718803440",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004130/page_bg_generated.jpg?t=1718803440",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004130?t=1737405086",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3004130?t=1737405086",
     "content_descriptors": {
       "ids": [],
       "notes": null
