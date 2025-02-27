@@ -897,21 +897,34 @@
     "controller_support": "full",
     "short_description": "A fast-paced puzzle game for 1-4 players. Match blocks by color to build up combos and cause huge amounts of destruction!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537550/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537550/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2537550/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537550/header.jpg?t=1734042111",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537550/capsule_231x87.jpg?t=1734042111",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537550/capsule_184x69.jpg?t=1734042111",
+    "website": "https://polymino.net",
     "developers": [
       "Aidan Garvey"
     ],
     "publishers": [
       "Aidan Garvey"
     ],
-    "package_groups": [],
+    "packages": [
+      911810
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Polymino",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": true
+      "linux": false
     },
     "categories": [
       1,
@@ -922,29 +935,51 @@
       24,
       25,
       28,
+      36,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
-      4,
       23,
       70
     ],
+    "achievements": {
+      "total": 22
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "March 2024"
+      "coming_soon": false,
+      "date": "21 Nov, 2023"
     },
     "support_info": {
       "url": "",
       "email": "aidangarvey@pm.me"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2537550/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2537550/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2537550?t=1734042111",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2537550?t=1734042111",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2537750": {
@@ -1533,20 +1568,39 @@
     "name": "Dusty Derby",
     "steam_appid": 2536600,
     "required_age": 0,
-    "is_free": true,
+    "is_free": false,
     "short_description": "Dusty Derby is a large online multiplayer party royal game with 32 players. Cute Dusts Compete to be King of Dusts in various places in the house!",
-    "supported_languages": "English, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2536600/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2536600/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2536600/capsule_184x69.jpg",
+    "supported_languages": "English, Korean, French, German, Japanese, Simplified Chinese, Traditional Chinese, Indonesian, Thai, Vietnamese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536600/header.jpg?t=1736124381",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536600/ba17d7b4259c3dd2aa06c63287fab322770d3ad4/capsule_231x87.jpg?t=1736124381",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536600/ba17d7b4259c3dd2aa06c63287fab322770d3ad4/capsule_184x69.jpg?t=1736124381",
     "website": null,
     "developers": [
       "Geniesoft Inc."
     ],
     "publishers": [
-      " Geniesoft Inc."
+      "Geniesoft Inc."
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2668970,
+        "description": ""
+      }
+    ],
+    "packages": [
+      911463
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Dusty Derby",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1555,32 +1609,53 @@
     "categories": [
       1,
       9,
-      20,
-      35,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
       4,
       18,
       23,
-      29
+      29,
+      70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Oct, 2024"
     },
     "support_info": {
       "url": "",
       "email": "help@geniesoft.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2536600/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2536600/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2536600?t=1736124381",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2536600?t=1736124381",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "kgrb": {
+        "rating": "all"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2537360": {
@@ -2551,11 +2626,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Let the mushrooms help you on your journey through the different seasons in this difficult 2D precision platformer that full of dangers around you.Still in early development, more content coming soon!",
-    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Indonesian<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong>, Afrikaans<strong>*</strong>, Albanian<strong>*</strong>, Amharic<strong>*</strong>, Armenian<strong>*</strong>, Assamese<strong>*</strong>, Azerbaijani<strong>*</strong>, Bangla<strong>*</strong>, Basque<strong>*</strong>, Belarusian<strong>*</strong>, Bosnian<strong>*</strong>, Catalan<strong>*</strong>, Cherokee<strong>*</strong>, Croatian<strong>*</strong>, Dari<strong>*</strong>, Estonian<strong>*</strong>, Filipino<strong>*</strong>, Galician<strong>*</strong>, Georgian<strong>*</strong>, Gujarati<strong>*</strong>, Hausa<strong>*</strong>, Hebrew<strong>*</strong>, Hindi<strong>*</strong>, Icelandic<strong>*</strong>, Igbo<strong>*</strong>, Irish<strong>*</strong>, K'iche'<strong>*</strong>, Kannada<strong>*</strong>, Kazakh<strong>*</strong>, Khmer<strong>*</strong>, Kinyarwanda<strong>*</strong>, Konkani<strong>*</strong>, Kyrgyz<strong>*</strong>, Latvian<strong>*</strong>, Lithuanian<strong>*</strong>, Luxembourgish<strong>*</strong>, Macedonian<strong>*</strong>, Malay<strong>*</strong>, Malayalam<strong>*</strong>, Maltese<strong>*</strong>, Maori<strong>*</strong>, Marathi<strong>*</strong>, Mongolian<strong>*</strong>, Nepali<strong>*</strong>, Odia<strong>*</strong>, Persian<strong>*</strong>, Punjabi (Gurmukhi)<strong>*</strong>, Punjabi (Shahmukhi)<strong>*</strong>, Quechua<strong>*</strong>, Scots<strong>*</strong>, Serbian<strong>*</strong>, Sindhi<strong>*</strong>, Sinhala<strong>*</strong>, Slovak<strong>*</strong>, Slovenian<strong>*</strong>, Sorani<strong>*</strong>, Sotho<strong>*</strong>, Swahili<strong>*</strong>, Tajik<strong>*</strong>, Tamil<strong>*</strong>, Tatar<strong>*</strong>, Telugu<strong>*</strong>, Tigrinya<strong>*</strong>, Tswana<strong>*</strong>, Turkmen<strong>*</strong>, Urdu<strong>*</strong>, Uyghur<strong>*</strong>, Uzbek<strong>*</strong>, Valencian<strong>*</strong>, Welsh<strong>*</strong>, Wolof<strong>*</strong>, Xhosa<strong>*</strong>, Yoruba<strong>*</strong>, Zulu<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537070/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2537070/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2537070/capsule_184x69.jpg",
+    "short_description": "Let the mushrooms help you on your journey through the different seasons in this difficult 2D precision platformer that full of dangers around you.",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Russian, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537070/header.jpg?t=1733648267",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537070/capsule_231x87.jpg?t=1733648267",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537070/capsule_184x69.jpg?t=1733648267",
     "website": null,
     "developers": [
       "DevDelta"
@@ -2563,7 +2638,26 @@
     "publishers": [
       "DevDelta"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2758580,
+        "description": ""
+      }
+    ],
+    "packages": [
+      911612
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Mushroom Path",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2572,27 +2666,47 @@
     "categories": [
       2,
       22,
-      23,
-      28
+      28,
+      62
     ],
     "genres": [
       4,
-      23,
       25
     ],
+    "achievements": {
+      "total": 47
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "15 May, 2024"
     },
     "support_info": {
       "url": "",
       "email": "devdelta72@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2537070/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2537070/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2537070?t=1733648267",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2537070?t=1733648267",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2536760": {
@@ -3677,10 +3791,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "&quot;Return to that summer with you...&quot; Ryusei returns to the small island of his younger years, where time flows by gently, to spend a fairy-tale summer vacation with his childhood friend who was spirited away.",
-    "supported_languages": "Japanese<strong>*</strong>, English, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2536840/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2536840/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2536840/capsule_184x69.jpg",
+    "supported_languages": "Japanese<strong>*</strong>, English, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536840/header.jpg?t=1726631759",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536840/capsule_231x87.jpg?t=1726631759",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536840/capsule_184x69.jpg?t=1726631759",
     "website": "http://ginka.frontwing.jp/",
     "developers": [
       "Frontwing"
@@ -3711,7 +3825,8 @@
     "categories": [
       2,
       23,
-      29
+      29,
+      62
     ],
     "genres": [
       4,
@@ -3725,11 +3840,29 @@
       "url": "",
       "email": "ask@frontwing.co.jp"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2536840/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2536840/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2536840?t=1726631759",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536840/page_bg_raw.jpg?t=1726631759",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2536710": {
