@@ -2799,9 +2799,9 @@
     "is_free": false,
     "short_description": "Nancy wants to share her naughty and cute pictures, but she is a shy girl. She needs your help!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663440/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663440/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1663440/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663440/header.jpg?t=1684360627",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663440/capsule_231x87.jpg?t=1684360627",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663440/capsule_184x69.jpg?t=1684360627",
     "website": null,
     "developers": [
       "Walrus Games"
@@ -2830,7 +2830,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       4,
@@ -2848,8 +2849,8 @@
       "url": "",
       "email": "walrusgames22@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1663440/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1663440/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1663440?t=1684360627",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663440/page_bg_raw.jpg?t=1684360627",
     "content_descriptors": {
       "ids": [
         1,
@@ -2858,6 +2859,22 @@
         4
       ],
       "notes": "-Nudity or sexual content including sex act, masturbation and cosplay (Only consensual sex).\r\n-Not suitable for watching at work-Not suitable for all ages.\r\n-All characters in the game are over 18 years old."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Nudez",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "1663410": {
@@ -7291,12 +7308,12 @@
     "name": "Knife To Meet You",
     "steam_appid": 1663650,
     "required_age": 0,
-    "is_free": true,
-    "short_description": "A knife throwing game with total throw-control (spinning, power, direction), real physics simulation, object destruction (slicing, piercing, pinning), competitive leaderboards and replay system.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663650/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663650/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1663650/capsule_184x69.jpg",
+    "is_free": false,
+    "short_description": "A blade simulator that focuses on maximum fun. 48 crazy weapons, a new 'total throw control' mechanism, real physics, object destruction (3-level slicing, piercing, pinning, explosions). Funny story mode, competitive leaderboards and Sand Box / Level Editor to build and share your hilarious levels.",
+    "supported_languages": "English<strong>*</strong>, Hungarian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663650/header.jpg?t=1740733685",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663650/capsule_231x87.jpg?t=1740733685",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663650/capsule_184x69.jpg?t=1740733685",
     "website": "https://www.knifeto.com",
     "developers": [
       "Mate Magyar"
@@ -7304,7 +7321,20 @@
     "publishers": [
       "Mate Magyar"
     ],
-    "package_groups": [],
+    "packages": [
+      1018012
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Knife To Meet You",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7312,29 +7342,44 @@
     },
     "categories": [
       2,
-      35
+      62
     ],
     "genres": [
       1,
       18,
       23,
-      28,
-      37,
-      70
+      28
     ],
+    "achievements": {
+      "total": 40
+    },
     "release_date": {
       "coming_soon": false,
-      "date": "21 Jul, 2021"
+      "date": "13 Mar, 2024"
     },
     "support_info": {
       "url": "https://www.knifeto.com",
       "email": "knifetogame@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1663650/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1663650/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1663650?t=1740733685",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663650/page_bg_raw.jpg?t=1740733685",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "1662680": {

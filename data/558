@@ -2028,17 +2028,17 @@
     "steam_appid": 1675260,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Among the Trolls is a first-person, survival, action-adventure game where the strange mysteries of Finnish forests are unraveled. Embark on a quest to find your vanished grandparents and learn how to survive in the wilderness.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1675260/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1675260/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1675260/capsule_184x69.jpg",
+    "short_description": "Among the Trolls is a first-person survival-adventure game where the secret mysteries of Finnish forests are unraveled. Venture deep into the Finnish wilderness to uncover family truths and master the art of survival.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675260/header.jpg?t=1737718896",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675260/1e3155827410d4c418fb5bf6ac0893d3ae2166ad/capsule_231x87.jpg?t=1737718896",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675260/1e3155827410d4c418fb5bf6ac0893d3ae2166ad/capsule_184x69.jpg?t=1737718896",
     "website": "https://amongthetrolls.com/",
     "developers": [
-      "Forbidden Studios"
+      "Avantgarden"
     ],
     "publishers": [
-      "505 Games"
+      "505 Pulse"
     ],
     "package_groups": [],
     "platforms": {
@@ -2047,10 +2047,8 @@
       "linux": false
     },
     "categories": [
-      1,
       2,
-      9,
-      38
+      62
     ],
     "genres": [
       1,
@@ -2063,14 +2061,27 @@
       "date": "Coming soon"
     },
     "support_info": {
-      "url": "https://support.505games.com/",
+      "url": "",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1675260/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1675260/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1675260?t=1737718896",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675260/page_bg_raw.jpg?t=1737718896",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "1674240": {
@@ -6020,49 +6031,80 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Enter the world of Train Yard Builder and customize your railway to your heart's content. Work with different models of trains and wagons, control them the way you want, and use modeler tools to unleash your creativity.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Czech, Hungarian, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1674900/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1674900/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1674900/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Czech, Hungarian, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Turkish<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674900/header.jpg?t=1734363207",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674900/898eb468d9aec0967f09811cf8cf574e7a32f6f3/capsule_231x87.jpg?t=1734363207",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674900/898eb468d9aec0967f09811cf8cf574e7a32f6f3/capsule_184x69.jpg?t=1734363207",
     "website": null,
     "developers": [
       "GameFormatic S.A."
     ],
     "publishers": [
-      "PlayWay S.A."
+      "Frozen Way",
+      "PlayWay S.A.",
+      "Frozen District"
     ],
-    "demos": [
+    "packages": [
+      595484
+    ],
+    "package_groups": [
       {
-        "appid": 2585670,
-        "description": ""
+        "name": "default",
+        "title": "Buy Train Yard Builder",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      30,
+      51,
+      62
     ],
     "genres": [
       4,
+      23,
       28
     ],
+    "achievements": {
+      "total": 19
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "16 Sep, 2024"
     },
     "support_info": {
-      "url": "https://playway.com/",
-      "email": "help@playway.com"
+      "url": "",
+      "email": "marketing@frozenway.games"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1674900/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1674900/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1674900?t=1734363207",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674900/page_bg_raw.jpg?t=1734363207",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "1676990": {
@@ -12180,17 +12222,17 @@
     "required_age": 0,
     "is_free": false,
     "dlc": [
+      2374800,
       2237100,
       2239120,
-      2241850,
-      2374800
+      2241850
     ],
-    "short_description": "A multiplayer RPG game with survival aspects set in a fantasy world that is continuously expanding in the Atham universe. Fight and survive in a cruel world, build your home, and dominate your enemies\u2026 or your friends!",
-    "supported_languages": "English<strong>*</strong>, French, Italian, Spanish - Spain, Polish, Portuguese - Portugal, German<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1676380/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1676380/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1676380/capsule_184x69.jpg",
-    "website": "https://www.sofamauvestudio.com/",
+    "short_description": "&quot;Kingdom of Atham: Crown of the Champions - Embark on a medieval fantasy survival odyssey. Reclaim the stolen Crown, battle dark forces, and explore diverse lands. Uncover secrets, wield magic, and craft your destiny. Will you become the true champion of Atham?&quot;",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676380/header.jpg?t=1740664874",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676380/capsule_231x87.jpg?t=1740664874",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676380/capsule_184x69.jpg?t=1740664874",
+    "website": null,
     "developers": [
       "Sofa Mauve Studio Inc."
     ],
@@ -12227,13 +12269,13 @@
       2,
       9,
       16,
-      22,
       29,
       36,
       38,
       47,
       48,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -12241,26 +12283,37 @@
       3,
       4,
       23,
-      25,
-      29,
-      70
+      25
     ],
-    "achievements": {
-      "total": 43
-    },
     "release_date": {
       "coming_soon": false,
-      "date": "7 Jan, 2022"
+      "date": "12 Jan, 2024"
     },
     "support_info": {
       "url": "",
       "email": "sms.kingdomofatham@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1676380/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1676380/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1676380?t=1740664874",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1676380?t=1740664874",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nDrogas l\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "1676130": {
