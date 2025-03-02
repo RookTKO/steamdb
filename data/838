@@ -2150,20 +2150,20 @@
     "steam_appid": 2515210,
     "required_age": 0,
     "is_free": false,
-    "short_description": "SKIBIDI BACKROOMS is a cooperative horror game for a group of 4 players. Solo mode is also available. You have to survive among the BACKROOMS and find a way out before you are overtaken by the SKIBIDI TOILET. Updates and various interesting things await you...",
-    "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2515210/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2515210/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2515210/capsule_184x69.jpg",
-    "website": null,
+    "controller_support": "full",
+    "short_description": "SKIBIDI BACKROOMS is a cooperative horror game for a group of 1-8 players. Solo mode is also available. You have to survive among the BACKROOMS and find a way out before you are overtaken by the SKIBIDIST. Updates and various interesting things await you...",
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Japanese<strong>*</strong>, French<strong>*</strong>, Spanish - Spain<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515210/header.jpg?t=1714019792",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515210/capsule_231x87.jpg?t=1714019792",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515210/capsule_184x69.jpg?t=1714019792",
+    "website": "https://vk.com/rosaspecialstudio",
     "developers": [
-      "SKIBIDI Dev",
-      "Unreal Quality Games",
+      "Rosa Special Studio",
       "Grand Technology Associates"
     ],
     "publishers": [
-      "Baulden Studio | SKIBIDI BACKROOMS",
-      "SKIBIDI DEV"
+      "Rosa Special Studio",
+      "Grand Technology Associates"
     ],
     "packages": [
       904237
@@ -2189,32 +2189,53 @@
       2,
       9,
       22,
-      38
+      28,
+      29,
+      38,
+      48,
+      61,
+      62
     ],
     "genres": [
       1,
-      23,
       25,
       28,
-      29,
-      70
+      29
     ],
     "achievements": {
-      "total": 11
+      "total": 19
     },
     "release_date": {
       "coming_soon": false,
-      "date": "3 Nov, 2023"
+      "date": "10 Dec, 2023"
     },
     "support_info": {
       "url": "",
       "email": "russianfightsimulator@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2515210/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2515210/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2515210?t=1714019792",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2515210?t=1714019792",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2515360": {
@@ -4358,17 +4379,23 @@
     "steam_appid": 2515050,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Unleash your tactical prowess in 'Vault of Power', a roguelike auto-battler that plunges you into a treacherous dungeon. Draft from 60 unique skills and combine them to obtain class bonuses. Master the art of tactics, make unique builds, and become the supreme champion of the Vault.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2515050/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2515050/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2515050/capsule_184x69.jpg",
-    "website": null,
+    "short_description": "Vault of Power is an autobattler strategy roguelike. Equip powerful skills, strategically position your units, and conquer challenging dungeons.",
+    "supported_languages": "English, Korean, Simplified Chinese, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515050/header.jpg?t=1740409362",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515050/6466175c1aee694c8696ae99894b606745183b9d/capsule_231x87.jpg?t=1740409362",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515050/6466175c1aee694c8696ae99894b606745183b9d/capsule_184x69.jpg?t=1740409362",
+    "website": "https://impress.games/press-kit/jim-games/vault-of-power",
     "developers": [
       "Jim Magnusson"
     ],
     "publishers": [
       "Jim Magnusson"
+    ],
+    "demos": [
+      {
+        "appid": 2900320,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4377,24 +4404,44 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
-      2
+      2,
+      3
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q1 2024"
+      "date": "31 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "jim.magnusson.dev@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2515050/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2515050/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2515050?t=1740409362",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2515050?t=1740409362",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2514960": {
@@ -5198,15 +5245,16 @@
     "steam_appid": 2515170,
     "required_age": 0,
     "is_free": true,
+    "controller_support": "full",
     "short_description": "",
     "fullgame": {
       "appid": "2076140",
       "name": "Tavern Talk"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2515170/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2515170/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2515170/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515170/header.jpg?t=1718115525",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515170/capsule_231x87.jpg?t=1718115525",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515170/capsule_184x69.jpg?t=1718115525",
     "website": "https://linktr.ee/taverntalkgame",
     "developers": [
       "Gentle Troll Entertainment"
@@ -5217,12 +5265,16 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
+    },
+    "metacritic": {
+      "score": 80
     },
     "categories": [
       2,
-      10
+      10,
+      28
     ],
     "release_date": {
       "coming_soon": false,
@@ -5232,11 +5284,29 @@
       "url": "",
       "email": "tavern.talk@gentletroll.games"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2515170?t=1718115525",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2515170?t=1718115525",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2516460": {
@@ -5907,9 +5977,9 @@
       "appid": "817020",
       "name": "Unholy"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2515720/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2515720/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2515720/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515720/header.jpg?t=1689865542",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515720/capsule_231x87.jpg?t=1689865542",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515720/capsule_184x69.jpg?t=1689865542",
     "website": null,
     "developers": [
       "Duality Games"
@@ -5931,11 +6001,29 @@
       "url": "",
       "email": "uh.tech@dualitygames.eu"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2515720/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2515720/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2515720?t=1689865542",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2515720?t=1689865542",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2514140": {
@@ -6028,11 +6116,12 @@
     "steam_appid": 2516550,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Margoq's Lair is a dark 2D roguelite dungeon crawler. Engage in action-packed combat, where the exciting and dynamic spell casting combo system is at the very core, find mythical items, and fight epic bosses and elite monsters on your journey to escape the evil wizard's lair without dying even once!",
-    "supported_languages": "English<strong>*</strong>, Danish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2516550/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2516550/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2516550/capsule_184x69.jpg",
+    "controller_support": "full",
+    "short_description": "Traverse dark dungeons and face horrible foes in this roguelite twin-stick dungeon crawler where magic can be combined into devastating forces. Can you line up the perfect spell sequence to produce a powerful Meteor or a deadly Thunderstorm?",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516550/header.jpg?t=1716213271",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516550/capsule_231x87.jpg?t=1716213271",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516550/capsule_184x69.jpg?t=1716213271",
     "website": "http://www.zillogames.com",
     "developers": [
       "Zillo Games"
@@ -6046,14 +6135,31 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      904687
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Margoq's Lair",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       1,
@@ -6061,19 +6167,40 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 7
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "20 May, 2024"
     },
     "support_info": {
       "url": "",
       "email": "support@zillogames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2516550/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2516550/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2516550?t=1716213271",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516550/page_bg_raw.jpg?t=1716213271",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2514620": {
@@ -6084,9 +6211,9 @@
     "is_free": false,
     "short_description": "Touhou Dungeon Maker is a roguelike x tower defense style dungeon management RPG. Strengthen characters, place multiple traps and facilities, and keep fighting off massive numbers of incoming phantoms. It's time to unravel the mysteries of the magical dungeon!",
     "supported_languages": "English, Simplified Chinese, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514620/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514620/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514620/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514620/header.jpg?t=1710722282",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514620/capsule_231x87.jpg?t=1710722282",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514620/capsule_184x69.jpg?t=1710722282",
     "website": null,
     "developers": [
       "UnknownX"
@@ -6101,7 +6228,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -6116,11 +6244,29 @@
       "url": "",
       "email": "support@alliance-arts.co.jp"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514620/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514620/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514620?t=1710722282",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514620/page_bg_raw.jpg?t=1710722282",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2516530": {

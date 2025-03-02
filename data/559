@@ -2920,10 +2920,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "BLOCKPOST MOBILE is a new tactical shooter from the cubic game universe by Skullcap Studios. Keeping the hurricane character of the classic online FPS, the game sets a new level of gameplay, at the junction of the most popular and relevant genres.",
-    "supported_languages": "English, Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1679010/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1679010/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1679010/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Arabic<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Vietnamese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679010/header.jpg?t=1708588935",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679010/capsule_231x87.jpg?t=1708588935",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679010/capsule_184x69.jpg?t=1708588935",
     "website": "https://www.skullcapstudios.com/",
     "developers": [
       "Skullcap Studios"
@@ -2931,7 +2931,26 @@
     "publishers": [
       "Skullcap Studios"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2849310,
+        "description": ""
+      }
+    ],
+    "packages": [
+      597196
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy BLOCKPOST MOBILE",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2939,27 +2958,46 @@
     },
     "categories": [
       1,
+      20,
       35,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
-      23
+      23,
+      29,
+      37,
+      70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "18 Feb, 2024"
     },
     "support_info": {
       "url": "skullcapstudios.com",
       "email": "contact@skullcapstudios.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1679010/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1679010/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1679010?t=1708588935",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679010/page_bg_raw.jpg?t=1708588935",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "1677620": {
@@ -6307,22 +6345,25 @@
     "steam_appid": 1677280,
     "required_age": "18",
     "is_free": false,
-    "short_description": "Bigger and better than ever, Company of Heroes 3 combines heart-pounding combat with deeper strategic choices in a stunning Mediterranean theatre of war. In Company of Heroes 3, every battle tells a story...what's yours?",
+    "dlc": [
+      2068342,
+      3469800
+    ],
+    "short_description": "Company of Heroes 3 combines heart-pounding combat with deeper strategic choices in a stunning Mediterranean theatre of war. In Company of Heroes 3, every battle tells a story...what's yours?",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Czech, Korean, Polish, Simplified Chinese, Traditional Chinese, Japanese, Portuguese - Brazil, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1677280/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1677280/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1677280/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677280/header_alt_assets_2.jpg?t=1740507382",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677280/aaa57c62edcfea7aa54ec50bace15255473c7fe7/capsule_231x87_alt_assets_2.jpg?t=1740507382",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677280/aaa57c62edcfea7aa54ec50bace15255473c7fe7/capsule_184x69_alt_assets_2.jpg?t=1740507382",
     "website": "https://companyofheroes.com",
     "drm_notice": "Denuvo Anti-tamper",
     "developers": [
       "Relic Entertainment"
     ],
     "publishers": [
-      "SEGA"
+      "Relic Entertainment"
     ],
     "packages": [
-      596618,
-      741534
+      596618
     ],
     "package_groups": [
       {
@@ -6354,7 +6395,8 @@
       30,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -6368,17 +6410,84 @@
       "date": "23 Feb, 2023"
     },
     "support_info": {
-      "url": "https://www.sega.com/support",
+      "url": "https://help.relic.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1677280/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1677280/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1677280?t=1740507382",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677280/page_bg_raw.jpg?t=1740507382",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This game features violent content and some gore."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood and Gore, Strong Language, Violence",
+        "use_age_gate": "true",
+        "required_age": "18",
+        "interactive_elements": "Users Interact\r\nIn-Game Purchases",
+        "display_online_notice": "true"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "usk": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "use_age_gate": "true",
+        "required_age": "15"
+      },
+      "nzoflc": {
+        "rating": "ma15",
+        "use_age_gate": "true",
+        "required_age": "15"
+      },
+      "cero": {
+        "rating": "d",
+        "use_age_gate": "true",
+        "required_age": "17",
+        "descriptors": "\u66b4\u529b"
+      },
+      "kgrb": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18",
+        "descriptors": "\ud3ed\ub825\uc131\r\n\uc5b8\uc5b4\uc758 \ubd80\uc801\uc808\uc131"
+      },
+      "mda": {
+        "rating": "M18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "csrr": {
+        "rating": "R",
+        "use_age_gate": "true",
+        "required_age": "18",
+        "descriptors": "\u66b4\u529b,\u4e0d\u7576\u8a00\u8a9e"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nDerbe Sprache"
+      }
     }
   },
   "1679590": {
@@ -11910,21 +12019,21 @@
   },
   "1678280": {
     "type": "game",
-    "name": "Little Devourers",
+    "name": "Black Hole Simulation With Python",
     "steam_appid": 1678280,
     "required_age": 0,
     "is_free": false,
-    "short_description": "You are a black hole and need to devour garbage. What mysteries await you on this journey?",
+    "short_description": "A game about black holes. Realistic physics developed using the Python language.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1678280/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1678280/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1678280/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1678280/header.jpg?t=1740765676",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1678280/capsule_231x87.jpg?t=1740765676",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1678280/capsule_184x69.jpg?t=1740765676",
     "website": null,
     "developers": [
-      "Majorah"
+      "Major4"
     ],
     "publishers": [
-      "Majorah"
+      "Major4"
     ],
     "packages": [
       596949
@@ -11932,7 +12041,7 @@
     "package_groups": [
       {
         "name": "default",
-        "title": "Buy Little Devourers",
+        "title": "Buy Black Hole Simulation With Python",
         "description": "",
         "selection_text": "Select a purchase option",
         "save_text": "",
@@ -11946,11 +12055,13 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
-      23
+      23,
+      28
     ],
     "release_date": {
       "coming_soon": false,
@@ -11960,11 +12071,16 @@
       "url": "",
       "email": "littleblackholessupprt@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1678280/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1678280/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1678280?t=1740765676",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1678280?t=1740765676",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      }
     }
   },
   "1679480": {
