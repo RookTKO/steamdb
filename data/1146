@@ -238,8 +238,8 @@
       "url": "",
       "email": "243240188@qq.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3440910?t=1736574082",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3440910?t=1736574082",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -450,8 +450,8 @@
       "url": "",
       "email": "flagmanjeremy@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439100/page_bg_generated_v6b.jpg?t=1737532859",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439100/page_bg_generated.jpg?t=1737532859",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439100?t=1737532859",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439100?t=1737532859",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -831,15 +831,15 @@
     "is_free": false,
     "short_description": "Sledding Game is a cozy, online multiplayer game about sledding, relaxing, and hanging out with your friends.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/header.jpg?t=1736382490",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/9da85eb9a065f48c4410a4a1ba3f819cf54b14fe/capsule_231x87.jpg?t=1736382490",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/9da85eb9a065f48c4410a4a1ba3f819cf54b14fe/capsule_184x69.jpg?t=1736382490",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/header.jpg?t=1740678606",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/9da85eb9a065f48c4410a4a1ba3f819cf54b14fe/capsule_231x87.jpg?t=1740678606",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/9da85eb9a065f48c4410a4a1ba3f819cf54b14fe/capsule_184x69.jpg?t=1740678606",
     "website": null,
     "developers": [
-      "The Sledding Company"
+      "The Sledding Corporation"
     ],
     "publishers": [
-      "The Sledding Company"
+      "The Sledding Corporation"
     ],
     "package_groups": [],
     "platforms": {
@@ -851,7 +851,8 @@
       1,
       2,
       9,
-      38
+      38,
+      62
     ],
     "genres": [
       4,
@@ -866,8 +867,8 @@
       "url": "",
       "email": "support@sleddinggame.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/page_bg_generated_v6b.jpg?t=1736382490",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/page_bg_generated.jpg?t=1736382490",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3438850?t=1740678606",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3438850?t=1740678606",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1035,9 +1036,9 @@
     "is_free": false,
     "short_description": "Reasonably utilize various marbles and demonstrate your superb operational skills to destroy more targets!!",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439670/header.jpg?t=1737565599",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439670/ece360dcd55c38996644cf2a7ff7d6e93037b10a/capsule_231x87.jpg?t=1737565599",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439670/ece360dcd55c38996644cf2a7ff7d6e93037b10a/capsule_184x69.jpg?t=1737565599",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439670/header.jpg?t=1737767569",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439670/ece360dcd55c38996644cf2a7ff7d6e93037b10a/capsule_231x87.jpg?t=1737767569",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439670/ece360dcd55c38996644cf2a7ff7d6e93037b10a/capsule_184x69.jpg?t=1737767569",
     "website": null,
     "developers": [
       "Light Studio"
@@ -1045,7 +1046,26 @@
     "publishers": [
       "Light Studio"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3474730,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1215839
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Graphic Marbles \u56fe\u5f62\u5f39\u73e0",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1053,24 +1073,24 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
       4,
-      23,
-      70
+      23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "24 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "1627743740@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439670/page_bg_generated_v6b.jpg?t=1737565599",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439670/page.bg.jpg?t=1737565599",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439670?t=1737767569",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439670/page_bg_raw.jpg?t=1737767569",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1185,9 +1205,9 @@
     "is_free": false,
     "short_description": "The Candle - Rated R. As night falls and a storm rises over the annual county carnival, you are visited by a mysterious spirit. Tasked with laying his soul to rest, you must brave his long dilapidated manor and avoid the horrifying remnants of his estate staff.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439000/header.jpg?t=1737502722",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439000/f31d2bca636724848d6ecfc290e5ba65167b5d9e/capsule_231x87.jpg?t=1737502722",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439000/f31d2bca636724848d6ecfc290e5ba65167b5d9e/capsule_184x69.jpg?t=1737502722",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439000/header.jpg?t=1739660608",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439000/f31d2bca636724848d6ecfc290e5ba65167b5d9e/capsule_231x87.jpg?t=1739660608",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439000/f31d2bca636724848d6ecfc290e5ba65167b5d9e/capsule_184x69.jpg?t=1739660608",
     "website": "https://www.youtube.com/watch?v=RXHeyKeKLEU",
     "developers": [
       "Candle Dev"
@@ -1195,7 +1215,20 @@
     "publishers": [
       "Candle Dev"
     ],
-    "package_groups": [],
+    "packages": [
+      1215630
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Candle",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1203,28 +1236,32 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       4,
       23,
       25
     ],
+    "achievements": {
+      "total": 2
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "14 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "thecandledev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439000/page_bg_generated_v6b.jpg?t=1737502722",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439000/page.bg.jpg?t=1737502722",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439000?t=1739660608",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439000/page_bg_raw.jpg?t=1739660608",
     "content_descriptors": {
       "ids": [
         5
       ],
-      "notes": "You can buy and fire a handgun. A shopkeeper is smoking a cigarette on his work break."
+      "notes": "You can unlock a handgun to be fired. Different NPC's can be seen smoking cigars/cigarettes.\r\n\r\nRated R."
     },
     "ratings": {
       "dejus": {
@@ -1253,9 +1290,9 @@
     "is_free": false,
     "short_description": "&quot;New Year Home&quot; is a horror game set during the New Year. Players explore a familiar yet eerie home, navigating festive yet dangerous spaces. They must solve abnormal events to uncover a terrifying truth.",
     "supported_languages": "English, French, Spanish - Spain, Russian, Japanese, Simplified Chinese<strong>*</strong>, Portuguese - Portugal, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440830/header.jpg?t=1737530333",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440830/aeab4c7cf300935c51ee377d86e3dc1b42bf260e/capsule_231x87.jpg?t=1737530333",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440830/aeab4c7cf300935c51ee377d86e3dc1b42bf260e/capsule_184x69.jpg?t=1737530333",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440830/header.jpg?t=1738515877",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440830/aeab4c7cf300935c51ee377d86e3dc1b42bf260e/capsule_231x87.jpg?t=1738515877",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440830/aeab4c7cf300935c51ee377d86e3dc1b42bf260e/capsule_184x69.jpg?t=1738515877",
     "website": null,
     "developers": [
       "\u767d\u91d1\u57ce"
@@ -1263,7 +1300,20 @@
     "publishers": [
       "\u767d\u91d1\u57ce"
     ],
-    "package_groups": [],
+    "packages": [
+      1216216
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy New Year Home",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1271,23 +1321,27 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       2,
       23,
       28
     ],
+    "achievements": {
+      "total": 2
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "23 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "835195862@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440830/page_bg_generated_v6b.jpg?t=1737530333",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440830/page_bg_generated.jpg?t=1737530333",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3440830?t=1738515877",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3440830?t=1738515877",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3180,9 +3234,9 @@
     "is_free": false,
     "short_description": "You have wandered into a Japanese labyrinth where ghosts lurk. Escape from this strange space while running away from the ghosts.",
     "supported_languages": "English, Russian, Simplified Chinese, Japanese<strong>*</strong>, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439060/header.jpg?t=1737089530",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439060/251695830684f4197f07679a007f11ed3bec5c2e/capsule_231x87.jpg?t=1737089530",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439060/251695830684f4197f07679a007f11ed3bec5c2e/capsule_184x69.jpg?t=1737089530",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439060/header.jpg?t=1739926662",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439060/251695830684f4197f07679a007f11ed3bec5c2e/capsule_231x87.jpg?t=1739926662",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439060/251695830684f4197f07679a007f11ed3bec5c2e/capsule_184x69.jpg?t=1739926662",
     "website": "https://x.com/riinwin",
     "developers": [
       "riinwin"
@@ -3190,28 +3244,45 @@
     "publishers": [
       "riinwin"
     ],
-    "package_groups": [],
+    "packages": [
+      1215650
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ghost Infinite Labyrinth",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       25
     ],
+    "achievements": {
+      "total": 45
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2025"
+      "coming_soon": false,
+      "date": "18 Feb, 2025"
     },
     "support_info": {
       "url": "https://x.com/riinwin",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439060/page_bg_generated_v6b.jpg?t=1737089530",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439060/page_bg_generated.jpg?t=1737089530",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439060?t=1739926662",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439060?t=1739926662",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3911,9 +3982,9 @@
     "is_free": true,
     "short_description": "Design your dream Christmas shop, make it irresistibly cozy, and watch your sales skyrocket!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440270/header.jpg?t=1737546114",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440270/2d2496f62b26c688f6b6d0eb18bfa447d810d4cc/capsule_231x87.jpg?t=1737546114",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440270/2d2496f62b26c688f6b6d0eb18bfa447d810d4cc/capsule_184x69.jpg?t=1737546114",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440270/header.jpg?t=1738869426",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440270/2d2496f62b26c688f6b6d0eb18bfa447d810d4cc/capsule_231x87.jpg?t=1738869426",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440270/2d2496f62b26c688f6b6d0eb18bfa447d810d4cc/capsule_184x69.jpg?t=1738869426",
     "website": null,
     "developers": [
       "Croissant Games"
@@ -3938,14 +4009,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "4 Feb, 2025"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "support@croissantgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440270/page_bg_generated_v6b.jpg?t=1737546114",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440270/page_bg_generated.jpg?t=1737546114",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3440270?t=1738869426",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3440270?t=1738869426",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6781,9 +6852,9 @@
       "name": "DeadWire"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438440/header.jpg?t=1737550308",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438440/34b553f6f8369e187fe56cd31211b84f0aed4407/capsule_231x87.jpg?t=1737550308",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438440/34b553f6f8369e187fe56cd31211b84f0aed4407/capsule_184x69.jpg?t=1737550308",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438440/header.jpg?t=1739395860",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438440/ae9906c89c5f147aa7629521d0b8cb28f3f637be/capsule_231x87.jpg?t=1739395860",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438440/ae9906c89c5f147aa7629521d0b8cb28f3f637be/capsule_184x69.jpg?t=1739395860",
     "website": null,
     "developers": [
       "Shotgun Anaconda"
@@ -6802,15 +6873,15 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "24 Feb, 2025"
+      "coming_soon": false,
+      "date": "12 Feb, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/UZfPPAtSHZ",
       "email": "shotgunanacondadev@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3438440?t=1739395860",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438440/page_bg_raw.jpg?t=1739395860",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6906,8 +6977,8 @@
       "url": "",
       "email": "contact.magicpixel2012@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439200/page_bg_generated_v6b.jpg?t=1737562612",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439200/page.bg.jpg?t=1737562612",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439200?t=1737562612",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439200/page_bg_raw.jpg?t=1737562612",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6969,8 +7040,8 @@
       "url": "",
       "email": "UniTempGameService@hotmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439070?t=1737609427",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439070?t=1737609427",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7070,11 +7141,11 @@
     "steam_appid": 3438600,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Battle-Lines is a minimalist strategy game based around puzzle-pieces with lines on them. Earn points by connecting lines and making loops, or place them strategically to undermine your opponents. Make good use of your turn, because the game can change fast, and your position is never secure!",
+    "short_description": "Battle-Lines is a minimalist strategy game for 1-4 players. Compete for the highest score by connecting and altering lines. Each turn, pick the best move from dozens of possibilities in challenging twenty-minute matches. Play against people or AI.",
     "supported_languages": "English, Dutch",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438600/header.jpg?t=1737596095",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438600/f3a7bc6fadba971b16d2220c14918cc3b1161fab/capsule_231x87.jpg?t=1737596095",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438600/f3a7bc6fadba971b16d2220c14918cc3b1161fab/capsule_184x69.jpg?t=1737596095",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438600/header.jpg?t=1740870000",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438600/f3a7bc6fadba971b16d2220c14918cc3b1161fab/capsule_231x87.jpg?t=1740870000",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438600/f3a7bc6fadba971b16d2220c14918cc3b1161fab/capsule_184x69.jpg?t=1740870000",
     "website": null,
     "developers": [
       "Mimas Games"
@@ -7090,7 +7161,8 @@
     },
     "categories": [
       1,
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -7105,8 +7177,8 @@
       "url": "https://discord.gg/82FWEPppva",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438600/page_bg_generated_v6b.jpg?t=1737596095",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438600/page_bg_generated.jpg?t=1737596095",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3438600?t=1740870000",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3438600?t=1740870000",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7157,7 +7229,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -7175,8 +7248,8 @@
       "url": "https://dopamindgames.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438970/page_bg_generated_v6b.jpg?t=1737597289",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438970/page_bg_generated.jpg?t=1737597289",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3438970?t=1737597289",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3438970?t=1737597289",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7208,9 +7281,9 @@
     "is_free": false,
     "short_description": "Investigate Mysteries in a Detective game where AI creates everything and suspects, clues change with every case.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439500/header.jpg?t=1737643991",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439500/3a04dfafca708f62bd6f73d8d4c9c1b72bc93856/capsule_231x87.jpg?t=1737643991",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439500/3a04dfafca708f62bd6f73d8d4c9c1b72bc93856/capsule_184x69.jpg?t=1737643991",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439500/header.jpg?t=1737723342",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439500/3a04dfafca708f62bd6f73d8d4c9c1b72bc93856/capsule_231x87.jpg?t=1737723342",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439500/3a04dfafca708f62bd6f73d8d4c9c1b72bc93856/capsule_184x69.jpg?t=1737723342",
     "website": "https://newgen-studio.com/",
     "developers": [
       "NewGen"
@@ -7225,7 +7298,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -7239,8 +7313,8 @@
       "url": "https://www.newgen-studio.com",
       "email": "newgen@newgen-studio.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439500/page_bg_generated_v6b.jpg?t=1737643991",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439500/page_bg_generated.jpg?t=1737643991",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439500?t=1737723342",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439500?t=1737723342",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7270,11 +7344,11 @@
     "steam_appid": 3439490,
     "required_age": 0,
     "is_free": false,
-    "short_description": "You\u2019re a medium performing a s\u00e9ance in an apartment, spotting anomalies to advance time. One mistake resets the clock to midnight. Can you survive the night and reach morning?",
-    "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439490/header.jpg?t=1737689516",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439490/0d576af0a78bd2afe617eb518f51ddb8857f2fa3/capsule_231x87.jpg?t=1737689516",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439490/0d576af0a78bd2afe617eb518f51ddb8857f2fa3/capsule_184x69.jpg?t=1737689516",
+    "short_description": "You\u2019re a medium performing a s\u00e9ance in an apartment, spotting anomalies to advance time. One mistake resets the clock to midnight. Can you survive the night and reach morning?\u3000A horror spot the difference game",
+    "supported_languages": "Japanese, English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439490/header.jpg?t=1739181466",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439490/96727e13434a99424305f1c2b8292f6ea0337183/capsule_231x87.jpg?t=1739181466",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439490/96727e13434a99424305f1c2b8292f6ea0337183/capsule_184x69.jpg?t=1739181466",
     "website": null,
     "developers": [
       "MicroMansgame"
@@ -7289,7 +7363,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
@@ -7297,34 +7372,36 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "2025"
     },
     "support_info": {
       "url": "",
       "email": "micromansgame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439490/page_bg_generated_v6b.jpg?t=1737689516",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439490/page.bg.jpg?t=1737689516",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3439490?t=1739181466",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3439490/page_bg_raw.jpg?t=1739181466",
     "content_descriptors": {
-      "ids": [],
+      "ids": [
+        5
+      ],
       "notes": null
     },
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "12",
-        "required_age": "12",
+        "rating": "18",
+        "required_age": "18",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Viol\u00eancia"
+        "descriptors": "Viol\u00eancia Extrema\nMedo\nLinguagem impr\u00f3pria"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "16",
-        "required_age": "16",
+        "rating": "18",
+        "required_age": "18",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Gewalt"
+        "descriptors": "Drastische Gewalt\nSchimpfw\u00f6rte"
       }
     }
   },
