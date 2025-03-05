@@ -1118,17 +1118,24 @@
     "steam_appid": 3488460,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "Riichi mahjong with a twist! Play mahjong with party game elements, for both beginners and experienced players.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488460/header.jpg?t=1738100159",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488460/af541662ec987bed1744bdc8289b662923c6e28b/capsule_231x87.jpg?t=1738100159",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488460/af541662ec987bed1744bdc8289b662923c6e28b/capsule_184x69.jpg?t=1738100159",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488460/header.jpg?t=1740394963",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488460/af541662ec987bed1744bdc8289b662923c6e28b/capsule_231x87.jpg?t=1740394963",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488460/af541662ec987bed1744bdc8289b662923c6e28b/capsule_184x69.jpg?t=1740394963",
     "website": null,
     "developers": [
       "paranoodle"
     ],
     "publishers": [
       "paranoodle"
+    ],
+    "demos": [
+      {
+        "appid": 3489730,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -1137,7 +1144,9 @@
       "linux": true
     },
     "categories": [
-      2
+      2,
+      28,
+      62
     ],
     "genres": [
       2,
@@ -1151,8 +1160,8 @@
       "url": "",
       "email": "aurel.lavel@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488460/page_bg_generated_v6b.jpg?t=1738100159",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488460/page_bg_generated.jpg?t=1738100159",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3488460?t=1740394963",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3488460?t=1740394963",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1184,9 +1193,9 @@
     "is_free": false,
     "short_description": "There are thousands of leaves in the yard, and your job is to keep it clean. Rake and blow leaves into compost bins, upgrading your tools to keep up with the ever-increasing waves of leaves in this satisfying yard cleaning simulation.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487850/header.jpg?t=1738899578",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487850/52af3935564b8472ae1b7838a9bd066c678d08a2/capsule_231x87.jpg?t=1738899578",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487850/52af3935564b8472ae1b7838a9bd066c678d08a2/capsule_184x69.jpg?t=1738899578",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487850/header.jpg?t=1739373504",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487850/52af3935564b8472ae1b7838a9bd066c678d08a2/capsule_231x87.jpg?t=1739373504",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487850/52af3935564b8472ae1b7838a9bd066c678d08a2/capsule_184x69.jpg?t=1739373504",
     "website": null,
     "developers": [
       "Dagrooms"
@@ -1194,28 +1203,42 @@
     "publishers": [
       "Dagrooms"
     ],
-    "package_groups": [],
+    "packages": [
+      1231802
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Leafscape",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "12 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "leafscapegame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487850/page_bg_generated_v6b.jpg?t=1738899578",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487850/page.bg.jpg?t=1738899578",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487850?t=1739373504",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487850/page_bg_raw.jpg?t=1739373504",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1761,15 +1784,21 @@
     "is_free": false,
     "short_description": "Murder Inc is a top-down adrenaline-fueled shooter where time moves only when you do. Use this to dodge bullets, plan your attacks, and craft action scenes worthy of a blockbuster.",
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487230/header.jpg?t=1738287929",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487230/bb6ef28d7378f8517471b25a576feed4ee18fb5c/capsule_231x87.jpg?t=1738287929",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487230/bb6ef28d7378f8517471b25a576feed4ee18fb5c/capsule_184x69.jpg?t=1738287929",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487230/header.jpg?t=1740589550",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487230/bb6ef28d7378f8517471b25a576feed4ee18fb5c/capsule_231x87.jpg?t=1740589550",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487230/bb6ef28d7378f8517471b25a576feed4ee18fb5c/capsule_184x69.jpg?t=1740589550",
     "website": null,
     "developers": [
-      "Pigeon Dev"
+      "PigeonDev"
     ],
     "publishers": [
-      "Pigeon Dev"
+      "PigeonDev"
+    ],
+    "demos": [
+      {
+        "appid": 3536340,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -1779,21 +1808,21 @@
     },
     "categories": [
       2,
-      23
+      62
     ],
     "genres": [
       1
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q1 2025"
+      "date": "Q2 2025"
     },
     "support_info": {
       "url": "",
       "email": "pigeonann@yandex.ru"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487230/page_bg_generated_v6b.jpg?t=1738287929",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487230/page.bg.jpg?t=1738287929",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487230?t=1740589550",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487230/page_bg_raw.jpg?t=1740589550",
     "content_descriptors": {
       "ids": [
         2,
@@ -1854,7 +1883,8 @@
       2,
       13,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       4,
@@ -1869,8 +1899,8 @@
       "url": "",
       "email": "info@diogras.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487690/page_bg_generated_v6b.jpg?t=1738177616",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487690/page_bg_generated.jpg?t=1738177616",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487690?t=1738177616",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487690?t=1738177616",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2048,9 +2078,9 @@
     "is_free": false,
     "short_description": "This game plunges players into a challenging geometric space where they must control an airplane flying forward.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487170/header.jpg?t=1738201583",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487170/e88e8d74ed7d0660a5ed7b670d3a135ca428d96c/capsule_231x87.jpg?t=1738201583",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487170/e88e8d74ed7d0660a5ed7b670d3a135ca428d96c/capsule_184x69.jpg?t=1738201583",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487170/header.jpg?t=1740188420",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487170/e88e8d74ed7d0660a5ed7b670d3a135ca428d96c/capsule_231x87.jpg?t=1740188420",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487170/e88e8d74ed7d0660a5ed7b670d3a135ca428d96c/capsule_184x69.jpg?t=1740188420",
     "website": null,
     "developers": [
       "Semantics"
@@ -2058,29 +2088,43 @@
     "publishers": [
       "Semantics"
     ],
-    "package_groups": [],
+    "packages": [
+      1231582
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Semantics",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "widszbwi@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487170/page_bg_generated_v6b.jpg?t=1738201583",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487170/page_bg_generated.jpg?t=1738201583",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487170?t=1740188420",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487170?t=1740188420",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2192,9 +2236,9 @@
     "is_free": false,
     "short_description": "Play checkers, feel its beauty. Play in wonderful artist-designed environments whether indoors or outdoors. Whether you are an adult, a retiree, or a child, you can enjoy an immersive visual experience of the game of checkers where difficulty does not matter.",
     "supported_languages": "English, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487930/header.jpg?t=1738664709",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487930/dbec2f5e9110a930ca1c4487cf8bc89c4d9d592d/capsule_231x87.jpg?t=1738664709",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487930/dbec2f5e9110a930ca1c4487cf8bc89c4d9d592d/capsule_184x69.jpg?t=1738664709",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487930/header.jpg?t=1739387222",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487930/dbec2f5e9110a930ca1c4487cf8bc89c4d9d592d/capsule_231x87.jpg?t=1739387222",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487930/dbec2f5e9110a930ca1c4487cf8bc89c4d9d592d/capsule_184x69.jpg?t=1739387222",
     "website": null,
     "developers": [
       "Zollkron"
@@ -2202,29 +2246,43 @@
     "publishers": [
       "Zollkron Ilustra Codeworks"
     ],
-    "package_groups": [],
+    "packages": [
+      1231827
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Beautiful Checkers",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "12 Feb, 2025"
     },
     "support_info": {
       "url": "https://www.ilustracodeworks.es",
       "email": "mfp_zollkron@yahoo.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487930/page_bg_generated_v6b.jpg?t=1738664709",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487930/page_bg_generated.jpg?t=1738664709",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487930?t=1739387222",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487930?t=1739387222",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2385,9 +2443,9 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488830/header.jpg?t=1738188008",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488830/4563d596e8fb208fe75a6ddb15a8e4892912c693/capsule_231x87.jpg?t=1738188008",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488830/4563d596e8fb208fe75a6ddb15a8e4892912c693/capsule_184x69.jpg?t=1738188008",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488830/header.jpg?t=1740460535",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488830/4563d596e8fb208fe75a6ddb15a8e4892912c693/capsule_231x87.jpg?t=1740460535",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488830/4563d596e8fb208fe75a6ddb15a8e4892912c693/capsule_184x69.jpg?t=1740460535",
     "website": null,
     "package_groups": [],
     "platforms": {
@@ -2397,14 +2455,14 @@
     },
     "release_date": {
       "coming_soon": false,
-      "date": "29 Jan, 2025"
+      "date": "24 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3488830?t=1740460535",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3488830?t=1740460535",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7215,9 +7273,9 @@
       "name": "COPPER ODYSSEY 2"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487710/header.jpg?t=1739205991",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487710/cffc6d5fb92379613f783f7852730cece2f28fb3/capsule_231x87.jpg?t=1739205991",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487710/cffc6d5fb92379613f783f7852730cece2f28fb3/capsule_184x69.jpg?t=1739205991",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487710/header.jpg?t=1739512830",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487710/cffc6d5fb92379613f783f7852730cece2f28fb3/capsule_231x87.jpg?t=1739512830",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487710/cffc6d5fb92379613f783f7852730cece2f28fb3/capsule_184x69.jpg?t=1739512830",
     "website": null,
     "developers": [
       "CAM"
@@ -7225,7 +7283,20 @@
     "publishers": [
       "CAM"
     ],
-    "package_groups": [],
+    "packages": [
+      1231753
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Copper Odyssey 2 ARTBOOK",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7233,7 +7304,8 @@
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       2,
@@ -7243,15 +7315,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2025"
+      "coming_soon": false,
+      "date": "13 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "seeoh2wo@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487710/page_bg_generated_v6b.jpg?t=1739205991",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487710/page.bg.jpg?t=1739205991",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487710?t=1739512830",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487710/page_bg_raw.jpg?t=1739512830",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7286,9 +7358,9 @@
       "appid": "1599780",
       "name": "Afterlove EP"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488960/header.jpg?t=1739209524",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488960/68c3c3e74cbeaa96fbc7962c05fe6fe31993b31b/capsule_231x87.jpg?t=1739209524",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488960/68c3c3e74cbeaa96fbc7962c05fe6fe31993b31b/capsule_184x69.jpg?t=1739209524",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488960/header.jpg?t=1739548233",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488960/68c3c3e74cbeaa96fbc7962c05fe6fe31993b31b/capsule_231x87.jpg?t=1739548233",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488960/68c3c3e74cbeaa96fbc7962c05fe6fe31993b31b/capsule_184x69.jpg?t=1739548233",
     "website": null,
     "developers": [
       "Pikselnesia"
@@ -7296,22 +7368,35 @@
     "publishers": [
       "Fellow Traveller"
     ],
-    "package_groups": [],
+    "packages": [
+      1232164
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Afterlove EP - BGM Soundtrack Collection",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "14 Feb, 2025"
     },
     "support_info": {
       "url": "http://fellowtraveller.games",
       "email": "support@fellowtraveller.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488960/page_bg_generated_v6b.jpg?t=1739209524",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488960/page_bg_generated.jpg?t=1739209524",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3488960?t=1739548233",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3488960?t=1739548233",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7346,9 +7431,9 @@
       "appid": "2830150",
       "name": "Super Mining Mechs"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487300/header.jpg?t=1739217900",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487300/d114aa59e539e93bb241a4270fcb38eaebfdf167/capsule_231x87.jpg?t=1739217900",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487300/d114aa59e539e93bb241a4270fcb38eaebfdf167/capsule_184x69.jpg?t=1739217900",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487300/header.jpg?t=1740765442",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487300/d114aa59e539e93bb241a4270fcb38eaebfdf167/capsule_231x87.jpg?t=1740765442",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487300/d114aa59e539e93bb241a4270fcb38eaebfdf167/capsule_184x69.jpg?t=1740765442",
     "website": null,
     "developers": [
       "Delayed Victory"
@@ -7356,22 +7441,35 @@
     "publishers": [
       "Delayed Victory"
     ],
-    "package_groups": [],
+    "packages": [
+      1231621
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Super Mining Mechs Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "28 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "barry@delayedvictory.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487300/page_bg_generated_v6b.jpg?t=1739217900",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487300/page_bg_generated.jpg?t=1739217900",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487300?t=1740765442",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487300?t=1740765442",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7436,7 +7534,7 @@
       28
     ],
     "achievements": {
-      "total": 7
+      "total": 35
     },
     "release_date": {
       "coming_soon": false,
@@ -7446,8 +7544,8 @@
       "url": "",
       "email": "363179492@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488930/page_bg_generated_v6b.jpg?t=1739245861",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488930/page.bg.jpg?t=1739245861",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3488930?t=1739245861",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488930/page_bg_raw.jpg?t=1739245861",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7484,9 +7582,9 @@
       "name": "Dancing Pandas: Ranger's Path"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487150/header.jpg?t=1739283554",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487150/abaafff59372face77d1c9fd6977a278cba75ebe/capsule_231x87.jpg?t=1739283554",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487150/abaafff59372face77d1c9fd6977a278cba75ebe/capsule_184x69.jpg?t=1739283554",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487150/header.jpg?t=1739534536",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487150/abaafff59372face77d1c9fd6977a278cba75ebe/capsule_231x87.jpg?t=1739534536",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487150/abaafff59372face77d1c9fd6977a278cba75ebe/capsule_184x69.jpg?t=1739534536",
     "website": null,
     "developers": [
       "Panda Games",
@@ -7511,15 +7609,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "14 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "team@bonusstage.co"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487150/page_bg_generated_v6b.jpg?t=1739283554",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487150/page_bg_generated.jpg?t=1739283554",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487150?t=1739534536",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487150?t=1739534536",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7555,9 +7653,9 @@
       "name": "American Truck Simulator"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Turkish, Ukrainian, Traditional Chinese, Catalan, Lithuanian, Serbian, Slovak, Slovenian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486960/header.jpg?t=1739289608",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486960/195c9a2f4d27f9ae814ae40525e5c6f7f1dcc41c/capsule_231x87.jpg?t=1739289608",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486960/195c9a2f4d27f9ae814ae40525e5c6f7f1dcc41c/capsule_184x69.jpg?t=1739289608",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486960/header.jpg?t=1739380803",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486960/195c9a2f4d27f9ae814ae40525e5c6f7f1dcc41c/capsule_231x87.jpg?t=1739380803",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486960/195c9a2f4d27f9ae814ae40525e5c6f7f1dcc41c/capsule_184x69.jpg?t=1739380803",
     "website": "https://americantrucksimulator.com/",
     "developers": [
       "SCS Software"
@@ -7580,7 +7678,8 @@
       29,
       30,
       38,
-      44
+      44,
+      62
     ],
     "genres": [
       23,
@@ -7594,8 +7693,8 @@
       "url": "https://americantrucksimulator.com/support.php",
       "email": "support@americantrucksimulator.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486960/page_bg_generated_v6b.jpg?t=1739289608",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486960/page_bg_generated.jpg?t=1739289608",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3486960?t=1739380803",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3486960?t=1739380803",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10348,6 +10447,138 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
+      }
+    }
+  },
+  "3486270": {
+    "type": "demo",
+    "name": "Witchy Business Demo",
+    "steam_appid": 3486270,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "",
+    "fullgame": {
+      "appid": "3415230",
+      "name": "Witchy Business"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486270/header.jpg?t=1741150673",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486270/97ec50db3a8add46bf1f9a12eca05a3406bc48a7/capsule_231x87.jpg?t=1741150673",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486270/97ec50db3a8add46bf1f9a12eca05a3406bc48a7/capsule_184x69.jpg?t=1741150673",
+    "website": null,
+    "developers": [
+      "Rogue Duck Interactive"
+    ],
+    "publishers": [
+      "Rogue Duck Interactive"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      10
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "31 Mar, 2025"
+    },
+    "support_info": {
+      "url": "https://rogueduck.net",
+      "email": "tokakburak@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3486270?t=1741150673",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3486270?t=1741150673",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
+    }
+  },
+  "3487020": {
+    "type": "game",
+    "name": "Sub-Verge",
+    "steam_appid": 3487020,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Conversation is a dangerous game. Manipulate a fractured band of renegade divers to reach the depths of this short narrative puzzle. Uncover alliances and expose betrayals \u2014 before something horrific from the dark abyss silences you all. Don\u2019t let the conversation get too deep.",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487020/header.jpg?t=1741166992",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487020/08b458f769270e977b5b57dc75a42a9e8c954a68/capsule_231x87.jpg?t=1741166992",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487020/08b458f769270e977b5b57dc75a42a9e8c954a68/capsule_184x69.jpg?t=1741166992",
+    "website": "https://interactivetragedy.com/sub-verge",
+    "developers": [
+      "Interactive Tragedy, Limited"
+    ],
+    "publishers": [
+      "Pantaloon"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      18,
+      22,
+      23,
+      62
+    ],
+    "genres": [
+      23
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "1 May, 2025"
+    },
+    "support_info": {
+      "url": "https://discord.gg/SZxDXqueWe",
+      "email": "interactivetragedyltd@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3487020?t=1741166992",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487020/page_bg_raw.jpg?t=1741166992",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "\u00c4ngstigende Inhalte"
       }
     }
   }

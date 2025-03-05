@@ -672,7 +672,7 @@
     "type": "game",
     "name": "DARK SOULS\u2122 III",
     "steam_appid": 374320,
-    "required_age": 0,
+    "required_age": "17",
     "is_free": false,
     "controller_support": "full",
     "dlc": [
@@ -682,9 +682,9 @@
     ],
     "short_description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Russian, Portuguese - Brazil, Simplified Chinese, Traditional Chinese, Japanese, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374320/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1733509027",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/capsule_231x87.jpg?t=1733509027",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/capsule_184x69.jpg?t=1733509027",
     "website": null,
     "developers": [
       "FromSoftware, Inc."
@@ -726,7 +726,8 @@
       29,
       41,
       42,
-      43
+      43,
+      62
     ],
     "genres": [
       1
@@ -742,11 +743,37 @@
       "url": "https://www.bandainamcoent.com/support",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374320/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374320/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374320?t=1733509027",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/page_bg_raw.jpg?t=1733509027",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood \r\nViolence",
+        "display_online_notice": "true",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence, Online Gameplay"
+      },
+      "usk": {
+        "rating": "16"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Horror themes and violence, Gaming experience may change online"
+      },
+      "cero": {
+        "rating": "d"
+      },
+      "crl": {
+        "rating": "16"
+      }
     }
   },
   "373560": {
