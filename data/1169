@@ -37,8 +37,8 @@
       "url": "",
       "email": "support_driver@trainworldgame.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507260/page_bg_generated_v6b.jpg?t=1739219052",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507260/page.bg.jpg?t=1739219052",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507260?t=1739219052",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507260/page_bg_raw.jpg?t=1739219052",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -528,9 +528,9 @@
       "name": "Neon Inferno"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509220/header.jpg?t=1739159807",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509220/65408a4343e0f6282604fce13a1d8ee1258549b2/capsule_231x87.jpg?t=1739159807",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509220/65408a4343e0f6282604fce13a1d8ee1258549b2/capsule_184x69.jpg?t=1739159807",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509220/header.jpg?t=1739895327",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509220/65408a4343e0f6282604fce13a1d8ee1258549b2/capsule_231x87.jpg?t=1739895327",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509220/65408a4343e0f6282604fce13a1d8ee1258549b2/capsule_184x69.jpg?t=1739895327",
     "website": "https://neoninferno.com",
     "developers": [
       "Zenovia Interactive"
@@ -565,8 +565,8 @@
       "url": "https://retroware.com/pages/contact",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509220/page_bg_generated_v6b.jpg?t=1739159807",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509220/page.bg.jpg?t=1739159807",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3509220?t=1739895327",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509220/page_bg_raw.jpg?t=1739895327",
     "content_descriptors": {
       "ids": [
         5
@@ -600,9 +600,9 @@
     "is_free": false,
     "short_description": "Clara Kassedy,\u00a0 a private investigator receives an important assignment from her boss that requires her to travel to the Royal Rebel Casino.\u00a0 Throughout her journey,\u00a0 she will interact with characters and be forced to test her luck on popular casino games like blackjack,\u00a0 poker,\u00a0 and roulette.\u00a0\u00a0",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508030/header.jpg?t=1739257648",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508030/1fed1699de9e654c24ead3a9f34081c7fa92887a/capsule_231x87.jpg?t=1739257648",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508030/1fed1699de9e654c24ead3a9f34081c7fa92887a/capsule_184x69.jpg?t=1739257648",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508030/header.jpg?t=1740023236",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508030/1fed1699de9e654c24ead3a9f34081c7fa92887a/capsule_231x87.jpg?t=1740023236",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508030/1fed1699de9e654c24ead3a9f34081c7fa92887a/capsule_184x69.jpg?t=1740023236",
     "website": null,
     "developers": [
       "FlagmanJeremy"
@@ -610,7 +610,20 @@
     "publishers": [
       "FlagmanJeremy"
     ],
-    "package_groups": [],
+    "packages": [
+      1238606
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Royal Rebel Casino",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -619,7 +632,8 @@
     "categories": [
       2,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       4,
@@ -627,16 +641,19 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 11
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "21 Feb, 2025"
+      "coming_soon": false,
+      "date": "19 Feb, 2025"
     },
     "support_info": {
       "url": "flagmanjeremy.net",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508030/page_bg_generated_v6b.jpg?t=1739257648",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508030/page_bg_generated.jpg?t=1739257648",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508030?t=1740023236",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508030?t=1740023236",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -685,7 +702,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -700,8 +718,8 @@
       "url": "",
       "email": "hardsharkgames.contact@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507310/page_bg_generated_v6b.jpg?t=1738772215",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507310/page_bg_generated.jpg?t=1738772215",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507310?t=1738772215",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507310?t=1738772215",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -765,8 +783,8 @@
       "url": "https://www.hollowfrontier.com",
       "email": "developer@hollowfrontier.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507330/page_bg_generated_v6b.jpg?t=1738782886",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507330/page.bg.jpg?t=1738782886",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507330?t=1738782886",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507330/page_bg_raw.jpg?t=1738782886",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -798,9 +816,9 @@
     "is_free": false,
     "short_description": "Grow your slime army to LEGEND rank using upgrades from idle gains! Win battles against other idlemancers, perfect your build by selecting unique traits each run, and reach the top of the leaderboard - but lose 3 times and the run is over!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507960/header.jpg?t=1739127721",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507960/1fef2e5892b11c98e99df64da3f8a63e9c2f810b/capsule_231x87.jpg?t=1739127721",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507960/1fef2e5892b11c98e99df64da3f8a63e9c2f810b/capsule_184x69.jpg?t=1739127721",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507960/header.jpg?t=1741026850",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507960/1fef2e5892b11c98e99df64da3f8a63e9c2f810b/capsule_231x87.jpg?t=1741026850",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507960/1fef2e5892b11c98e99df64da3f8a63e9c2f810b/capsule_184x69.jpg?t=1741026850",
     "website": null,
     "developers": [
       "Lavaflame2"
@@ -818,7 +836,8 @@
       1,
       2,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -835,8 +854,8 @@
       "url": "",
       "email": "Lava@lavaflame2.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507960/page_bg_generated_v6b.jpg?t=1739127721",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507960/page_bg_generated.jpg?t=1739127721",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507960?t=1741026850",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507960?t=1741026850",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -868,9 +887,9 @@
     "is_free": false,
     "short_description": "Explore this amazing steampunk world finding cute cats and paint black - white locations with colored paints.",
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507100/header.jpg?t=1738954007",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507100/f42ab2eda716711ae901cf3bf415534d24696360/capsule_231x87.jpg?t=1738954007",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507100/f42ab2eda716711ae901cf3bf415534d24696360/capsule_184x69.jpg?t=1738954007",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507100/header.jpg?t=1740983947",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507100/f42ab2eda716711ae901cf3bf415534d24696360/capsule_231x87.jpg?t=1740983947",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507100/f42ab2eda716711ae901cf3bf415534d24696360/capsule_184x69.jpg?t=1740983947",
     "website": null,
     "developers": [
       "Very Very LITTLE Studio"
@@ -887,7 +906,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       4,
@@ -896,14 +916,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "March 2025"
+      "date": "April 2025"
     },
     "support_info": {
       "url": "",
       "email": "VVL.studio.supp@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507100/page_bg_generated_v6b.jpg?t=1738954007",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507100/page.bg.jpg?t=1738954007",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507100?t=1740983947",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507100/page_bg_raw.jpg?t=1740983947",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -957,7 +977,8 @@
       24,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       4,
@@ -973,8 +994,8 @@
       "url": "",
       "email": "hardsharkgames.contact@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509060/page_bg_generated_v6b.jpg?t=1738778640",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509060/page_bg_generated.jpg?t=1738778640",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3509060?t=1738778640",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3509060?t=1738778640",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1010,9 +1031,9 @@
       "name": "JASON, Coming of Age"
     },
     "supported_languages": "English, French",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507380/header.jpg?t=1738787596",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507380/1adb6e9ca968ca7dfec492aafcab8b04bf70fd5b/capsule_231x87.jpg?t=1738787596",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507380/1adb6e9ca968ca7dfec492aafcab8b04bf70fd5b/capsule_184x69.jpg?t=1738787596",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507380/header.jpg?t=1740774798",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507380/1adb6e9ca968ca7dfec492aafcab8b04bf70fd5b/capsule_231x87.jpg?t=1740774798",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507380/1adb6e9ca968ca7dfec492aafcab8b04bf70fd5b/capsule_184x69.jpg?t=1740774798",
     "website": null,
     "developers": [
       "Coeur de cochon"
@@ -1039,8 +1060,8 @@
       "url": "",
       "email": "coeur2cochon@proton.me"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507380/page_bg_generated_v6b.jpg?t=1738787596",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507380/page.bg.jpg?t=1738787596",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507380?t=1740774798",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507380/page_bg_raw.jpg?t=1740774798",
     "content_descriptors": {
       "ids": [
         1,
@@ -1069,15 +1090,15 @@
   },
   "3507980": {
     "type": "game",
-    "name": "Gravity Roll",
+    "name": "Hard Wheelchair",
     "steam_appid": 3507980,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Gravity Roll is a challenging physics-driven game where you control a wheelchair through a series of tough. Precision, patience, and persistence are key\u2014can you roll your way to victory?",
+    "short_description": "Hard Wheelchair is a challenging physics-driven game where you control a wheelchair through a series of tough. Precision, patience, and persistence are key\u2014can you roll your way to victory?",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507980/header.jpg?t=1739696056",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507980/af99495dbc636507d8b896fa04e12ea19a5c89f7/capsule_231x87.jpg?t=1739696056",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507980/af99495dbc636507d8b896fa04e12ea19a5c89f7/capsule_184x69.jpg?t=1739696056",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507980/header.jpg?t=1740007765",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507980/4219afdf1a54cd1c7ca82ab19f6b2fb39ed611cb/capsule_231x87.jpg?t=1740007765",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507980/4219afdf1a54cd1c7ca82ab19f6b2fb39ed611cb/capsule_184x69.jpg?t=1740007765",
     "website": null,
     "developers": [
       "By Celesta Games"
@@ -1085,7 +1106,20 @@
     "publishers": [
       "By Celesta Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1238590
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hard Wheelchair",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1093,21 +1127,27 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
-      25
+      4,
+      23,
+      28
     ],
+    "achievements": {
+      "total": 4
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "19 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "bycelestaspr@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507980/page_bg_generated_v6b.jpg?t=1739696056",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507980/page.bg.jpg?t=1739696056",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507980?t=1740007765",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507980/page_bg_raw.jpg?t=1740007765",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1192,8 +1232,8 @@
       "url": "",
       "email": "prayforniceland@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507720/page_bg_generated_v6b.jpg?t=1739223249",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507720/page_bg_generated.jpg?t=1739223249",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507720?t=1739223249",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507720?t=1739223249",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1225,9 +1265,9 @@
     "is_free": false,
     "short_description": "Last Stand: Zombie Horde is a 3D zombie survival game where you fight through 100 levels of increasingly tough undead. Collect Bitcoins to buy powerful weapons and survive as long as you can. Simple, fast-paced action with endless zombie challenges!",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish<strong>*</strong>, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508940/header.jpg?t=1739646194",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508940/b9d9b0399d26322f8ea2d48ed13661b370bae990/capsule_231x87.jpg?t=1739646194",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508940/b9d9b0399d26322f8ea2d48ed13661b370bae990/capsule_184x69.jpg?t=1739646194",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508940/header.jpg?t=1740312261",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508940/b9d9b0399d26322f8ea2d48ed13661b370bae990/capsule_231x87.jpg?t=1740312261",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508940/b9d9b0399d26322f8ea2d48ed13661b370bae990/capsule_184x69.jpg?t=1740312261",
     "website": null,
     "developers": [
       "KOZGAMES"
@@ -1235,7 +1275,20 @@
     "publishers": [
       "KOZGAMES"
     ],
-    "package_groups": [],
+    "packages": [
+      1238894
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Last Stand: Zombie Horde",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1243,7 +1296,8 @@
     },
     "categories": [
       1,
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -1252,15 +1306,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "23 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "thenolipo@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508940/page_bg_generated_v6b.jpg?t=1739646194",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508940/page_bg_generated.jpg?t=1739646194",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508940?t=1740312261",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508940?t=1740312261",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1322,8 +1376,8 @@
       "url": "https://space.bilibili.com/1802056162",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508870/page_bg_generated_v6b.jpg?t=1739514389",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508870/page_bg_generated.jpg?t=1739514389",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508870?t=1739514389",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508870?t=1739514389",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1353,12 +1407,11 @@
     "steam_appid": 3508040,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
     "short_description": "The popular imaginary railway \u201cKowa Railway\u201d from YouTube is finally making its game debut! Experience its 11-station route in realistic free driving mode or by blasting past 1,000 km/h in high-speed mode. Enjoy every inch of this dynamic line as you operate your train your way!",
     "supported_languages": "English, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508040/header.jpg?t=1738812217",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508040/55608bfc48f38850d05ca7888714f4b5fcb322c1/capsule_231x87.jpg?t=1738812217",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508040/55608bfc48f38850d05ca7888714f4b5fcb322c1/capsule_184x69.jpg?t=1738812217",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508040/header.jpg?t=1740190132",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508040/55608bfc48f38850d05ca7888714f4b5fcb322c1/capsule_231x87.jpg?t=1740190132",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508040/55608bfc48f38850d05ca7888714f4b5fcb322c1/capsule_184x69.jpg?t=1740190132",
     "website": "https://x.com/Shinise3",
     "developers": [
       "MFC STUDIO",
@@ -1375,7 +1428,7 @@
     },
     "categories": [
       2,
-      28
+      62
     ],
     "genres": [
       4,
@@ -1390,8 +1443,8 @@
       "url": "https://x.com/Shinise3",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508040/page_bg_generated_v6b.jpg?t=1738812217",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508040/page_bg_generated.jpg?t=1738812217",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508040?t=1740190132",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508040?t=1740190132",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1616,9 +1669,9 @@
     "is_free": false,
     "short_description": "\u300c\u9006\u5f35\u308a\u306a\u3093\u3066\u53cd\u6297\u671f\u306e\u4e00\u7a2e\u3067\u3057\u304b\u306a\u3044\u300d\u305d\u3046\u3044\u3063\u3066\u9806\u5f35\u308a\u3067\u751f\u304d\u308b\u3053\u3068\u3092\u4fe1\u6761\u3068\u3059\u308b\u9ad8\u6821\u751f\u306e\u91ce\u5d0e\u512a\u592a\u306f\u3001\u305d\u308c\u306b\u3088\u3063\u3066\u6bce\u65e5\u5e73\u7a4f\u306a\u65e5\u3005\u3092\u9001\u3063\u3066\u3044\u305f\u3002\u3057\u304b\u3057\u4f55\u306b\u5bfe\u3057\u3066\u3082\u9006\u5f35\u308a\u3070\u304b\u308a\u3059\u308b\u30af\u30e9\u30b9\u30e1\u30a4\u30c8\u306e\u4e09\u597d\u5cac\u3092\u901a\u3058\u3066\u672c\u5f53\u306e\u81ea\u5206\u306e\u6c17\u6301\u3061\u3078\u3068\u5411\u304d\u5408\u3063\u3066\u3044\u304f\u3002",
     "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509770/header.jpg?t=1738873509",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509770/03d010f0dff27e93a2eed5967e020060351659e9/capsule_231x87.jpg?t=1738873509",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509770/03d010f0dff27e93a2eed5967e020060351659e9/capsule_184x69.jpg?t=1738873509",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509770/header.jpg?t=1740064091",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509770/03d010f0dff27e93a2eed5967e020060351659e9/capsule_231x87.jpg?t=1740064091",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509770/03d010f0dff27e93a2eed5967e020060351659e9/capsule_184x69.jpg?t=1740064091",
     "website": "https://syato-sombrero.tumblr.com/",
     "developers": [
       "\u659c\u5854\u30bd\u30f3\u30d6\u30ec\u30ed"
@@ -1626,14 +1679,28 @@
     "publishers": [
       "\u659c\u5854\u30bd\u30f3\u30d6\u30ec\u30ed"
     ],
-    "package_groups": [],
+    "packages": [
+      1239160
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u7247\u8155\u306e\u30b6\u30ea\u30ac\u30cb - one-armed crayfish",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -1641,15 +1708,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "20 Feb, 2025"
     },
     "support_info": {
       "url": "https://syato-sombrero.tumblr.com/",
       "email": "hmmuky@yahoo.co.jp"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509770/page_bg_generated_v6b.jpg?t=1738873509",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509770/page.bg.jpg?t=1738873509",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3509770?t=1740064091",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509770/page_bg_raw.jpg?t=1740064091",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1713,8 +1780,8 @@
       "url": "https://drix-studios.com/contact/",
       "email": "info@drix-studios.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508210?t=1739252280",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508210?t=1739252280",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1779,8 +1846,8 @@
       "url": "",
       "email": "beyondabyssproductions@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507620?t=1738960141",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3507620?t=1738960141",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3085,9 +3152,9 @@
     "is_free": false,
     "short_description": "This game plunges you into a mysterious and challenging arms warehouse.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508200/header.jpg?t=1739012972",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508200/7b184559153ed86fa41acc16108d0187af388e07/capsule_231x87.jpg?t=1739012972",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508200/7b184559153ed86fa41acc16108d0187af388e07/capsule_184x69.jpg?t=1739012972",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508200/header.jpg?t=1740373629",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508200/7b184559153ed86fa41acc16108d0187af388e07/capsule_231x87.jpg?t=1740373629",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508200/7b184559153ed86fa41acc16108d0187af388e07/capsule_184x69.jpg?t=1740373629",
     "website": null,
     "developers": [
       "Conundrum"
@@ -3095,14 +3162,28 @@
     "publishers": [
       "Conundrum"
     ],
-    "package_groups": [],
+    "packages": [
+      1238664
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Conundrum",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -3111,15 +3192,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "16 Feb, 2025"
+      "coming_soon": false,
+      "date": "23 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "pooi97407@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508200/page_bg_generated_v6b.jpg?t=1739012972",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508200/page_bg_generated.jpg?t=1739012972",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508200?t=1740373629",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508200?t=1740373629",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3218,9 +3299,9 @@
     "is_free": false,
     "short_description": "Trapped on the roof of a deserted building, you must solve puzzles on each floor to escape. With every locked door, new secrets unfold. Can you figure out what you must do to descend, or will you be trapped forever?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509650/header.jpg?t=1739683110",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509650/fb6630e389a9f71c269738f9fd2deda44a508eac/capsule_231x87.jpg?t=1739683110",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509650/fb6630e389a9f71c269738f9fd2deda44a508eac/capsule_184x69.jpg?t=1739683110",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509650/header.jpg?t=1741212091",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509650/fb6630e389a9f71c269738f9fd2deda44a508eac/capsule_231x87.jpg?t=1741212091",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509650/fb6630e389a9f71c269738f9fd2deda44a508eac/capsule_184x69.jpg?t=1741212091",
     "website": null,
     "developers": [
       "Ruhix"
@@ -3228,29 +3309,49 @@
     "publishers": [
       "Ruhix"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3536860,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1239123
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Vertical Descent",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "5 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "amrtsg@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509650/page_bg_generated_v6b.jpg?t=1739683110",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509650/page.bg.jpg?t=1739683110",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3509650?t=1741212091",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509650/page_bg_raw.jpg?t=1741212091",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3282,9 +3383,9 @@
     "is_free": false,
     "short_description": "A talented young man joins Westview Academy, one of the nation's best schools. At Westview Academy, he'll make tough decisions and have unique experiences surrounded by many new friends and different environments. How will your story go?",
     "supported_languages": "English, Portuguese - Brazil, Russian, Simplified Chinese, Turkish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509890/header.jpg?t=1739057522",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509890/e65244615aaac292ee9cf70aa1810595758f026d/capsule_231x87.jpg?t=1739057522",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509890/e65244615aaac292ee9cf70aa1810595758f026d/capsule_184x69.jpg?t=1739057522",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509890/header.jpg?t=1740425634",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509890/e65244615aaac292ee9cf70aa1810595758f026d/capsule_231x87.jpg?t=1740425634",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509890/e65244615aaac292ee9cf70aa1810595758f026d/capsule_184x69.jpg?t=1740425634",
     "website": null,
     "developers": [
       "TakoYuh"
@@ -3301,7 +3402,8 @@
     "categories": [
       2,
       18,
-      22
+      22,
+      62
     ],
     "genres": [
       4,
@@ -3316,8 +3418,8 @@
       "url": "",
       "email": "takoyuhgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509890/page_bg_generated_v6b.jpg?t=1739057522",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509890/page_bg_generated.jpg?t=1739057522",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3509890?t=1740425634",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3509890?t=1740425634",
     "content_descriptors": {
       "ids": [
         1,
@@ -6111,8 +6213,8 @@
       "url": "",
       "email": "devzodiac11@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508740/page_bg_generated_v6b.jpg?t=1739782343",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508740/page_bg_generated.jpg?t=1739782343",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508740?t=1739782343",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508740?t=1739782343",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8795,6 +8897,80 @@
         "banned": "1",
         "use_age_gate": "0",
         "descriptors": "Sexuelle Inhalte"
+      }
+    }
+  },
+  "3508810": {
+    "type": "dlc",
+    "name": "HEAVEN SEEKER - OPENREC PACK",
+    "steam_appid": 3508810,
+    "required_age": 0,
+    "is_free": true,
+    "controller_support": "full",
+    "short_description": "The collaboration free DLC with the video community platform OPENREC.tv is now available in HEAVEN SEEKER!! \u203b This content requires the separately sold full version of the game.",
+    "fullgame": {
+      "appid": "2865230",
+      "name": "HEAVEN SEEKER \u2015\u2015The Savior of This Cruel World"
+    },
+    "supported_languages": "English, Simplified Chinese, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508810/header.jpg?t=1741254710",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508810/774b2792f7da308a7fe193636a3c66cda2fc73a1/capsule_231x87.jpg?t=1741254710",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508810/774b2792f7da308a7fe193636a3c66cda2fc73a1/capsule_184x69.jpg?t=1741254710",
+    "website": "https://heavenseeker.success-corp.co.jp/",
+    "developers": [
+      "SUCCESS Corp."
+    ],
+    "publishers": [
+      "SUCCESS Corp."
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      21,
+      22,
+      23,
+      28,
+      62
+    ],
+    "genres": [
+      1,
+      37
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "6 Mar, 2025"
+    },
+    "support_info": {
+      "url": "https://www.success-corp.co.jp/inquiry/consumer-inquiries/",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508810?t=1741254710",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3508810?t=1741254710",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "\u00c4ngstigende Inhalte"
       }
     }
   }
