@@ -646,17 +646,17 @@
     "steam_appid": 2282890,
     "required_age": 0,
     "is_free": false,
-    "short_description": "In Folklands, a relaxing settlement builder with simulated citizens, you'll find that great stories can emerge from humble beginnings. Harvest raw materials, manage food supplies, and farm to ensure your folks are happy, employed and safe.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2282890/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2282890/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2282890/capsule_184x69.jpg",
+    "short_description": "In Folklands - a relaxing settlement builder with simulated citizens - you'll find that great stories can emerge from humble beginnings. Farm or harvest materials, manage production chains and supplies, and make sure the folks in your ever growing settlement are happy, employed and safe.",
+    "supported_languages": "English<strong>*</strong>, Simplified Chinese, French, Italian, German, Spanish - Spain, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Spanish - Latin America, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282890/header.jpg?t=1740775189",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282890/capsule_231x87.jpg?t=1740775189",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282890/capsule_184x69.jpg?t=1740775189",
     "website": null,
     "developers": [
       "Bromantic Games"
     ],
     "publishers": [
-      "Tribal-Storm"
+      "Light Up Games"
     ],
     "demos": [
       {
@@ -667,36 +667,49 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": true
     },
     "categories": [
       1,
       2,
-      22,
-      23,
       27,
-      30,
       36,
       47,
-      49
+      49,
+      62
     ],
     "genres": [
-      2
+      2,
+      28,
+      70
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "24 Mar, 2025"
     },
     "support_info": {
-      "url": "",
-      "email": "support@folklandsgame.com"
+      "url": "https://lightup.games",
+      "email": "cs@lightup.games"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2282890/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2282890/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2282890?t=1740775189",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2282890?t=1740775189",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2281280": {
@@ -2424,11 +2437,14 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Lindwyrm combines hack\u2018n\u2018slay combat, platforming, puzzling and housing in the shell of a roguelike ARPG.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2280020/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2280020/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2280020/capsule_184x69.jpg",
+    "dlc": [
+      3167330
+    ],
+    "short_description": "No one suspected what lurked beneath the village of Sigiswal. Meet creatures from ancient legends and save the village in this roguelite action RPG. Dungeons with hack'n'slay combat, platforming and puzzles? We've got it! Strong bosses, co-op mode? That's a given! Are you ready for the Underground?",
+    "supported_languages": "English<strong>*</strong>, German<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280020/header.jpg?t=1736506487",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280020/capsule_231x87.jpg?t=1736506487",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280020/capsule_184x69.jpg?t=1736506487",
     "website": "https://www.ghostwhalegames.de/lindwyrm",
     "developers": [
       "Ghostwhale Games"
@@ -2436,10 +2452,29 @@
     "publishers": [
       "Ghostwhale Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3012700,
+        "description": ""
+      }
+    ],
+    "packages": [
+      817923
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Lindwyrm",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
@@ -2447,26 +2482,47 @@
       2,
       9,
       28,
-      38
+      38,
+      62
     ],
     "genres": [
       1,
       3,
-      23
+      23,
+      70
     ],
+    "achievements": {
+      "total": 17
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "10 Sep, 2024"
     },
     "support_info": {
       "url": "https://www.ghostwhalegames.de/contact",
       "email": "support@ghostwhalegames.de"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2280020/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2280020/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2280020?t=1736506487",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280020/page_bg_raw.jpg?t=1736506487",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2282430": {
@@ -2877,16 +2933,16 @@
   },
   "2281730": {
     "type": "game",
-    "name": "Combat Master: Season 1",
+    "name": "Combat Master: Season 3",
     "steam_appid": 2281730,
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
     "short_description": "Join fast-paced action-packed combat. Play Combat Master -- AAA experience on any hardware. Best-in-class multiplayer gunfight. Next-level extreme performance. Lightning-speed loading time and a whole lot more.",
-    "supported_languages": "English<strong>*</strong>, German, Portuguese - Brazil, Russian, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2281730/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2281730/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2281730/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, German, Portuguese - Brazil, Russian, Turkish, Ukrainian, French, Italian, Spanish - Spain, Arabic, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Romanian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Vietnamese, Catalan, Croatian, Hebrew, Slovak, Hindi, Malay<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2281730/header.jpg?t=1741374000",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2281730/7102103f36f9a42e49f47d515e6ba2c4aaea1796/capsule_231x87.jpg?t=1741374000",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2281730/7102103f36f9a42e49f47d515e6ba2c4aaea1796/capsule_184x69.jpg?t=1741374000",
     "website": "https://www.alfabravo.us",
     "developers": [
       "Alfa Bravo Inc"
@@ -2906,6 +2962,8 @@
       28,
       35,
       36,
+      43,
+      44,
       47,
       49
     ],
@@ -2921,11 +2979,40 @@
       "url": "",
       "email": "alfabravogames@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2281730/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2281730/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2281730?t=1741374000",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2281730/page_bg_raw.jpg?t=1741374000",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Violence\r\nBlood",
+        "interactive_elements": "In-Game Purchases\r\nUsers Interact"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Strong Violence"
+      },
+      "usk": {
+        "rating": "16",
+        "descriptors": "Violence"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2280900": {
@@ -5874,10 +5961,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "A turn-based tactical RPG in which you will explore a harsh planet teeming with terrifying monsters. Experiment with talent builds for 23 heroes. Combine abilities with equipment and other characters. Assemble a squad and learn the secrets of the planet Tenebris!",
-    "supported_languages": "English, Russian, Hungarian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2280060/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2280060/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2280060/capsule_184x69.jpg",
+    "supported_languages": "English, Russian, Hungarian, German, Spanish - Spain, Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280060/header.jpg?t=1728814467",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280060/be8dc76f149111bbf84202357f6abaf33c5ec304/capsule_231x87.jpg?t=1728814467",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280060/be8dc76f149111bbf84202357f6abaf33c5ec304/capsule_184x69.jpg?t=1728814467",
     "website": null,
     "developers": [
       "Phantasmica Studios"
@@ -5885,13 +5972,20 @@
     "publishers": [
       "Phantasmica Studios"
     ],
-    "demos": [
+    "packages": [
+      817936
+    ],
+    "package_groups": [
       {
-        "appid": 2398040,
-        "description": ""
+        "name": "default",
+        "title": "Buy Tenebris: Terra Incognita",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5899,27 +5993,49 @@
     },
     "categories": [
       2,
-      22
+      22,
+      23,
+      62
     ],
     "genres": [
       2,
       3,
       23,
-      25
+      25,
+      70
     ],
+    "achievements": {
+      "total": 53
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "30 Sep, 2024"
     },
     "support_info": {
       "url": "",
       "email": "tenebristerra1@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2280060/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2280060/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2280060?t=1728814467",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280060/page_bg_raw.jpg?t=1728814467",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Linguagem impr\u00f3pria\r\nViol\u00eancia fantasiosa",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt\nAlkohol / Tabak"
+      }
     }
   },
   "2280150": {
@@ -7930,9 +8046,9 @@
     "is_free": false,
     "short_description": "&quot;In the footage&quot; is a horror exploration game.[/h2]You awaken in an empty room with nothing to do but play a videotape lying on the floor and contemplate the meaning of the footage. That's all you can do at this point.",
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2281040/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2281040/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2281040/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2281040/header.jpg?t=1685235609",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2281040/capsule_231x87.jpg?t=1685235609",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2281040/capsule_184x69.jpg?t=1685235609",
     "website": null,
     "developers": [
       "727 Not Hound"
@@ -7960,7 +8076,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       25
@@ -7976,11 +8093,29 @@
       "url": "https://twitter.com/727NH_Official",
       "email": "encmails@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2281040/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2281040/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2281040?t=1685235609",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2281040?t=1685235609",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nAtos criminosos\nTemas sens\u00edveis"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2280260": {

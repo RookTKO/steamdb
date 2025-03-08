@@ -3020,11 +3020,12 @@
     "steam_appid": 2279380,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Nixxsz Castle is a precision platform and rage inducing game. Inspired by the gold standard of old games from previous generations, Nixxsz Castle is has a very hard gameplay experience for those with patience and skill.",
+    "controller_support": "full",
+    "short_description": "Nixxsz Castle is a precision platform and rage inducing game.Inspired by games from previous generations, Nixxsz Castle has a very hard gameplay experience for those with patience and skill.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279380/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279380/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2279380/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279380/header.jpg?t=1739384898",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279380/capsule_231x87.jpg?t=1739384898",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279380/capsule_184x69.jpg?t=1739384898",
     "website": null,
     "developers": [
       "Nixxsz"
@@ -3053,7 +3054,9 @@
     },
     "categories": [
       2,
-      22
+      22,
+      28,
+      62
     ],
     "genres": [
       1,
@@ -3072,11 +3075,29 @@
       "url": "",
       "email": "matheusfitti@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2279380/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2279380/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2279380?t=1739384898",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279380/page_bg_raw.jpg?t=1739384898",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2278130": {
@@ -5519,9 +5540,9 @@
       "name": "The Sims\u2122 4"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Japanese, Norwegian, Polish, Portuguese - Brazil, Russian, Swedish, Finnish, Traditional Chinese, Simplified Chinese, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278350/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278350/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2278350/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278350/header.jpg?t=1711660624",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278350/capsule_231x87.jpg?t=1711660624",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278350/capsule_184x69.jpg?t=1711660624",
     "website": "https://www.ea.com/games/the-sims/the-sims-4",
     "developers": [
       "Maxis"
@@ -5530,7 +5551,8 @@
       "Electronic Arts"
     ],
     "packages": [
-      817299
+      817299,
+      1218354
     ],
     "package_groups": [
       {
@@ -5567,14 +5589,64 @@
       "url": "https://help.ea.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2278350/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2278350/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2278350?t=1711660624",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278350/page_bg_raw.jpg?t=1711660624",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Violence\r\nSexual Themes\r\nCrude Humor",
+        "interactive_elements": "Users Interact\r\nIn-Game Purchases"
+      },
+      "pegi": {
+        "rating": "12",
+        "descriptors": "Sex\r\nViolence"
+      },
+      "usk": {
+        "rating": "6"
+      },
+      "oflc": {
+        "rating": "m",
+        "descriptors": "Violence and sexual references"
+      },
+      "nzoflc": {
+        "rating": "m",
+        "descriptors": "Violence and sexual references"
+      },
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado Sexual"
+      },
+      "fpb": {
+        "rating": "13",
+        "descriptors": "H N S V"
+      },
+      "csrr": {
+        "rating": "C15"
+      },
+      "crl": {
+        "rating": "18"
+      },
+      "kgrb": {
+        "rating": "15"
+      },
+      "mda": {
+        "rating": "AA16"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2277370": {
@@ -6378,17 +6450,17 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Occult Chambers is a third-person action-horror game set in the Himalayas, where players follow protagonist Dhruv on his quest to find his missing father. Along the way, he uncovers a sinister world of occult rituals and fantastical creatures from deep Indian mythology.",
-    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Arabic, Japanese<strong>*</strong>, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277830/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277830/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2277830/capsule_184x69.jpg",
-    "website": "https://bornmonkie.com/",
+    "short_description": "Occult Chambers is a third-person action-horror game set in the India, where players follow protagonist Dhruv on his quest to find his missing father. Along the way, he uncovers a sinister world of occult rituals and fantastical creatures from deep Indian mythology.",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277830/header.jpg?t=1741257399",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277830/capsule_231x87.jpg?t=1741257399",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277830/capsule_184x69.jpg?t=1741257399",
+    "website": "https://bornmonkie.com",
     "developers": [
       "BornMonkie"
     ],
     "publishers": [
-      "TBD"
+      "BornMonkie"
     ],
     "package_groups": [],
     "platforms": {
@@ -6399,7 +6471,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -6407,20 +6480,36 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "https://bornmonkie.com/",
       "email": "hello@bornmonkie.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2277830/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2277830/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2277830?t=1741257399",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277830/page_bg_raw.jpg?t=1741257399",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "General Mature Content - Experience intense battles against fantastical creatures as we fight "
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Viol\u00eancia Extrema\r\nMedo",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nDerbe Sprache"
+      }
     }
   },
   "2277850": {
