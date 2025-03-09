@@ -556,8 +556,8 @@
       "url": "",
       "email": "circle.tsukiyaki@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503240/page_bg_generated_v6b.jpg?t=1739372595",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503240/page.bg.jpg?t=1739372595",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503240?t=1739372595",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503240/page_bg_raw.jpg?t=1739372595",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -655,10 +655,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "The Earth's poles began to change places, and this caused chaos. People sensitive to the changes become aggressive and start attacking each other. Scientific minds have created the Hindex scale, which shows the level of activity of storms on a 12-point system.",
-    "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503400/header.jpg?t=1738647444",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503400/93e001021eef7a1183cc13194d32201a5b6eed86/capsule_231x87.jpg?t=1738647444",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503400/93e001021eef7a1183cc13194d32201a5b6eed86/capsule_184x69.jpg?t=1738647444",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503400/header.jpg?t=1740834463",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503400/b89946e6a48a485e5a6d474c5522155f6771e7d3/capsule_231x87.jpg?t=1740834463",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503400/b89946e6a48a485e5a6d474c5522155f6771e7d3/capsule_184x69.jpg?t=1740834463",
     "website": null,
     "developers": [
       "REVO Team's"
@@ -666,14 +666,28 @@
     "publishers": [
       "STuNT"
     ],
-    "package_groups": [],
+    "packages": [
+      1237050
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy H Index",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -683,15 +697,15 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "25 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "almaztokarev50@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503400/page_bg_generated_v6b.jpg?t=1738647444",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503400/page_bg_generated.jpg?t=1738647444",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503400?t=1740834463",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503400?t=1740834463",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -721,11 +735,11 @@
     "steam_appid": 3503970,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Welcome to Food GO! Simulator, the ultimate drive-thru experience where your culinary skills are put to the test! In this exciting simulator, you\u2019ll start from humble beginnings and work your way up, serving hungry customers with speed, accuracy, and style.",
+    "short_description": "Get ready to dive into the thrilling world of Food Go! Simulator, where working the drive-thru is an adrenaline-packed adventure! Step into the shoes of a fast-food pro as you take on the challenge of serving customers at lightning speed.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503970/header.jpg?t=1738643473",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503970/a9e6ae4f8bd89ef038db8e5f90b5ab120e76ff05/capsule_231x87.jpg?t=1738643473",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503970/a9e6ae4f8bd89ef038db8e5f90b5ab120e76ff05/capsule_184x69.jpg?t=1738643473",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503970/header.jpg?t=1740224596",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503970/3484acb90974e64031afd25ec62f98f5aa6eb485/capsule_231x87.jpg?t=1740224596",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503970/3484acb90974e64031afd25ec62f98f5aa6eb485/capsule_184x69.jpg?t=1740224596",
     "website": null,
     "developers": [
       "S19Games"
@@ -733,12 +747,22 @@
     "publishers": [
       "S19Games"
     ],
+    "demos": [
+      {
+        "appid": 3506640,
+        "description": ""
+      }
+    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
+    "categories": [
+      2,
+      62
+    ],
     "genres": [
       28
     ],
@@ -750,8 +774,8 @@
       "url": "",
       "email": "s19games@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503970/page_bg_generated_v6b.jpg?t=1738643473",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503970/page_bg_generated.jpg?t=1738643473",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503970?t=1740224596",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503970?t=1740224596",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -897,8 +921,8 @@
       "url": "",
       "email": "guibelcks.dev@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503960?t=1738649561",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503960?t=1738649561",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -961,8 +985,8 @@
       "url": "",
       "email": "bonnystudiosuk@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501500?t=1738759414",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501500?t=1738759414",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1145,8 +1169,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501800?t=1738752867",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501800?t=1738752867",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1165,9 +1189,9 @@
       "name": "Steel Judgment"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501780/header.jpg?t=1738665347",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501780/696bf1527e360b5297ceb859e80fb865ad2ff8f6/capsule_231x87.jpg?t=1738665347",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501780/696bf1527e360b5297ceb859e80fb865ad2ff8f6/capsule_184x69.jpg?t=1738665347",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501780/header.jpg?t=1740393015",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501780/696bf1527e360b5297ceb859e80fb865ad2ff8f6/capsule_231x87.jpg?t=1740393015",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501780/696bf1527e360b5297ceb859e80fb865ad2ff8f6/capsule_184x69.jpg?t=1740393015",
     "website": null,
     "developers": [
       "Gid Is Dead"
@@ -1186,15 +1210,15 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "24 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "GidIsDeadGames@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501780?t=1740393015",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501780?t=1740393015",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1229,29 +1253,42 @@
       "appid": "2731590",
       "name": "Block Shop"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503750/header.jpg?t=1738620760",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503750/04cf603ce732a8e3fa57398b81728e88270d2ca7/capsule_231x87.jpg?t=1738620760",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503750/04cf603ce732a8e3fa57398b81728e88270d2ca7/capsule_184x69.jpg?t=1738620760",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503750/header.jpg?t=1739804539",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503750/04cf603ce732a8e3fa57398b81728e88270d2ca7/capsule_231x87.jpg?t=1739804539",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503750/04cf603ce732a8e3fa57398b81728e88270d2ca7/capsule_184x69.jpg?t=1739804539",
     "website": null,
     "developers": [
       "Foolbox Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1237166
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Block Shop Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "17 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "foolboxstudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503750/page_bg_generated_v6b.jpg?t=1738620760",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503750/page_bg_generated.jpg?t=1738620760",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503750?t=1739804539",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503750?t=1739804539",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1283,9 +1320,9 @@
     "is_free": false,
     "short_description": "As you climb this place, you will fall countless times, sinking into despair. Prove that you're not just a loudmouth coward\u2014reach the top. The 2D platforming jump game that will break your keyboard: I Wanna Ascend.",
     "supported_languages": "English, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503080/header.jpg?t=1739432069",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503080/d77e59b6310843a81ffdbe47c8831b8ba9d96cfa/capsule_231x87.jpg?t=1739432069",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503080/d77e59b6310843a81ffdbe47c8831b8ba9d96cfa/capsule_184x69.jpg?t=1739432069",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503080/header.jpg?t=1740052808",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503080/d77e59b6310843a81ffdbe47c8831b8ba9d96cfa/capsule_231x87.jpg?t=1740052808",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503080/d77e59b6310843a81ffdbe47c8831b8ba9d96cfa/capsule_184x69.jpg?t=1740052808",
     "website": null,
     "developers": [
       "JANGSUE"
@@ -1293,7 +1330,20 @@
     "publishers": [
       "JANGSUE"
     ],
-    "package_groups": [],
+    "packages": [
+      1236945
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy I Wanna Ascend",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1301,23 +1351,27 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
       23,
       25
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "20 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "killerzou7@naver.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503080/page_bg_generated_v6b.jpg?t=1739432069",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503080/page.bg.jpg?t=1739432069",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503080?t=1740052808",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503080/page_bg_raw.jpg?t=1740052808",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1371,7 +1425,8 @@
       9,
       22,
       23,
-      38
+      38,
+      62
     ],
     "genres": [
       9,
@@ -1387,8 +1442,8 @@
       "url": "",
       "email": "carservicetogether@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501070/page_bg_generated_v6b.jpg?t=1739059686",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501070/page.bg.jpg?t=1739059686",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501070?t=1739059686",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501070/page_bg_raw.jpg?t=1739059686",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1414,7 +1469,7 @@
   },
   "3502950": {
     "type": "demo",
-    "name": "The SaGa of a lone man \u03b2\u7248",
+    "name": "The SaGa of a lone man demo",
     "steam_appid": 3502950,
     "required_age": 0,
     "is_free": true,
@@ -1424,9 +1479,9 @@
       "name": "The SaGa of a lone man"
     },
     "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502950/header.jpg?t=1738688129",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502950/aeed91c123617df22b1f71c534e2bc0280cce41b/capsule_231x87.jpg?t=1738688129",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502950/aeed91c123617df22b1f71c534e2bc0280cce41b/capsule_184x69.jpg?t=1738688129",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502950/header.jpg?t=1739964992",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502950/aeed91c123617df22b1f71c534e2bc0280cce41b/capsule_231x87.jpg?t=1739964992",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502950/aeed91c123617df22b1f71c534e2bc0280cce41b/capsule_184x69.jpg?t=1739964992",
     "website": null,
     "developers": [
       "Masayuki - Garam - Sato"
@@ -1449,14 +1504,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "February 2025"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "f.s.entertainment.sato@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502950/page_bg_generated_v6b.jpg?t=1738688129",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502950/page_bg_generated.jpg?t=1738688129",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502950?t=1739964992",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502950?t=1739964992",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2935,8 +2990,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503850?t=1738831835",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503850?t=1738831835",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2954,10 +3009,10 @@
       "appid": "3454910",
       "name": "Metro Mini Market Simulator"
     },
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Bulgarian, Traditional Chinese, Japanese, Korean, Spanish - Latin America, Hungarian, Portuguese - Portugal, Russian, Turkish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502290/header.jpg?t=1739534427",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502290/8f2238d57dabdd2306f942d9ce36fb45b258dac7/capsule_231x87.jpg?t=1739534427",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502290/8f2238d57dabdd2306f942d9ce36fb45b258dac7/capsule_184x69.jpg?t=1739534427",
+    "supported_languages": "English, French, Italian, German, Simplified Chinese, Portuguese - Brazil, Traditional Chinese, Japanese, Korean, Spanish - Latin America, Russian, Turkish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502290/header.jpg?t=1740520223",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502290/8f2238d57dabdd2306f942d9ce36fb45b258dac7/capsule_231x87.jpg?t=1740520223",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502290/8f2238d57dabdd2306f942d9ce36fb45b258dac7/capsule_184x69.jpg?t=1740520223",
     "website": null,
     "developers": [
       "Altai Entertainment"
@@ -2974,19 +3029,18 @@
     },
     "categories": [
       2,
-      10,
-      23
+      10
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "24 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "info@altaientmt.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502290?t=1740520223",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502290?t=1740520223",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3035,7 +3089,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2
@@ -3048,8 +3103,8 @@
       "url": "",
       "email": "chipMicroMedia@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502510/page_bg_generated_v6b.jpg?t=1738861841",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502510/page.bg.jpg?t=1738861841",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502510?t=1738861841",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502510/page_bg_raw.jpg?t=1738861841",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3081,9 +3136,9 @@
     "is_free": false,
     "short_description": "Cute Space Shooter is a space shooting game. In this game, you'll pilot a small spaceship through space. The cute visual style combined with fast-paced shooting action offers a unique space adventure experience!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501400/header.jpg?t=1738863779",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501400/8e0c68baf061728f2ce5de7446194a382ac1d57a/capsule_231x87.jpg?t=1738863779",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501400/8e0c68baf061728f2ce5de7446194a382ac1d57a/capsule_184x69.jpg?t=1738863779",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501400/header.jpg?t=1740064731",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501400/8e0c68baf061728f2ce5de7446194a382ac1d57a/capsule_231x87.jpg?t=1740064731",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501400/8e0c68baf061728f2ce5de7446194a382ac1d57a/capsule_184x69.jpg?t=1740064731",
     "website": null,
     "developers": [
       "me"
@@ -3091,28 +3146,42 @@
     "publishers": [
       "me"
     ],
-    "package_groups": [],
+    "packages": [
+      1236381
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cute Space Shooter",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Feb, 2025"
     },
     "support_info": {
       "url": "https://www.bilibili.com/video/BV1oCUeYHE2j?spm_id_from=333.788.player.switch&amp;vd_source=77dea9fe4e65b46ded36b49eb4e30dc5",
       "email": "12345678"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501400/page_bg_generated_v6b.jpg?t=1738863779",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501400/page_bg_generated.jpg?t=1738863779",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501400?t=1740064731",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501400?t=1740064731",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3144,9 +3213,9 @@
     "is_free": false,
     "short_description": "Cute Robot Time is a creative and challenging 3D platformer where you control an adorable robot through a world filled with traps, obstacles, and puzzles. Jump, parkour, and solve puzzles as you face unique level designs and enjoy smooth action in beautiful 3D environments.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501890/header.jpg?t=1738899238",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501890/31e3341e803db7849c04875082f29ccc7db6a4ee/capsule_231x87.jpg?t=1738899238",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501890/31e3341e803db7849c04875082f29ccc7db6a4ee/capsule_184x69.jpg?t=1738899238",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501890/header.jpg?t=1740064777",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501890/31e3341e803db7849c04875082f29ccc7db6a4ee/capsule_231x87.jpg?t=1740064777",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501890/31e3341e803db7849c04875082f29ccc7db6a4ee/capsule_184x69.jpg?t=1740064777",
     "website": null,
     "developers": [
       "me"
@@ -3154,14 +3223,28 @@
     "publishers": [
       "me"
     ],
-    "package_groups": [],
+    "packages": [
+      1236544
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cute Robot Time",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -3169,15 +3252,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "16 Feb, 2025"
+      "coming_soon": false,
+      "date": "20 Feb, 2025"
     },
     "support_info": {
       "url": "https://www.bilibili.com/video/BV1oCUeYHE2j?spm_id_from=333.788.player.switch&amp;vd_source=77dea9fe4e65b46ded36b49eb4e30dc5",
       "email": "12345678"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501890/page_bg_generated_v6b.jpg?t=1738899238",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501890/page_bg_generated.jpg?t=1738899238",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501890?t=1740064777",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501890?t=1740064777",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3213,9 +3296,9 @@
       "name": "\u6781\u4e50\u4e0d\u7fa1\u4ed9"
     },
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502830/header.jpg?t=1738899472",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502830/2befb513ff9d49f9f726b5486bc21b394dcaf239/capsule_231x87.jpg?t=1738899472",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502830/2befb513ff9d49f9f726b5486bc21b394dcaf239/capsule_184x69.jpg?t=1738899472",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502830/header.jpg?t=1740398790",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502830/2c43fe327e21e980618317bfb86da56afda4132f/capsule_231x87.jpg?t=1740398790",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502830/2c43fe327e21e980618317bfb86da56afda4132f/capsule_184x69.jpg?t=1740398790",
     "website": null,
     "developers": [
       "\u4ed9\u5e38\u5c45\u30bd\u30d5\u30c8"
@@ -3236,15 +3319,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "23 Feb, 2025"
+      "coming_soon": false,
+      "date": "24 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "huangling7730@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502830/page_bg_generated_v6b.jpg?t=1738899472",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502830/page_bg_generated.jpg?t=1738899472",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502830?t=1740398790",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502830/83cbad1deaf5dbc8130933d85cbddec58f96be4d/page_bg_raw.jpg?t=1740398790",
     "content_descriptors": {
       "ids": [
         1,
@@ -3279,9 +3362,9 @@
     "is_free": true,
     "short_description": "Control your gaze with the arrow keys and stop the cute prisoners from escaping! A surveillance action game that requires quick decision-making and full concentration!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503180/header.jpg?t=1739670068",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503180/1a646b3b7ad3eb8308845c1f7314a757a7e0e373/capsule_231x87.jpg?t=1739670068",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503180/1a646b3b7ad3eb8308845c1f7314a757a7e0e373/capsule_184x69.jpg?t=1739670068",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503180/header.jpg?t=1740099291",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503180/1a646b3b7ad3eb8308845c1f7314a757a7e0e373/capsule_231x87.jpg?t=1740099291",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503180/1a646b3b7ad3eb8308845c1f7314a757a7e0e373/capsule_184x69.jpg?t=1740099291",
     "website": null,
     "developers": [
       "Hong Seung Han"
@@ -3304,15 +3387,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "27 Feb, 2025"
+      "coming_soon": false,
+      "date": "20 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "seunghan2003@naver.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503180/page_bg_generated_v6b.jpg?t=1739670068",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503180/page_bg_generated.jpg?t=1739670068",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503180?t=1740099291",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503180?t=1740099291",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3436,7 +3519,8 @@
       22,
       23,
       25,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -3452,8 +3536,8 @@
       "url": "",
       "email": "re.connect.steam0000@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502550/page_bg_generated_v6b.jpg?t=1738905125",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502550/page.bg.jpg?t=1738905125",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502550?t=1738905125",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502550/page_bg_raw.jpg?t=1738905125",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3502,8 +3586,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502040?t=1738861626",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502040?t=1738861626",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6534,6 +6618,7 @@
       22,
       23,
       30,
+      62,
       63
     ],
     "genres": [
@@ -6549,8 +6634,8 @@
       "url": "",
       "email": "floithedev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501010/page_bg_generated_v6b.jpg?t=1739602801",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501010/page_bg_generated.jpg?t=1739602801",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501010?t=1739602801",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501010?t=1739602801",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6606,8 +6691,8 @@
       "url": "",
       "email": "hello@lente.me"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503730/page_bg_generated_v6b.jpg?t=1739618406",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503730/page_bg_generated.jpg?t=1739618406",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503730?t=1739618406",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503730?t=1739618406",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6639,9 +6724,9 @@
     "is_free": false,
     "short_description": "\uff08\u56fd\u533a\u7248\uff09\u6539\u7f16\u81ea\u660e\u4ee3\u5947\u4e66\u300a\u91d1\u74f6\u6885\u300b\u3002\u6bcf\u4e24\u5e74\u534a\uff0c\u5c31\u4f1a\u6709\u4e00\u4e2a\u7231\u5764\u7a7f\u8d8a\u5230\u300a\u91d1\u74f6\u6885\u300b\u4e16\u754c\uff0c\u672c\u4f5c\u4e2d\uff0c\u4f60\u5c06\u9b42\u7a7f\u6210\u4e3a\u897f\u95e8\u5e86\uff0c\u9047\u5230\u4e00\u4f4d\u6545\u4eba\uff0c\u4ed7\u7740\u8d22\u52bf\u52fe\u901a\u5b98\u540f\uff0c\u79f0\u9738\u4e00\u65b9\uff0c\u8fd8\u8981\u4e0e\u6f58\u91d1\u83b2\u3001\u674e\u74f6\u513f\u3001\u5e9e\u6625\u6885\u3001\u5434\u6708\u5a18\u3001\u5b5f\u7389\u697c\u3001\u674e\u5a07\u513f\u3001\u5b59\u96ea\u5a25\u7b49\u591a\u4f4d\u5973\u5b50\u5c55\u5f00\u4e00\u6bb5\u6bb5\u6545\u4e8b\u3002\u672c\u4f5c\u5168\u52a8\u6001Live2D\u89d2\u8272\uff0c\u5168\u5bf9\u8bdd\u4e2d\u6587\u97f3\u9891\uff0c\u5168\u89d2\u8272\u56fe\u9274\u4e92\u52a8\u3002\u4f60\uff0c\u5c06\u5728\u6545\u4e8b\u8d70\u5411\u4e2d\u505a\u51fa\u9009\u62e9\u3002\u6700\u7ec8\uff0c\u4f60\u4e5f\u8981\u9009\u62e9\u662f\u5426\u7a7f\u8d8a\u56de\u5f52\u3002",
     "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502630/header.jpg?t=1739628519",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502630/6e69d7e1dd160243e7fba741b3e8f0b3697525cd/capsule_231x87.jpg?t=1739628519",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502630/6e69d7e1dd160243e7fba741b3e8f0b3697525cd/capsule_184x69.jpg?t=1739628519",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502630/header.jpg?t=1739784970",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502630/6e69d7e1dd160243e7fba741b3e8f0b3697525cd/capsule_231x87.jpg?t=1739784970",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502630/6e69d7e1dd160243e7fba741b3e8f0b3697525cd/capsule_184x69.jpg?t=1739784970",
     "website": null,
     "developers": [
       "RR GAMES"
@@ -6656,7 +6741,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
@@ -6665,14 +6751,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q2 2025"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "ximenqing_2.5@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502630/page_bg_generated_v6b.jpg?t=1739628519",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502630/page_bg_generated.jpg?t=1739628519",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502630?t=1739784970",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502630?t=1739784970",
     "content_descriptors": {
       "ids": [
         1,
@@ -6710,9 +6796,9 @@
       "appid": "3501900",
       "name": "The Haunting Of Stabbey Road"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502140/header.jpg?t=1739636758",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502140/2874168e2af073c3fa8f2686f2fa19b474a9118d/capsule_231x87.jpg?t=1739636758",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502140/2874168e2af073c3fa8f2686f2fa19b474a9118d/capsule_184x69.jpg?t=1739636758",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502140/header.jpg?t=1740755378",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502140/2874168e2af073c3fa8f2686f2fa19b474a9118d/capsule_231x87.jpg?t=1740755378",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502140/2874168e2af073c3fa8f2686f2fa19b474a9118d/capsule_184x69.jpg?t=1740755378",
     "website": null,
     "developers": [
       "Bailiff Interactive"
@@ -6720,7 +6806,20 @@
     "publishers": [
       "Bailiff Interactive"
     ],
-    "package_groups": [],
+    "packages": [
+      1236630
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Haunting Of Stabbey Road Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -6730,15 +6829,15 @@
       50
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "28 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "bailiffinteractive@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502140/page_bg_generated_v6b.jpg?t=1739636758",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502140/page_bg_generated.jpg?t=1739636758",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502140?t=1740755378",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502140?t=1740755378",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6802,8 +6901,8 @@
       "url": "https://lycoris102.notion.site/",
       "email": "lycoris102@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503450?t=1739693227",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503450?t=1739693227",
     "content_descriptors": {
       "ids": [],
       "notes": null
