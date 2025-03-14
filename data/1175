@@ -2145,10 +2145,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Game genre find hidden objects.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525850/header.jpg?t=1739618020",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525850/96d9a1e83613717185752d46a47af6666eb05b08/capsule_231x87.jpg?t=1739618020",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525850/96d9a1e83613717185752d46a47af6666eb05b08/capsule_184x69.jpg?t=1739618020",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525850/header.jpg?t=1740740912",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525850/96d9a1e83613717185752d46a47af6666eb05b08/capsule_231x87.jpg?t=1740740912",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525850/96d9a1e83613717185752d46a47af6666eb05b08/capsule_184x69.jpg?t=1740740912",
     "website": null,
     "developers": [
       "Hede"
@@ -2156,16 +2156,31 @@
     "publishers": [
       "Hede"
     ],
-    "package_groups": [],
+    "packages": [
+      1244547,
+      1257963
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy How Much Items - Animals",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       1,
@@ -2178,16 +2193,19 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "27 Feb, 2025"
+      "coming_soon": false,
+      "date": "28 Feb, 2025"
     },
     "support_info": {
       "url": "http://hede.ru/",
       "email": "info@hede.ru"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525850?t=1739618020",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525850?t=1739618020",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525850?t=1740740912",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525850?t=1740740912",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2223,15 +2241,15 @@
       "name": "There's Nothing Underground"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526320/header.jpg?t=1740260896",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526320/9b64c5842de338fa3ce4e81c61c1b118704d3624/capsule_231x87.jpg?t=1740260896",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526320/9b64c5842de338fa3ce4e81c61c1b118704d3624/capsule_184x69.jpg?t=1740260896",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526320/header.jpg?t=1740777447",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526320/9b64c5842de338fa3ce4e81c61c1b118704d3624/capsule_231x87.jpg?t=1740777447",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526320/9b64c5842de338fa3ce4e81c61c1b118704d3624/capsule_184x69.jpg?t=1740777447",
     "website": null,
     "developers": [
       "Palomar Games"
     ],
     "publishers": [
-      "Bumblebee Studios AB"
+      "Bumblebee Studios"
     ],
     "package_groups": [],
     "platforms": {
@@ -2252,8 +2270,8 @@
       "url": "https://www.palomargames.com/",
       "email": "info@palomargames.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526320?t=1740260896",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526320?t=1740260896",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526320?t=1740777447",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526320?t=1740777447",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3142,7 +3160,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -3184,19 +3203,20 @@
   },
   "3525720": {
     "type": "demo",
-    "name": "Archer:Sparrow - Trial \uff08\u5f13\u7bad\u5973\u795e.Demo\uff09",
+    "name": "Archer: Sparrow Demo (\u5f13\u7bad\u5973\u795e)",
     "steam_appid": 3525720,
     "required_age": 0,
     "is_free": true,
-    "short_description": "This is a high difficulty action game with compact battles and immersive atmosphere. Player need to adopt different combat strategies based on different NPCs and the features of the scene. The game encourages players to attack and is worth repeatedly challenging.",
+    "controller_support": "full",
+    "short_description": "A girl who has practiced martial arts since childhood finds herself, for some unknown reason, trapped in a fantastical world. She must continuously fight to find her way back home! This is a high-difficulty action game featuring intense combat, immersive scene atmospheres, highly oppressive NPCs.",
     "fullgame": {
       "appid": "3521270",
       "name": "Archer:Sparrow"
     },
     "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525720/header.jpg?t=1740116995",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525720/0f35f14f18a73aaeac80e94d4e1e544ce5f844bf/capsule_231x87.jpg?t=1740116995",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525720/0f35f14f18a73aaeac80e94d4e1e544ce5f844bf/capsule_184x69.jpg?t=1740116995",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525720/70dac68d46f90c3e207b965343aa97f805ad1154/header.jpg?t=1741784789",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525720/118c28f9c1ee5c92de8483caacf86b0cba75b517/capsule_231x87.jpg?t=1741784789",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525720/118c28f9c1ee5c92de8483caacf86b0cba75b517/capsule_184x69.jpg?t=1741784789",
     "website": null,
     "developers": [
       "BigFireball\uff08\u5927\u706b\u7403\uff09"
@@ -3213,7 +3233,7 @@
     "categories": [
       2,
       10,
-      18
+      28
     ],
     "genres": [
       1,
@@ -3228,8 +3248,8 @@
       "url": "https://space.bilibili.com/269589880/lists/4395291",
       "email": "verybigfireball@qq.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525720?t=1740116995",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525720/page_bg_raw.jpg?t=1740116995",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525720?t=1741784789",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525720/page_bg_raw.jpg?t=1741784789",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6780,10 +6800,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Waking up on the cold floor of a dark and bloodied cell, with no memory and a raging headache, explore the grim and haunting surroundings as a twisted tale unravels. You must Endure.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525940/header.jpg?t=1740454504",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525940/54d0355960f28e6705190e0aebd7d0021ffc11ee/capsule_231x87.jpg?t=1740454504",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525940/54d0355960f28e6705190e0aebd7d0021ffc11ee/capsule_184x69.jpg?t=1740454504",
+    "supported_languages": "English<strong>*</strong>, German, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525940/5e7d0ac3c0503949efb2e1643c43522fcd3a5fea/header.jpg?t=1741887205",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525940/5d2b4092bad47982ede39188f2ceab4a5e23dbf4/capsule_231x87.jpg?t=1741887205",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525940/5d2b4092bad47982ede39188f2ceab4a5e23dbf4/capsule_184x69.jpg?t=1741887205",
     "website": "https://www.kookystudios.com",
     "developers": [
       "Kooky Studios"
@@ -6799,7 +6819,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       23
@@ -6812,8 +6833,8 @@
       "url": "https://www.kookystudios.com/contact",
       "email": "info@kookystudios.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525940?t=1740454504",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525940/page_bg_raw.jpg?t=1740454504",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525940?t=1741887205",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525940/45eb17e8065e91e839692a6785fdb167acf6adb0/page_bg_raw.jpg?t=1741887205",
     "content_descriptors": {
       "ids": [
         2,
@@ -6937,9 +6958,9 @@
     "is_free": false,
     "short_description": "Where retail management meets heartfelt romance in a vibrant anime world! Build and customize your shop, overcome exciting business challenges, and forge deep bonds with three unique, compelling characters. Every decision drives your success in both business and love! \u2728",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526790/header.jpg?t=1740470867",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526790/ebadda0624e74149a7404e17f292faabe61e1b89/capsule_231x87.jpg?t=1740470867",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526790/ebadda0624e74149a7404e17f292faabe61e1b89/capsule_184x69.jpg?t=1740470867",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526790/header.jpg?t=1740970242",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526790/ebadda0624e74149a7404e17f292faabe61e1b89/capsule_231x87.jpg?t=1740970242",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526790/ebadda0624e74149a7404e17f292faabe61e1b89/capsule_184x69.jpg?t=1740970242",
     "website": null,
     "developers": [
       "Neko Machine"
@@ -6954,7 +6975,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
@@ -6968,8 +6990,8 @@
       "url": "",
       "email": "nekomachinestudio@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526790?t=1740470867",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526790?t=1740470867",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526790?t=1740970242",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526790?t=1740970242",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7001,9 +7023,9 @@
     "is_free": false,
     "short_description": "An erotic click-through VISUAL NOVEL featuring HD graphics, and realistic-looking characters. A relaxing day turns into a steamy affair when Mike catches his stepsister making out with her best friend by the pool. Is Annie ready to cross the line with her stepbrother?",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527930/header.jpg?t=1740480102",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527930/11fc70fc35a121666d82c0f26c492f6440790f62/capsule_231x87.jpg?t=1740480102",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527930/11fc70fc35a121666d82c0f26c492f6440790f62/capsule_184x69.jpg?t=1740480102",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527930/header.jpg?t=1741078110",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527930/11fc70fc35a121666d82c0f26c492f6440790f62/capsule_231x87.jpg?t=1741078110",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527930/11fc70fc35a121666d82c0f26c492f6440790f62/capsule_184x69.jpg?t=1741078110",
     "website": "http://www.eroticgamesclub.com",
     "developers": [
       "EroticGamesClub"
@@ -7011,32 +7033,49 @@
     "publishers": [
       "EroticGamesClub"
     ],
-    "package_groups": [],
+    "packages": [
+      1245228
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Sex Adventures - Incest Family - Episode 4",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       4,
       23,
       25
     ],
+    "achievements": {
+      "total": 2
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "4 Mar, 2025"
     },
     "support_info": {
       "url": "http://www.eroticgamesclub.com",
       "email": "hello@eroticgamesclub.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3527930?t=1740480102",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3527930?t=1740480102",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3527930?t=1741078110",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3527930?t=1741078110",
     "content_descriptors": {
       "ids": [
         1,
@@ -7077,10 +7116,10 @@
       "appid": "2625550",
       "name": "Centum"
     },
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526400/header.jpg?t=1740414720",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526400/aea7dfb3a1b3a2346c825820cfb4ddb8b1bbaa96/capsule_231x87.jpg?t=1740414720",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526400/aea7dfb3a1b3a2346c825820cfb4ddb8b1bbaa96/capsule_184x69.jpg?t=1740414720",
+    "supported_languages": "English, French, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526400/header.jpg?t=1740516603",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526400/aea7dfb3a1b3a2346c825820cfb4ddb8b1bbaa96/capsule_231x87.jpg?t=1740516603",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526400/aea7dfb3a1b3a2346c825820cfb4ddb8b1bbaa96/capsule_184x69.jpg?t=1740516603",
     "website": "https://serenityforge.com/games/centum",
     "developers": [
       "Hack The Publisher"
@@ -7111,8 +7150,8 @@
       "url": "https://serenityforge.com/",
       "email": "support@serenityforge.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526400?t=1740414720",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526400?t=1740414720",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526400?t=1740516603",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3526400?t=1740516603",
     "content_descriptors": {
       "ids": [
         2,
@@ -9182,6 +9221,145 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
+      }
+    }
+  },
+  "3525380": {
+    "type": "game",
+    "name": "Luminaya",
+    "steam_appid": 3525380,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Prepare for an enchanting journey as you dive into the mystical realm of Luminaya. You are braving a mysterious forest teeming with terryfing shadows. Use magical runes strategically to create enchanted orbs of light to drive away the shadows. Be vigilant and escape the ominous darkness!",
+    "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525380/9fb3beba894d0649dc7cb2647756a70c7434af31/header.jpg?t=1741948928",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525380/bdff2d34b8c929e210707fd5aa173d5ff0d27682/capsule_231x87.jpg?t=1741948928",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525380/bdff2d34b8c929e210707fd5aa173d5ff0d27682/capsule_184x69.jpg?t=1741948928",
+    "website": "https://mystery-project.de/Luminaya.html",
+    "developers": [
+      "Mystery-Project Technology UG (haftugnsbeschr\u00e4nkt)"
+    ],
+    "publishers": [
+      "Mystery-Project Technology UG (haftugnsbeschr\u00e4nkt)"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      62
+    ],
+    "genres": [
+      1,
+      4,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "To be announced"
+    },
+    "support_info": {
+      "url": "",
+      "email": "info@mystery-project.de"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525380?t=1741948928",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525380/30ecec02e7d7e82d9a64324fea683d009e7c44c0/page_bg_raw.jpg?t=1741948928",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
+    }
+  },
+  "3525390": {
+    "type": "game",
+    "name": "Coloring Game: Girls 3",
+    "steam_appid": 3525390,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Coloring Game: Girls 3 is a sequel to the double anti-stress game (coloring by numbers plus beautiful girls).",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Indonesian, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese, Azerbaijani, Albanian, Amharic, Armenian, Assamese, Afrikaans, Basque, Belarusian, Bangla, Bosnian, Valencian, Welsh, Wolof, Galician, Georgian, Gujarati, Dari, Zulu, Hebrew, Igbo, Irish, Icelandic, Yoruba, Kazakh, Kannada, Catalan, Quechua, Kinyarwanda, K'iche', Konkani, Xhosa, Khmer, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Persian, Serbian, Sotho, Sinhala, Sindhi, Slovak, Slovenian, Sorani, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Uzbek, Uyghur, Urdu, Filipino, Hausa, Hindi, Croatian, Cherokee, Scots, Estonian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525390/610e805119a54831fffe36fbed701996b9f905f4/header.jpg?t=1741952835",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525390/cf7966c59de18a022643ae2499ec47ec1d9ab687/capsule_231x87.jpg?t=1741952835",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525390/cf7966c59de18a022643ae2499ec47ec1d9ab687/capsule_184x69.jpg?t=1741952835",
+    "website": null,
+    "developers": [
+      "L. Stotch"
+    ],
+    "publishers": [
+      "L. Stotch"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      22,
+      23,
+      62
+    ],
+    "genres": [
+      4,
+      23
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "25 Jul, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "stotch_steam@list.ru"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525390?t=1741952835",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3525390?t=1741952835",
+    "content_descriptors": {
+      "ids": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "notes": "- All characters in the game are over 18 years old;\r\n- Nudity or sexual content;\r\n- Not suitable for watching at work;\r\n- Not suitable for all ages;\r\n- The game contains candid angles;\r\n- Images containing BDSM references."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
       }
     }
   }
