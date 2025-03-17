@@ -946,11 +946,15 @@
     "steam_appid": 1978150,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Foster a sanctuary for frogs and restore the biodiversity of the wetlands in Kamaeru, a cozy farming sim where you raise frogs by playing mini-games and decorating your habitat. Hop right to it!",
-    "supported_languages": "English, French, German, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978150/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978150/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1978150/capsule_184x69.jpg",
+    "controller_support": "full",
+    "dlc": [
+      2986820
+    ],
+    "short_description": "Foster a sanctuary for frogs and restore the biodiversity of the wetlands in Kamaeru, a cozy frog collecting game, where you take pictures of frogs, play mini-games and decorate your habitat. Hop right to it!",
+    "supported_languages": "English, French, German, Japanese, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978150/header.jpg?t=1729674352",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978150/capsule_231x87.jpg?t=1729674352",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978150/capsule_184x69.jpg?t=1729674352",
     "website": "https://www.kamaeru.com",
     "developers": [
       "Humble Reeds"
@@ -958,32 +962,76 @@
     "publishers": [
       "Armor Games Studios"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2718130,
+        "description": ""
+      }
+    ],
+    "packages": [
+      714189
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Kamaeru: A Frog Refuge",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       4,
       28
     ],
+    "achievements": {
+      "total": 28
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "8 Jun, 2024"
     },
     "support_info": {
       "url": "https://armorgamesstudios.com/contact/",
       "email": "support@armorgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1978150/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1978150/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1978150?t=1729674352",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978150/page_bg_raw.jpg?t=1729674352",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "1977190": {
@@ -1839,9 +1887,9 @@
       "name": "\uc5ec\ub3d9\uc0dd \u2661 \ub9cc\ub4e4\uae30 : \ub2f9\uc2e0\uc774 \ubc14\ub77c\ub294 \uc18c\ub140\uc758 \ubaa8\uc2b5 - Teen version"
     },
     "supported_languages": "Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977980/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977980/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977980/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977980/header.jpg?t=1673530691",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977980/capsule_231x87.jpg?t=1673530691",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977980/capsule_184x69.jpg?t=1673530691",
     "website": "https://cafe.naver.com/mindle35",
     "developers": [
       "C's earth"
@@ -1867,11 +1915,21 @@
       "url": "https://cafe.naver.com/mindle35",
       "email": "seasearth@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977980?t=1673530691",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977980?t=1673530691",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "1979210": {
@@ -1933,9 +1991,9 @@
       "appid": "1977110",
       "name": "Line Path"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977120/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977120/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977120/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977120/header.jpg?t=1652632664",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977120/capsule_231x87.jpg?t=1652632664",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977120/capsule_184x69.jpg?t=1652632664",
     "website": null,
     "developers": [
       "Brain Pump"
@@ -1960,12 +2018,13 @@
       "url": "",
       "email": "tutevych5@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977120?t=1652632664",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977120?t=1652632664",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "1977090": {
     "type": "game",
@@ -2154,9 +2213,9 @@
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Korean, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977381/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977381/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977381/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977381/header.jpg?t=1704417935",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977381/capsule_231x87.jpg?t=1704417935",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977381/capsule_184x69.jpg?t=1704417935",
     "website": null,
     "developers": [
       "CyberConnect2"
@@ -2194,7 +2253,8 @@
       36,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -2208,11 +2268,57 @@
       "url": "https://support.sega.co.uk/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977381/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977381/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977381?t=1704417935",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977381/page_bg_raw.jpg?t=1704417935",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Violence\r\nBlood and Gore\r\nLanguage",
+        "display_online_notice": "true"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence",
+        "use_age_gate": "true"
+      },
+      "usk": {
+        "rating": "16",
+        "use_age_gate": "true"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Strong violence, Online interactivity"
+      },
+      "nzoflc": {
+        "rating": "m",
+        "descriptors": "Violence and Horror",
+        "use_age_gate": "true"
+      },
+      "cero": {
+        "rating": "c",
+        "descriptors": "\u300c\u66b4\u529b\u300d\u300c\u72af\u7f6a\u300d"
+      },
+      "kgrb": {
+        "rating": "15",
+        "descriptors": "\uadc0\uc2e0\uc73c\ub85c \ubcc0\ud55c \uc5ec\ub3d9\uc0dd\uc744 \uc778\uac04\uc73c\ub85c \ub418\ub3cc\ub9ac\uae30 \uc704\ud574 \uc5ec\ud589\uc744 \ud55c\ub2e4\ub294 \ub0b4\uc6a9\uc758 PC \uc561\uc158 \uac8c\uc784.\r\n\uacfc\ub3c4\ud558\uc9c0 \uc54a\uc740 \ud3ed\ub825\uc131 \ud45c\ud604\r\n(\ubd89\uc740 \uc120\ud608\ud45c\ud604 \ubc0f \uc2e0\uccb4 \uc808\ub2e8\ud45c\ud604)\r\n\ub530\ub77c\uc11c \uac8c\uc784\uc0b0\uc5c5\uc9c4\ud765\uc5d0 \uad00\ud55c \ubc95\ub960 \uc81c21\uc870 \ubc0f \ub4f1\uae09\ubd84\ub958 \uaddc\uc815 \uc81c7\uc870\uc81c3\ud638\uc5d0 \ub530\ub77c \u201815\uc138\uc774\uc6a9\uac00\u2019\ub85c \ub4f1\uae09\ubd84\ub958 \uacb0\uc815\ud568"
+      },
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Viol\u00eancia",
+        "required_age": "16"
+      },
+      "csrr": {
+        "rating": "C15",
+        "descriptors": "\u66b4\u529b,\u6050\u6016,\u53cd\u793e\u6703\u6027",
+        "use_age_gate": "true"
+      },
+      "fpb": {
+        "rating": "16"
+      }
     }
   },
   "1979990": {
@@ -2990,18 +3096,15 @@
     "short_description": "Wonderous Expeditions: Forests Roleplaying wilderness travels can be challenging for us GMs.\u00a0 The\u00a0 Wondrous Expeditions Forest \u00a0book makes roleplaying wilderness travel exciting, engaging, and challenging. Descriptive, system-neutral content helps bring the environment to life in great detail and atmosphere.",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977540/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977540/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977540/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977540/header.jpg?t=1655820081",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977540/capsule_231x87.jpg?t=1655820081",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977540/capsule_184x69.jpg?t=1655820081",
     "website": "https://www.fantasygrounds.com",
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       713978
@@ -3032,7 +3135,8 @@
       27,
       38,
       39,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -3047,11 +3151,19 @@
       "url": "www.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977540/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977540/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977540?t=1655820081",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977540?t=1655820081",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "1978890": {
@@ -3520,9 +3632,9 @@
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Korean, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977370/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977370/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977370/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977370/header.jpg?t=1704417957",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977370/capsule_231x87.jpg?t=1704417957",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977370/capsule_184x69.jpg?t=1704417957",
     "website": null,
     "developers": [
       "CyberConnect2"
@@ -3560,7 +3672,8 @@
       36,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -3574,11 +3687,57 @@
       "url": "https://support.sega.co.uk/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977370/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977370/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977370?t=1704417957",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977370/page_bg_raw.jpg?t=1704417957",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Violence\r\nBlood and Gore\r\nLanguage",
+        "display_online_notice": "true"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence",
+        "use_age_gate": "true"
+      },
+      "usk": {
+        "rating": "16",
+        "use_age_gate": "true"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Strong violence, Online interactivity"
+      },
+      "nzoflc": {
+        "rating": "m",
+        "descriptors": "Violence and Horror",
+        "use_age_gate": "true"
+      },
+      "cero": {
+        "rating": "c",
+        "descriptors": "\u300c\u66b4\u529b\u300d\u300c\u72af\u7f6a\u300d"
+      },
+      "kgrb": {
+        "rating": "15",
+        "descriptors": "\uadc0\uc2e0\uc73c\ub85c \ubcc0\ud55c \uc5ec\ub3d9\uc0dd\uc744 \uc778\uac04\uc73c\ub85c \ub418\ub3cc\ub9ac\uae30 \uc704\ud574 \uc5ec\ud589\uc744 \ud55c\ub2e4\ub294 \ub0b4\uc6a9\uc758 PC \uc561\uc158 \uac8c\uc784.\r\n\uacfc\ub3c4\ud558\uc9c0 \uc54a\uc740 \ud3ed\ub825\uc131 \ud45c\ud604\r\n(\ubd89\uc740 \uc120\ud608\ud45c\ud604 \ubc0f \uc2e0\uccb4 \uc808\ub2e8\ud45c\ud604)\r\n\ub530\ub77c\uc11c \uac8c\uc784\uc0b0\uc5c5\uc9c4\ud765\uc5d0 \uad00\ud55c \ubc95\ub960 \uc81c21\uc870 \ubc0f \ub4f1\uae09\ubd84\ub958 \uaddc\uc815 \uc81c7\uc870\uc81c3\ud638\uc5d0 \ub530\ub77c \u201815\uc138\uc774\uc6a9\uac00\u2019\ub85c \ub4f1\uae09\ubd84\ub958 \uacb0\uc815\ud568"
+      },
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Viol\u00eancia",
+        "required_age": "16"
+      },
+      "csrr": {
+        "rating": "C15",
+        "descriptors": "\u66b4\u529b,\u6050\u6016,\u53cd\u793e\u6703\u6027",
+        "use_age_gate": "true"
+      },
+      "fpb": {
+        "rating": "16"
+      }
     }
   },
   "1978800": {
@@ -4976,15 +5135,15 @@
       "appid": "1488200",
       "name": "Symphony of War: The Nephilim Saga"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977690/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977690/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977690/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977690/header.jpg?t=1717428803",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977690/capsule_231x87.jpg?t=1717428803",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977690/capsule_184x69.jpg?t=1717428803",
     "website": null,
     "developers": [
       "Dancing Dragon Games"
     ],
     "publishers": [
-      ""
+      "indie.io"
     ],
     "packages": [
       714039
@@ -5011,14 +5170,15 @@
     },
     "support_info": {
       "url": "https://www.dancingdragongames.com/",
-      "email": "keyrequests@freedom.gg"
+      "email": "support@indie.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977690/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977690/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977690?t=1717428803",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977690?t=1717428803",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "1978260": {
     "type": "dlc",
@@ -5205,18 +5365,15 @@
     "short_description": "Black Scrolls Tropical Island (Map Tiles Pack) This product requires Fantasy Grounds Unity With these tiles, you can shape any tropical islands and their surroundings or inland within minutes. This set is for Fantasy Grounds Unity only, contains reusable tiles that snap into place and have line of sight predefined for ease of use.",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977510/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977510/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977510/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977510/header.jpg?t=1658842271",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977510/capsule_231x87.jpg?t=1658842271",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977510/capsule_184x69.jpg?t=1658842271",
     "website": "https://www.fantasygrounds.com",
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       713967
@@ -5247,7 +5404,8 @@
       27,
       38,
       39,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -5262,11 +5420,19 @@
       "url": "www.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977510/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977510/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977510?t=1658842271",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977510?t=1658842271",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "1979930": {
@@ -5333,9 +5499,9 @@
       "name": "Perseverance: Part 3"
     },
     "supported_languages": "English, Polish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978120/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978120/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1978120/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978120/header.jpg?t=1659967977",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978120/capsule_231x87.jpg?t=1659967977",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978120/capsule_184x69.jpg?t=1659967977",
     "website": null,
     "developers": [
       "Titanite Games S.A."
@@ -5360,12 +5526,13 @@
       "url": "https://titanitegames.com/",
       "email": "contact@titanitegames.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1978120?t=1659967977",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1978120?t=1659967977",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "1977030": {
     "type": "game",
@@ -5675,9 +5842,9 @@
       "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978030/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978030/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1978030/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978030/header.jpg?t=1698636917",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978030/capsule_231x87.jpg?t=1698636917",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978030/capsule_184x69.jpg?t=1698636917",
     "website": "http://com3d2.world/",
     "developers": [
       "KISS"
@@ -5706,7 +5873,8 @@
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       23,
@@ -5721,8 +5889,8 @@
       "url": "http://com3d2.world",
       "email": "en_support@kisskiss.tv"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1978030/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1978030/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1978030?t=1698636917",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978030/page_bg_raw.jpg?t=1698636917",
     "content_descriptors": {
       "ids": [
         1,
@@ -5731,6 +5899,14 @@
         4
       ],
       "notes": "This game contains adult content intended for individuals 18 years of age or older.\r\nIt includes nudity, sex scene, and blatantly sexual imagery, as well as imagery that has sexual implications.\r\nIf you are not yet 18+ or if you are accessing from any country or located where adult material is specifically prohibited by law, do not play this game."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Sexo Expl\u00edcito\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "1977360": {
@@ -6741,9 +6917,9 @@
       "name": "Jubilane"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978160/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978160/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1978160/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978160/header.jpg?t=1650582433",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978160/capsule_231x87.jpg?t=1650582433",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978160/capsule_184x69.jpg?t=1650582433",
     "website": null,
     "developers": [
       "bankbank"
@@ -6769,12 +6945,13 @@
       "url": "wainstop.com",
       "email": "bank@bankbank.net"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1978160?t=1650582433",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1978160?t=1650582433",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "1977530": {
     "type": "game",
@@ -7906,9 +8083,9 @@
       "appid": "1923850",
       "name": "Power (of) Metal"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977080/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977080/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977080/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977080/header.jpg?t=1652685342",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977080/capsule_231x87.jpg?t=1652685342",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977080/capsule_184x69.jpg?t=1652685342",
     "website": null,
     "developers": [
       "CodingApe Games"
@@ -7933,12 +8110,13 @@
       "url": "https://vulpis.com.tr/",
       "email": "murat@vulpis.com.tr"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977080?t=1652685342",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977080?t=1652685342",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "1978390": {
     "type": "dlc",
@@ -8778,9 +8956,9 @@
       "name": "Top Town"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978620/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1978620/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1978620/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978620/header.jpg?t=1700003876",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978620/capsule_231x87.jpg?t=1700003876",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1978620/capsule_184x69.jpg?t=1700003876",
     "website": null,
     "developers": [
       "FriedGPU"
@@ -8799,19 +8977,20 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "14 Nov, 2023"
     },
     "support_info": {
       "url": "",
       "email": "friedgpu@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1978620/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1978620/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1978620?t=1700003876",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1978620?t=1700003876",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "1978680": {
     "type": "dlc",
@@ -9971,18 +10150,15 @@
     "short_description": "Pathfinder RPG - Flip-Tiles - Urban Sewers Expansion It's Dirty Under the Streets! Sometimes you have to get a little dirty! Next time your players are trying to travel under the streets for a quick and dirty route from one part of the city to the other, you're covered!",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977670/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977670/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977670/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977670/header.jpg?t=1651589289",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977670/capsule_231x87.jpg?t=1651589289",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977670/capsule_184x69.jpg?t=1651589289",
     "website": "https://www.fantasygrounds.com",
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       714033
@@ -10013,7 +10189,8 @@
       27,
       38,
       39,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -10028,11 +10205,19 @@
       "url": "www.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977670/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977670/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977670?t=1651589289",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977670?t=1651589289",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "1978650": {
@@ -10129,15 +10314,15 @@
       "name": "Vagrus - The Riven Realms"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1979380/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1979380/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1979380/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979380/header.jpg?t=1738859448",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979380/capsule_231x87.jpg?t=1738859448",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979380/capsule_184x69.jpg?t=1738859448",
     "website": "https://vagrus.com",
     "developers": [
       "Lost Pilgrims Studio"
     ],
     "publishers": [
-      "Lost Pilgrims Studio"
+      "Lost Pilgrims Studios"
     ],
     "package_groups": [],
     "platforms": {
@@ -10149,7 +10334,8 @@
       2,
       21,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
@@ -10162,13 +10348,57 @@
     },
     "support_info": {
       "url": "https://discord.gg/vagrus",
-      "email": "info@vagrus.com"
+      "email": "support@vagrus.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1979380/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1979380/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1979380?t=1738859448",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1979380?t=1738859448",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "required_age": "16"
+      },
+      "pegi": {
+        "required_age": "16"
+      },
+      "bbfc": {
+        "required_age": "16"
+      },
+      "usk": {
+        "required_age": "16"
+      },
+      "oflc": {
+        "required_age": "16"
+      },
+      "nzoflc": {
+        "required_age": "16"
+      },
+      "cero": {
+        "required_age": "16"
+      },
+      "kgrb": {
+        "required_age": "16"
+      },
+      "dejus": {
+        "required_age": "14",
+        "rating": "14",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia\r\nAtos criminosos\r\nLinguagem impr\u00f3pria\r\nDrogas l\u00edcitas\r\nDrogas\r\nDrogas il\u00edcitas",
+        "use_age_gate": "true"
+      },
+      "mda": {
+        "required_age": "16"
+      },
+      "fpb": {
+        "required_age": "16"
+      },
+      "csrr": {
+        "required_age": "16"
+      },
+      "crl": {
+        "required_age": "16"
+      }
     }
   },
   "1978330": {
@@ -11480,18 +11710,15 @@
     "short_description": "Pathfinder RPG - Flip-Tiles - Forest Highlands Expansion There's Danger in those Hills! The more rugged the landscape, the more fearsome the monsters! Next time your players are ready to trudge their way up the hills in search for giants and dragons, they won't have to wait for you to draw every tree and boulder.",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977630/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977630/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977630/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977630/header.jpg?t=1651589349",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977630/capsule_231x87.jpg?t=1651589349",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977630/capsule_184x69.jpg?t=1651589349",
     "website": "https://www.fantasygrounds.com",
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       714018
@@ -11522,7 +11749,8 @@
       27,
       38,
       39,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -11537,11 +11765,19 @@
       "url": "www.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977630/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977630/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977630?t=1651589349",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977630?t=1651589349",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "1977380": {
@@ -11557,9 +11793,9 @@
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Korean, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977380/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977380/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977380/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977380/header.jpg?t=1704417974",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977380/capsule_231x87.jpg?t=1704417974",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977380/capsule_184x69.jpg?t=1704417974",
     "website": null,
     "developers": [
       "CyberConnect2"
@@ -11597,7 +11833,8 @@
       36,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -11611,11 +11848,57 @@
       "url": "https://support.sega.co.uk/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977380/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977380/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977380?t=1704417974",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977380/page_bg_raw.jpg?t=1704417974",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Violence\r\nBlood and Gore\r\nLanguage",
+        "display_online_notice": "true"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence",
+        "use_age_gate": "true"
+      },
+      "usk": {
+        "rating": "16",
+        "use_age_gate": "true"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Strong violence, Online interactivity"
+      },
+      "nzoflc": {
+        "rating": "m",
+        "descriptors": "Violence and Horror",
+        "use_age_gate": "true"
+      },
+      "cero": {
+        "rating": "c",
+        "descriptors": "\u300c\u66b4\u529b\u300d\u300c\u72af\u7f6a\u300d"
+      },
+      "kgrb": {
+        "rating": "15",
+        "descriptors": "\uadc0\uc2e0\uc73c\ub85c \ubcc0\ud55c \uc5ec\ub3d9\uc0dd\uc744 \uc778\uac04\uc73c\ub85c \ub418\ub3cc\ub9ac\uae30 \uc704\ud574 \uc5ec\ud589\uc744 \ud55c\ub2e4\ub294 \ub0b4\uc6a9\uc758 PC \uc561\uc158 \uac8c\uc784.\r\n\uacfc\ub3c4\ud558\uc9c0 \uc54a\uc740 \ud3ed\ub825\uc131 \ud45c\ud604\r\n(\ubd89\uc740 \uc120\ud608\ud45c\ud604 \ubc0f \uc2e0\uccb4 \uc808\ub2e8\ud45c\ud604)\r\n\ub530\ub77c\uc11c \uac8c\uc784\uc0b0\uc5c5\uc9c4\ud765\uc5d0 \uad00\ud55c \ubc95\ub960 \uc81c21\uc870 \ubc0f \ub4f1\uae09\ubd84\ub958 \uaddc\uc815 \uc81c7\uc870\uc81c3\ud638\uc5d0 \ub530\ub77c \u201815\uc138\uc774\uc6a9\uac00\u2019\ub85c \ub4f1\uae09\ubd84\ub958 \uacb0\uc815\ud568"
+      },
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Viol\u00eancia",
+        "required_age": "16"
+      },
+      "csrr": {
+        "rating": "C15",
+        "descriptors": "\u66b4\u529b,\u6050\u6016,\u53cd\u793e\u6703\u6027",
+        "use_age_gate": "true"
+      },
+      "fpb": {
+        "rating": "16"
+      }
     }
   },
   "1977850": {
@@ -11630,9 +11913,9 @@
       "name": "Escape From Zombie U:reloaded"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977850/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977850/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977850/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977850/header.jpg?t=1652899478",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977850/capsule_231x87.jpg?t=1652899478",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977850/capsule_184x69.jpg?t=1652899478",
     "website": null,
     "developers": [
       "SodaAnimations"
@@ -11658,8 +11941,8 @@
       "url": "",
       "email": "evilsull.art@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977850?t=1652899478",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977850?t=1652899478",
     "content_descriptors": {
       "ids": [
         1,
@@ -11668,7 +11951,8 @@
         4
       ],
       "notes": "Product constraints sexually implicit and explicit scenes of  that may not appropriate for a younger audience.\r\n\r\nSexual scenes include: panties shots and sexual poses.\r\n"
-    }
+    },
+    "ratings": null
   },
   "1977020": {
     "type": "demo",
@@ -11682,9 +11966,9 @@
       "name": "Apocalyptic Vibes"
     },
     "supported_languages": "English, Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977020/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977020/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977020/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977020/header.jpg?t=1655454127",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977020/capsule_231x87.jpg?t=1655454127",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977020/capsule_184x69.jpg?t=1655454127",
     "website": null,
     "developers": [
       "Amanito Computing"
@@ -11711,15 +11995,16 @@
       "url": "",
       "email": "yjvfyn13@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977020?t=1655454127",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977020?t=1655454127",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "1977580": {
     "type": "dlc",
@@ -11730,18 +12015,15 @@
     "short_description": "NOTE: This product does not qualify for a PDF discount from Paizo. Pathfinder RPG - Flip-Tiles - Urban Perils Expansion The Safest City Can Turn in a Heartbeat! This isn't just another stroll through the neighborhood!",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977580/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1977580/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1977580/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977580/header.jpg?t=1650980305",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977580/capsule_231x87.jpg?t=1650980305",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977580/capsule_184x69.jpg?t=1650980305",
     "website": "https://www.fantasygrounds.com",
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       713990
@@ -11772,7 +12054,8 @@
       27,
       38,
       39,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -11787,11 +12070,19 @@
       "url": "www.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1977580/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1977580/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977580?t=1650980305",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1977580?t=1650980305",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "1979500": {
