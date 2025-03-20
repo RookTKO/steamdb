@@ -259,19 +259,33 @@
     "steam_appid": 2670630,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Run your own supermarket. Stock shelves, handle cashier tasks, process online orders, design &amp; expand. Set the prices based on the market. Be prepared to face the consequences if you fail to make the nightly repayment to the gangs.",
+    "controller_support": "full",
+    "short_description": "Run your own supermarket. Stock shelves, set prices as you'd like, take payments, hire staff, expand and design your store. Online orders &amp; delivery, shoplifters, security, local market are upcoming.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Dutch, Japanese, Korean, Portuguese - Portugal, Russian, Turkish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2670630/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2670630/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2670630/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/header.jpg?t=1730737834",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/capsule_231x87.jpg?t=1730737834",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/capsule_184x69.jpg?t=1730737834",
+    "website": "https://supermarketsimulator.com/",
     "developers": [
       "Nokta Games"
     ],
     "publishers": [
       "Nokta Games"
     ],
-    "package_groups": [],
+    "packages": [
+      956858
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Supermarket Simulator",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -279,7 +293,10 @@
     },
     "categories": [
       2,
-      22
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       4,
@@ -287,19 +304,40 @@
       28,
       70
     ],
+    "achievements": {
+      "total": 3
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "13 Feb, 2024"
+      "coming_soon": false,
+      "date": "20 Feb, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "yusuf.toptan@outlook.com"
+      "email": "supermarketsimulator@noktagames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2670630/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2670630/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2670630?t=1730737834",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2670630?t=1730737834",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2670030": {
@@ -7059,15 +7097,15 @@
     "steam_appid": 2671150,
     "required_age": 0,
     "is_free": false,
-    "short_description": "The Species Pack for Galactic Civilizations IV expands the game into the entire Milky Way via Subspace Streams. Featuring over a dozen unique species with new technologies and world-building aspects, it enhances gameplay and strategy.",
+    "short_description": "Expand your universe with the Galactic Civilizations IV Species Pack! This exciting DLC introduces a host of new alien species, along with powerful tools to create, customize, and share your unique species with the community.",
     "fullgame": {
       "appid": "1357210",
       "name": "Galactic Civilizations IV"
     },
     "supported_languages": "English<strong>*</strong>, German, French, Russian, Spanish - Spain, Polish, Spanish - Latin America, Portuguese - Brazil, Portuguese - Portugal, Italian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2671150/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2671150/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2671150/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671150/header.jpg?t=1733507882",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671150/de93dd3d86a080d5bd7177f67007ce25ecb2851c/capsule_231x87.jpg?t=1733507882",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671150/de93dd3d86a080d5bd7177f67007ce25ecb2851c/capsule_184x69.jpg?t=1733507882",
     "website": "https://www.galciv4.com/",
     "developers": [
       "Stardock Entertainment"
@@ -7104,25 +7142,44 @@
       27,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       2,
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q2 2024"
+      "coming_soon": false,
+      "date": "20 Jun, 2024"
     },
     "support_info": {
       "url": "https://support.stardock.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2671150/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2671150/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2671150?t=1733507882",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671150/page_bg_raw.jpg?t=1733507882",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2672790": {
@@ -11265,10 +11322,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "It's you, in room, with a big switch on the wall. What more could you ask for in groundbreaking, forward reaching, out-of-this-world game design? Nothing. This is the peak of gaming.",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Finnish, Greek, Indonesian, Japanese, Korean, Norwegian, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Traditional Chinese, Turkish, Vietnamese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2672850/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2672850/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2672850/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Czech, Dutch, Finnish, Greek, Indonesian, Japanese, Korean, Norwegian, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Traditional Chinese, Turkish, Vietnamese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672850/header.jpg?t=1718979371",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672850/capsule_231x87.jpg?t=1718979371",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672850/capsule_184x69.jpg?t=1718979371",
     "website": null,
     "developers": [
       "Barry Knoll"
@@ -11276,7 +11333,20 @@
     "publishers": [
       "Barry Knoll"
     ],
-    "package_groups": [],
+    "packages": [
+      957640
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy A Game About Flicking A Switch",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -11284,26 +11354,51 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       4,
       23,
       28
     ],
+    "achievements": {
+      "total": 31
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "13 Feb, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "barryknollgames@gmail.com"
+      "email": "support@barryknoll.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2672850/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2672850/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2672850?t=1718979371",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672850/page_bg_raw.jpg?t=1718979371",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "e"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2670850": {

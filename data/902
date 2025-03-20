@@ -5292,11 +5292,19 @@
     "steam_appid": 2706300,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3283090,
+      2814120,
+      2814110,
+      2814100,
+      2872360,
+      2975620
+    ],
     "short_description": "MILF's Plaza is an erotic visual novel with a non-linear plot in a unique 2D style! The main character, full of ambition and eager for thrills, is ready to do anything to find his place in the sun. But his life is only turning out to be more complicated...",
-    "supported_languages": "English, French, Portuguese - Brazil, Spanish - Latin America, Russian, Simplified Chinese, Italian, German, Dutch, Polish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2706300/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2706300/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2706300/capsule_184x69.jpg",
+    "supported_languages": "English, Russian, French, German, Portuguese - Brazil, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Dutch, Polish, Turkish, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706300/header.jpg?t=1741375045",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706300/capsule_231x87.jpg?t=1741375045",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706300/capsule_184x69.jpg?t=1741375045",
     "website": null,
     "developers": [
       "Texic"
@@ -5304,37 +5312,49 @@
     "publishers": [
       "TopHouse Publishing"
     ],
-    "demos": [
+    "packages": [
+      968934
+    ],
+    "package_groups": [
       {
-        "appid": 2756090,
-        "description": ""
+        "name": "default",
+        "title": "Buy MILF's Plaza",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
-      22
+      22,
+      29,
+      62
     ],
     "genres": [
       3,
       4,
       25
     ],
+    "achievements": {
+      "total": 24
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "April 2024"
+      "coming_soon": false,
+      "date": "19 Apr, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "wanderer.tophouse@gmail.com"
+      "email": "publishing.contact@tophouse.fun"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2706300/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2706300/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2706300?t=1741375045",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2706300?t=1741375045",
     "content_descriptors": {
       "ids": [
         1,
@@ -5343,7 +5363,25 @@
         4,
         5
       ],
-      "notes": "The game is intended for adults only and contains sexual content that some viewers may find offensive. The characters, story, and actions are fictitious. All characters are depicted as 18 and over.\r\n\r\nThe game contains nudity, consensual and non-consensual sex, violence, sexual violcene (rape, abuse, hypnosis), alternative lifestyles, blackmail, use and sale of alcohol and drugs, swearing, BDSM, H-scenes of oral, vaginal, anal and non-penetrative sexual acts."
+      "notes": "The game is intended for adults only and contains sexual content that some viewers may find offensive. The characters, story, and actions are fictitious. All characters are depicted as 18 and over.\r\n\r\nThe game contains nudity, consensual and non-consensual sex, violence, sexual violcene (rape, abuse, fake hypnosis), alternative lifestyles, blackmail, use and sale of alcohol and drugs, swearing, BDSM, H-scenes of oral, vaginal, anal and non-penetrative sexual acts."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nViol\u00eancia\nTemas sens\u00edveis"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexualisierte Gewalt / Sexual violence"
+      }
     }
   },
   "2708160": {

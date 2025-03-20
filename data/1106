@@ -4352,8 +4352,8 @@
       "url": "https://seaknot.dev/",
       "email": "hello@seaknot.dev"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3318850?t=1732060859",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3318850?t=1732060859",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4422,8 +4422,8 @@
       "url": "https://daytheworldstopped.com/",
       "email": "contact@daytheworldstopped.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3318900/page_bg_generated_v6b.jpg?t=1733202915",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3318900/page.bg.jpg?t=1733202915",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3318900?t=1733202915",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3318900/page_bg_raw.jpg?t=1733202915",
     "content_descriptors": {
       "ids": [
         5
@@ -4458,15 +4458,21 @@
     "controller_support": "full",
     "short_description": "Aggrolotls is a top-down arena roguelike where you play as tiny axolotls and must evolve into a swarm that can take on powerful creatures from the sea. Level up and choose from upgrades that make each round feel unique.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319000/header.jpg?t=1730446239",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319000/f4f4dd95d85a376aec03b5cbb1937623396e4979/capsule_231x87.jpg?t=1730446239",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319000/f4f4dd95d85a376aec03b5cbb1937623396e4979/capsule_184x69.jpg?t=1730446239",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319000/header.jpg?t=1740336965",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319000/f4f4dd95d85a376aec03b5cbb1937623396e4979/capsule_231x87.jpg?t=1740336965",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319000/f4f4dd95d85a376aec03b5cbb1937623396e4979/capsule_184x69.jpg?t=1740336965",
     "website": null,
     "developers": [
       "Game Magicians"
     ],
     "publishers": [
       "Game Magicians"
+    ],
+    "demos": [
+      {
+        "appid": 3335440,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4478,7 +4484,8 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -4486,14 +4493,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "March 2025"
+      "date": "April 2025"
     },
     "support_info": {
       "url": "",
       "email": "GameMagiciansAssistance@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319000/page_bg_generated_v6b.jpg?t=1730446239",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319000/page_bg_generated.jpg?t=1730446239",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319000?t=1740336965",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319000?t=1740336965",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4525,9 +4532,9 @@
     "is_free": false,
     "short_description": "Bubblesinker is an underwater roguelite shooter where you must survive fish schools' attacks and battle against gigantic sea creatures. Unlock new characters with unique weapons and hook up helpful companions to help you in your watery crusade.",
     "supported_languages": "English, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319040/header.jpg?t=1730869223",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319040/c33292b5db3fd3fd021634512aacf74dfb38c96b/capsule_231x87.jpg?t=1730869223",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319040/c33292b5db3fd3fd021634512aacf74dfb38c96b/capsule_184x69.jpg?t=1730869223",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319040/header.jpg?t=1735110647",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319040/c33292b5db3fd3fd021634512aacf74dfb38c96b/capsule_231x87.jpg?t=1735110647",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319040/c33292b5db3fd3fd021634512aacf74dfb38c96b/capsule_184x69.jpg?t=1735110647",
     "website": null,
     "developers": [
       "Punchito"
@@ -4535,28 +4542,43 @@
     "publishers": [
       "Punchito"
     ],
-    "package_groups": [],
+    "packages": [
+      1175232
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Bubblesinker",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       1
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "24 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "contact@punchitogames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319040/page_bg_generated_v6b.jpg?t=1730869223",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319040/page.bg.jpg?t=1730869223",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319040?t=1735110647",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319040/page_bg_raw.jpg?t=1735110647",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4589,9 +4611,9 @@
     "controller_support": "full",
     "short_description": "Dive into the vibrant world of Perino Candy Buster, an action-packed arcade game that combines classic Block Breaker gameplay with a delightful twist! Join Porino and friends on a whimsical adventure filled with colorful graphics, engaging stories, and competitive local multiplayer.",
     "supported_languages": "English, French, Italian, Korean, Spanish - Latin America, Japanese, Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319050/header.jpg?t=1732232374",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319050/53532c609cf8b7a6802ff7ab4796d557c866b830/capsule_231x87.jpg?t=1732232374",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319050/53532c609cf8b7a6802ff7ab4796d557c866b830/capsule_184x69.jpg?t=1732232374",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319050/header.jpg?t=1733572904",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319050/53532c609cf8b7a6802ff7ab4796d557c866b830/capsule_231x87.jpg?t=1733572904",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319050/53532c609cf8b7a6802ff7ab4796d557c866b830/capsule_184x69.jpg?t=1733572904",
     "website": null,
     "developers": [
       "RivalThird"
@@ -4599,7 +4621,20 @@
     "publishers": [
       "RivalThird"
     ],
-    "package_groups": [],
+    "packages": [
+      1175235
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Perino Candy Buster",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4612,21 +4647,25 @@
       24,
       28,
       37,
-      49
+      49,
+      62
     ],
     "genres": [
       4
     ],
+    "achievements": {
+      "total": 9
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Dec, 2024"
     },
     "support_info": {
       "url": "https://rivalthird.com/",
       "email": "rivalthird@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319050/page_bg_generated_v6b.jpg?t=1732232374",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319050/page.bg.jpg?t=1732232374",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319050?t=1733572904",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319050/page_bg_raw.jpg?t=1733572904",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4690,8 +4729,8 @@
       "url": "",
       "email": "kngab911@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319060?t=1731244534",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319060?t=1731244534",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4768,8 +4807,8 @@
       "url": "",
       "email": "mystael@yandex.ru"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319070/page_bg_generated_v6b.jpg?t=1731828488",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319070/page.bg.jpg?t=1731828488",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319070?t=1731828488",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319070/page_bg_raw.jpg?t=1731828488",
     "content_descriptors": {
       "ids": [
         5
@@ -4802,9 +4841,9 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319110/header.jpg?t=1730742849",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319110/7124bc911094bc31094bccb9a7623de5ec63e2cc/capsule_231x87.jpg?t=1730742849",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319110/7124bc911094bc31094bccb9a7623de5ec63e2cc/capsule_184x69.jpg?t=1730742849",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319110/header.jpg?t=1739204674",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319110/7124bc911094bc31094bccb9a7623de5ec63e2cc/capsule_231x87.jpg?t=1739204674",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319110/7124bc911094bc31094bccb9a7623de5ec63e2cc/capsule_184x69.jpg?t=1739204674",
     "website": null,
     "package_groups": [],
     "platforms": {
@@ -4814,14 +4853,14 @@
     },
     "release_date": {
       "coming_soon": false,
-      "date": "4 Nov, 2024"
+      "date": ""
     },
     "support_info": {
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319110?t=1739204674",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319110?t=1739204674",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4836,9 +4875,9 @@
     "is_free": false,
     "short_description": "Five scary stories, but they all have the same ending. Can you play it?\u00a0 A psychological horror game from the first person, which few will pass.",
     "supported_languages": "English, Russian, French, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Korean, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319120/header.jpg?t=1731869424",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319120/dbd750a485a18f7adc7e520885cb3a8926750e66/capsule_231x87.jpg?t=1731869424",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319120/dbd750a485a18f7adc7e520885cb3a8926750e66/capsule_184x69.jpg?t=1731869424",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319120/header.jpg?t=1739806629",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319120/dbd750a485a18f7adc7e520885cb3a8926750e66/capsule_231x87.jpg?t=1739806629",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319120/dbd750a485a18f7adc7e520885cb3a8926750e66/capsule_184x69.jpg?t=1739806629",
     "website": null,
     "developers": [
       "Admia",
@@ -4856,6 +4895,9 @@
       "mac": false,
       "linux": false
     },
+    "categories": [
+      62
+    ],
     "genres": [
       23,
       25,
@@ -4863,14 +4905,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "7 Jan, 2025"
+      "date": "April 2025"
     },
     "support_info": {
       "url": "",
       "email": "welcometokowloon@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319120/page_bg_generated_v6b.jpg?t=1731869424",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319120/page_bg_generated.jpg?t=1731869424",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319120?t=1739806629",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319120?t=1739806629",
     "content_descriptors": {
       "ids": [
         2,
@@ -4906,9 +4948,9 @@
     "controller_support": "full",
     "short_description": "In the black-and-white world, it's all up to you whether to explore the map, solve puzzles or catch mice. You can freely choose your route and obtain props. Give play to your wild imagination and combine the props. As long as you can catch the mice, you will be the coolest cat in the night.",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319150/header.jpg?t=1732603431",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319150/82720f75d0c54f25801f13df4136ff8b10b5be1f/capsule_231x87.jpg?t=1732603431",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319150/82720f75d0c54f25801f13df4136ff8b10b5be1f/capsule_184x69.jpg?t=1732603431",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319150/header.jpg?t=1739164939",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319150/82720f75d0c54f25801f13df4136ff8b10b5be1f/capsule_231x87.jpg?t=1739164939",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319150/82720f75d0c54f25801f13df4136ff8b10b5be1f/capsule_184x69.jpg?t=1739164939",
     "website": null,
     "developers": [
       "\u534a\u661fBanXing"
@@ -4924,10 +4966,13 @@
     },
     "categories": [
       2,
+      22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
+      1,
       4,
       23,
       25,
@@ -4941,8 +4986,8 @@
       "url": "https://space.bilibili.com/3546638134020364?spm_id_from=333.1007.0.0",
       "email": "2778173906@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319150/page_bg_generated_v6b.jpg?t=1732603431",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319150/page.bg.jpg?t=1732603431",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319150?t=1739164939",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319150/page_bg_raw.jpg?t=1739164939",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5127,9 +5172,9 @@
       "appid": "1263170",
       "name": "Starseed"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319220/header.jpg?t=1730453261",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319220/95c0c39ffdbf840fd36b9f744eca609251c9128a/capsule_231x87.jpg?t=1730453261",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319220/95c0c39ffdbf840fd36b9f744eca609251c9128a/capsule_184x69.jpg?t=1730453261",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319220/header.jpg?t=1741523716",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319220/95c0c39ffdbf840fd36b9f744eca609251c9128a/capsule_231x87.jpg?t=1741523716",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319220/95c0c39ffdbf840fd36b9f744eca609251c9128a/capsule_184x69.jpg?t=1741523716",
     "website": null,
     "developers": [
       "heartsynth"
@@ -5145,14 +5190,14 @@
     },
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "24 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "heartsynthdev+starseedsupport@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319220/page_bg_generated_v6b.jpg?t=1730453261",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319220/page_bg_generated.jpg?t=1730453261",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319220?t=1741523716",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319220?t=1741523716",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5206,7 +5251,8 @@
       9,
       22,
       38,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -5222,8 +5268,8 @@
       "url": "https://exbytestudios.com",
       "email": "exbytestudios@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319230/page_bg_generated_v6b.jpg?t=1731358977",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319230/page.bg.jpg?t=1731358977",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319230?t=1731358977",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319230/page_bg_raw.jpg?t=1731358977",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5255,15 +5301,21 @@
     "is_free": false,
     "short_description": "Lead your kingdom to victory! By day, you build and prepare your kingdom for impending threats. But every night, you must defend your kingdom against hordes of monsters, by commanding soldiers, building turrets, and fighting on the battleground yourself.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Japanese, Korean, Polish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319240/header.jpg?t=1732373789",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319240/5f3dfd1bfcbec37ec10c7a9c6b030d150f60a529/capsule_231x87.jpg?t=1732373789",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319240/5f3dfd1bfcbec37ec10c7a9c6b030d150f60a529/capsule_184x69.jpg?t=1732373789",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319240/header.jpg?t=1741788664",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319240/064a05bf8658b9158979378b7656e4348a84efc4/capsule_231x87.jpg?t=1741788664",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319240/064a05bf8658b9158979378b7656e4348a84efc4/capsule_184x69.jpg?t=1741788664",
     "website": null,
     "developers": [
       "Partum Games"
     ],
     "publishers": [
       "Partum Games"
+    ],
+    "demos": [
+      {
+        "appid": 3357350,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5273,8 +5325,10 @@
     },
     "categories": [
       2,
+      18,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       1,
@@ -5288,8 +5342,8 @@
       "url": "",
       "email": "partumgames0@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319240/page_bg_generated_v6b.jpg?t=1732373789",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319240/page_bg_generated.jpg?t=1732373789",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319240?t=1741788664",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319240?t=1741788664",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5360,9 +5414,9 @@
     ],
     "short_description": "Step into the captivating world of &quot;USA Nature's Trails Jigsaw Edition&quot; a puzzle journey that combines the thrill of piecing together intricate puzzles with the breathtaking beauty of America's diverse landscapes.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319290/header.jpg?t=1732135992",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319290/fa88413f530e719eff1e0b736b5c9b47ce4cc926/capsule_231x87.jpg?t=1732135992",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319290/fa88413f530e719eff1e0b736b5c9b47ce4cc926/capsule_184x69.jpg?t=1732135992",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319290/header.jpg?t=1740437099",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319290/fa88413f530e719eff1e0b736b5c9b47ce4cc926/capsule_231x87.jpg?t=1740437099",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319290/fa88413f530e719eff1e0b736b5c9b47ce4cc926/capsule_184x69.jpg?t=1740437099",
     "website": "https://store.steampowered.com/publisher/boogygames",
     "developers": [
       "Boogygames Studios"
@@ -5406,8 +5460,8 @@
       "url": "https://store.steampowered.com/developer/boogygames/",
       "email": "gulhan300@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319290/page_bg_generated_v6b.jpg?t=1732135992",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319290/page_bg_generated.jpg?t=1732135992",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319290?t=1740437099",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319290?t=1740437099",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5493,8 +5547,8 @@
       "url": "",
       "email": "support@twonerdynerds.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319300/page_bg_generated_v6b.jpg?t=1731346300",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319300/page_bg_generated.jpg?t=1731346300",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319300?t=1731346300",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319300?t=1731346300",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5524,12 +5578,11 @@
     "steam_appid": 3319330,
     "required_age": 0,
     "is_free": true,
-    "controller_support": "full",
     "short_description": "Build your own Dungeons, share them with the Community and play Dungeons made by the community. This is the official Level Editor for the 2D Action-Platformer Makis Adventure!",
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319330/header.jpg?t=1730836365",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319330/69b463d3c4b7689f84fdd644112276055edbf6da/capsule_231x87.jpg?t=1730836365",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319330/69b463d3c4b7689f84fdd644112276055edbf6da/capsule_184x69.jpg?t=1730836365",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319330/header.jpg?t=1735329740",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319330/69b463d3c4b7689f84fdd644112276055edbf6da/capsule_231x87.jpg?t=1735329740",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319330/69b463d3c4b7689f84fdd644112276055edbf6da/capsule_184x69.jpg?t=1735329740",
     "website": "https://zoroarts.com/MakisAdventure/",
     "developers": [
       "Zoroarts"
@@ -5545,9 +5598,7 @@
     },
     "categories": [
       2,
-      17,
-      28,
-      30
+      17
     ],
     "genres": [
       1,
@@ -5557,15 +5608,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Dec, 2024"
     },
     "support_info": {
       "url": "https://zoroarts.com",
       "email": "zorodev18@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319330/page_bg_generated_v6b.jpg?t=1730836365",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319330/page_bg_generated.jpg?t=1730836365",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319330?t=1735329740",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3319330?t=1735329740",
     "content_descriptors": {
       "ids": [],
       "notes": null

@@ -370,9 +370,9 @@
     "is_free": false,
     "short_description": "What could be more beautiful than hentai?",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Vietnamese, Greek, Danish, Simplified Chinese, Traditional Chinese, Korean, Norwegian, Dutch, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Romanian, Thai, Turkish, Hungarian, Ukrainian, Finnish, Czech, Swedish, Japanese, Indonesian, Spanish - Latin America",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2683800/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2683800/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2683800/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683800/header.jpg?t=1736603098",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683800/capsule_231x87.jpg?t=1736603098",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683800/capsule_184x69.jpg?t=1736603098",
     "website": null,
     "developers": [
       "Cyber Keks"
@@ -401,7 +401,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       4,
@@ -418,8 +419,8 @@
       "url": "",
       "email": "cyberkeksstudio@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2683800/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2683800/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2683800?t=1736603098",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2683800?t=1736603098",
     "content_descriptors": {
       "ids": [
         1,
@@ -428,6 +429,22 @@
         5
       ],
       "notes": "This game for adult only, game contains adult content including frequent nudity, sexual scenes/scenarios.\r\n\r\nA large section of the gallery contains images of nudity, with visible panties, bare legs, buttocks and breasts, vaginas and cocksplay the game"
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Nudez",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2682490": {
@@ -887,23 +904,41 @@
   },
   "2683150": {
     "type": "game",
-    "name": "Arrow in the knee",
+    "name": "Ale & Tale Tavern",
     "steam_appid": 2683150,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
+    "dlc": [
+      3199160
+    ],
     "short_description": "Get ready for a thrilling mix of genres: a cooperative, first-person, open-world fantasy tavern simulator, action, fishing, hunting, exploration, and completing fun and diverse quests. And, of course, COOKING! Play with friends, feed and quench the thirst of the entire world!",
-    "supported_languages": "English, Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2683150/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2683150/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2683150/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, Russian, French, Italian, German, Spanish - Spain, Hungarian, Traditional Chinese, Simplified Chinese, Korean, Polish, Portuguese - Portugal, Romanian, Thai, Turkish, Ukrainian, Czech, Japanese, Vietnamese, Portuguese - Brazil, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/4f614f4fac6dec64a57fbe35f9a5cf1ea5f77a58/header.jpg?t=1742408784",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/b60d04675e6e9b6bee22579235c49d5aaa97e3e4/capsule_231x87.jpg?t=1742408784",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/b60d04675e6e9b6bee22579235c49d5aaa97e3e4/capsule_184x69.jpg?t=1742408784",
     "website": null,
     "developers": [
       "Scienart Games"
     ],
     "publishers": [
-      "Scienart Games"
+      "GrabTheGames",
+      "UpgradePoint"
     ],
-    "package_groups": [],
+    "packages": [
+      961082
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ale & Tale Tavern",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -913,7 +948,12 @@
       1,
       2,
       9,
-      38
+      22,
+      23,
+      28,
+      29,
+      38,
+      62
     ],
     "genres": [
       1,
@@ -922,19 +962,40 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 67
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "5 Sep, 2024"
     },
     "support_info": {
-      "url": "scienartgames.com",
-      "email": "support@scienartgames.com"
+      "url": "https://scienartgames.com",
+      "email": "aletaletavern@outlook.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2683150/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2683150/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2683150?t=1742408784",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2683150?t=1742408784",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas l\u00edcitas\nViol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Alkohol / Tabak\nFantasy-Gewalt"
+      }
     }
   },
   "2684850": {
@@ -1982,11 +2043,11 @@
     "steam_appid": 2684510,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A roguelite autobattler where you play as a Greek Deity and manage a party of heroes from myth, legend, and history!",
+    "short_description": "Become a Greek Deity and command heroes drawn from myth, legend, and history. Cast spells &amp; enhancements, and conquer the realms to triumph over the other Gods!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2684510/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2684510/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2684510/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684510/header.jpg?t=1736847332",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684510/95dcc3c393b6e11843b221eb7c9e8ccdee488a1b/capsule_231x87.jpg?t=1736847332",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684510/95dcc3c393b6e11843b221eb7c9e8ccdee488a1b/capsule_184x69.jpg?t=1736847332",
     "website": null,
     "developers": [
       "LEWBOW STUDIOS"
@@ -1994,31 +2055,65 @@
     "publishers": [
       "LEWBOW STUDIOS"
     ],
-    "package_groups": [],
+    "packages": [
+      961537
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cards of Divinity",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "10 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "lew.bow.studios@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2684510/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2684510/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2684510?t=1736847332",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684510/page_bg_raw.jpg?t=1736847332",
     "content_descriptors": {
-      "ids": [],
-      "notes": null
+      "ids": [
+        5
+      ],
+      "notes": "The game features classical artworks depicting gods by artists like John William Waterhouse and Frederic Leighton. \r\n\r\nThese works, notorious for their artistic merit, have long been celebrated in museums and other forms of media. \r\n\r\nI hope this will help evoke the experience of viewing art in a gallery for the players."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2682460": {
@@ -5817,11 +5912,11 @@
     "steam_appid": 2684760,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Evil mountains is an open world survival game that combines aliens, horror, crafting and base building. You are trying to find a girl that has joined an alien-worshipping cult and gone missing somewhere in the Himalayan mountains. Soon you'll discover that aliens are real, and you are their prey",
+    "short_description": "Evil mountains is an open world survival game that combines aliens, horror, crafting, base building and tower defence. The game takes place at a remote place somewhere in the Himalayan mountains. Here you'll discover that aliens are real, and you are their prey",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2684760/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2684760/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2684760/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684760/eee407f48644b99d0a86649ffcabdf8f52607803/header.jpg?t=1741703902",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684760/capsule_231x87.jpg?t=1741703902",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684760/capsule_184x69.jpg?t=1741703902",
     "website": "https://sites.google.com/view/evilmountains",
     "developers": [
       "Kraftverk Softworks"
@@ -5829,14 +5924,28 @@
     "publishers": [
       "Kraftverk Softworks"
     ],
-    "package_groups": [],
+    "packages": [
+      961620
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Evil Mountains",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -5846,22 +5955,39 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "June 2024"
+      "coming_soon": false,
+      "date": "9 Mar, 2025"
     },
     "support_info": {
-      "url": "",
+      "url": "https://sites.google.com/view/evilmountains",
       "email": "kraftverksoftworks@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2684760/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2684760/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2684760?t=1741703902",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684760/page_bg_raw.jpg?t=1741703902",
     "content_descriptors": {
       "ids": [
-        1,
         2,
         5
       ],
       "notes": "Contains violence and gore and mild nudity"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nAlkohol / Tabak"
+      }
     }
   },
   "2684720": {
@@ -8182,9 +8308,9 @@
       "name": "Warhammer 40,000: Rogue Trader"
     },
     "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2682660/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2682660/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2682660/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682660/header.jpg?t=1716377306",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682660/capsule_231x87.jpg?t=1716377306",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682660/capsule_184x69.jpg?t=1716377306",
     "website": "https://roguetrader.owlcat.games/",
     "developers": [
       "Owlcat Games"
@@ -8219,7 +8345,8 @@
       22,
       23,
       30,
-      38
+      38,
+      62
     ],
     "genres": [
       2,
@@ -8235,14 +8362,30 @@
       "url": "",
       "email": "team@owlcat.games"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2682660/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2682660/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2682660?t=1716377306",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682660/page_bg_raw.jpg?t=1716377306",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This game contains scenes and texts some people may find disturbing. They are not graphically detailed and presented from an isometric point of view, and most of them occur episodically. However, we consider it our duty to inform our players about them. You may see depictions of blood, gore, dismemberment, torture, slavery, and kidnapping in this game. It also contains textual descriptions and mentions of abuse, child abuse, sexual abuse, sexual assault, self-harm, suicide, cannibalism, and miscarriage. Player discretion is advised."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nTemas sens\u00edveis\r\nDrogas l\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2682670": {
@@ -10638,9 +10781,9 @@
     "controller_support": "full",
     "short_description": "How many good deeds can you do today? It's just another day full of idle chit-chat... But the teensiest act of kindness just might bring you happiness!",
     "supported_languages": "Japanese, English, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2684340/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2684340/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2684340/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684340/header.jpg?t=1742379212",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684340/capsule_231x87.jpg?t=1742379212",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684340/capsule_184x69.jpg?t=1742379212",
     "website": "https://www.wakuwakugames.com/",
     "developers": [
       "Tomako"
@@ -10656,24 +10799,43 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       25
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2024"
+      "date": "2025"
     },
     "support_info": {
       "url": "support@wakuwakugames.com",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2684340/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2684340/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2684340?t=1742379212",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2684340?t=1742379212",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2682240": {
