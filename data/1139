@@ -395,7 +395,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
@@ -410,8 +411,8 @@
       "url": "",
       "email": "eaglesaintdev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417600/page_bg_generated_v6b.jpg?t=1735408474",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417600/page_bg_generated.jpg?t=1735408474",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3417600?t=1735408474",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3417600?t=1735408474",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -615,8 +616,8 @@
       "url": "",
       "email": "bubblingcatgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417880/page_bg_generated_v6b.jpg?t=1735235852",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417880/page.bg.jpg?t=1735235852",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3417880?t=1735235852",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417880/page_bg_raw.jpg?t=1735235852",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1697,9 +1698,9 @@
     "is_free": false,
     "short_description": "Battle and tame Sablemon in this 3v3 turn based combat RPG. Find, tame, battle and collect elemental creatures on your journey to discover the mysteries of Acer Island.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417990/header.jpg?t=1736380731",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417990/74ca6afd6af4ee393dca5186e366cd797e49837e/capsule_231x87.jpg?t=1736380731",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417990/74ca6afd6af4ee393dca5186e366cd797e49837e/capsule_184x69.jpg?t=1736380731",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417990/header.jpg?t=1739377636",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417990/f035b72a82b8f2594de19e7cdfdbc1e7b474eaec/capsule_231x87.jpg?t=1739377636",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417990/f035b72a82b8f2594de19e7cdfdbc1e7b474eaec/capsule_184x69.jpg?t=1739377636",
     "website": null,
     "developers": [
       "EtanYello"
@@ -1716,7 +1717,8 @@
     "categories": [
       2,
       15,
-      22
+      22,
+      62
     ],
     "genres": [
       3
@@ -1729,8 +1731,8 @@
       "url": "",
       "email": "sablemon.contact@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417990/page_bg_generated_v6b.jpg?t=1736380731",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417990/page_bg_generated.jpg?t=1736380731",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3417990?t=1739377636",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3417990?t=1739377636",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1762,9 +1764,9 @@
     "is_free": false,
     "short_description": "Step into the bouncy world of Bear Jump! Help a determined bear jump endlessly upward, dodging obstacles, collecting power-ups, and reaching new heights. With intuitive controls and addictive gameplay, Bear Jump is easy to pick up but challenging to master.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418830/header.jpg?t=1735616155",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418830/73c807fc7c0f1decf33c670e69e438c5b3fd0798/capsule_231x87.jpg?t=1735616155",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418830/73c807fc7c0f1decf33c670e69e438c5b3fd0798/capsule_184x69.jpg?t=1735616155",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418830/header.jpg?t=1736854754",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418830/73c807fc7c0f1decf33c670e69e438c5b3fd0798/capsule_231x87.jpg?t=1736854754",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418830/73c807fc7c0f1decf33c670e69e438c5b3fd0798/capsule_184x69.jpg?t=1736854754",
     "website": null,
     "developers": [
       "me"
@@ -1772,28 +1774,42 @@
     "publishers": [
       "me"
     ],
-    "package_groups": [],
+    "packages": [
+      1209115
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Bear Jump",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "14 Jan, 2025"
     },
     "support_info": {
       "url": "https://space.bilibili.com/85299277?spm_id_from=333.788.0.0",
       "email": "123456789"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418830/page_bg_generated_v6b.jpg?t=1735616155",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418830/page_bg_generated.jpg?t=1735616155",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418830?t=1736854754",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418830?t=1736854754",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1911,9 +1927,9 @@
     "is_free": false,
     "short_description": "The player gets ready to face moles popping up from various holes. As the game advances, the speed and frequency of the moles' appearances increase, challenging the player's reflexes and hand-eye coordination.",
     "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418840/header.jpg?t=1735664768",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418840/a45aad6deb762b3253072f917a4465b825ddce45/capsule_231x87.jpg?t=1735664768",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418840/a45aad6deb762b3253072f917a4465b825ddce45/capsule_184x69.jpg?t=1735664768",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418840/header.jpg?t=1736855519",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418840/a45aad6deb762b3253072f917a4465b825ddce45/capsule_231x87.jpg?t=1736855519",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418840/a45aad6deb762b3253072f917a4465b825ddce45/capsule_184x69.jpg?t=1736855519",
     "website": null,
     "developers": [
       "me"
@@ -1921,28 +1937,42 @@
     "publishers": [
       "me"
     ],
-    "package_groups": [],
+    "packages": [
+      1209118
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Whack Mole",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "14 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "1245951942@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418840/page_bg_generated_v6b.jpg?t=1735664768",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418840/page_bg_generated.jpg?t=1735664768",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418840?t=1736855519",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418840?t=1736855519",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2048,9 +2078,9 @@
       "name": "Realms of Madness"
     },
     "supported_languages": "English<strong>*</strong>, Dutch<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417770/header.jpg?t=1736672878",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417770/0326efcf74d4f896dcfaabb10a102359a297c07d/capsule_231x87.jpg?t=1736672878",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417770/0326efcf74d4f896dcfaabb10a102359a297c07d/capsule_184x69.jpg?t=1736672878",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417770/header.jpg?t=1737360009",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417770/0326efcf74d4f896dcfaabb10a102359a297c07d/capsule_231x87.jpg?t=1737360009",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417770/0326efcf74d4f896dcfaabb10a102359a297c07d/capsule_184x69.jpg?t=1737360009",
     "website": null,
     "developers": [
       "Robin van der Horst"
@@ -2073,15 +2103,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "20 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "advongergames@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417770/page_bg_generated_v6b.jpg?t=1736672878",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417770/page.bg.jpg?t=1736672878",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3417770?t=1737360009",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417770/page_bg_raw.jpg?t=1737360009",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2327,9 +2357,9 @@
       "appid": "3417930",
       "name": "Liminal Spaces: Outside The Backrooms"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418060/header.jpg?t=1736413015",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418060/dc7cb0fca23a83100174b8f7bc44176f896b77f3/capsule_231x87.jpg?t=1736413015",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418060/dc7cb0fca23a83100174b8f7bc44176f896b77f3/capsule_184x69.jpg?t=1736413015",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418060/header.jpg?t=1737535223",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418060/dc7cb0fca23a83100174b8f7bc44176f896b77f3/capsule_231x87.jpg?t=1737535223",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418060/dc7cb0fca23a83100174b8f7bc44176f896b77f3/capsule_184x69.jpg?t=1737535223",
     "website": null,
     "developers": [
       "Eternity Dev"
@@ -2337,22 +2367,35 @@
     "publishers": [
       "Eternity Dev"
     ],
-    "package_groups": [],
+    "packages": [
+      1208858
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Liminal Spaces: Outside The Backrooms Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
-      "date": "17 Jan, 2025"
+      "coming_soon": false,
+      "date": "22 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "dreamdealersteamfaq@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418060/page_bg_generated_v6b.jpg?t=1736413015",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418060/page_bg_generated.jpg?t=1736413015",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418060?t=1737535223",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418060?t=1737535223",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2522,9 +2565,9 @@
     "is_free": false,
     "short_description": "Angstraum is an oppressive horror game that traps you in a threatening, never-ending loop. Observe your surroundings, uncover deviant anomalies, and escape deadly threats to find the exit.",
     "supported_languages": "English, German",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417760/header.jpg?t=1736382234",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417760/58f7182d5801d9b34611c2224305ea1b664a675d/capsule_231x87.jpg?t=1736382234",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417760/58f7182d5801d9b34611c2224305ea1b664a675d/capsule_184x69.jpg?t=1736382234",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417760/header.jpg?t=1739502484",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417760/58f7182d5801d9b34611c2224305ea1b664a675d/capsule_231x87.jpg?t=1739502484",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417760/58f7182d5801d9b34611c2224305ea1b664a675d/capsule_184x69.jpg?t=1739502484",
     "website": null,
     "developers": [
       "suspkt"
@@ -2540,7 +2583,8 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       23
@@ -2553,8 +2597,8 @@
       "url": "",
       "email": "suspkt.info@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417760/page_bg_generated_v6b.jpg?t=1736382234",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417760/page.bg.jpg?t=1736382234",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3417760?t=1739502484",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417760/page_bg_raw.jpg?t=1739502484",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2840,9 +2884,9 @@
     "is_free": false,
     "short_description": "A very basic cyberpunk action game.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418300/header.jpg?t=1736025653",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418300/5bfabdbe03885931b03343a5a239c6e8931f146e/capsule_231x87.jpg?t=1736025653",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418300/5bfabdbe03885931b03343a5a239c6e8931f146e/capsule_184x69.jpg?t=1736025653",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418300/header.jpg?t=1737224070",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418300/5bfabdbe03885931b03343a5a239c6e8931f146e/capsule_231x87.jpg?t=1737224070",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418300/5bfabdbe03885931b03343a5a239c6e8931f146e/capsule_184x69.jpg?t=1737224070",
     "website": null,
     "developers": [
       "Mayhemcreations"
@@ -2850,7 +2894,20 @@
     "publishers": [
       "Mayhemcreations"
     ],
-    "package_groups": [],
+    "packages": [
+      1208940
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Everfall 1999",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2859,7 +2916,8 @@
     "categories": [
       2,
       18,
-      23
+      23,
+      62
     ],
     "genres": [
       1,
@@ -2867,15 +2925,15 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "18 Jan, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/gAe48SYF",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418300/page_bg_generated_v6b.jpg?t=1736025653",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418300/page_bg_generated.jpg?t=1736025653",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418300?t=1737224070",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418300?t=1737224070",
     "content_descriptors": {
       "ids": [
         5
@@ -3177,8 +3235,8 @@
       "url": "http://support.trainzportal.com/",
       "email": "support@n3vgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418750/page_bg_generated_v6b.jpg?t=1736238098",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418750/page_bg_generated.jpg?t=1736238098",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418750?t=1736238098",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418750?t=1736238098",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3258,8 +3316,8 @@
       "url": "http://support.trainzportal.com/",
       "email": "support@n3vgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418740/page_bg_generated_v6b.jpg?t=1736238094",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418740/page_bg_generated.jpg?t=1736238094",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418740?t=1736238094",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418740?t=1736238094",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3340,8 +3398,8 @@
       "url": "http://support.trainzportal.com/",
       "email": "support@n3vgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418760/page_bg_generated_v6b.jpg?t=1736238102",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418760/page_bg_generated.jpg?t=1736238102",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418760?t=1736238102",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418760?t=1736238102",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3423,8 +3481,8 @@
       "url": "support.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418010/page_bg_generated_v6b.jpg?t=1736260487",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418010/page_bg_generated.jpg?t=1736260487",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418010?t=1736260487",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418010?t=1736260487",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3509,8 +3567,8 @@
       "url": "support.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418110/page_bg_generated_v6b.jpg?t=1736260522",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418110/page_bg_generated.jpg?t=1736260522",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418110?t=1736260522",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418110?t=1736260522",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3540,15 +3598,21 @@
     "is_free": false,
     "short_description": "An AI-driven creative game. As an arcade workshop clerk, you'll face AI customers with diverse demands. Your task is to modify classic games , adjust game levels to meet customers' needs, and with the manager's help, expand and strengthen the arcade workshop.",
     "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419000/header.jpg?t=1736264164",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419000/8c7bfdce3f1714b8e90d1b2842d425d6511f012b/capsule_231x87.jpg?t=1736264164",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419000/8c7bfdce3f1714b8e90d1b2842d425d6511f012b/capsule_184x69.jpg?t=1736264164",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419000/header.jpg?t=1739781026",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419000/8c7bfdce3f1714b8e90d1b2842d425d6511f012b/capsule_231x87.jpg?t=1739781026",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419000/8c7bfdce3f1714b8e90d1b2842d425d6511f012b/capsule_184x69.jpg?t=1739781026",
     "website": null,
     "developers": [
       "Emergence"
     ],
     "publishers": [
       "Emergence"
+    ],
+    "demos": [
+      {
+        "appid": 3428820,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -3557,7 +3621,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -3572,8 +3637,8 @@
       "url": "",
       "email": "shi0423@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419000/page_bg_generated_v6b.jpg?t=1736264164",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419000/page_bg_generated.jpg?t=1736264164",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3419000?t=1739781026",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3419000?t=1739781026",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5996,16 +6061,15 @@
     "steam_appid": 3419330,
     "required_age": 0,
     "is_free": true,
-    "controller_support": "full",
-    "short_description": "IslaNode Rescue Signal it is a unique survival adventure ,set on deserted island where you have nothing but natural resources. Stranded alone, you\u2019ll need to explore, gather materials, and craft with unique node-based crafting system.",
+    "short_description": "IslaNode Rescue Signal it is a unique survival adventure, set on deserted island where you have nothing but natural resources. Stranded alone, you\u2019ll need to explore, gather materials, and craft with unique node-based crafting system.",
     "fullgame": {
       "appid": "3233250",
       "name": "IslaNode Rescue Signal"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419330/header.jpg?t=1736788439",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419330/df7848e2eb90a0390c8460b6d8f58d6257c98567/capsule_231x87.jpg?t=1736788439",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419330/df7848e2eb90a0390c8460b6d8f58d6257c98567/capsule_184x69.jpg?t=1736788439",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419330/header.jpg?t=1740336109",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419330/f8787d65bc9ecffbafc289c22e0635a27c28cd65/capsule_231x87.jpg?t=1740336109",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419330/f8787d65bc9ecffbafc289c22e0635a27c28cd65/capsule_184x69.jpg?t=1740336109",
     "website": null,
     "developers": [
       "Gor Yeritsyan"
@@ -6021,13 +6085,15 @@
     },
     "categories": [
       2,
-      10,
-      28
+      10
     ],
     "genres": [
       23,
       25
     ],
+    "achievements": {
+      "total": 3
+    },
     "release_date": {
       "coming_soon": false,
       "date": "13 Jan, 2025"
@@ -6036,8 +6102,8 @@
       "url": "https://gory1337.github.io/special-fortnight/",
       "email": "contactgoryeritsyan@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419330/page_bg_generated_v6b.jpg?t=1736788439",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419330/page_bg_generated.jpg?t=1736788439",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3419330?t=1740336109",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3419330?t=1740336109",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6070,9 +6136,9 @@
     "controller_support": "full",
     "short_description": "LEAVE is a cinematic 3D platformer where exploration, puzzles, and seamless gameplay come together. Step into the shoes of a young child navigating a hauntingly beautiful world, overcoming challenges, and uncovering a poignant tale of resilience, hope, and defiance against tyranny.",
     "supported_languages": "English, Arabic, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417200/header.jpg?t=1736788775",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417200/c7340313d94dc45cb736630ecec1fde8cb907051/capsule_231x87.jpg?t=1736788775",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417200/c7340313d94dc45cb736630ecec1fde8cb907051/capsule_184x69.jpg?t=1736788775",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417200/header.jpg?t=1737030682",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417200/c7340313d94dc45cb736630ecec1fde8cb907051/capsule_231x87.jpg?t=1737030682",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417200/c7340313d94dc45cb736630ecec1fde8cb907051/capsule_184x69.jpg?t=1737030682",
     "website": "https://ramdalgames.com",
     "developers": [
       "Ramdal Games"
@@ -6089,7 +6155,8 @@
     "categories": [
       2,
       28,
-      61
+      61,
+      62
     ],
     "genres": [
       1,
@@ -6101,17 +6168,17 @@
       "date": "2025"
     },
     "support_info": {
-      "url": "",
+      "url": "https://ramdalgames.com/contact",
       "email": "support@ramdalgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417200/page_bg_generated_v6b.jpg?t=1736788775",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417200/page.bg.jpg?t=1736788775",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3417200?t=1737030682",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417200/page_bg_raw.jpg?t=1737030682",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
-      "notes": null
+      "notes": "While there\u2019s no explicit content like sexual acts, substance abuse, or self-harm, LEAVE tackles mature themes of oppression, violence, and loss through a narrative-driven lens. Players will encounter:\r\nViolence and Destruction: Scenes of conflict and loss.\r\nEmotional Distress: The impact of war on families and a child\u2019s survival.\r\nMild Physical Conflict: Non-lethal interactions like throwing objects.\r\nPlayers should be aware of its emotionally intense themes."
     },
     "ratings": {
       "dejus": {
@@ -6514,7 +6581,7 @@
   },
   "3418650": {
     "type": "demo",
-    "name": "Whispers in the Wood Demo",
+    "name": "Whispers in the Forest Demo",
     "steam_appid": 3418650,
     "required_age": 0,
     "is_free": true,
@@ -6522,15 +6589,15 @@
     "short_description": "Whispers in the Forest is a single-player base defense strategy game where you must build, upgrade, and defend your base against demonic creatures in a cursed forest. Manage your resources, lead your troops, and survive the darkness of the night as you fight to protect your only hope for salvation.",
     "fullgame": {
       "appid": "3409460",
-      "name": "Whispers in the Wood"
+      "name": "Whispers in the Forest"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418650/header.jpg?t=1736855143",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418650/30ab6f121fcc6c1d09959c9268565ef102051ef2/capsule_231x87.jpg?t=1736855143",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418650/30ab6f121fcc6c1d09959c9268565ef102051ef2/capsule_184x69.jpg?t=1736855143",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418650/header.jpg?t=1742262637",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418650/da4130b95daa7869f66f61bb1400af3221486ab8/capsule_231x87.jpg?t=1742262637",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418650/da4130b95daa7869f66f61bb1400af3221486ab8/capsule_184x69.jpg?t=1742262637",
     "website": null,
     "developers": [
-      "Atzi"
+      "Atzi Games Studio"
     ],
     "publishers": [
       "Atzi Games Studio"
@@ -6551,6 +6618,9 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 1
+    },
     "release_date": {
       "coming_soon": false,
       "date": "14 Jan, 2025"
@@ -6559,8 +6629,8 @@
       "url": "",
       "email": "atzi.games.studio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418650/page_bg_generated_v6b.jpg?t=1736855143",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418650/page.bg.jpg?t=1736855143",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418650?t=1742262637",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418650/page_bg_raw.jpg?t=1742262637",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6732,8 +6802,8 @@
       "url": "support.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418120/page_bg_generated_v6b.jpg?t=1736868626",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418120/page_bg_generated.jpg?t=1736868626",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418120?t=1736868626",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3418120?t=1736868626",
     "content_descriptors": {
       "ids": [],
       "notes": null
