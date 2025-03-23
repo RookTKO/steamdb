@@ -3582,47 +3582,79 @@
     "steam_appid": 1713350,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "Project Castaway is a survival crafting title set in the Pacific Ocean. Live the life of a stranded castaway, with only yourself - and the island's inhabitants - for company! Sail the ocean, hunt, explore unique islands and gather resources as you fight for survival.",
-    "supported_languages": "English, French, Japanese, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, German, Spanish - Spain",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1713350/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1713350/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1713350/capsule_184x69.jpg",
-    "website": "https://www.projectcastaway.com/",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713350/header.jpg?t=1742583319",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713350/a5229e3a9d97524ee9eb3df0707617f280fee369/capsule_231x87.jpg?t=1742583319",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713350/a5229e3a9d97524ee9eb3df0707617f280fee369/capsule_184x69.jpg?t=1742583319",
+    "website": "https://mardonpol.com/",
     "developers": [
       "Mardonpol Inc."
     ],
     "publishers": [
-      "Mardonpol Inc. "
+      "Mardonpol Inc."
     ],
-    "package_groups": [],
+    "packages": [
+      613534
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Project Castaway",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
-      1,
-      2
+      2,
+      28,
+      62
     ],
     "genres": [
       1,
+      3,
       4,
       25,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "23 Sep, 2024"
     },
     "support_info": {
-      "url": "https://projectcastaway.com/",
+      "url": "https://discord.gg/yhZXjWA9kC",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1713350/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1713350/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1713350?t=1742583319",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1713350?t=1742583319",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "1713710": {
@@ -8740,35 +8772,48 @@
     "name": "Find Love or Die Trying",
     "steam_appid": 1714320,
     "required_age": 0,
-    "is_free": true,
+    "is_free": false,
     "dlc": [
       1714330
     ],
     "short_description": "Welcome to the only killer dating show where ending up single means ending up dead! Date or die, it's up to your choices!",
     "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Spain<strong>*</strong>, Korean<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1714320/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1714320/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1714320/capsule_184x69.jpg",
-    "website": "https://audenchowong.com",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714320/header.jpg?t=1742163760",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714320/capsule_231x87.jpg?t=1742163760",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714320/capsule_184x69.jpg?t=1742163760",
+    "website": "https://www.patreon.com/sunseekergames",
     "developers": [
-      "Auden Cho-Wong"
+      "Sunseeker Games"
     ],
     "publishers": [
-      "Auden Cho-Wong"
+      "Sunseeker Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1025167
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Find Love or Die Trying",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
-      23,
-      37
+      23
     ],
     "release_date": {
       "coming_soon": false,
@@ -8776,16 +8821,29 @@
     },
     "support_info": {
       "url": "",
-      "email": "audencw@gmail.com"
+      "email": "audenchowong@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1714320/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1714320/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1714320?t=1742163760",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714320/page_bg_raw.jpg?t=1742163760",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
       "notes": "Find Love or Die Trying contains suggestive content, but nothing visually explicit."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Andeutungen\nGewalt\nSchimpfw\u00f6rte"
+      }
     }
   },
   "1713281": {

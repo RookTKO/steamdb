@@ -51,8 +51,8 @@
       "url": "",
       "email": "factorytrashcension@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497890/page_bg_generated_v6b.jpg?t=1738779906",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497890/page_bg_generated.jpg?t=1738779906",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3497890?t=1738779906",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3497890?t=1738779906",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1712,9 +1712,9 @@
     "is_free": false,
     "short_description": "Eighteen-year-old Maxim Karasev, full of hopes for adulthood, finally left his parents' home. He invested his small savings in renting a modest apartment in an old, somewhat dilapidated neighborhood of the city.",
     "supported_languages": "Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495820/header.jpg?t=1739196107",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495820/c80c85d6eb3febb7db51ed32341d41f5be869cb0/capsule_231x87.jpg?t=1739196107",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495820/c80c85d6eb3febb7db51ed32341d41f5be869cb0/capsule_184x69.jpg?t=1739196107",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495820/header.jpg?t=1739955697",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495820/c80c85d6eb3febb7db51ed32341d41f5be869cb0/capsule_231x87.jpg?t=1739955697",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495820/c80c85d6eb3febb7db51ed32341d41f5be869cb0/capsule_184x69.jpg?t=1739955697",
     "website": null,
     "developers": [
       "STuNT",
@@ -1723,14 +1723,34 @@
     "publishers": [
       "STuNT"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3538030,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1234481
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u041a\u0412\u0410\u0420\u0422\u0418\u0420\u0410\u041d\u0422",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -1739,15 +1759,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "15 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "almaztokarev50@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495820/page_bg_generated_v6b.jpg?t=1739196107",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495820/page_bg_generated.jpg?t=1739196107",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3495820?t=1739955697",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3495820?t=1739955697",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6156,11 +6176,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Face the ultimate nightmare in this chilling 2D survival horror action game about understanding and overcoming anxiety and despair. Explore manifestations of your fears, engage in challenging fast-paced combat and survive encounters with terrifying, relentless enemies.",
+    "short_description": "Noxia Somnia: Ultimate Edition is a remaster and story expansion of the indie horror gem Noxia Somnia. This definitive edition enhances the game\u2019s signature mix of exploration and action combat while staying true to its retro horror aesthetic.",
     "supported_languages": "English, French",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497370/header.jpg?t=1739365874",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497370/a07b3af9263506811d75ecc70b921ed8b725ab02/capsule_231x87.jpg?t=1739365874",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497370/a07b3af9263506811d75ecc70b921ed8b725ab02/capsule_184x69.jpg?t=1739365874",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497370/header.jpg?t=1739465788",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497370/a07b3af9263506811d75ecc70b921ed8b725ab02/capsule_231x87.jpg?t=1739465788",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497370/a07b3af9263506811d75ecc70b921ed8b725ab02/capsule_184x69.jpg?t=1739465788",
     "website": "https://noxiasomnia.com/",
     "developers": [
       "Reframe Games"
@@ -6177,7 +6197,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -6192,8 +6213,8 @@
       "url": "https://noxiasomnia.com/",
       "email": "contact@reframegames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497370/page_bg_generated_v6b.jpg?t=1739365874",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497370/page_bg_generated.jpg?t=1739365874",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3497370?t=1739465788",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3497370?t=1739465788",
     "content_descriptors": {
       "ids": [
         5
@@ -6288,17 +6309,23 @@
     "steam_appid": 3495250,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Bring prestige back to earth by building your engines and finding Glory on Pluto in this offbeat and unique deckbuilding rougelike.",
+    "short_description": "Bring prestige back to Earth by building your engines and finding Glory on Pluto in this offbeat and unique deckbuilding rougelike.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495250/header.jpg?t=1739314368",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495250/b36e9d7e0f5350c5761af22057ebf9f10f228221/capsule_231x87.jpg?t=1739314368",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495250/b36e9d7e0f5350c5761af22057ebf9f10f228221/capsule_184x69.jpg?t=1739314368",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495250/d7919e60e5acda22cfc3903b0dc646927704c0e0/header.jpg?t=1742340231",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495250/5af5319d6e940c57e6d6e1c0fc506a371b2868f1/capsule_231x87.jpg?t=1742340231",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495250/5af5319d6e940c57e6d6e1c0fc506a371b2868f1/capsule_184x69.jpg?t=1742340231",
     "website": null,
     "developers": [
       "LittleBigEars Games"
     ],
     "publishers": [
       "LittleBigEars Games"
+    ],
+    "demos": [
+      {
+        "appid": 3536620,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -6307,7 +6334,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -6316,14 +6344,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q1 2025"
+      "date": "Q2 2025"
     },
     "support_info": {
       "url": "",
       "email": "tom.stockley@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495250/page_bg_generated_v6b.jpg?t=1739314368",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495250/page.bg.jpg?t=1739314368",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3495250?t=1742340231",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495250/page_bg_raw.jpg?t=1742340231",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6355,9 +6383,9 @@
     "is_free": false,
     "short_description": "A climbing game, may encounter obstacles in the middle of the fall, the player needs to constantly try to reach the end\u3002",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496570/header.jpg?t=1739323733",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496570/4af02c7b1baa902ef0789fc7fcd13dcdbf4cf7d7/capsule_231x87.jpg?t=1739323733",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496570/4af02c7b1baa902ef0789fc7fcd13dcdbf4cf7d7/capsule_184x69.jpg?t=1739323733",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496570/header.jpg?t=1740496263",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496570/4af02c7b1baa902ef0789fc7fcd13dcdbf4cf7d7/capsule_231x87.jpg?t=1740496263",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496570/4af02c7b1baa902ef0789fc7fcd13dcdbf4cf7d7/capsule_184x69.jpg?t=1740496263",
     "website": null,
     "developers": [
       "ZMFZZZ",
@@ -6366,14 +6394,28 @@
     "publishers": [
       "ZMFZZZ"
     ],
-    "package_groups": [],
+    "packages": [
+      1234713
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy DayDayUp",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -6381,15 +6423,15 @@
       18
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "25 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "617926547@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496570/page_bg_generated_v6b.jpg?t=1739323733",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496570/page.bg.jpg?t=1739323733",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3496570?t=1740496263",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496570/page_bg_raw.jpg?t=1740496263",
     "content_descriptors": {
       "ids": [],
       "notes": null

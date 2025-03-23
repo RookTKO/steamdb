@@ -1008,13 +1008,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773530/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773530/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773530/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773530/header.jpg?t=1704897400",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773530/capsule_231x87.jpg?t=1704897400",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773530/capsule_184x69.jpg?t=1704897400",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -1029,8 +1026,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773530?t=1704897400",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773530?t=1704897400",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2271,9 +2268,9 @@
     "is_free": true,
     "short_description": "Generate voltage while uncovering the mysteries of a power plant in this story-based clicker game.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774240/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774240/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2774240/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774240/header.jpg?t=1706909482",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774240/capsule_231x87.jpg?t=1706909482",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774240/capsule_184x69.jpg?t=1706909482",
     "website": null,
     "developers": [
       "Juxtapose"
@@ -2302,8 +2299,8 @@
       "url": "https://www.digipen.edu/",
       "email": "games@digipen.edu"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2774240/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2774240/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774240?t=1706909482",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774240/page_bg_raw.jpg?t=1706909482",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3160,17 +3157,30 @@
     "is_free": false,
     "short_description": "Ghost Janitors is a multiplayer psychological horror game for 1-4 players. Your job? Cleaning haunted houses while avoiding terrifying monsters. Ready to face the spine-tingling challenge with your team?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772990/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772990/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772990/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/header.jpg?t=1739283716",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/8f9734c62e1ba5de6a2e27efd1b7d34bc7c4b6b0/capsule_231x87.jpg?t=1739283716",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/8f9734c62e1ba5de6a2e27efd1b7d34bc7c4b6b0/capsule_184x69.jpg?t=1739283716",
     "website": null,
     "developers": [
-      "Interactive Wave Studios"
+      "Interactive Wave Studio"
     ],
     "publishers": [
-      "Interactive Wave Studios"
+      "Interactive Wave Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      991209
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ghost Janitors",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3181,7 +3191,8 @@
       2,
       9,
       22,
-      38
+      38,
+      62
     ],
     "genres": [
       1,
@@ -3189,16 +3200,19 @@
       25,
       70
     ],
+    "achievements": {
+      "total": 21
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "interactivewavestudios@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772990/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772990/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772990?t=1739283716",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/page_bg_raw.jpg?t=1739283716",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5056,11 +5070,11 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Hospital 666 is a 1-4 player horror escape game. Traverse through eerie hospital levels while observing the occurrence of anomalies and choosing the correct elevator. Some abnormal bosses will chase you to death, and you must find the right way to escape them.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian, Japanese, Simplified Chinese, Traditional Chinese, Portuguese - Portugal, Thai, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774380/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774380/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2774380/capsule_184x69.jpg",
-    "website": null,
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian, Japanese, Simplified Chinese, Traditional Chinese, Portuguese - Portugal, Thai, Korean, Turkish<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774380/header.jpg?t=1738166686",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774380/capsule_231x87.jpg?t=1738166686",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774380/capsule_184x69.jpg?t=1738166686",
+    "website": "https://lokinstudios.com/",
     "developers": [
       "Lokin"
     ],
@@ -5108,11 +5122,11 @@
       "date": "5 Mar, 2024"
     },
     "support_info": {
-      "url": "https://loginlee.github.io/",
-      "email": "edmundlylee@gmail.com"
+      "url": "https://lokinstudios.com/",
+      "email": "hello@lokinstudios.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2774380/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2774380/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774380?t=1738166686",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774380/page_bg_raw.jpg?t=1738166686",
     "content_descriptors": {
       "ids": [
         5
@@ -5578,9 +5592,9 @@
     "is_free": false,
     "short_description": "Laser Defense Extreme is a Tower Defense Game, with a Killstreak System. Place your &quot;Towers&quot; strategically and eliminate the incoming enemies.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773070/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773070/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773070/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773070/header.jpg?t=1711065292",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773070/capsule_231x87.jpg?t=1711065292",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773070/capsule_184x69.jpg?t=1711065292",
     "website": null,
     "developers": [
       "Viktor Borg Grelsson"
@@ -5627,8 +5641,8 @@
       "url": "",
       "email": "v.grelsson@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773070/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773070/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773070?t=1711065292",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773070?t=1711065292",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5815,9 +5829,9 @@
     "is_free": true,
     "short_description": "&quot;Eye See Fun&quot; is a casual adventure and puzzle game with the main character being an eye. Players engage in the game by manipulating the eye and interacting with objects in the scenes to solve puzzles and unlock different environments. The goal is to help the eye find its companion.",
     "supported_languages": "English, German, Simplified Chinese, Traditional Chinese, French, Russian, Japanese, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773460/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773460/header.jpg?t=1711086825",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773460/capsule_231x87.jpg?t=1711086825",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773460/capsule_184x69.jpg?t=1711086825",
     "website": null,
     "developers": [
       "HaijunYu"
@@ -5842,15 +5856,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Mar, 2024"
     },
     "support_info": {
       "url": "",
       "email": "yuhaijun33@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773460/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773460?t=1711086825",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773460?t=1711086825",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6847,16 +6861,16 @@
   },
   "2774460": {
     "type": "game",
-    "name": "Roots",
+    "name": "Roots of Fury",
     "steam_appid": 2774460,
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Roots is a dungeon Crawler where you fight off the evil critters with the support of your ants. You play a mad biologist. Insects started to eat the roots of her plants. She decides to shrink herself to work together with the ants to protect the roots form the insects.",
+    "short_description": "In this action packed RPG you play a scientist that shrunk herself to defeat insects that are eating the roots of her plants. The scientist enlists the help of an ant hive, where she has her base and can also craft weapons.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2774460/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774460/header.jpg?t=1737455775",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774460/9f34d96b149b8b4509d6881cfb455eee82cf49ce/capsule_231x87.jpg?t=1737455775",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774460/9f34d96b149b8b4509d6881cfb455eee82cf49ce/capsule_184x69.jpg?t=1737455775",
     "website": "https://www.knpgamestudio.com",
     "developers": [
       "knit'n'purl game studio LLC"
@@ -6884,10 +6898,14 @@
       36,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
-      1
+      1,
+      3,
+      23,
+      25
     ],
     "release_date": {
       "coming_soon": true,
@@ -6897,8 +6915,8 @@
       "url": "https://www.knpgamestudio.com",
       "email": "luciana@knpgamestudio.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2774460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2774460/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774460?t=1737455775",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774460?t=1737455775",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7589,15 +7607,15 @@
   },
   "2773520": {
     "type": "game",
-    "name": "\u5b8c\u7f8e\u604b\u4eba fragile love",
+    "name": "\u5b8c\u7f8e\u604b\u4eba~fragile love",
     "steam_appid": 2773520,
     "required_age": 0,
     "is_free": false,
-    "short_description": "\u300a\u5b8c\u7f8e\u604b\u4eba~fragile love\u300b\u662fXUWULE\u6e38\u620f\u5de5\u4f5c\u5ba4\u5236\u4f5c\u7684\u4e00\u6b3e\u767e\u5408\u9898\u6750\u89c6\u89c9\u5c0f\u8bf4\uff0c\u8bb2\u8ff0\u4e86\u4e00\u4e2a\u5173\u4e8e\u627f\u8bfa\u4e0e\u6551\u8d4e\u7684\u6545\u4e8b\u3002",
+    "short_description": "&quot;The Perfect Lover&quot; is a lily themed visual novel produced by XUWULE Game Studio, which is a story about promise and redemption.",
     "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773520/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773520/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773520/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773520/header.jpg?t=1736241990",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773520/6cd1308a68a46aade5a4e7fd8dde7e280fb54b51/capsule_231x87.jpg?t=1736241990",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773520/6cd1308a68a46aade5a4e7fd8dde7e280fb54b51/capsule_184x69.jpg?t=1736241990",
     "website": null,
     "developers": [
       "XUWULE\u5236\u4f5c\u7ec4"
@@ -7605,14 +7623,34 @@
     "publishers": [
       "XUWULE\u5236\u4f5c\u7ec4"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2941920,
+        "description": ""
+      }
+    ],
+    "packages": [
+      991378
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u5b8c\u7f8e\u604b\u4eba~fragile love",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
@@ -7621,15 +7659,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "675211156@qq.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773520/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773520/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773520?t=1736241990",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773520/page_bg_raw.jpg?t=1736241990",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7665,9 +7703,9 @@
       "name": "Angel Legion"
     },
     "supported_languages": "English, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Japanese<strong>*</strong>, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774750/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774750/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2774750/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774750/header.jpg?t=1713340981",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774750/capsule_231x87.jpg?t=1713340981",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774750/capsule_184x69.jpg?t=1713340981",
     "website": null,
     "developers": [
       "Shanghai SilverMoon Network Technology Co.Ltd"
@@ -7678,7 +7716,7 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
@@ -7709,8 +7747,8 @@
       "url": "https://weibo.com/u/7182676360",
       "email": "xingfei6661@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2774750/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2774750/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774750?t=1713340981",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774750?t=1713340981",
     "content_descriptors": {
       "ids": [
         1,
@@ -8887,9 +8925,9 @@
     "is_free": false,
     "short_description": "Build factories, manage resources, research new technologies, try to locate the best markets to sell your products. Keep building, managing resources, researching and selling. Repeat, fail, learn, repeat, succeed, grow",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Traditional Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Hungarian<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Ukrainian<strong>*</strong>, Arabic<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773350/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773350/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773350/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773350/header.jpg?t=1706074938",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773350/capsule_231x87.jpg?t=1706074938",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773350/capsule_184x69.jpg?t=1706074938",
     "website": null,
     "developers": [
       "Gran Capitan Game Dev"
@@ -8904,7 +8942,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -8920,8 +8959,8 @@
       "url": "",
       "email": "grancapitangamedev@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773350/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773350/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773350?t=1706074938",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773350/page_bg_raw.jpg?t=1706074938",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8953,9 +8992,9 @@
     "is_free": false,
     "short_description": "You Have Time Powers Like Stoping Time,TimeBall To Slow Down Specific Target, TimeSphere Which Stops Time In Range And Timeray Etc...",
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773780/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773780/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773780/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773780/header.jpg?t=1707395928",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773780/capsule_231x87.jpg?t=1707395928",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773780/capsule_184x69.jpg?t=1707395928",
     "website": null,
     "developers": [
       "blain"
@@ -9001,8 +9040,8 @@
       "url": "",
       "email": "gamerbbn@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773780/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773780/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773780?t=1707395928",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773780/page_bg_raw.jpg?t=1707395928",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9386,9 +9425,9 @@
       "name": "Guild Saga: Vanished Worlds"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773210/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773210/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773210/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773210/header.jpg?t=1706213873",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773210/capsule_231x87.jpg?t=1706213873",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773210/capsule_184x69.jpg?t=1706213873",
     "website": "https://www.guildsaga.com/vw",
     "developers": [
       "Ocelot"
@@ -9414,8 +9453,8 @@
       "url": "",
       "email": "info@guildsaga.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773210?t=1706213873",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773210?t=1706213873",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9447,9 +9486,9 @@
     "is_free": false,
     "short_description": "Meet gorgeous women! Raid and defend your village, explore the islands of the north and build your own harem in Vikings: Sex and Blood!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774580/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774580/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2774580/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774580/header.jpg?t=1728545410",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774580/7242293ee41c817e64af43a34b85f1cbc11f0427/capsule_231x87.jpg?t=1728545410",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774580/7242293ee41c817e64af43a34b85f1cbc11f0427/capsule_184x69.jpg?t=1728545410",
     "website": "https://dreambiggame.com/",
     "developers": [
       "DreamBig Games"
@@ -9457,7 +9496,20 @@
     "publishers": [
       "DreamBig Games"
     ],
-    "package_groups": [],
+    "packages": [
+      991716
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Vikings: Sex and Blood",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -9465,31 +9517,34 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
+      3,
       4,
       25,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "7 May, 2024"
+      "coming_soon": false,
+      "date": "9 Oct, 2024"
     },
     "support_info": {
       "url": "https://dreambiggame.com/",
       "email": "support@dreambiggame.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2774580/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2774580/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774580?t=1728545410",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774580/page_bg_raw.jpg?t=1728545410",
     "content_descriptors": {
       "ids": [
         1,
+        2,
         3,
         4,
         5
       ],
-      "notes": "The game features sexual content, displaying full genitalia and sexual acts like:\r\nPenetration; Ejaculation; Female Ejaculation; Full Nudity; Harems; Threesomes; Lesbian Content, Vaginal and Anal or Oral sex"
+      "notes": "The game features sexual content, displaying full genitalia and sexual acts like:\r\nPenetration; Ejaculation; Female Ejaculation; Full Nudity; Harems; Threesomes; Lesbian Content, Vaginal and Anal or Oral sex.\r\nThe game features incestuous relations like : Sister- sister sexual content, sister- sister threesomes, etc.  \r\nIt also contains fight scenes, where blood is visible, and dismemberment ( cutting of heads, arms, etc ), and references to slavery and non-consensual sex/ sexual assault, but not by the player character.\r\n"
     },
     "ratings": {
       "dejus": {
@@ -9498,7 +9553,7 @@
         "required_age": "18",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Nudez\nLinguagem impr\u00f3pria\nViol\u00eancia fantasiosa"
+        "descriptors": "Viol\u00eancia Extrema\nNudez\nLinguagem impr\u00f3pria"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -9506,7 +9561,7 @@
         "required_age": "2147483647",
         "banned": "1",
         "use_age_gate": "0",
-        "descriptors": "Sexuelle Inhalte"
+        "descriptors": "Drastische Gewalt\nSexuelle Inhalte\nAlkohol / Tabak"
       }
     }
   },
@@ -9518,9 +9573,9 @@
     "is_free": false,
     "short_description": "You are a simple and vulnerable goose with a mortal mission, steal and escape from the bigest organization on the planet. The Goose Tale is a 3D platform game, where you will use skills and make easier your escape from the organization.",
     "supported_languages": "English, Spanish - Spain, Spanish - Latin America, Simplified Chinese, Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773000/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773000/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773000/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773000/header.jpg?t=1729114659",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773000/capsule_231x87.jpg?t=1729114659",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773000/capsule_184x69.jpg?t=1729114659",
     "website": null,
     "developers": [
       "Pangean Tales"
@@ -9538,7 +9593,8 @@
       2,
       15,
       23,
-      25
+      25,
+      62
     ],
     "genres": [
       1,
@@ -9549,14 +9605,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "29 Mar, 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "pangean.tales@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773000/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773000/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773000?t=1729114659",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773000?t=1729114659",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9582,15 +9638,15 @@
   },
   "2773270": {
     "type": "game",
-    "name": "\u73a9\u5177\u5e1d\u56fd",
+    "name": "\u73a9\u5177\u5e1d\u56fd Toy Empires",
     "steam_appid": 2773270,
     "required_age": 0,
     "is_free": false,
     "short_description": "Toy Empires is a unique fast-paced, micro-management-free real-time strategy game. All you have to do is make the purest decisions and games!",
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773270/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773270/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773270/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773270/header.jpg?t=1713502669",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773270/capsule_231x87.jpg?t=1713502669",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773270/capsule_184x69.jpg?t=1713502669",
     "website": "http://toyempires.top/",
     "developers": [
       "\u4e8c\u7ef4\u516c\u6c11"
@@ -9615,7 +9671,8 @@
       2,
       27,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2,
@@ -9630,8 +9687,8 @@
       "url": "http://toyempires.top/",
       "email": "HkingAuditore@Gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773270/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773270/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773270?t=1713502669",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773270/page_bg_raw.jpg?t=1713502669",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9730,9 +9787,9 @@
     "is_free": false,
     "short_description": "This is a visual novel game. Players can obtain relevant information with npc and explore the maps on an island called Soraki to form their own understanding of this story. Can you continue to find the so-called truth by constantly trying to explore...",
     "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774950/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774950/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2774950/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774950/header.jpg?t=1707724855",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774950/capsule_231x87.jpg?t=1707724855",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774950/capsule_184x69.jpg?t=1707724855",
     "website": null,
     "developers": [
       "soraki"
@@ -9775,8 +9832,8 @@
       "url": "",
       "email": "3757414191@qq.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2774950/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2774950/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774950?t=1707724855",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774950/page_bg_raw.jpg?t=1707724855",
     "content_descriptors": {
       "ids": [],
       "notes": null

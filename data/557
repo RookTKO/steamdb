@@ -2445,9 +2445,9 @@
       "name": "100% Orange Juice"
     },
     "supported_languages": "English, Japanese<strong>*</strong>, Simplified Chinese, Traditional Chinese, Spanish - Spain, Korean, Portuguese - Brazil, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1672150/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1672150/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1672150/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672150/header.jpg?t=1732491954",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672150/capsule_231x87.jpg?t=1732491954",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672150/capsule_184x69.jpg?t=1732491954",
     "website": "http://fruitbatfactory.com/100orange/",
     "developers": [
       "Orange_Juice"
@@ -2471,8 +2471,8 @@
     ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       1,
@@ -2488,7 +2488,8 @@
       30,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       2,
@@ -2502,11 +2503,31 @@
       "url": "",
       "email": "support@fruitbatfactory.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1672150/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1672150/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1672150?t=1732491954",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1672150?t=1732491954",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Violence\r\nUsers Interact"
+      },
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nLinguagem impr\u00f3pria\r\nDrogas l\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "1673630": {
