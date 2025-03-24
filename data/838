@@ -1647,9 +1647,9 @@
     "is_free": false,
     "short_description": "Natsuna's boring mundane life is interrupted by Slimes, Boss Monsters, and Unpaid Overtime!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514470/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514470/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514470/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514470/header.jpg?t=1710113669",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514470/capsule_231x87.jpg?t=1710113669",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514470/capsule_184x69.jpg?t=1710113669",
     "website": "https://asleeponstream.com/",
     "developers": [
       "AsleepOnStream"
@@ -1674,11 +1674,12 @@
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": true
+      "linux": false
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       3,
@@ -1693,11 +1694,29 @@
       "url": "https://asleeponstream.com/",
       "email": "sleepystreaming@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514470/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514470/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514470?t=1710113669",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514470/page_bg_raw.jpg?t=1710113669",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2516500": {
@@ -1883,19 +1902,36 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Servonauts is an absurd couch co-op fuel-attendant game for up to 4 players. Connect pipes, mix fuels and overcome deadly hazards to meet all the customers demands, or die hilariously while trying.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514400/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514400/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514400/capsule_184x69.jpg",
+    "dlc": [
+      3352120,
+      3352700
+    ],
+    "short_description": "An absurd couch co-op gas station builder for 1-4 players! Manage a servo (that's Aussie for &quot;gas station&quot;) as impatient space travellers demand service. Wrangle wobbly pipes, set up refineries, and mix the right fuels to build space gas stations with peak efficiency.",
+    "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514400/header.jpg?t=1739463758",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514400/2492d4b8188ced41d3646a486f964bc8f0d1b474/capsule_231x87.jpg?t=1739463758",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514400/2492d4b8188ced41d3646a486f964bc8f0d1b474/capsule_184x69.jpg?t=1739463758",
     "website": "http://www.servonauts.com",
     "developers": [
       "MAXART Games"
     ],
     "publishers": [
-      "MAXART Games"
+      "Untold Tales"
     ],
-    "package_groups": [],
+    "packages": [
+      903980
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Servonauts",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1905,28 +1941,52 @@
       1,
       2,
       9,
+      22,
+      23,
       24,
       28,
       39,
-      44
+      44,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 21
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Nov, 2024"
     },
     "support_info": {
       "url": "",
       "email": "developers@servonauts.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514400/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514400/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514400?t=1739463758",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514400/page_bg_raw.jpg?t=1739463758",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2516620": {
@@ -2973,9 +3033,9 @@
     "is_free": true,
     "short_description": "Tower &amp; Defense game, with TopDown view set in a post apocalyptic world of zombies",
     "supported_languages": "English<strong>*</strong>, Italian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514340/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514340/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514340/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514340/header.jpg?t=1691061390",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514340/capsule_231x87.jpg?t=1691061390",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514340/capsule_184x69.jpg?t=1691061390",
     "website": null,
     "developers": [
       "Parisi Interactive Games"
@@ -3007,14 +3067,36 @@
       "url": "",
       "email": "parisi.jose@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514340/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514340/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514340?t=1691061390",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514340?t=1691061390",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "12",
+        "descriptors": "Violencia"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2515860": {
@@ -3873,17 +3955,23 @@
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
-    "short_description": "Mr. K.I.S.S. is an indie rooftop runner &amp; spiritual successor to classics like Canabalt or Vector. It features an atmospheric style, endless procedural levels, skill tree, real-time dynamic difficulty system, hand drawn characters, &amp; a poignant story of a fractured soul facing the ultimate shadow\u2026",
+    "short_description": "Jump. React. Upgrade. Flow. Mr. K.I.S.S. is a single player, atmospheric, HD-2D, procedural rooftop runner. Experience precision platforming, a skill tree, real-time dynamic difficulty system, hand drawn characters, and a poignant story of a fractured soul facing the ultimate shadow...",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514310/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514310/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514310/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514310/header.jpg?t=1738873530",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514310/capsule_231x87.jpg?t=1738873530",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514310/capsule_184x69.jpg?t=1738873530",
     "website": "https://www.bluedendrites.com/",
     "developers": [
       "Blue Dendrites"
     ],
     "publishers": [
       "Blue Dendrites"
+    ],
+    "demos": [
+      {
+        "appid": 2633070,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -3909,11 +3997,29 @@
       "url": "",
       "email": "alexrogan@bluedendrites.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514310/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514310/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514310?t=1738873530",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514310/page_bg_raw.jpg?t=1738873530",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2514930": {
@@ -3967,23 +4073,20 @@
     "type": "dlc",
     "name": "Cepheus Protocol - Free Vehicle Camo Post Modern Collection",
     "steam_appid": 2514440,
-    "required_age": "18",
+    "required_age": "17",
     "is_free": true,
-    "short_description": "We are thrilled to unveil the Post-Modern Camouflage Pack: a set of three unique patterns - Desert Sand, Forest Green, and Snow. What's even better? This downloadable content (DLC) is completely free for all players who wish to acquire it.",
+    "short_description": "Unlock three unique camouflage patterns \u2013 Desert Sand, Forest Green, and Snow \u2013 for all CERC vehicles in Cepheus Protocol with the free Post-Modern Camo Pack. Customize your units individually or change their camo at the Motor Pool.",
     "fullgame": {
       "appid": "979640",
       "name": "Cepheus Protocol"
     },
     "supported_languages": "English<strong>*</strong>, Simplified Chinese, Korean, German, Japanese, Russian, Spanish - Spain, Portuguese - Portugal, French<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514440/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514440/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514440/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514440/header.jpg?t=1726441475",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514440/capsule_231x87.jpg?t=1726441475",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514440/capsule_184x69.jpg?t=1726441475",
     "website": "https://cepheusprotocol.com/",
     "developers": [
       "Halcyon Winds"
-    ],
-    "publishers": [
-      ""
     ],
     "package_groups": [],
     "platforms": {
@@ -3999,7 +4102,8 @@
       23,
       29,
       30,
-      44
+      44,
+      62
     ],
     "genres": [
       1,
@@ -4016,11 +4120,55 @@
       "url": "https://discord.gg/hYzMx3JgDN",
       "email": "support@halcyonwinds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514440/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514440/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514440?t=1726441475",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514440?t=1726441475",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Extreme Violence, Inappropriate Language, Sensitive themes",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood and Gore, Intense Violence",
+        "display_online_notice": "true",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "18",
+        "descriptors": "Extreme Violence",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "crl": {
+        "rating": "18",
+        "descriptors": "Violence, Fear, Language",
+        "required_age": "18"
+      },
+      "oflc": {
+        "rating": "r18",
+        "descriptors": "High Impact Violence",
+        "required_age": "18"
+      },
+      "usk": {
+        "rating": "18",
+        "descriptors": "Explicit Violence, Horror",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2514940": {
@@ -4777,10 +4925,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "A science fiction and high fantsy role playing game which takes place amid the ruins of a shattered planet.",
-    "supported_languages": "English, French",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514360/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514360/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514360/capsule_184x69.jpg",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514360/header.jpg?t=1712610658",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514360/capsule_231x87.jpg?t=1712610658",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514360/capsule_184x69.jpg?t=1712610658",
     "website": "https://dungeoncrawl.ai",
     "developers": [
       "TRAFFIC JAM GAMES"
@@ -4796,7 +4944,8 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       1,
@@ -4805,19 +4954,42 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "12 Mar, 2025"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "https://dungeoncrawl.ai",
       "email": "70m@dungeoncrawl.ai"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514360/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514360/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514360?t=1712610658",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514360/page_bg_raw.jpg?t=1712610658",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "The game's depiction of violence is largely cartoon themed, with some sprite-based blood but nothing graphic. Although some characters or outfits in the game may be revealing there is no explicit sexual content. "
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp",
+        "descriptors": "Game features \r\nViolent References\r\nCartoon Violence\r\nAlcohol Reference\r\nUse of Tobacco\r\nComic Mischief\r\nAnimated Blood\r\nSuggestive Themes",
+        "display_online_notice": "true"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Conte\u00fado sexual\nAtos criminosos\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Andeutungen"
+      }
     }
   },
   "2516820": {
@@ -4999,9 +5171,9 @@
     "is_free": false,
     "short_description": "Experience a realistic school bus with the exciting School Bus Driving Simulator! Get students safely to school, earn rewards, and customize your bus.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514430/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514430/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514430/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514430/header.jpg?t=1690980148",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514430/capsule_231x87.jpg?t=1690980148",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514430/capsule_184x69.jpg?t=1690980148",
     "website": null,
     "developers": [
       "Samet Acar"
@@ -5029,7 +5201,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
@@ -5046,11 +5219,29 @@
       "url": "",
       "email": "rokitogame@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514430/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514430/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514430?t=1690980148",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514430/page_bg_raw.jpg?t=1690980148",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2514880": {
@@ -6712,9 +6903,9 @@
     "is_free": false,
     "short_description": "It's a vampire survive-like game where you survive running away from monsters. If you can survive for 30 minutes, you can win. When a crashed gray man lands on a strange planet, you are very curious about where this is. But first you have to survive hostile creatures.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514540/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514540/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514540/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514540/header.jpg?t=1728664184",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514540/7448659b601bd3c2352f6dac6f5ada42b164ce6b/capsule_231x87.jpg?t=1728664184",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514540/7448659b601bd3c2352f6dac6f5ada42b164ce6b/capsule_184x69.jpg?t=1728664184",
     "website": null,
     "developers": [
       "Noob8890"
@@ -6743,14 +6934,15 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
       4
     ],
     "achievements": {
-      "total": 3
+      "total": 10
     },
     "release_date": {
       "coming_soon": false,
@@ -6760,11 +6952,29 @@
       "url": "https//AwayTimes",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514540/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514540/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514540?t=1728664184",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514540/page_bg_raw.jpg?t=1728664184",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2515950": {
@@ -7386,9 +7596,9 @@
       "name": "wasteland of east"
     },
     "supported_languages": "Simplified Chinese<strong>*</strong>, English<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514520/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514520/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514520/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514520/header.jpg?t=1690852122",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514520/capsule_231x87.jpg?t=1690852122",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514520/capsule_184x69.jpg?t=1690852122",
     "website": null,
     "developers": [
       "\u5228\u51b0\u56e2\u5de5\u4f5c\u5ba4"
@@ -7416,11 +7626,29 @@
       "url": "",
       "email": "venom0@163.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514520?t=1690852122",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514520?t=1690852122",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia\nDrogas il\u00edcitas"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2516730": {
