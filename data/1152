@@ -3016,8 +3016,8 @@
       "url": "http://homegroangames.co.uk",
       "email": "mail@homegroangames.co.uk"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3457060/page_bg_generated_v6b.jpg?t=1737451471",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3457060/page_bg_generated.jpg?t=1737451471",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3457060?t=1737451471",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3457060?t=1737451471",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3863,9 +3863,9 @@
       "appid": "2998290",
       "name": "Weirdo"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456080/header.jpg?t=1737545534",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456080/088a1369c87618091f6e0bba17c8b30ca60d4edb/capsule_231x87.jpg?t=1737545534",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456080/088a1369c87618091f6e0bba17c8b30ca60d4edb/capsule_184x69.jpg?t=1737545534",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456080/header.jpg?t=1739519318",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456080/088a1369c87618091f6e0bba17c8b30ca60d4edb/capsule_231x87.jpg?t=1739519318",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456080/088a1369c87618091f6e0bba17c8b30ca60d4edb/capsule_184x69.jpg?t=1739519318",
     "website": null,
     "developers": [
       "CASCHA GAMES"
@@ -3873,22 +3873,35 @@
     "publishers": [
       "CASCHA GAMES"
     ],
-    "package_groups": [],
+    "packages": [
+      1221174
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Weirdo Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
-      "date": "14 Feb, 2025"
+      "coming_soon": false,
+      "date": "13 Feb, 2025"
     },
     "support_info": {
       "url": "https://www.cascha-games.com/",
       "email": "caschfly@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456080/page_bg_generated_v6b.jpg?t=1737545534",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456080/page_bg_generated.jpg?t=1737545534",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456080?t=1739519318",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456080?t=1739519318",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3925,9 +3938,9 @@
       "name": "Weirdo"
     },
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456140/header.jpg?t=1737545585",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456140/96d057ca133d40da7dc7d969ae5c5599beac4260/capsule_231x87.jpg?t=1737545585",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456140/96d057ca133d40da7dc7d969ae5c5599beac4260/capsule_184x69.jpg?t=1737545585",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456140/header.jpg?t=1739519383",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456140/96d057ca133d40da7dc7d969ae5c5599beac4260/capsule_231x87.jpg?t=1739519383",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456140/96d057ca133d40da7dc7d969ae5c5599beac4260/capsule_184x69.jpg?t=1739519383",
     "website": "https://www.cascha-games.com/",
     "developers": [
       "CASCHA GAMES"
@@ -3935,7 +3948,20 @@
     "publishers": [
       "CASCHA GAMES"
     ],
-    "package_groups": [],
+    "packages": [
+      1221192
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Weirdo Artbook",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3944,7 +3970,8 @@
     "categories": [
       2,
       21,
-      28
+      28,
+      62
     ],
     "genres": [
       4,
@@ -3952,15 +3979,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "14 Feb, 2025"
+      "coming_soon": false,
+      "date": "13 Feb, 2025"
     },
     "support_info": {
       "url": "https://www.cascha-games.com/",
       "email": "caschfly@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456140/page_bg_generated_v6b.jpg?t=1737545585",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456140/page_bg_generated.jpg?t=1737545585",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456140?t=1739519383",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456140?t=1739519383",
     "content_descriptors": {
       "ids": [
         1,
@@ -4001,9 +4028,9 @@
       "name": "Weirdo"
     },
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456130/header.jpg?t=1737603000",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456130/25ff4a92590608ca9cd801a153b6f0d7409aa4b5/capsule_231x87.jpg?t=1737603000",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456130/25ff4a92590608ca9cd801a153b6f0d7409aa4b5/capsule_184x69.jpg?t=1737603000",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456130/header.jpg?t=1739519356",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456130/25ff4a92590608ca9cd801a153b6f0d7409aa4b5/capsule_231x87.jpg?t=1739519356",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456130/25ff4a92590608ca9cd801a153b6f0d7409aa4b5/capsule_184x69.jpg?t=1739519356",
     "website": "https://www.cascha-games.com/",
     "developers": [
       "CASCHA GAMES"
@@ -4011,7 +4038,20 @@
     "publishers": [
       "CASCHA GAMES"
     ],
-    "package_groups": [],
+    "packages": [
+      1221189
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u5f02\u4eba \u539f\u6f2b\u753b",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4020,7 +4060,8 @@
     "categories": [
       2,
       21,
-      28
+      28,
+      62
     ],
     "genres": [
       4,
@@ -4028,15 +4069,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "14 Feb, 2025"
+      "coming_soon": false,
+      "date": "13 Feb, 2025"
     },
     "support_info": {
       "url": "https://www.cascha-games.com/",
       "email": "caschfly@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456130/page_bg_generated_v6b.jpg?t=1737603000",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456130/page_bg_generated.jpg?t=1737603000",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456130?t=1739519356",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456130?t=1739519356",
     "content_descriptors": {
       "ids": [
         2,
@@ -4619,8 +4660,8 @@
       "url": "",
       "email": "seiren.publisher@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456680?t=1738190253",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456680?t=1738190253",
     "content_descriptors": {
       "ids": [
         1,
@@ -4694,8 +4735,8 @@
       "url": "https://devilsterminal.com",
       "email": "darmadrmclb@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456750?t=1737712401",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456750?t=1737712401",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5095,9 +5136,9 @@
     "is_free": false,
     "short_description": "This is a sci - fi themed tower defense game. Players defend their territory by building defense towers and reclaim areas controlled by enemies. The game adds over 30 different units, all of which can be upgraded to achieve higher performance and firepower through editing entries.",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456220/header.jpg?t=1737779340",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456220/2768c34edd32447a99375ce7cb8af1e6b4142396/capsule_231x87.jpg?t=1737779340",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456220/2768c34edd32447a99375ce7cb8af1e6b4142396/capsule_184x69.jpg?t=1737779340",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456220/header.jpg?t=1740391422",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456220/2768c34edd32447a99375ce7cb8af1e6b4142396/capsule_231x87.jpg?t=1740391422",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456220/2768c34edd32447a99375ce7cb8af1e6b4142396/capsule_184x69.jpg?t=1740391422",
     "website": "https://www.xiaohongshu.com/user/profile/5e23052e0000000001009667",
     "developers": [
       "YesYesPlay"
@@ -5105,6 +5146,12 @@
     "publishers": [
       "Liquid Meow",
       "S399TEAM"
+    ],
+    "demos": [
+      {
+        "appid": 3472770,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5115,7 +5162,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
@@ -5130,8 +5178,8 @@
       "url": "",
       "email": "liquidmeowgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456220/page_bg_generated_v6b.jpg?t=1737779340",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456220/page_bg_generated.jpg?t=1737779340",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456220?t=1740391422",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456220?t=1740391422",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5282,8 +5330,8 @@
       "url": "",
       "email": "illegal_account@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456250/page_bg_generated_v6b.jpg?t=1737771646",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456250/page_bg_generated.jpg?t=1737771646",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456250?t=1737771646",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3456250?t=1737771646",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6604,8 +6652,8 @@
       "url": "https://sites.google.com/view/masterofpieces/home",
       "email": "sgraphium@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3457090/page_bg_generated_v6b.jpg?t=1738420558",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3457090/page_bg_generated.jpg?t=1738420558",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3457090?t=1738420558",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3457090?t=1738420558",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10843,6 +10891,76 @@
         "banned": "1",
         "use_age_gate": "0",
         "descriptors": "Sexualisierte Gewalt / Sexual violence\nAlkohol / Tabak\nGewalt"
+      }
+    }
+  },
+  "3458050": {
+    "type": "game",
+    "name": "Mailstrom",
+    "steam_appid": 3458050,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Join a co-op team of 4 friends in a first person shooter that sends Pan Galactic Postal Service letter carriers into the locked-down streets of the future! Fight mutated alien horrors as you and your fellow essential workers deliver baubles to hard-to-find destinations! Hey, at least it's a job!",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458050/ead94cd50aad2c24f84f4023b58dba70f95544db/header.jpg?t=1743178597",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458050/1da05652c2ab078221b154a462fbd4d8889a7493/capsule_231x87.jpg?t=1743178597",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458050/1da05652c2ab078221b154a462fbd4d8889a7493/capsule_184x69.jpg?t=1743178597",
+    "website": null,
+    "developers": [
+      "Advanced Faffery"
+    ],
+    "publishers": [
+      "Advanced Faffery"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      1,
+      2,
+      9,
+      38,
+      62
+    ],
+    "genres": [
+      1,
+      23,
+      25,
+      70
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "2025"
+    },
+    "support_info": {
+      "url": "https://discord.gg/YRYdtwWN",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3458050?t=1743178597",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458050/764445ae42bcd212b34629e335e88e1a0586258b/page_bg_raw.jpg?t=1743178597",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
       }
     }
   }
