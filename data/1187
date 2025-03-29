@@ -596,9 +596,9 @@
     "is_free": false,
     "short_description": "With stunning, realistic 3D graphics and an intuitive control system, Phantom Ops offers a truly immersive experience",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Polish, Portuguese - Brazil, Russian, Arabic",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563950/17452abcb6835a9a193e43072c926c917a1f1ac4/header.jpg?t=1741708759",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563950/1ce0afbe0ee484fdf4f8b55455ef1eaafca25972/capsule_231x87.jpg?t=1741708759",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563950/1ce0afbe0ee484fdf4f8b55455ef1eaafca25972/capsule_184x69.jpg?t=1741708759",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563950/17452abcb6835a9a193e43072c926c917a1f1ac4/header.jpg?t=1742611514",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563950/1ce0afbe0ee484fdf4f8b55455ef1eaafca25972/capsule_231x87.jpg?t=1742611514",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563950/1ce0afbe0ee484fdf4f8b55455ef1eaafca25972/capsule_184x69.jpg?t=1742611514",
     "website": null,
     "developers": [
       "Crazy Games"
@@ -606,7 +606,20 @@
     "publishers": [
       "Crazy Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1257578
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Phantom Ops",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -619,16 +632,19 @@
     "genres": [
       1
     ],
+    "achievements": {
+      "total": 4
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "17 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "paulovitor2688@hotmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563950?t=1741708759",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563950/658fd1f52117312d7f37ae4005a3683d5a5ce312/page_bg_raw.jpg?t=1741708759",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563950?t=1742611514",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563950/658fd1f52117312d7f37ae4005a3683d5a5ce312/page_bg_raw.jpg?t=1742611514",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3105,11 +3121,11 @@
     "steam_appid": 3562200,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Cloudscrapers is an accessible strategy game blending puzzle and roguelite elements. Build the highest tower across realms by managing resources and unlocking powerful upgrades. Discover cloud-veiled secrets as each construction presents unique challenges in your quest to conquer the skies.",
+    "short_description": "Cloudscrapers is an accessible strategy game with puzzle elements and a relaxing atmosphere. Build towers across mystical realms by managing resources and unlocking powerful upgrades. Discover cloud-veiled secrets and conquer the vast skies.",
     "supported_languages": "English, German",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562200/ac14037846ccafbfa2466dc96b631062470544b1/header.jpg?t=1741792440",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562200/4f632dd03cc2a341dee3a430bbd0f55ced3b32f0/capsule_231x87.jpg?t=1741792440",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562200/4f632dd03cc2a341dee3a430bbd0f55ced3b32f0/capsule_184x69.jpg?t=1741792440",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562200/6852c603f284d557183cdf2e6cb7d4905ad3889e/header.jpg?t=1743112368",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562200/ed66b7387bca56422e1627e58b9f839a3ac18032/capsule_231x87.jpg?t=1743112368",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562200/ed66b7387bca56422e1627e58b9f839a3ac18032/capsule_184x69.jpg?t=1743112368",
     "website": null,
     "developers": [
       "Nementic Games"
@@ -3129,6 +3145,7 @@
     ],
     "genres": [
       2,
+      4,
       23
     ],
     "release_date": {
@@ -3139,8 +3156,8 @@
       "url": "www.nementic.games",
       "email": "contact@nementic.games"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3562200?t=1741792440",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3562200?t=1741792440",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3562200?t=1743112368",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3562200?t=1743112368",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3443,9 +3460,9 @@
     "controller_support": "full",
     "short_description": "Step onto the stage in Forgetmenots, a story-driven puzzle adventure where memories take center stage. Explore a theatrical world that unfolds like a live performance, solving puzzles in a whimsical yet bittersweet journey about loss and remembrance.",
     "supported_languages": "English, Swedish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562540/6246cf02b73083cfb56311187b72228b34df37e7/header.jpg?t=1741682934",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562540/9f72e15eff034eb3bee8fdc4109782e283dcf10c/capsule_231x87.jpg?t=1741682934",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562540/9f72e15eff034eb3bee8fdc4109782e283dcf10c/capsule_184x69.jpg?t=1741682934",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562540/6246cf02b73083cfb56311187b72228b34df37e7/header.jpg?t=1743082293",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562540/9f72e15eff034eb3bee8fdc4109782e283dcf10c/capsule_231x87.jpg?t=1743082293",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562540/9f72e15eff034eb3bee8fdc4109782e283dcf10c/capsule_184x69.jpg?t=1743082293",
     "website": null,
     "developers": [
       "Forgetful Studios"
@@ -3476,8 +3493,8 @@
       "url": "https://discord.gg/2AzxTVrMXg",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3562540?t=1741682934",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562540/b3ace627f71da846e575dfb27528dc9d7d4e8d13/page_bg_raw.jpg?t=1741682934",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3562540?t=1743082293",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562540/b3ace627f71da846e575dfb27528dc9d7d4e8d13/page_bg_raw.jpg?t=1743082293",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4045,11 +4062,11 @@
     "steam_appid": 3561240,
     "required_age": 0,
     "is_free": false,
-    "short_description": "When the law fails, power prevails. The world\u2019s mightiest superheroes have abandoned their ideals, embracing a brutal new philosophy: eradicate all crime\u2014no matter the cost. The world once called you a savior\u2014now, they call you a tyrant. Does it matter, as long as the city is clean?",
+    "short_description": "When the law fails, power prevails. The world\u2019s mightiest superheroes have abandoned their ideals, embracing a brutal new philosophy: eradicate all crime\u2014no matter the cost. The world once called you a savior\u2014now, they call you a tyrant. Does it matter, as long as the city is wiped clean?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561240/df9851865f1104cd577857d76e052d80ee66664e/header.jpg?t=1741633295",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561240/a63d0468aa1510c2e77bfa9f836c3e75abed48e2/capsule_231x87.jpg?t=1741633295",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561240/a63d0468aa1510c2e77bfa9f836c3e75abed48e2/capsule_184x69.jpg?t=1741633295",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561240/cefb974d4887965c8c36ddd81fefcf31b823e2b0/header.jpg?t=1743129925",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561240/2ac3c0c82d4d5d50488240eb9002726a2d97e59e/capsule_231x87.jpg?t=1743129925",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561240/2ac3c0c82d4d5d50488240eb9002726a2d97e59e/capsule_184x69.jpg?t=1743129925",
     "website": null,
     "developers": [
       "Peculiar Arts"
@@ -4078,8 +4095,8 @@
       "url": "",
       "email": "randybreeden86@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561240?t=1741633295",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561240/992500a9bf07c7112c4f2a3064d1670c36aa00fa/page_bg_raw.jpg?t=1741633295",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561240?t=1743129925",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561240/992500a9bf07c7112c4f2a3064d1670c36aa00fa/page_bg_raw.jpg?t=1743129925",
     "content_descriptors": {
       "ids": [
         2,
@@ -4528,11 +4545,11 @@
     "steam_appid": 3561770,
     "required_age": 0,
     "is_free": false,
-    "short_description": "\u3053\u306e\u30b2\u30fc\u30e0\u306f\u3001\u6d77\u6d0b\u4ea4\u6613\u3067\u8cc7\u91d1\u3092\u7a3c\u3050\u30b2\u30fc\u30e0\u3067\u3001\u4ea4\u6613\u3001\u63a2\u691c\u3001\u6226\u95d8\u3001\u306e\uff13\u3064\u304c\u91cd\u8981\u3068\u306a\u308a\u307e\u3059\u3002\u4ea4\u6613\u3067\u7a3c\u3044\u3060\u9280\u8ca8\u3092\u7a3c\u304e\u3001\u63a2\u691c\u3067\u624b\u306b\u5165\u308c\u305f\u8cc7\u6750\u3067\u5f37\u3044\u8239\u3092\u3064\u304f\u308a\u3001\u6226\u95d8\u306b\u52dd\u5229\u3057\u307e\u3057\u3087\u3046\u3002\u4ea4\u6613\u3001\u63a2\u691c\u3001\u6226\u95d8\u3092\u3069\u3046\u3044\u3046\u30d0\u30e9\u30f3\u30b9\u3067\u9032\u3081\u3066\u3044\u304f\u304b\u306f\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u81ea\u7531\u306a\u653b\u7565\u306b\u59d4\u306d\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u30b2\u30fc\u30e0\u306e\u821e\u53f0\u3068\u306a\u308b\u6d77\u57df\u306b\u306f\u3001\u30e9\u30a4\u30d0\u30eb\u306e\u52e2\u529b\u304c\u3044\u3066\u8987\u6a29\u3092\u7af6\u3044\u5408\u3063\u3066\u3044\u307e\u3059\u3002\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u30b9\u30c8\u30fc\u30ea\u30fc\u4e2d\u306e\u5206\u5c90\u306b\u3088\u3063\u3066\u3001\u52e2\u529b\u540c\u58eb\u4e89\u3044\u306b\u4ecb\u5165\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u3001\u305d\u306e\u9078\u629e\u304c\u5473\u65b9\u306b\u306a\u308b\u52e2\u529b\u3068\u6575\u306b\u306a\u308b\u52e2\u529b\u306b\u5f71\u97ff\u3092\u53ca\u307c\u3057\u307e\u3059\u3002",
+    "short_description": "\u3053\u306e\u30b2\u30fc\u30e0\u306f\u3001\u6d77\u6d0b\u4ea4\u6613\u3067\u8cc7\u91d1\u3092\u7a3c\u3050\u30b2\u30fc\u30e0\u3067\u3001\u4ea4\u6613\u3001\u63a2\u967a\u3001\u6226\u95d8\u306e\uff13\u3064\u304c\u91cd\u8981\u3068\u306a\u308a\u307e\u3059\u3002\u4ea4\u6613\u3067\u9280\u8ca8\u3092\u7a3c\u3044\u3067\u4ef2\u9593\u3092\u5897\u3084\u3057\u3001\u63a2\u967a\u3067\u624b\u306b\u5165\u308c\u305f\u8cc7\u6750\u3067\u5f37\u3044\u8239\u3092\u3064\u304f\u308a\u3001\u6226\u95d8\u306b\u52dd\u5229\u3057\u307e\u3057\u3087\u3046\u3002\u4ea4\u6613\u3001\u63a2\u967a\u3001\u6226\u95d8\u3092\u3069\u3046\u3044\u3046\u30d0\u30e9\u30f3\u30b9\u3067\u9032\u3081\u3066\u3044\u304f\u304b\u306f\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u81ea\u7531\u306a\u653b\u7565\u306b\u59d4\u306d\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u30b2\u30fc\u30e0\u306e\u821e\u53f0\u3068\u306a\u308b\u6d77\u57df\u306b\u306f\u3001\u30e9\u30a4\u30d0\u30eb\u306e\u52e2\u529b\u304c\u3044\u3066\u8987\u6a29\u3092\u7af6\u3044\u5408\u3063\u3066\u3044\u307e\u3059\u3002\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u30b9\u30c8\u30fc\u30ea\u30fc\u4e2d\u306e\u5206\u5c90\u306b\u3088\u3063\u3066\u3001\u52e2\u529b\u540c\u58eb\u4e89\u3044\u306b\u4ecb\u5165\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u3001\u305d\u306e\u9078\u629e\u304c\u5473\u65b9\u306b\u306a\u308b\u52e2\u529b\u3068\u6575\u306b\u306a\u308b\u52e2\u529b\u306b\u5f71\u97ff\u3092\u53ca\u307c\u3057\u307e\u3059\u3002",
     "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561770/1d6ca1a3348c36d2fab349c679182b74672454da/header.jpg?t=1741676139",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561770/97ef57c9ca76858eb0142468b321dcf4b3a00be2/capsule_231x87.jpg?t=1741676139",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561770/97ef57c9ca76858eb0142468b321dcf4b3a00be2/capsule_184x69.jpg?t=1741676139",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561770/1d6ca1a3348c36d2fab349c679182b74672454da/header.jpg?t=1743138653",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561770/97ef57c9ca76858eb0142468b321dcf4b3a00be2/capsule_231x87.jpg?t=1743138653",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561770/97ef57c9ca76858eb0142468b321dcf4b3a00be2/capsule_184x69.jpg?t=1743138653",
     "website": null,
     "developers": [
       "\u3042\u3068\u3089\u305d\u3075\u3068"
@@ -4548,6 +4565,7 @@
     },
     "categories": [
       2,
+      18,
       22,
       23,
       62
@@ -4566,8 +4584,8 @@
       "url": "https://ci-en.net/creator/5065/article/1330474",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561770?t=1741676139",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561770?t=1741676139",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561770?t=1743138653",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561770?t=1743138653",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4807,9 +4825,9 @@
     "is_free": false,
     "short_description": "It's another one of my daily routines where I use the escort app to ask pretty girls out to do &quot;daddy work&quot;. These pretty young women are willing to do anything as long as they have money. It's really a blessing for me. So who should I ask out today...",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Ukrainian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Korean<strong>*</strong>, Malay<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561560/d87f9b16fcb282b4777693119f0e5001e8c0a4e8/header.jpg?t=1741698122",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561560/cba9449e931197144d7f0e20b321afe57109545d/capsule_231x87.jpg?t=1741698122",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561560/cba9449e931197144d7f0e20b321afe57109545d/capsule_184x69.jpg?t=1741698122",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561560/d87f9b16fcb282b4777693119f0e5001e8c0a4e8/header.jpg?t=1743098495",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561560/cba9449e931197144d7f0e20b321afe57109545d/capsule_231x87.jpg?t=1743098495",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561560/cba9449e931197144d7f0e20b321afe57109545d/capsule_184x69.jpg?t=1743098495",
     "website": null,
     "developers": [
       "Hentai works"
@@ -4817,7 +4835,20 @@
     "publishers": [
       "Hentai works"
     ],
-    "package_groups": [],
+    "packages": [
+      1256773
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hentai Tales: C-D Girls",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4834,16 +4865,19 @@
       4,
       23
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "28 Mar, 2025"
+      "coming_soon": false,
+      "date": "27 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "puzzlelive2dproject@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561560?t=1741698122",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561560?t=1741698122",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561560?t=1743098495",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561560?t=1743098495",
     "content_descriptors": {
       "ids": [
         1,
@@ -5566,9 +5600,9 @@
       "name": "Astro Architect"
     },
     "supported_languages": "English, Polish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563960/f07162ace87cd744d6d6a235273652b950b5be56/header.jpg?t=1741795725",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563960/3094cea560f7f7a34376096101f5bdd96622f1eb/capsule_231x87.jpg?t=1741795725",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563960/3094cea560f7f7a34376096101f5bdd96622f1eb/capsule_184x69.jpg?t=1741795725",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563960/f07162ace87cd744d6d6a235273652b950b5be56/header.jpg?t=1742831243",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563960/3094cea560f7f7a34376096101f5bdd96622f1eb/capsule_231x87.jpg?t=1742831243",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563960/3094cea560f7f7a34376096101f5bdd96622f1eb/capsule_184x69.jpg?t=1742831243",
     "website": null,
     "developers": [
       "Frost Crown Studio"
@@ -5591,15 +5625,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "24 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "contact@frostcrownstudio.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563960?t=1741795725",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563960?t=1741795725",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563960?t=1742831243",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563960?t=1742831243",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8446,6 +8480,73 @@
         "banned": "1",
         "use_age_gate": "0",
         "descriptors": "Sexuelle Inhalte"
+      }
+    }
+  },
+  "3561510": {
+    "type": "game",
+    "name": "Math Climber",
+    "steam_appid": 3561510,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "Precision platforming mixed with MATH. Can you answer questions while under pressure, or will the numbers consume you?",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561510/290c04e7dd1cc28c9e8c417bf3ac38b56bc50e0e/header.jpg?t=1743192973",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561510/79ac70658e105e28b5d9627c086db5efb0febd0f/capsule_231x87.jpg?t=1743192973",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561510/79ac70658e105e28b5d9627c086db5efb0febd0f/capsule_184x69.jpg?t=1743192973",
+    "website": null,
+    "developers": [
+      "aeiou"
+    ],
+    "publishers": [
+      "aeiou"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      22,
+      28,
+      62
+    ],
+    "genres": [
+      23
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "aeiougames140@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561510?t=1743192973",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561510?t=1743192973",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
       }
     }
   }

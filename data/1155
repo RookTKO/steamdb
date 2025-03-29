@@ -3705,8 +3705,8 @@
       "url": "support.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466350/page_bg_generated_v6b.jpg?t=1738079385",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466350/page_bg_generated.jpg?t=1738079385",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3466350?t=1738079385",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3466350?t=1738079385",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3768,8 +3768,8 @@
       "url": "https://aceade.net",
       "email": "aceade@aceade.net"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3465880?t=1738087135",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3465880?t=1738087135",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3801,9 +3801,9 @@
     "is_free": true,
     "short_description": "There is only one level of the 3D fixed view integral mini-game.Maneuver the robot to hit falling items and protect the chickens.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467620/header.jpg?t=1738121919",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467620/132af2b17a9b645dbff822232a0fb40cfdc68686/capsule_231x87.jpg?t=1738121919",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467620/132af2b17a9b645dbff822232a0fb40cfdc68686/capsule_184x69.jpg?t=1738121919",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467620/header.jpg?t=1739406912",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467620/132af2b17a9b645dbff822232a0fb40cfdc68686/capsule_231x87.jpg?t=1739406912",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467620/132af2b17a9b645dbff822232a0fb40cfdc68686/capsule_184x69.jpg?t=1739406912",
     "website": null,
     "developers": [
       "LN"
@@ -3826,15 +3826,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "12 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "mouseware@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467620/page_bg_generated_v6b.jpg?t=1738121919",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467620/page_bg_generated.jpg?t=1738121919",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3467620?t=1739406912",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3467620?t=1739406912",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5728,10 +5728,10 @@
       "appid": "2781250",
       "name": "Lyndaria: Lust Adventure"
     },
-    "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467870/header.jpg?t=1738858673",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467870/780f1c7fa2ff2316d91d76c01a18e5c4da359f70/capsule_231x87.jpg?t=1738858673",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467870/780f1c7fa2ff2316d91d76c01a18e5c4da359f70/capsule_184x69.jpg?t=1738858673",
+    "supported_languages": "English, Russian, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Turkish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467870/header.jpg?t=1741273431",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467870/780f1c7fa2ff2316d91d76c01a18e5c4da359f70/capsule_231x87.jpg?t=1741273431",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467870/780f1c7fa2ff2316d91d76c01a18e5c4da359f70/capsule_184x69.jpg?t=1741273431",
     "website": null,
     "developers": [
       "Lustration Team"
@@ -5739,7 +5739,20 @@
     "publishers": [
       "TopHouse Publishing"
     ],
-    "package_groups": [],
+    "packages": [
+      1225172
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Lyndaria: Shadows of the Past DLC",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5747,7 +5760,9 @@
     },
     "categories": [
       2,
-      21
+      21,
+      22,
+      62
     ],
     "genres": [
       23,
@@ -5755,15 +5770,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "6 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "publishing.contact@tophouse.fun"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467870/page_bg_generated_v6b.jpg?t=1738858673",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467870/page_bg_generated.jpg?t=1738858673",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3467870?t=1741273431",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3467870?t=1741273431",
     "content_descriptors": {
       "ids": [
         1,
@@ -5805,9 +5820,9 @@
       "name": "Anchor: Quest for Atlantis"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465840/header.jpg?t=1738853694",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465840/dba3fec6d13cbddb9e47bcdae7af3a1717ac53b1/capsule_231x87.jpg?t=1738853694",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465840/dba3fec6d13cbddb9e47bcdae7af3a1717ac53b1/capsule_184x69.jpg?t=1738853694",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465840/header.jpg?t=1739444047",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465840/dba3fec6d13cbddb9e47bcdae7af3a1717ac53b1/capsule_231x87.jpg?t=1739444047",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465840/dba3fec6d13cbddb9e47bcdae7af3a1717ac53b1/capsule_184x69.jpg?t=1739444047",
     "website": null,
     "developers": [
       "Team Again"
@@ -5832,15 +5847,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "13 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "giacomo@aiv01.it"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465840/page_bg_generated_v6b.jpg?t=1738853694",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465840/page.bg.jpg?t=1738853694",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3465840?t=1739444047",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465840/page_bg_raw.jpg?t=1739444047",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5875,9 +5890,9 @@
       "appid": "2859200",
       "name": "Alex Hill: Whispers at White Oak Inn"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466010/header.jpg?t=1739034891",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466010/c8ee332fc44c2608e20b77f94d7f4881846eedb0/capsule_231x87.jpg?t=1739034891",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466010/c8ee332fc44c2608e20b77f94d7f4881846eedb0/capsule_184x69.jpg?t=1739034891",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466010/header.jpg?t=1741356600",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466010/c8ee332fc44c2608e20b77f94d7f4881846eedb0/capsule_231x87.jpg?t=1741356600",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466010/c8ee332fc44c2608e20b77f94d7f4881846eedb0/capsule_184x69.jpg?t=1741356600",
     "website": null,
     "developers": [
       "hannahontrek"
@@ -5885,22 +5900,35 @@
     "publishers": [
       "hannahontrek"
     ],
-    "package_groups": [],
+    "packages": [
+      1224548
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Alex Hill: Whispers at White Oak Inn Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "7 Mar, 2025"
     },
     "support_info": {
       "url": "https://alexhillmystery.com/contact",
       "email": "hannahontrek@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466010/page_bg_generated_v6b.jpg?t=1739034891",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466010/page_bg_generated.jpg?t=1739034891",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3466010?t=1741356600",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3466010?t=1741356600",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5931,15 +5959,15 @@
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
-    "short_description": "",
+    "short_description": "After a bolt of lightning sends you to ancient Greece, there\u2019s only one thing to do \u2014 face the danger! Meet mighty gods, make important choices, and win the hearts of fearless companions. All this, wrapped in mini-games, epic dialogues, and a mystery so dark... even the gods dare not speak of it.",
     "fullgame": {
       "appid": "3309270",
       "name": "Hero's Odyssey: Summoned into Ancient Greece with a Quest I Didn't Ask For!"
     },
-    "supported_languages": "English<strong>*</strong>, Polish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466410/header.jpg?t=1739122845",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466410/9bfdd64d9ab5c5306eb26c4ee6f4c4bb32b9937e/capsule_231x87.jpg?t=1739122845",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466410/9bfdd64d9ab5c5306eb26c4ee6f4c4bb32b9937e/capsule_184x69.jpg?t=1739122845",
+    "supported_languages": "English<strong>*</strong>, Polish, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466410/87135faccb6905a3ab9895a191dda8a17537c8c0/header.jpg?t=1742418067",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466410/7d3a78fc9cd96a0231d14d1206d03195b5d34672/capsule_231x87.jpg?t=1742418067",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466410/7d3a78fc9cd96a0231d14d1206d03195b5d34672/capsule_184x69.jpg?t=1742418067",
     "website": null,
     "developers": [
       "Sweet Sennin Games"
@@ -5959,8 +5987,13 @@
       22,
       28
     ],
+    "genres": [
+      4,
+      23,
+      25
+    ],
     "achievements": {
-      "total": 7
+      "total": 17
     },
     "release_date": {
       "coming_soon": false,
@@ -5970,8 +6003,8 @@
       "url": "https://www.sweetsenningames.com/",
       "email": "sweetsenningames+support@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3466410?t=1742418067",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3466410?t=1742418067",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5979,19 +6012,19 @@
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "14",
-        "required_age": "14",
+        "rating": "16",
+        "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Linguagem impr\u00f3pria"
+        "descriptors": "Viol\u00eancia\nTemas sens\u00edveis\nLinguagem impr\u00f3pria"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "6",
-        "required_age": "6",
+        "rating": "18",
+        "required_age": "18",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Derbe Sprache"
+        "descriptors": "Drastische Gewalt\nAlkohol / Tabak\nDerbe Sprache"
       }
     }
   },
@@ -6079,12 +6112,12 @@
     "short_description": "Mine, Refine and Sell Gemstones of various rarities to eagerly awaiting customers in this brief demo of Gemporium, a mining simulation management game. Manage your time and personal finances as you play through 10 days in the life of an anxious mole starting a Gem Emporium!",
     "fullgame": {
       "appid": "2836100",
-      "name": "Gemporium"
+      "name": "Gemporium: A Cute Mining Sim"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466550/header.jpg?t=1739206816",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466550/63e94710b42ba4733ec8dbd5258c73a2e958331f/capsule_231x87.jpg?t=1739206816",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466550/63e94710b42ba4733ec8dbd5258c73a2e958331f/capsule_184x69.jpg?t=1739206816",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466550/fc2932cb45ee2cce0932d84187aa03b2614373fc/header.jpg?t=1741799413",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466550/1411160bf88cca3cb634b884439827d0635bc30c/capsule_231x87.jpg?t=1741799413",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466550/1411160bf88cca3cb634b884439827d0635bc30c/capsule_184x69.jpg?t=1741799413",
     "website": null,
     "developers": [
       "Merge Conflict Studio"
@@ -6114,8 +6147,8 @@
       "url": "https://mergeconflictstudio.com/contact-us/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466550/page_bg_generated_v6b.jpg?t=1739206816",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466550/page.bg.jpg?t=1739206816",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3466550?t=1741799413",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466550/page_bg_raw.jpg?t=1741799413",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6147,9 +6180,9 @@
     "is_free": false,
     "short_description": "\ud83d\udd0e Solve a key puzzle to uncover the past. \ud83c\udfda\ufe0f Explore a hauntingly abandoned house filled with mystery. \u23f3 A short yet immersive horror experience \u2013 lasting up to 15 minutes, depending on your playstyle. \ud83d\udc41\ufe0f A perfect bite-sized horror adventure for those seeking a quick yet chilling escape.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466300/header.jpg?t=1739210778",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466300/e1720e8ed37c8359d91051646ed5a81d6c18d33d/capsule_231x87.jpg?t=1739210778",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466300/e1720e8ed37c8359d91051646ed5a81d6c18d33d/capsule_184x69.jpg?t=1739210778",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466300/header.jpg?t=1740769221",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466300/e1720e8ed37c8359d91051646ed5a81d6c18d33d/capsule_231x87.jpg?t=1740769221",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466300/e1720e8ed37c8359d91051646ed5a81d6c18d33d/capsule_184x69.jpg?t=1740769221",
     "website": null,
     "developers": [
       "CatzdevStudio"
@@ -6157,28 +6190,42 @@
     "publishers": [
       "CatzdevStudio"
     ],
-    "package_groups": [],
+    "packages": [
+      1224643
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Eternal Prowl",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "28 Feb, 2025"
     },
     "support_info": {
       "url": "https://twitter.com/Lets_Catz",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466300/page_bg_generated_v6b.jpg?t=1739210778",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466300/page.bg.jpg?t=1739210778",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3466300?t=1740769221",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466300/page_bg_raw.jpg?t=1740769221",
     "content_descriptors": {
       "ids": [],
       "notes": null
