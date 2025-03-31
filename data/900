@@ -2688,21 +2688,27 @@
   },
   "2701870": {
     "type": "game",
-    "name": "Ark of The Kosmoz",
+    "name": "Ark Odyssey",
     "steam_appid": 2701870,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Ark of The Kosmoz is an arcade top-down shooter that lets you command an army of starships to fight against the force of void! Gather your fleet into formations, and build your team of evolving synergistic compositions. Order your army of Starforce through space and protect the cosmos!",
+    "short_description": "Ark Odyssey is a top-down arcade shooter that lets you command an army of starships to fight against the force of void! Gather your fleet into formations, and build your team of evolving synergistic compositions. Order your army of Starforce through space and protect the cosmos!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2701870/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2701870/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2701870/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701870/header.jpg?t=1728978574",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701870/capsule_231x87.jpg?t=1728978574",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701870/capsule_184x69.jpg?t=1728978574",
     "website": null,
     "developers": [
       "BinaryStella"
     ],
     "publishers": [
       "BinaryStella"
+    ],
+    "demos": [
+      {
+        "appid": 2995590,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -2711,27 +2717,47 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
       2,
+      4,
       23,
       70
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "korawichsingthong.binarystellar@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2701870/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2701870/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2701870?t=1728978574",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701870/page_bg_raw.jpg?t=1728978574",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2700660": {
@@ -2978,10 +3004,10 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Demons are coming! is a bullet hell rougelite shooter where you fight a high variety of demons that occupied your holy land. Use the upgrades you find to your advantage and create your ideal guns to help you kill the most terrifying monsters.",
-    "supported_languages": "English<strong>*</strong>, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702030/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702030/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702030/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702030/header.jpg?t=1719500424",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702030/capsule_231x87.jpg?t=1719500424",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702030/capsule_184x69.jpg?t=1719500424",
     "website": null,
     "developers": [
       "Kacper Soroka"
@@ -2989,33 +3015,68 @@
     "publishers": [
       "Kacper Soroka"
     ],
-    "package_groups": [],
+    "packages": [
+      967525
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Demons are coming!",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       23
     ],
+    "achievements": {
+      "total": 15
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "27 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "sorkacper@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702030/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702030/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702030?t=1719500424",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702030?t=1719500424",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2700300": {
@@ -4830,9 +4891,9 @@
     "is_free": false,
     "short_description": "Phantasie: Memorial Set compiles the classic RPG trilogy, featuring party-based adventures, turn-based combat, diverse classes, and epic quests. Phantasie series is a timeless contribution to early RPGs that embodies fantasy world exploration and strategic gameplay.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702050/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702050/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702050/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702050/header.jpg?t=1728493624",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702050/capsule_231x87.jpg?t=1728493624",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702050/capsule_184x69.jpg?t=1728493624",
     "website": null,
     "developers": [
       "SSI",
@@ -4862,7 +4923,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       3
@@ -4875,11 +4937,29 @@
       "url": "support@sneg.io",
       "email": "support@sneg.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702050/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702050/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702050?t=1728493624",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702050/page_bg_raw.jpg?t=1728493624",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2702080": {
@@ -4890,9 +4970,9 @@
     "is_free": false,
     "short_description": "Battlestations! All hands prepare for the naval conflict on a truly grand scale! GREAT NAVAL BATTLES: THE FINAL FURY is loaded with enough historical and hypothetical naval conflict to keep players - from casual to connoisseur - busy for hours and hours!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702080/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702080/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702080/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702080/header.jpg?t=1728493236",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702080/capsule_231x87.jpg?t=1728493236",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702080/capsule_184x69.jpg?t=1728493236",
     "website": null,
     "developers": [
       "IO Design Group",
@@ -4922,7 +5002,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
@@ -4936,11 +5017,29 @@
       "url": "support@sneg.io",
       "email": "support@sneg.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702080/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702080/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702080?t=1728493236",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702080/page_bg_raw.jpg?t=1728493236",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2702110": {
@@ -4951,9 +5050,9 @@
     "is_free": false,
     "short_description": "Embark on a prophecy-driven quest in this classic fantasy RPG. Battle the encroaching Shadow Lords, navigate a world where magic is illegal, and uncover the truth behind a master's treacherous death. Real-time combat, spell-learning, and captivating storytelling await in this post AD&amp;D-era gem.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702110/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702110/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702110/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702110/header.jpg?t=1728493680",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702110/capsule_231x87.jpg?t=1728493680",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702110/capsule_184x69.jpg?t=1728493680",
     "website": null,
     "developers": [
       "Strategic Simulations"
@@ -4982,7 +5081,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       3
@@ -4995,11 +5095,29 @@
       "url": "support@sneg.io",
       "email": "support@sneg.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702110/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702110/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702110?t=1728493680",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702110/page_bg_raw.jpg?t=1728493680",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2702100": {
@@ -5010,9 +5128,9 @@
     "is_free": false,
     "short_description": "This classic fighting game offers intense martial arts battles with a diverse cast of characters, each boasting unique fighting styles. Players engage in thrilling one-on-one combat, showcasing their skills and mastering various martial arts techniques in this nostalgic gem from the mid-'90s.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702100/header.jpg?t=1728493719",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702100/capsule_231x87.jpg?t=1728493719",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702100/capsule_184x69.jpg?t=1728493719",
     "website": null,
     "developers": [
       "Atreid Concept"
@@ -5041,7 +5159,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       1
@@ -5054,11 +5173,29 @@
       "url": "support@sneg.io",
       "email": "support@sneg.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702100?t=1728493719",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702100/page_bg_raw.jpg?t=1728493719",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2702090": {
@@ -5069,9 +5206,9 @@
     "is_free": false,
     "short_description": "STAR COMMAND offers the thrill of the best sci-fi novels, and then some. In this epic multiple-character role-playing game, you don't just read about the adventure \u2014 you live it!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702090/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702090/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702090/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702090/header.jpg?t=1728493896",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702090/capsule_231x87.jpg?t=1728493896",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702090/capsule_184x69.jpg?t=1728493896",
     "website": null,
     "developers": [
       "Strategic Simulations",
@@ -5101,7 +5238,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       3
@@ -5114,11 +5252,29 @@
       "url": "support@sneg.io",
       "email": "support@sneg.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702090/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702090/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702090?t=1728493896",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702090/page_bg_raw.jpg?t=1728493896",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2700650": {
@@ -5684,12 +5840,12 @@
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
-    "short_description": "A tall man wanders across desolated worlds, stumbling beneath the endless stars.",
+    "short_description": "A tall man with a black hat wanders across desolated worlds, stumbling beneath the endless stars.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702590/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702590/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702590/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702590/header.jpg?t=1733614941",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702590/capsule_231x87.jpg?t=1733614941",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702590/capsule_184x69.jpg?t=1733614941",
+    "website": "https://r7321.art/",
     "developers": [
       "Ryan Wheeler"
     ],
@@ -5699,12 +5855,13 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": true,
-      "linux": true
+      "mac": false,
+      "linux": false
     },
     "categories": [
       2,
       22,
+      23,
       28
     ],
     "genres": [
@@ -5712,19 +5869,40 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 8
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "7 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "ryanwheeler7321@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702590/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702590/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702590?t=1733614941",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702590?t=1733614941",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2702380": {
@@ -5735,9 +5913,9 @@
     "is_free": false,
     "short_description": "You've set up camp at the place where civilization turns into unexplored wilderness. Can you brave the ruthless hinterland to defeat each biome?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702380/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702380/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702380/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702380/header.jpg?t=1705001452",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702380/capsule_231x87.jpg?t=1705001452",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702380/capsule_184x69.jpg?t=1705001452",
     "website": null,
     "developers": [
       "Avalon"
@@ -5752,7 +5930,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23
@@ -5765,11 +5944,29 @@
       "url": "",
       "email": "avalonbugreport@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702380/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702380/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702380?t=1705001452",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702380?t=1705001452",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2702920": {
@@ -5778,11 +5975,11 @@
     "steam_appid": 2702920,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Experience the uncanny adventure of Cozy Escapes, where the cozy merges seamlessly with mystery in a thrilling cooperative escape. Ready for a puzzle-packed journey with your partner, fueled by the shared desire to escape reality for a cozy moment?",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Portuguese - Brazil, Bulgarian, Traditional Chinese, Simplified Chinese, Danish, Finnish, Greek, Indonesian, Japanese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Swedish, Spanish - Latin America, Thai, Czech, Turkish, Ukrainian, Hungarian, Vietnamese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702920/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702920/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702920/capsule_184x69.jpg",
+    "short_description": "Grab a friend and dive into Cozy Escapes, a chill co-op puzzle adventure. Explore immersive rooms, crack clever puzzles, and enjoy the journey\u2014no rush, just pure fun!",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702920/header.jpg?t=1728913365",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702920/capsule_231x87.jpg?t=1728913365",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702920/capsule_184x69.jpg?t=1728913365",
     "website": null,
     "developers": [
       "LDJae"
@@ -5790,7 +5987,20 @@
     "publishers": [
       "LDJae"
     ],
-    "package_groups": [],
+    "packages": [
+      967851
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cozy Escapes",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5800,10 +6010,8 @@
       1,
       2,
       9,
-      14,
-      22,
-      35,
-      38
+      38,
+      62
     ],
     "genres": [
       4,
@@ -5811,18 +6019,36 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "26 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "DJaeppche1@gmx.de"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702920/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702920/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702920?t=1728913365",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702920?t=1728913365",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2701810": {
@@ -6767,11 +6993,12 @@
     "steam_appid": 2702230,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "\u300aForward Brave\u300bhas no turning back. Choose your hero, explore the program-generated card dungeon, collect resources, kill enemies, combine and match active skills with various special-effect artifacts, make rational use of various props and buffs, move to the next floor, and finally win the victory!",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702230/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702230/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2702230/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702230/header.jpg?t=1720956031",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702230/capsule_231x87.jpg?t=1720956031",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702230/capsule_184x69.jpg?t=1720956031",
     "website": null,
     "developers": [
       "Light Game"
@@ -6779,7 +7006,26 @@
     "publishers": [
       "Light Game"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2734980,
+        "description": ""
+      }
+    ],
+    "packages": [
+      967593
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Forward Brave",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6788,7 +7034,9 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      28,
+      62
     ],
     "genres": [
       2,
@@ -6796,19 +7044,40 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 24
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "12 Jul, 2024"
     },
     "support_info": {
       "url": "",
       "email": "wrldhell@gmai.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2702230/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2702230/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702230?t=1720956031",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702230/page_bg_raw.jpg?t=1720956031",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2700560": {
@@ -9148,9 +9417,9 @@
     "controller_support": "full",
     "short_description": "Samurai Ninja Wars is a fast paced, blood soaked, action platformer. Run, jump, dodge, block, and slash your way through dozens of challenging levels. The enemies and hazards are ruthless, but so are you. Cut through your enemies, and follow the way of the Samurai.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2701840/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2701840/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2701840/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701840/header.jpg?t=1707680516",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701840/capsule_231x87.jpg?t=1707680516",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701840/capsule_184x69.jpg?t=1707680516",
     "website": null,
     "developers": [
       "Scott Reid"
@@ -9184,7 +9453,8 @@
       28,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -9201,14 +9471,32 @@
       "url": "",
       "email": "scottreid002@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2701840/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2701840/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2701840?t=1707680516",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2701840?t=1707680516",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "Pixel art blood and gore"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2702250": {
@@ -11331,19 +11619,35 @@
     "steam_appid": 2701750,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3327130
+    ],
     "short_description": "Paradise Club is known to the wealthy as the island of all fantasies. The leaders cater to every need: young women, submissives, strippers, twins, etc... Our two heroes arrive on the island to solve the mystery surrounding the disappearance of their half-sister.",
-    "supported_languages": "English<strong>*</strong>, French, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2701750/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2701750/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2701750/capsule_184x69.jpg",
-    "website": null,
+    "supported_languages": "English<strong>*</strong>, French, Russian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701750/header.jpg?t=1737187816",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701750/capsule_231x87.jpg?t=1737187816",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701750/capsule_184x69.jpg?t=1737187816",
+    "website": "https://www.corrupted-paradise.com/",
     "developers": [
       "SecretGame"
     ],
     "publishers": [
       "SecretGame"
     ],
-    "package_groups": [],
+    "packages": [
+      967438
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Corrupted Paradise",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -11351,23 +11655,29 @@
     },
     "categories": [
       2,
-      22
+      18,
+      22,
+      23,
+      62
     ],
     "genres": [
       2,
       23,
       25
     ],
+    "achievements": {
+      "total": 29
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2025"
+      "coming_soon": false,
+      "date": "9 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "alex@corrupted-paradise.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2701750/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2701750/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2701750?t=1737187816",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701750/page_bg_raw.jpg?t=1737187816",
     "content_descriptors": {
       "ids": [
         1,
@@ -11375,7 +11685,25 @@
         4,
         5
       ],
-      "notes": "Corrupted Paradise is a dating adventure with frequent and graphic depictions of sexual interactions between consenting adults. Mature content in this game includes but is not limited to:\r\n\r\n- Lewd Language\r\n- Blowjobs, Handjobs, and Sex\r\n- Consensual BDSM\r\n- Exhibition, voyeurism.\r\n- Group Sex\r\n- Polyamory\r\n- Lesbian Sex\r\n\r\nIn this game, you must play a woman AND a man."
+      "notes": "Corrupted Paradise is a dating adventure with frequent and graphic depictions of sexual interactions between consenting adults. Mature content in this game includes but is not limited to: Lewd Language, Blowjobs, Handjobs, Consensual BDSM, Exhibition, voyeurism. Group Sex, Polyamory, Lesbian Sex.\r\nThe game is about kidnapping, light drugs, coerced sex and forced touching.\r\nIn this game, you must play a woman AND a man."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nViol\u00eancia\nTemas sens\u00edveis"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexualisierte Gewalt / Sexual violence\nDrogen\nGewalt"
+      }
     }
   },
   "2700030": {

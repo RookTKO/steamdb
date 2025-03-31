@@ -1629,9 +1629,9 @@
     "is_free": false,
     "short_description": "enter the life of a small black hole at the center of the smallest galaxy. what you seek is to become the legendary super black hole.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502300/header.jpg?t=1739387753",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502300/14db092ebf1fc0f1cef12ffb2b70ba23b6f3690f/capsule_231x87.jpg?t=1739387753",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502300/14db092ebf1fc0f1cef12ffb2b70ba23b6f3690f/capsule_184x69.jpg?t=1739387753",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502300/header.jpg?t=1742485699",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502300/14db092ebf1fc0f1cef12ffb2b70ba23b6f3690f/capsule_231x87.jpg?t=1742485699",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502300/14db092ebf1fc0f1cef12ffb2b70ba23b6f3690f/capsule_184x69.jpg?t=1742485699",
     "website": null,
     "developers": [
       "lunatic studios"
@@ -1648,12 +1648,13 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       4
@@ -1666,8 +1667,8 @@
       "url": "",
       "email": "lunaticpublishinggames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502300/page_bg_generated_v6b.jpg?t=1739387753",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502300/page_bg_generated.jpg?t=1739387753",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502300?t=1742485699",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502300?t=1742485699",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3641,7 +3642,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       25
@@ -3654,8 +3656,8 @@
       "url": "",
       "email": "hammoudakhalil5585@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502320/page_bg_generated_v6b.jpg?t=1738932710",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502320/page.bg.jpg?t=1738932710",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502320?t=1738932710",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502320/page_bg_raw.jpg?t=1738932710",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3687,9 +3689,9 @@
     "is_free": false,
     "short_description": "In Wet and Wild Girls, your goal is simple yet irresistible, unlock and collect stunningly beautiful girls, each captured naked, wet, and glistening under the steamy shower. With 300 breathtaking girls waiting to be discovered, every level brings you closer to completing your ultimate collection!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502030/header.jpg?t=1739534239",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502030/83c96b12a234faf2183adc5a32764b2437f065e7/capsule_231x87.jpg?t=1739534239",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502030/83c96b12a234faf2183adc5a32764b2437f065e7/capsule_184x69.jpg?t=1739534239",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502030/header.jpg?t=1740263301",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502030/83c96b12a234faf2183adc5a32764b2437f065e7/capsule_231x87.jpg?t=1740263301",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502030/83c96b12a234faf2183adc5a32764b2437f065e7/capsule_184x69.jpg?t=1740263301",
     "website": null,
     "developers": [
       "Red Sasori"
@@ -3697,29 +3699,47 @@
     "publishers": [
       "Red Sasori"
     ],
-    "package_groups": [],
+    "packages": [
+      1236591
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Wet And Wild",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 22
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "22 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "redsasori.games@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502030/page_bg_generated_v6b.jpg?t=1739534239",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502030/page.bg.jpg?t=1739534239",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502030?t=1740263301",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502030/page_bg_raw.jpg?t=1740263301",
     "content_descriptors": {
       "ids": [
         1,
@@ -4121,15 +4141,15 @@
     "steam_appid": 3502200,
     "required_age": 0,
     "is_free": true,
-    "short_description": "NET.CRAWL is a deck-building roguelite about White Rabbit lost in unfriendly cyberspace. Dive deep into a bizarre digital world and outsmart dozens of unique mini-bosses. Short runs, deep strategies, crazy combos and a ton of replayability.",
+    "short_description": "NET.CRAWL is a hybrid puzzle/card game about White Rabbit lost in unfriendly cyberspace. Dive deep into a bizarre digital world and outsmart dozens of unique mini-bosses. Short runs, deep strategies, crazy combos and a ton of replayability.",
     "fullgame": {
       "appid": "2958140",
       "name": "NET.CRAWL"
     },
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502200/header.jpg?t=1739396731",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502200/525b5f7d4af8d7c54941cbb8259a2662499cd1d8/capsule_231x87.jpg?t=1739396731",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502200/525b5f7d4af8d7c54941cbb8259a2662499cd1d8/capsule_184x69.jpg?t=1739396731",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502200/header.jpg?t=1741296651",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502200/525b5f7d4af8d7c54941cbb8259a2662499cd1d8/capsule_231x87.jpg?t=1741296651",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502200/525b5f7d4af8d7c54941cbb8259a2662499cd1d8/capsule_184x69.jpg?t=1741296651",
     "website": null,
     "developers": [
       "Everyone is Solid"
@@ -4160,8 +4180,8 @@
       "url": "https://www.reddit.com/r/NET_CRAWL/",
       "email": "contact@everyone-is-solid.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502200/page_bg_generated_v6b.jpg?t=1739396731",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502200/page_bg_generated.jpg?t=1739396731",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502200?t=1741296651",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502200?t=1741296651",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4294,8 +4314,8 @@
       "url": "https://holypanda.dev/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502190/page_bg_generated_v6b.jpg?t=1739538279",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502190/page.bg.jpg?t=1739538279",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502190?t=1739538279",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502190/page_bg_raw.jpg?t=1739538279",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4480,8 +4500,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501250?t=1739040573",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501250?t=1739040573",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4633,15 +4653,16 @@
   },
   "3503340": {
     "type": "game",
-    "name": "\u68a6\u591cNightmare",
+    "name": "Dream Night",
     "steam_appid": 3503340,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "You wake up from a nightmare. You can't count how many times you've had a nightmare this month. But this time, after waking up, you find some strange phenomena in your house. You want to go out to see, but the door is locked...",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503340/header.jpg?t=1739976585",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503340/548c685eabe0c382a3e0777488e837fd03a42738/capsule_231x87.jpg?t=1739976585",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503340/548c685eabe0c382a3e0777488e837fd03a42738/capsule_184x69.jpg?t=1739976585",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503340/header.jpg?t=1743336589",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503340/548c685eabe0c382a3e0777488e837fd03a42738/capsule_231x87.jpg?t=1743336589",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503340/548c685eabe0c382a3e0777488e837fd03a42738/capsule_184x69.jpg?t=1743336589",
     "website": null,
     "developers": [
       "ZonelyGames"
@@ -4664,7 +4685,9 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      28,
+      62
     ],
     "genres": [
       23,
@@ -4672,14 +4695,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "June 2025"
     },
     "support_info": {
       "url": "",
       "email": "2243247594@qq.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503340?t=1739976585",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503340/page_bg_raw.jpg?t=1739976585",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503340?t=1743336589",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503340/page_bg_raw.jpg?t=1743336589",
     "content_descriptors": {
       "ids": [
         5
@@ -6981,9 +7004,9 @@
       "name": "Deck Dash"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503820/header.jpg?t=1739862613",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503820/05c1ac21da9ced6a0bce5847d3c414f25fff264b/capsule_231x87.jpg?t=1739862613",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503820/05c1ac21da9ced6a0bce5847d3c414f25fff264b/capsule_184x69.jpg?t=1739862613",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503820/header.jpg?t=1740494899",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503820/05c1ac21da9ced6a0bce5847d3c414f25fff264b/capsule_231x87.jpg?t=1740494899",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503820/05c1ac21da9ced6a0bce5847d3c414f25fff264b/capsule_184x69.jpg?t=1740494899",
     "website": null,
     "developers": [
       "Arvis Games"
@@ -6994,7 +7017,7 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
@@ -7005,7 +7028,9 @@
       49
     ],
     "genres": [
-      2
+      2,
+      4,
+      23
     ],
     "release_date": {
       "coming_soon": false,
@@ -7015,8 +7040,8 @@
       "url": "",
       "email": "support@arvisgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503820/page_bg_generated_v6b.jpg?t=1739862613",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503820/page_bg_generated.jpg?t=1739862613",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503820?t=1740494899",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503820?t=1740494899",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7212,8 +7237,8 @@
       "url": "",
       "email": "contact@microprose.co.uk"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502210/page_bg_generated_v6b.jpg?t=1739875596",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502210/page.bg.jpg?t=1739875596",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502210?t=1739875596",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502210/page_bg_raw.jpg?t=1739875596",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7238,11 +7263,11 @@
     "steam_appid": 3501580,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Rice &amp; Rest is a visual novel where you run a small food truck at the side of a city street. Cook meals and meet the cast of interesting and sometimes weird characters of the modern fantasy city where you unexpectedly find yourself.",
+    "short_description": "Rice &amp; Rest is a cozy narrative game where running a food truck leads to unexpected friendships. Cook meals and chat with quirky, heartfelt, and weird characters in a modern-fantasy city. Stuck far from home, you\u2019ll soon find that food has a way of bringing people together.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501580/header.jpg?t=1739894400",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501580/36b844f96c4879aada5bfd6ec324bb6b21b0248c/capsule_231x87.jpg?t=1739894400",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501580/36b844f96c4879aada5bfd6ec324bb6b21b0248c/capsule_184x69.jpg?t=1739894400",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501580/header.jpg?t=1742892169",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501580/36b844f96c4879aada5bfd6ec324bb6b21b0248c/capsule_231x87.jpg?t=1742892169",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501580/36b844f96c4879aada5bfd6ec324bb6b21b0248c/capsule_184x69.jpg?t=1742892169",
     "website": null,
     "developers": [
       "Squirreled Away Games"
@@ -7257,7 +7282,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -7271,8 +7297,8 @@
       "url": "",
       "email": "squirreledawaygames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501580/page_bg_generated_v6b.jpg?t=1739894400",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501580/page_bg_generated.jpg?t=1739894400",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501580?t=1742892169",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501580?t=1742892169",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7322,7 +7348,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       4
@@ -7387,7 +7414,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -7433,11 +7461,11 @@
     "steam_appid": 3502590,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A cozy pixel art RPG in a winter setting about a young girl who discovers her purpose and combats a growing threat... Protect the Sacred Grotto and ensure that you are not overcome by the relentless cold!",
+    "short_description": "A cozy pixel art RPG in a winter setting about a young woman who discovers her true purpose and combats a growing threat... Protect the Sacred Grotto and ensure that you are not overcome by the relentless cold!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502590/header.jpg?t=1740014460",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502590/172515ffa8ecd75183a163c220411b61e8c863e4/capsule_231x87.jpg?t=1740014460",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502590/172515ffa8ecd75183a163c220411b61e8c863e4/capsule_184x69.jpg?t=1740014460",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502590/header.jpg?t=1743260869",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502590/172515ffa8ecd75183a163c220411b61e8c863e4/capsule_231x87.jpg?t=1743260869",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3502590/172515ffa8ecd75183a163c220411b61e8c863e4/capsule_184x69.jpg?t=1743260869",
     "website": null,
     "developers": [
       "GatorByte Games"
@@ -7452,7 +7480,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -7468,8 +7497,8 @@
       "url": "",
       "email": "gatorbytegamestudio@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502590?t=1740014460",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502590?t=1740014460",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502590?t=1743260869",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3502590?t=1743260869",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7501,9 +7530,9 @@
     "is_free": false,
     "short_description": "A poker and spider solitaire hybrid where you reveal and remove cards by playing poker hands! Turning the classic puzzle game into a score chasing arcade puzzle game.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503870/header.jpg?t=1740066092",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503870/b5f4e500f83143de410a5cfcfe242238623315f2/capsule_231x87.jpg?t=1740066092",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503870/b5f4e500f83143de410a5cfcfe242238623315f2/capsule_184x69.jpg?t=1740066092",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503870/header.jpg?t=1741369782",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503870/b5f4e500f83143de410a5cfcfe242238623315f2/capsule_231x87.jpg?t=1741369782",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503870/b5f4e500f83143de410a5cfcfe242238623315f2/capsule_184x69.jpg?t=1741369782",
     "website": null,
     "developers": [
       "zepphy"
@@ -7518,7 +7547,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -7532,8 +7562,8 @@
       "url": "",
       "email": "zepphy.store@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503870?t=1740066092",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503870/page_bg_raw.jpg?t=1740066092",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3503870?t=1741369782",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503870/page_bg_raw.jpg?t=1741369782",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10618,6 +10648,75 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
+      }
+    }
+  },
+  "3501530": {
+    "type": "game",
+    "name": "Date Z: Welcome to Massville High",
+    "steam_appid": 3501530,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "Navigate high school life in this dating sim meets mystery adventure. Date girls, uncover secrets, and prepare for a Friday Date no one fully understands. With whispers of an old virus outbreak and the past creeping into the present, every choice shapes your fate at Massville High.",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501530/header.jpg?t=1743409972",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501530/b9753e11199d814d78e3c2a51cf64383bfe47f1d/capsule_231x87.jpg?t=1743409972",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501530/b9753e11199d814d78e3c2a51cf64383bfe47f1d/capsule_184x69.jpg?t=1743409972",
+    "website": null,
+    "developers": [
+      "Mass Creation"
+    ],
+    "publishers": [
+      "We Dig Games"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "categories": [
+      2,
+      22,
+      23
+    ],
+    "genres": [
+      3,
+      4,
+      23,
+      25,
+      37
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "18 Apr, 2025"
+    },
+    "support_info": {
+      "url": "https://wediggames.com/",
+      "email": "pr@wediggames.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3501530?t=1743409972",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501530/page_bg_raw.jpg?t=1743409972",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
       }
     }
   }
