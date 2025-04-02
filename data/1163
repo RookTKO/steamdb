@@ -3545,9 +3545,9 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490560/header.jpg?t=1738548254",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490560/387d0bfafc20ae99b67ea66436c55bf185e213c8/capsule_231x87.jpg?t=1738548254",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490560/387d0bfafc20ae99b67ea66436c55bf185e213c8/capsule_184x69.jpg?t=1738548254",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490560/header.jpg?t=1740267674",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490560/387d0bfafc20ae99b67ea66436c55bf185e213c8/capsule_231x87.jpg?t=1740267674",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490560/387d0bfafc20ae99b67ea66436c55bf185e213c8/capsule_184x69.jpg?t=1740267674",
     "website": null,
     "package_groups": [],
     "platforms": {
@@ -3563,8 +3563,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490560?t=1740267674",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490560?t=1740267674",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3579,9 +3579,9 @@
     "is_free": false,
     "short_description": "A game to pass the time between long downloads, triple-A titles, excuses for housework or just to keep busy, then this coin pusher game is just the thing for you. But be careful, this game has a high addictive factor.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Simplified Chinese, Danish, Finnish, Greek, Indonesian, Japanese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Swedish, Czech, Turkish, Ukrainian, Hungarian, Vietnamese, Traditional Chinese, Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489710/header.jpg?t=1739214952",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489710/0dd475f17092536fe4fcb4bd0073598a99ec905d/capsule_231x87.jpg?t=1739214952",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489710/0dd475f17092536fe4fcb4bd0073598a99ec905d/capsule_184x69.jpg?t=1739214952",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489710/header.jpg?t=1740150139",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489710/762940d59e7f26049e09c66abfa92de5ddf47794/capsule_231x87.jpg?t=1740150139",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489710/762940d59e7f26049e09c66abfa92de5ddf47794/capsule_184x69.jpg?t=1740150139",
     "website": null,
     "developers": [
       "eXtreme Studios"
@@ -3589,7 +3589,20 @@
     "publishers": [
       "eXtreme Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1232425
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Coin Hunter",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3598,23 +3611,27 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       4,
       25,
       70
     ],
+    "achievements": {
+      "total": 14
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "21 Feb, 2025"
     },
     "support_info": {
       "url": "https://www.extreme-studios.com",
       "email": "support@extreme-studios.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489710/page_bg_generated_v6b.jpg?t=1739214952",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489710/page.bg.jpg?t=1739214952",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489710?t=1740150139",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489710/2ee4276404482cfff624350c252d9f06d85eccd8/page_bg_raw.jpg?t=1740150139",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3711,15 +3728,15 @@
     "steam_appid": 3490070,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Step into the deadliest bar in town with the 9mm Roulette demo! Smash everything, choose between shooting yourself or your opponent, and use crazy items to survive. Enjoy ragdoll physics, dark humor, and high-stakes chaos where every shot decides your fate! \ud83d\udca5",
+    "short_description": "9mm Roulette\ud83d\udc80 is a deadly multiplayer experiment where tactics and psychological pressure decide everything. Play Russian roulette with up to four players: bluff, track bullets, take risks for an advantage, and be the last one standing.",
     "fullgame": {
       "appid": "3454470",
       "name": "9mm Roulette \ud83d\udc80"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490070/header.jpg?t=1738691698",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490070/438c07556780cf4d56dd940905e08e6984ca9ee5/capsule_231x87.jpg?t=1738691698",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490070/438c07556780cf4d56dd940905e08e6984ca9ee5/capsule_184x69.jpg?t=1738691698",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490070/header.jpg?t=1740598127",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490070/438c07556780cf4d56dd940905e08e6984ca9ee5/capsule_231x87.jpg?t=1740598127",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490070/438c07556780cf4d56dd940905e08e6984ca9ee5/capsule_184x69.jpg?t=1740598127",
     "website": null,
     "developers": [
       "Octo Games studio"
@@ -3744,15 +3761,15 @@
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "2025"
+      "coming_soon": false,
+      "date": "26 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "octogames.help@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490070/page_bg_generated_v6b.jpg?t=1738691698",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490070/page_bg_generated.jpg?t=1738691698",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490070?t=1740598127",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490070?t=1740598127",
     "content_descriptors": {
       "ids": [
         5
@@ -3785,10 +3802,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "SudokuNexus is not just a classic Sudoku game \u2013 it\u2019s an exciting journey through the world of logical challenges that will test your concentration and skills. With a modern, eye-catching design, adrenaline-pumping music, and smooth gameplay, every puzzle becomes a true test of your logic.",
-    "supported_languages": "English, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489650/header.jpg?t=1738623676",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489650/d0fe4f77acccab79a33952309fa06008dad6ab3d/capsule_231x87.jpg?t=1738623676",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489650/d0fe4f77acccab79a33952309fa06008dad6ab3d/capsule_184x69.jpg?t=1738623676",
+    "supported_languages": "Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489650/header.jpg?t=1743322142",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489650/d0fe4f77acccab79a33952309fa06008dad6ab3d/capsule_231x87.jpg?t=1743322142",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489650/d0fe4f77acccab79a33952309fa06008dad6ab3d/capsule_184x69.jpg?t=1743322142",
     "website": "https://sudokunexus.com",
     "developers": [
       "Revogoo"
@@ -3805,24 +3822,29 @@
     "categories": [
       1,
       2,
+      9,
       15,
       22,
       23,
-      25
+      25,
+      36,
+      38,
+      49,
+      62
     ],
     "genres": [
       4
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "19 Jun, 2025"
+      "date": "20 Jun, 2025"
     },
     "support_info": {
       "url": "https://sudokunexus.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489650/page_bg_generated_v6b.jpg?t=1738623676",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489650/page_bg_generated.jpg?t=1738623676",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489650?t=1743322142",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489650?t=1743322142",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3873,7 +3895,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       3
@@ -3886,8 +3909,8 @@
       "url": "https://x.com/TikiTello_Games",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490730/page_bg_generated_v6b.jpg?t=1738624313",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490730/page_bg_generated.jpg?t=1738624313",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490730?t=1738624313",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490730?t=1738624313",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3958,8 +3981,8 @@
       "url": "https://space.bilibili.com/349016910?spm_id_from=333.1365.0.0",
       "email": "chan_cong@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489750/page_bg_generated_v6b.jpg?t=1738666278",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489750/page.bg.jpg?t=1738666278",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489750?t=1738666278",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489750/page_bg_raw.jpg?t=1738666278",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3991,9 +4014,9 @@
     "is_free": false,
     "short_description": "WobblePop: Pop bubbles, dodge silly fish, and dive into colorful underwater fun!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491710/header.jpg?t=1738705672",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491710/960f2ee67ea6c0d58b8c30cc6fb86c6fe016f9e2/capsule_231x87.jpg?t=1738705672",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491710/960f2ee67ea6c0d58b8c30cc6fb86c6fe016f9e2/capsule_184x69.jpg?t=1738705672",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491710/header.jpg?t=1740808815",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491710/960f2ee67ea6c0d58b8c30cc6fb86c6fe016f9e2/capsule_231x87.jpg?t=1740808815",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491710/960f2ee67ea6c0d58b8c30cc6fb86c6fe016f9e2/capsule_184x69.jpg?t=1740808815",
     "website": null,
     "developers": [
       "Aio",
@@ -4002,14 +4025,28 @@
     "publishers": [
       "Aiocane"
     ],
-    "package_groups": [],
+    "packages": [
+      1233106
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy WobblePop",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -4017,15 +4054,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "28 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "AiocaneDev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491710/page_bg_generated_v6b.jpg?t=1738705672",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491710/page_bg_generated.jpg?t=1738705672",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491710?t=1740808815",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491710?t=1740808815",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4057,9 +4094,9 @@
     "is_free": false,
     "short_description": "Wild West Saloon Simulator is an immersive Wild West simulation where you can manage and upgrade your own saloon, mine for resources, bet on horse races, and invest in the stock market.",
     "supported_languages": "English, Turkish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490230/header.jpg?t=1739290984",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490230/024c7d5d33fcfd1857d06671402e4f7e3ba03a88/capsule_231x87.jpg?t=1739290984",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490230/024c7d5d33fcfd1857d06671402e4f7e3ba03a88/capsule_184x69.jpg?t=1739290984",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490230/header.jpg?t=1740602618",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490230/024c7d5d33fcfd1857d06671402e4f7e3ba03a88/capsule_231x87.jpg?t=1740602618",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490230/024c7d5d33fcfd1857d06671402e4f7e3ba03a88/capsule_184x69.jpg?t=1740602618",
     "website": null,
     "developers": [
       "Walty Games"
@@ -4067,14 +4104,28 @@
     "publishers": [
       "Walty Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1232592
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Wild West Saloon Simulator",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
@@ -4086,20 +4137,20 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2025"
+      "coming_soon": false,
+      "date": "24 Feb, 2025"
     },
     "support_info": {
       "url": "https://www.instagram.com/waltygames/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490230/page_bg_generated_v6b.jpg?t=1739290984",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490230/page_bg_generated.jpg?t=1739290984",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490230?t=1740602618",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490230?t=1740602618",
     "content_descriptors": {
       "ids": [
         5
       ],
-      "notes": "Some customers are able to escape without paying, we have to shoot them to get our money."
+      "notes": "Describing and/or including the sale and preparation of alcohol without promoting it. Some in-game elements may contain violence. Certain depictions of gambling are present in the game. Do not attempt any of these in real life. Strongly discouraged."
     },
     "ratings": {
       "dejus": {
@@ -4145,21 +4196,22 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q1 2025"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "danielweldink@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489670/page_bg_generated_v6b.jpg?t=1738672471",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489670/page_bg_generated.jpg?t=1738672471",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489670?t=1738672471",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489670?t=1738672471",
     "content_descriptors": {
       "ids": [
         2,
@@ -4214,7 +4266,8 @@
       2,
       13,
       22,
-      44
+      44,
+      62
     ],
     "genres": [
       3,
@@ -4229,8 +4282,8 @@
       "url": "",
       "email": "koropixel@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489460/page_bg_generated_v6b.jpg?t=1739354921",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489460/page.bg.jpg?t=1739354921",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489460?t=1739354921",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489460/page_bg_raw.jpg?t=1739354921",
     "content_descriptors": {
       "ids": [
         2,
@@ -4263,11 +4316,14 @@
     "steam_appid": 3490240,
     "required_age": 0,
     "is_free": true,
+    "dlc": [
+      3490590
+    ],
     "short_description": "A self-described &quot;chronically online&quot; trans guy goes to a kink club thinking it will fix him. It doesn't.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490240/header.jpg?t=1738681060",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490240/a0e4f8e4f7ecda1715d566e0de4e0825a8778d8a/capsule_231x87.jpg?t=1738681060",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490240/a0e4f8e4f7ecda1715d566e0de4e0825a8778d8a/capsule_184x69.jpg?t=1738681060",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490240/header.jpg?t=1741093313",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490240/a0e4f8e4f7ecda1715d566e0de4e0825a8778d8a/capsule_231x87.jpg?t=1741093313",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490240/a0e4f8e4f7ecda1715d566e0de4e0825a8778d8a/capsule_184x69.jpg?t=1741093313",
     "website": null,
     "developers": [
       "Stanwixbuster"
@@ -4291,15 +4347,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "4 Mar, 2025"
     },
     "support_info": {
       "url": "https://stanwixbuster.co.uk/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490240/page_bg_generated_v6b.jpg?t=1738681060",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490240/page.bg.jpg?t=1738681060",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490240?t=1741093313",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490240/page_bg_raw.jpg?t=1741093313",
     "content_descriptors": {
       "ids": [
         1,
@@ -4307,7 +4363,7 @@
         4,
         5
       ],
-      "notes": "LATEX, LEATHER, LIPSTICK, LOVE, LUST is a mature story featuring various explicit and consensual sexual acts, as well as a deeply unsavory analysis of very unpleasant, very online people. A full list of content warnings can be seen in-game from the main menu under \"PERVERSIONS\"."
+      "notes": "LATEX, LEATHER, LIPSTICK, LOVE, LUST is a mature story featuring various explicit and consensual BDSM sexual acts, suicidal ideation, references to self harm, as well as a deeply unsavory analysis of very unpleasant, very online people. A full list of content warnings can be seen in-game from the main menu under \"PERVERSIONS\"."
     },
     "ratings": {
       "dejus": {
@@ -4391,8 +4447,8 @@
       "url": "support.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490410/page_bg_generated_v6b.jpg?t=1738684585",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490410/page_bg_generated.jpg?t=1738684585",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490410?t=1738684585",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490410?t=1738684585",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4423,9 +4479,9 @@
     "controller_support": "full",
     "short_description": "A game about sea adventures. Here you will find many different quests, here you can find an alien, find various treasures. Catch from the sea not only fish, but also different items that can help you in trouble.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Korean, Russian, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489400/header.jpg?t=1739283707",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489400/6e5b3e330464cb44abd938259666484a30b11759/capsule_231x87.jpg?t=1739283707",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489400/6e5b3e330464cb44abd938259666484a30b11759/capsule_184x69.jpg?t=1739283707",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489400/header.jpg?t=1740056505",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489400/6e5b3e330464cb44abd938259666484a30b11759/capsule_231x87.jpg?t=1740056505",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489400/6e5b3e330464cb44abd938259666484a30b11759/capsule_184x69.jpg?t=1740056505",
     "website": null,
     "developers": [
       "PS Games"
@@ -4433,7 +4489,20 @@
     "publishers": [
       "PS Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1232307
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Sailing The Winds",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4441,22 +4510,23 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       23,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "20 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "witeytr@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489400/page_bg_generated_v6b.jpg?t=1739283707",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489400/page.bg.jpg?t=1739283707",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489400?t=1740056505",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489400/page_bg_raw.jpg?t=1740056505",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7435,9 +7505,9 @@
       "name": "SLAVFIGHT"
     },
     "supported_languages": "English<strong>*</strong>, Polish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490330/header.jpg?t=1739362995",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490330/fda39774cd809fe4091427cf5617cc2e6998b6b9/capsule_231x87.jpg?t=1739362995",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490330/fda39774cd809fe4091427cf5617cc2e6998b6b9/capsule_184x69.jpg?t=1739362995",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490330/header.jpg?t=1741585919",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490330/fda39774cd809fe4091427cf5617cc2e6998b6b9/capsule_231x87.jpg?t=1741585919",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490330/fda39774cd809fe4091427cf5617cc2e6998b6b9/capsule_184x69.jpg?t=1741585919",
     "website": "https://www.facebook.com/slavfight",
     "developers": [
       "Slavdev"
@@ -7480,11 +7550,10 @@
       "url": "https://www.facebook.com/slavfight",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490330/page_bg_generated_v6b.jpg?t=1739362995",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490330/page.bg.jpg?t=1739362995",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490330?t=1741585919",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490330/page_bg_raw.jpg?t=1741585919",
     "content_descriptors": {
       "ids": [
-        1,
         2,
         5
       ],
@@ -7565,8 +7634,8 @@
       "url": "https://store.steampowered.com/developer/boogygames/",
       "email": "gulhan300@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491060/page_bg_generated_v6b.jpg?t=1739391765",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491060/page_bg_generated.jpg?t=1739391765",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491060?t=1739391765",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491060?t=1739391765",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7602,9 +7671,9 @@
       "name": "Born to Breed"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490100/header.jpg?t=1739388966",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490100/254babe4a064aeb39cda8511d9665ff310eb735b/capsule_231x87.jpg?t=1739388966",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490100/254babe4a064aeb39cda8511d9665ff310eb735b/capsule_184x69.jpg?t=1739388966",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490100/header.jpg?t=1740408207",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490100/254babe4a064aeb39cda8511d9665ff310eb735b/capsule_231x87.jpg?t=1740408207",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490100/254babe4a064aeb39cda8511d9665ff310eb735b/capsule_184x69.jpg?t=1740408207",
     "website": "https://x.com/rfhgames",
     "developers": [
       "RFH Games"
@@ -7624,15 +7693,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "24 Feb, 2025"
     },
     "support_info": {
       "url": "https://x.com/rfhgames",
       "email": "benefitshipgame@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490100?t=1740408207",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490100?t=1740408207",
     "content_descriptors": {
       "ids": [
         1,
@@ -7686,7 +7755,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -7700,8 +7770,8 @@
       "url": "https://discord.gg/NxDSW65sUY",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490250/page_bg_generated_v6b.jpg?t=1739389173",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490250/page.bg.jpg?t=1739389173",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490250?t=1739389173",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490250/page_bg_raw.jpg?t=1739389173",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7734,9 +7804,9 @@
     "controller_support": "full",
     "short_description": "Hentai Shibari is a place where you need to help relax beautiful girls.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489610/header.jpg?t=1739412148",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489610/c6a46c7efccd20e16c8b1d5d37da17390bb36db0/capsule_231x87.jpg?t=1739412148",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489610/c6a46c7efccd20e16c8b1d5d37da17390bb36db0/capsule_184x69.jpg?t=1739412148",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489610/header.jpg?t=1741354833",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489610/c6a46c7efccd20e16c8b1d5d37da17390bb36db0/capsule_231x87.jpg?t=1741354833",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489610/c6a46c7efccd20e16c8b1d5d37da17390bb36db0/capsule_184x69.jpg?t=1741354833",
     "website": null,
     "developers": [
       "UwU"
@@ -7744,7 +7814,20 @@
     "publishers": [
       "UwU"
     ],
-    "package_groups": [],
+    "packages": [
+      1232380
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hentai Shibari",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7753,22 +7836,26 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 50
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "March 2025"
+      "coming_soon": false,
+      "date": "7 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "uwuGameDEVelop@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489610/page_bg_generated_v6b.jpg?t=1739412148",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489610/page_bg_generated.jpg?t=1739412148",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489610?t=1741354833",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489610?t=1741354833",
     "content_descriptors": {
       "ids": [
         1,
@@ -7776,7 +7863,7 @@
         4,
         5
       ],
-      "notes": "-Nudity sexual content\r\n-Not suitable for all ages\r\n-All characters in the game are over 18 years old"
+      "notes": "-Nudity sexual content\r\n-Not suitable for all ages\r\n-All characters in the game are over 18 years old\r\n-Shibari\r\n-BDSM"
     },
     "ratings": {
       "dejus": {
@@ -7824,7 +7911,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -7839,8 +7927,8 @@
       "url": "https://www.playstation.com/support/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/page_bg_generated_v6b.jpg?t=1739400994",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/page_bg_generated.jpg?t=1739400994",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489700?t=1739400994",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489700?t=1739400994",
     "content_descriptors": {
       "ids": [
         1,
@@ -7875,9 +7963,9 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "This album brings together unforgettable live game music from Arma, DayZ, Ylands, Vigor, and other Bohemia Interactive titles, written by the studio\u2019s renowned composers.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489740/header.jpg?t=1739457088",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489740/db870cc2ae598732235dad3541b8113ab04883e3/capsule_231x87.jpg?t=1739457088",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489740/db870cc2ae598732235dad3541b8113ab04883e3/capsule_184x69.jpg?t=1739457088",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489740/header.jpg?t=1739869558",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489740/db870cc2ae598732235dad3541b8113ab04883e3/capsule_231x87.jpg?t=1739869558",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489740/db870cc2ae598732235dad3541b8113ab04883e3/capsule_184x69.jpg?t=1739869558",
     "website": "http://bohemia.net/",
     "developers": [
       "Bohemia Interactive"
@@ -7915,8 +8003,8 @@
       "url": "https://support.bohemia.net/",
       "email": "support@bistudio.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489740/page_bg_generated_v6b.jpg?t=1739457088",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489740/page_bg_generated.jpg?t=1739457088",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489740?t=1739869558",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3489740?t=1739869558",
     "content_descriptors": {
       "ids": [],
       "notes": null
