@@ -2838,7 +2838,8 @@
     "categories": [
       1,
       9,
-      38
+      38,
+      62
     ],
     "genres": [
       4,
@@ -2847,14 +2848,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q1 2025"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "mnsgStudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424370/page_bg_generated_v6b.jpg?t=1736387469",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424370/page_bg_generated.jpg?t=1736387469",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3424370?t=1736387469",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3424370?t=1736387469",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2988,9 +2989,9 @@
     "controller_support": "full",
     "short_description": "You will play the role of a cat cafe operator and go through the mysterious door to adventure in the cat kingdom. You can meet various cats, defeat them and hire them as your own cat employees! Bring your own cat, build your own cat cafe, and enjoy delicious food from another world!",
     "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425800/header.jpg?t=1736400670",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425800/e4528aa62b080e3a189ee0e12e25858bd462495b/capsule_231x87.jpg?t=1736400670",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425800/e4528aa62b080e3a189ee0e12e25858bd462495b/capsule_184x69.jpg?t=1736400670",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425800/header.jpg?t=1737855590",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425800/e4528aa62b080e3a189ee0e12e25858bd462495b/capsule_231x87.jpg?t=1737855590",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425800/e4528aa62b080e3a189ee0e12e25858bd462495b/capsule_184x69.jpg?t=1737855590",
     "website": "https://www.instagram.com/lz_otter/",
     "developers": [
       "OtterArt"
@@ -3009,7 +3010,8 @@
       13,
       15,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       3,
@@ -3026,8 +3028,8 @@
       "url": "https://www.instagram.com/lz_otter/",
       "email": "i.m.yiben.12.02@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425800/page_bg_generated_v6b.jpg?t=1736400670",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425800/page.bg.jpg?t=1736400670",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3425800?t=1737855590",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425800/page_bg_raw.jpg?t=1737855590",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3124,11 +3126,14 @@
     "steam_appid": 3425970,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3426390
+    ],
     "short_description": "Join Thomas and George, two young detectives, as they solve mysteries and find hidden objects in the foggy streets of Victorian London.",
     "supported_languages": "English<strong>*</strong>, French, German, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425970/header.jpg?t=1736405180",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425970/86418fd436204ba383b235b26f0690bc616e3492/capsule_231x87.jpg?t=1736405180",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425970/86418fd436204ba383b235b26f0690bc616e3492/capsule_184x69.jpg?t=1736405180",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425970/header.jpg?t=1739433484",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425970/86418fd436204ba383b235b26f0690bc616e3492/capsule_231x87.jpg?t=1739433484",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425970/86418fd436204ba383b235b26f0690bc616e3492/capsule_184x69.jpg?t=1739433484",
     "website": null,
     "developers": [
       "Do Games Limited"
@@ -3136,29 +3141,53 @@
     "publishers": [
       "Do Games Limited"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3426380,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1211472
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Detective Club: Missing in the Fog Collector's Edition",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       4,
       25
     ],
+    "achievements": {
+      "total": 39
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Feb, 2025"
     },
     "support_info": {
       "url": "https://dogameslimited.zohodesk.eu/",
       "email": "support@dominigames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425970/page_bg_generated_v6b.jpg?t=1736405180",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425970/page_bg_generated.jpg?t=1736405180",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3425970?t=1739433484",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3425970?t=1739433484",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7236,10 +7265,10 @@
     "is_free": true,
     "short_description": "A New Kind of Romantic Adventure:Break the Flags! Akira Morisaki set up &quot;flags&quot; with girls for Valentine\u2019s Day success. But receiving too many chocolates triggered a fatal surge of \u201clove power\u201d! Saved by the angel Chocoriel, he must relive February 14th and break the flags to escape his doomed fate.",
     "supported_languages": "Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424470/header.jpg?t=1737413881",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424470/f0dd2772addbb467a0b30db9a8ce0ecf34fbab48/capsule_231x87.jpg?t=1737413881",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424470/f0dd2772addbb467a0b30db9a8ce0ecf34fbab48/capsule_184x69.jpg?t=1737413881",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424470/header.jpg?t=1739702888",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424470/f0dd2772addbb467a0b30db9a8ce0ecf34fbab48/capsule_231x87.jpg?t=1739702888",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424470/f0dd2772addbb467a0b30db9a8ce0ecf34fbab48/capsule_184x69.jpg?t=1739702888",
+    "website": "https://g.28gou.net/valentinus/",
     "developers": [
       "\u7dd1\u8336\u5f10\u634c\u865f"
     ],
@@ -7261,15 +7290,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "13 Feb, 2025"
     },
     "support_info": {
       "url": "https://g.28gou.net/",
       "email": "noriyaki28@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424470/page_bg_generated_v6b.jpg?t=1737413881",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424470/page.bg.jpg?t=1737413881",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3424470?t=1739702888",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424470/page_bg_raw.jpg?t=1739702888",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7385,7 +7414,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -7399,8 +7429,8 @@
       "url": "",
       "email": "floatgaming@foxmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424580/page_bg_generated_v6b.jpg?t=1737419251",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3424580/page_bg_generated.jpg?t=1737419251",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3424580?t=1737419251",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3424580?t=1737419251",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11623,6 +11653,73 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
+      }
+    }
+  },
+  "3423010": {
+    "type": "game",
+    "name": "Xoru: The Nightmare Wars",
+    "steam_appid": 3423010,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "With branching storylines, cryptic lore, hand-drawn gothic visuals, and a haunting original soundtrack, explore a world shaped by your decisions. But be warned, every choice you make brings you closer to salvation\u2014or to something worse than death.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3423010/c8e9a7274798c75945cb09434f67d830d0a5f760/header.jpg?t=1743811822",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3423010/32cf95bc0192a2d6a2ce462a12a819a058f886a2/capsule_231x87.jpg?t=1743811822",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3423010/32cf95bc0192a2d6a2ce462a12a819a058f886a2/capsule_184x69.jpg?t=1743811822",
+    "website": "https://castlelorestudios.com",
+    "developers": [
+      "Castlelore Studios"
+    ],
+    "publishers": [
+      "Castlelore Studios"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      62
+    ],
+    "genres": [
+      3,
+      23,
+      25,
+      70
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "http://www.castlelorestudios.com",
+      "email": "contact@castlelorestudios.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3423010?t=1743811822",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3423010/d58f03fc55c7e3984dfed61a842e82d742f5e936/page_bg_raw.jpg?t=1743811822",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
       }
     }
   }
