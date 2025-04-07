@@ -10976,19 +10976,32 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Jump into action-packed space battles with up to 8 players (or AI's) locally or over Remote-Play-Together. Use outlandish sci-fi weapons, including the wormhole maker and time altering munitions while avoiding asteroids, wormholes, planet gravity, and other hazards.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2694460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2694460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2694460/capsule_184x69.jpg",
-    "website": null,
+    "short_description": "Jump into action-packed space dogfights with up to 8 players (or AI's) locally or over Remote-Play-Together. Use outlandish sci-fi weapons, including the wormhole maker and time altering munitions while avoiding asteroids, wormholes, planet gravity, and other hazards in endless space exploration!",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Indonesian, Portuguese - Portugal, Russian, Spanish - Latin America, Swedish, Turkish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694460/header.jpg?t=1730820089",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694460/capsule_231x87.jpg?t=1730820089",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694460/capsule_184x69.jpg?t=1730820089",
+    "website": "https://flashpointgames.com/games/the-quantum-conflict",
     "developers": [
       "FlashPoint Games, LLC"
     ],
     "publishers": [
       "FlashPoint Games, LLC"
     ],
-    "package_groups": [],
+    "packages": [
+      964912
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Quantum Conflict",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -10998,34 +11011,58 @@
       1,
       2,
       9,
+      22,
       24,
+      25,
       28,
       37,
       39,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       1
     ],
+    "achievements": {
+      "total": 18
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "15 Jul, 2024"
     },
     "support_info": {
       "url": "http://flashpointgames.com/",
-      "email": ""
+      "email": "support@flashpointgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2694460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2694460/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2694460?t=1730820089",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2694460?t=1730820089",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2695150": {
     "type": "dlc",
-    "name": "Hearts of Iron IV: Trial of Allegiance",
+    "name": "Country Pack - Hearts of Iron IV: Trial of Allegiance",
     "steam_appid": 2695150,
     "required_age": 0,
     "is_free": false,
@@ -11035,9 +11072,9 @@
       "name": "Hearts of Iron IV"
     },
     "supported_languages": "English, French, German, Polish, Portuguese - Brazil, Russian, Spanish - Spain, Japanese, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2695150/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2695150/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2695150/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695150/header.jpg?t=1729083464",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695150/0ec8a229fc74deda857d29e1c37b85ced9aefd34/capsule_231x87.jpg?t=1729083464",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695150/0ec8a229fc74deda857d29e1c37b85ced9aefd34/capsule_184x69.jpg?t=1729083464",
     "website": "https://www.paradoxinteractive.com/games/hearts-of-iron-iv/add-ons/hearts-of-iron-iv-trial-of-allegiance",
     "developers": [
       "Paradox Development Studio"
@@ -11046,12 +11083,12 @@
       "Paradox Interactive"
     ],
     "packages": [
-      998292
+      965134
     ],
     "package_groups": [
       {
         "name": "default",
-        "title": "Buy Hearts of Iron IV: Trial of Allegiance",
+        "title": "Buy Country Pack - Hearts of Iron IV: Trial of Allegiance",
         "description": "",
         "selection_text": "Select a purchase option",
         "save_text": "",
@@ -11074,25 +11111,51 @@
       27,
       29,
       30,
-      42
+      42,
+      62
     ],
     "genres": [
       2,
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "7 Mar, 2024"
     },
     "support_info": {
       "url": "http://support.paradoxplaza.com",
       "email": "support@paradoxplaza.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2695150/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2695150/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2695150?t=1729083464",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695150/page_bg_raw.jpg?t=1729083464",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "7",
+        "descriptors": "Violence"
+      },
+      "usk": {
+        "rating": "12"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2695680": {
