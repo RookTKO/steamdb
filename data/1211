@@ -151,14 +151,14 @@
     "steam_appid": 3633260,
     "required_age": 0,
     "is_free": false,
-    "short_description": "The official soundtrack for Stop the Blight, featuring six evocative tracks that capture the mystery, magic, and tension of a world consumed by corruption. Includes MP3 and WAV formats.",
+    "short_description": "The official soundtrack for Stop the Blight, featuring evocative music that captures the mystery, magic, and tension of a world consumed by corruption. Includes MP3 and WAV formats.",
     "fullgame": {
       "appid": "1688710",
       "name": "Stop the Blight"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633260/fa5178a34e1105971cdab6ba16e19033099730d3/header.jpg?t=1743638481",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633260/13e42a48721de5d0873c975726f6cb478128e936/capsule_231x87.jpg?t=1743638481",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633260/13e42a48721de5d0873c975726f6cb478128e936/capsule_184x69.jpg?t=1743638481",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633260/fa5178a34e1105971cdab6ba16e19033099730d3/header.jpg?t=1744053467",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633260/13e42a48721de5d0873c975726f6cb478128e936/capsule_231x87.jpg?t=1744053467",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633260/13e42a48721de5d0873c975726f6cb478128e936/capsule_184x69.jpg?t=1744053467",
     "website": null,
     "developers": [
       "Bouncy Washer"
@@ -166,7 +166,20 @@
     "publishers": [
       "Bouncy Washer"
     ],
-    "package_groups": [],
+    "packages": [
+      1280694
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Stop the Blight Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -176,15 +189,15 @@
       50
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "14 Apr, 2025"
+      "coming_soon": false,
+      "date": "7 Apr, 2025"
     },
     "support_info": {
       "url": "https://discord.com/invite/gQbn2t5Yfy",
       "email": "support@bouncywasher.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633260?t=1743638481",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633260?t=1743638481",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633260?t=1744053467",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633260?t=1744053467",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5488,5 +5501,71 @@
       "notes": null
     },
     "ratings": null
+  },
+  "3635310": {
+    "type": "game",
+    "name": "SCP: Short Story",
+    "steam_appid": 3635310,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "SCP: Short Story is a first-person shooter set in a world where the K-class scenario destroyed almost every living form. You\u2019ll have to get through this dead world, retrieve essential documents from Site-17, and most importantly - do not get killed by what survived.",
+    "supported_languages": "English<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635310/48310142860063bc7ff44c8b5daf94a6a46181dd/header.jpg?t=1744393407",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635310/b61a3f3f9960521e21701bb49f49fb0628f68ad5/capsule_231x87.jpg?t=1744393407",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635310/b61a3f3f9960521e21701bb49f49fb0628f68ad5/capsule_184x69.jpg?t=1744393407",
+    "website": null,
+    "developers": [
+      "10th Emerald Studio"
+    ],
+    "publishers": [
+      "10th Emerald Studio"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      62
+    ],
+    "genres": [
+      1,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Q1 2026"
+    },
+    "support_info": {
+      "url": "",
+      "email": "prostogamesstudio@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3635310?t=1744393407",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3635310?t=1744393407",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
+    }
   }
 }
