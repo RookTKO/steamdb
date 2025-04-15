@@ -6345,11 +6345,12 @@
     "steam_appid": 2617190,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "In a realm between life and death, a confused soul, haunted by a life filled with misguided choices, seeks redemption and freedom.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2617190/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2617190/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2617190/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617190/header.jpg?t=1726966656",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617190/capsule_231x87.jpg?t=1726966656",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617190/capsule_184x69.jpg?t=1726966656",
     "website": null,
     "developers": [
       "Nibb Games"
@@ -6357,7 +6358,20 @@
     "publishers": [
       "Nibb Games"
     ],
-    "package_groups": [],
+    "packages": [
+      938977
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Soulshard",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6368,28 +6382,52 @@
       2,
       9,
       22,
+      23,
       24,
+      28,
       39,
-      44
+      44,
+      62
     ],
     "genres": [
       4,
       23,
       25
     ],
+    "achievements": {
+      "total": 11
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "12 Feb, 2024"
     },
     "support_info": {
       "url": "",
       "email": "contact@nibbgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2617190/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2617190/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2617190?t=1726966656",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617190/page_bg_raw.jpg?t=1726966656",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2616040": {
@@ -8638,9 +8676,9 @@
       "name": "Loinkham TD"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2618590/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2618590/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2618590/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2618590/header.jpg?t=1701022825",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2618590/capsule_231x87.jpg?t=1701022825",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2618590/capsule_184x69.jpg?t=1701022825",
     "website": null,
     "developers": [
       "Loinkham Studio"
@@ -8666,11 +8704,29 @@
       "url": "",
       "email": "sunpowered.gamemaker@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2618590?t=1701022825",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2618590?t=1701022825",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2617720": {
@@ -8685,9 +8741,9 @@
       "name": "Last Train Home"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain, Portuguese - Brazil, Traditional Chinese, Simplified Chinese, Japanese, Polish, Russian, Czech<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2617720/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2617720/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2617720/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617720/header.jpg?t=1701179920",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617720/capsule_231x87.jpg?t=1701179920",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617720/capsule_184x69.jpg?t=1701179920",
     "website": "https://lasttrainhome.thqnordic.com",
     "developers": [
       "Ashborne Games"
@@ -8696,7 +8752,8 @@
       "THQ Nordic"
     ],
     "packages": [
-      939142
+      939142,
+      939283
     ],
     "package_groups": [
       {
@@ -8718,7 +8775,8 @@
       2,
       21,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       2
@@ -8731,11 +8789,33 @@
       "url": "",
       "email": "support@quanticlab.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2617720/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2617720/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2617720?t=1701179920",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617720/page_bg_raw.jpg?t=1701179920",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence\r\nBad Language"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2617510": {
@@ -8749,9 +8829,9 @@
       "appid": "1469610",
       "name": "Last Train Home"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2617510/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2617510/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2617510/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617510/header.jpg?t=1701179941",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617510/capsule_231x87.jpg?t=1701179941",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617510/capsule_184x69.jpg?t=1701179941",
     "website": "https://lasttrainhome.thqnordic.com",
     "developers": [
       "Ashborne Games"
@@ -8760,7 +8840,8 @@
       "THQ Nordic"
     ],
     "packages": [
-      939077
+      939077,
+      939283
     ],
     "package_groups": [
       {
@@ -8786,11 +8867,29 @@
       "url": "",
       "email": "support@quanticlab.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2617510/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2617510/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2617510?t=1701179941",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2617510?t=1701179941",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2616490": {
@@ -8801,9 +8900,9 @@
     "is_free": false,
     "short_description": "Ultimate High Speed Running Wire Action",
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2616490/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2616490/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2616490/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616490/header.jpg?t=1702584124",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616490/capsule_231x87.jpg?t=1702584124",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616490/capsule_184x69.jpg?t=1702584124",
     "website": null,
     "developers": [
       "Pixel Wave"
@@ -8811,7 +8910,20 @@
     "publishers": [
       "Pixel Wave"
     ],
-    "package_groups": [],
+    "packages": [
+      938677
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cave Runner",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8821,25 +8933,48 @@
       2,
       22,
       23,
-      30
+      25,
+      30,
+      62
     ],
     "genres": [
       1,
       23
     ],
+    "achievements": {
+      "total": 22
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "14 Dec, 2023"
     },
     "support_info": {
       "url": "",
       "email": "pixelwave.0w0@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2616490/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2616490/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2616490?t=1702584124",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2616490?t=1702584124",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2617940": {
