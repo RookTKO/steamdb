@@ -4233,9 +4233,9 @@
     "is_free": false,
     "short_description": "Uncover dark secrets in this atmospheric puzzle-adventure game. Solve challenging logic puzzles, explore mysterious rooms, and reactivate forgotten systems to escape an abandoned underground laboratory. Will you uncover the truth or become part of an endless experiment?",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471830/header.jpg?t=1738547516",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471830/11c6b159d19a2bee423db96854e2cec133d4fb2b/capsule_231x87.jpg?t=1738547516",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471830/11c6b159d19a2bee423db96854e2cec133d4fb2b/capsule_184x69.jpg?t=1738547516",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471830/header.jpg?t=1739893568",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471830/11c6b159d19a2bee423db96854e2cec133d4fb2b/capsule_231x87.jpg?t=1739893568",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471830/11c6b159d19a2bee423db96854e2cec133d4fb2b/capsule_184x69.jpg?t=1739893568",
     "website": null,
     "developers": [
       "Magnaro"
@@ -4243,29 +4243,43 @@
     "publishers": [
       "Magnaro"
     ],
-    "package_groups": [],
+    "packages": [
+      1226463
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Chronos Experiment",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "18 Feb, 2025"
     },
     "support_info": {
       "url": "https://magnaro.games/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471830/page_bg_generated_v6b.jpg?t=1738547516",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471830/page.bg.jpg?t=1738547516",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3471830?t=1739893568",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471830/page_bg_raw.jpg?t=1739893568",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4314,7 +4328,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
@@ -4328,8 +4343,8 @@
       "url": "",
       "email": "ronneydeveloper@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3473210/page_bg_generated_v6b.jpg?t=1738158371",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3473210/page.bg.jpg?t=1738158371",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3473210?t=1738158371",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3473210/page_bg_raw.jpg?t=1738158371",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7829,11 +7844,12 @@
     "steam_appid": 3472420,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A retro game simple, complete and funny. Well Projected and easy! Perfect for kids!",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472420/header.jpg?t=1738944910",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472420/0cbfa256f80ec0308e64daa47699e28902378b52/capsule_231x87.jpg?t=1738944910",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472420/0cbfa256f80ec0308e64daa47699e28902378b52/capsule_184x69.jpg?t=1738944910",
+    "controller_support": "full",
+    "short_description": "A retro game simple, complete and funny. Well projected and easy! Perfect for kids!",
+    "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472420/header.jpg?t=1744504169",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472420/0cbfa256f80ec0308e64daa47699e28902378b52/capsule_231x87.jpg?t=1744504169",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472420/0cbfa256f80ec0308e64daa47699e28902378b52/capsule_184x69.jpg?t=1744504169",
     "website": null,
     "developers": [
       "MalysterSnur"
@@ -7841,7 +7857,26 @@
     "publishers": [
       "Bunegame"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3508120,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1226653
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Supershot",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7851,23 +7886,28 @@
       2,
       15,
       22,
-      25
+      25,
+      28,
+      62
     ],
     "genres": [
       1,
       23,
       25
     ],
+    "achievements": {
+      "total": 17
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "10 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "malyster10@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472420/page_bg_generated_v6b.jpg?t=1738944910",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472420/page.bg.jpg?t=1738944910",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3472420?t=1744504169",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472420/page_bg_raw.jpg?t=1744504169",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12327,6 +12367,78 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Horror"
+      }
+    }
+  },
+  "3471180": {
+    "type": "game",
+    "name": "Freezer Pops 2: Little Blo's Party",
+    "steam_appid": 3471180,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "Freezer Pops 2: Little Blo's Party is a visual novel sequel of Freezer Pops. It's a story about Alexandre participating in a famous blogger named Little Blo while he can date other men. It's a product inspired by Brazilian pop culture, especially memes.",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471180/16c263842ebb8d1bf345d50b7c93ace7937838f7/header.jpg?t=1744753230",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471180/01aecf17021e30f5847c48be62cf0c4d74904824/capsule_231x87.jpg?t=1744753230",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471180/01aecf17021e30f5847c48be62cf0c4d74904824/capsule_184x69.jpg?t=1744753230",
+    "website": "https://maledollstudio.com/",
+    "developers": [
+      "Male Doll Stories"
+    ],
+    "publishers": [
+      "Male Doll Stories"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      22,
+      28,
+      62
+    ],
+    "genres": [
+      1,
+      2,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "To be announced"
+    },
+    "support_info": {
+      "url": "",
+      "email": "maledollstudio@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3471180?t=1744753230",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471180/31d956f7bdd4dfa69c567e2d06793ebf069eb530/page_bg_raw.jpg?t=1744753230",
+    "content_descriptors": {
+      "ids": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "notes": "Freezer Pops 2: Little Blo's Party contains strong language, partial and full nudity, and explicit male homosexual sex (oral, anal). "
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Nudez\r\nConte\u00fado sexual\r\nLinguagem impr\u00f3pria\r\nSexo Expl\u00edcito",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nFantasy-Gewalt"
       }
     }
   }
