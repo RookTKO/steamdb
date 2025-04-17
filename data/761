@@ -2347,9 +2347,9 @@
     "is_free": false,
     "short_description": "Arms Race 2 is a PC strategy game based on the historical conflict between the USA and the USSR that took place in the 20th century.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2284800/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2284800/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2284800/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284800/header.jpg?t=1701867842",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284800/capsule_231x87.jpg?t=1701867842",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284800/capsule_184x69.jpg?t=1701867842",
     "website": "https://thecoldwarera.com",
     "developers": [
       "Alina Digital"
@@ -2363,31 +2363,61 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      819631
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Arms Race 2",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2
     ],
+    "achievements": {
+      "total": 17
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "5 Dec, 2023"
     },
     "support_info": {
       "url": "https://alinadigital.com/",
       "email": "support@alinadigital.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2284800/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2284800/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2284800?t=1701867842",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284800/page_bg_raw.jpg?t=1701867842",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2283480": {
@@ -2921,27 +2951,50 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Battle through hordes of horrific creatures as you hack and slash your way to the top of the Tower in this rogue-like dungeon crawler game. Choose from a variety of upgrades, unlock new weapons, discover powerful synergies, and save the Tower from the evil Soulbinders.",
-    "supported_languages": "English<strong>*</strong>, Simplified Chinese, Spanish - Spain, Japanese, Korean, Russian, Spanish - Latin America, French, Italian, German, Polish, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2285940/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2285940/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2285940/capsule_184x69.jpg",
+    "short_description": "Battle through hordes of horrific creatures as you hack and slash your way to the top of the Tower in this rogue-like dungeon crawler game. Choose from a variety of upgrades and weapons, and save the Tower.",
+    "supported_languages": "English<strong>*</strong>, Simplified Chinese, Spanish - Spain, Japanese, Korean, Russian, French, Italian, German, Polish, Traditional Chinese, Turkish, Portuguese - Portugal<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285940/header.jpg?t=1744487678",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285940/capsule_231x87.jpg?t=1744487678",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285940/capsule_184x69.jpg?t=1744487678",
     "website": "https://discord.gg/wneN3QWbwp",
     "developers": [
       "Danny Deer"
     ],
     "publishers": [
-      "Gameparic"
+      "PlayWay S.A.",
+      "Games Incubator"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2589310,
+        "description": ""
+      }
+    ],
+    "packages": [
+      820030
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hollow Survivors",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
-      28
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       1,
@@ -2950,19 +3003,40 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 18
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q2 2024"
+      "coming_soon": false,
+      "date": "10 Apr, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/wneN3QWbwp",
-      "email": "hello@gameparic.com"
+      "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2285940/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2285940/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2285940?t=1744487678",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2285940?t=1744487678",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2285290": {
@@ -8154,9 +8228,9 @@
     "is_free": false,
     "short_description": "Pull-along VRosty, the little snowman, through a warming world in this VR-only puppet-puzzle-platformer. His life is hanging by a thread.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong>, Swedish<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2284860/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2284860/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2284860/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284860/header.jpg?t=1737620518",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284860/929d3b5db69aeffaa400e75b962c0f87bec0582d/capsule_231x87.jpg?t=1737620518",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284860/929d3b5db69aeffaa400e75b962c0f87bec0582d/capsule_184x69.jpg?t=1737620518",
     "website": null,
     "developers": [
       "TomyHorst"
@@ -8164,7 +8238,20 @@
     "publishers": [
       "TomyHorst"
     ],
-    "package_groups": [],
+    "packages": [
+      819650
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy VRosty",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8173,7 +8260,8 @@
     "categories": [
       2,
       52,
-      54
+      54,
+      62
     ],
     "genres": [
       1,
@@ -8182,18 +8270,36 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "2023"
+      "coming_soon": false,
+      "date": "11 Jan, 2024"
     },
     "support_info": {
       "url": "",
       "email": "support@vrosty.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2284860/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2284860/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2284860?t=1737620518",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284860/page_bg_raw.jpg?t=1737620518",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2283450": {
@@ -8347,17 +8453,24 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "This game is a pixel art simulation game &amp; shooting game, it has cute picture, semi-open world story system, rich and deep game system. The story is witty, lighthearted and casual, you can build your own farm, tackle cute Npcs, catch small animals, learn food recipes or fight monster in jungle-land",
-    "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2285550/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2285550/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2285550/capsule_184x69.jpg",
+    "short_description": "Doloc Town is a cozy pixel art farm simulation game set in a post-apocalyptic world. Build your dream farm from scratch and explore this mysterious wasteland. Harvest, plant, build, and discover the untold stories of this forgotten land!",
+    "supported_languages": "English, Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/b6d51574cedd46d318c099517eefa75104134f19/header.jpg?t=1744872967",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/cdf4fa3e5595eb86dd9c9d61f39ca01be1765c84/capsule_231x87.jpg?t=1744872967",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/cdf4fa3e5595eb86dd9c9d61f39ca01be1765c84/capsule_184x69.jpg?t=1744872967",
     "website": null,
     "developers": [
-      "RedSaw Game Studio"
+      "RedSaw Games Studio"
     ],
     "publishers": [
-      "RedSaw Game Studio"
+      "RedSaw Games Studio",
+      "Logoi Games"
+    ],
+    "demos": [
+      {
+        "appid": 3243760,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -8369,29 +8482,42 @@
       2,
       22,
       28,
-      30,
-      51
+      62
     ],
     "genres": [
       3,
       4,
       23,
       25,
-      28
+      28,
+      70
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
-      "email": "redsawbiscuit@gmail.com"
+      "email": "doloctown@logoi.net"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2285550/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2285550/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2285550?t=1744872967",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/page_bg_raw.jpg?t=1744872967",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2285560": {
