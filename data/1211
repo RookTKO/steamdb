@@ -362,18 +362,32 @@
     "is_free": false,
     "short_description": "Walking simulation in open world where player controls virus whose mission is to find beer bottles so he can be happy again",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634370/418757fdc3c53d4c765fd2f44a8d1dc29a389c2e/header.jpg?t=1744032332",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634370/d97ad448066674fcc9f48b68abc8d1540d8552c6/capsule_231x87.jpg?t=1744032332",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634370/d97ad448066674fcc9f48b68abc8d1540d8552c6/capsule_184x69.jpg?t=1744032332",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634370/418757fdc3c53d4c765fd2f44a8d1dc29a389c2e/header.jpg?t=1744885594",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634370/d97ad448066674fcc9f48b68abc8d1540d8552c6/capsule_231x87.jpg?t=1744885594",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634370/d97ad448066674fcc9f48b68abc8d1540d8552c6/capsule_184x69.jpg?t=1744885594",
     "website": null,
     "developers": [
       "Valkeala Software",
-      "Tero Lunkka"
+      "Tero Lunkka",
+      "Kendall Studios"
     ],
     "publishers": [
       "Valkeala Software"
     ],
-    "package_groups": [],
+    "packages": [
+      1281042
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Sad Virus",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -389,16 +403,19 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "23 Apr, 2025"
+      "coming_soon": false,
+      "date": "17 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "tero.lunkka@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634370?t=1744032332",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634370?t=1744032332",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634370?t=1744885594",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634370?t=1744885594",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -429,10 +446,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "&quot;Command your starship through hostile space in Stellar Command, a turn-based tactical combat game. Manage ship systems, upgrade weapons, and outsmart enemies as you navigate through increasingly dangerous sectors. Every decision affects survival.&quot;",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634230/412f9e337aba9f0edf7e365de67f08b1d8ebed14/header.jpg?t=1744032748",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634230/a1cf33397a84108509559a5518fff398062fdbb8/capsule_231x87.jpg?t=1744032748",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634230/a1cf33397a84108509559a5518fff398062fdbb8/capsule_184x69.jpg?t=1744032748",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634230/412f9e337aba9f0edf7e365de67f08b1d8ebed14/header.jpg?t=1744296602",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634230/a1cf33397a84108509559a5518fff398062fdbb8/capsule_231x87.jpg?t=1744296602",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634230/a1cf33397a84108509559a5518fff398062fdbb8/capsule_184x69.jpg?t=1744296602",
     "website": null,
     "developers": [
       "Beeseland Games"
@@ -464,8 +481,8 @@
       "url": "",
       "email": "company@beeseland.co.uk"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634230?t=1744032748",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634230/3e0f3844a32f3898a29fe4c08912d12bd2da4aaf/page_bg_raw.jpg?t=1744032748",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634230?t=1744296602",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634230/3e0f3844a32f3898a29fe4c08912d12bd2da4aaf/page_bg_raw.jpg?t=1744296602",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -781,9 +798,9 @@
     "is_free": false,
     "short_description": "sequel to angry golf. Try to shoot angry ball to goal, less quantity of shoots possible to beat all the levels. Avoid traps and falling from map in this strategic golf game",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634210/82bea333efb338e52a076acdd71de85502aa1dc9/header.jpg?t=1743664447",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634210/64fb83f804fb4ac22d4042b8677cecf9a3ba876f/capsule_231x87.jpg?t=1743664447",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634210/64fb83f804fb4ac22d4042b8677cecf9a3ba876f/capsule_184x69.jpg?t=1743664447",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634210/82bea333efb338e52a076acdd71de85502aa1dc9/header.jpg?t=1744875074",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634210/64fb83f804fb4ac22d4042b8677cecf9a3ba876f/capsule_231x87.jpg?t=1744875074",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634210/64fb83f804fb4ac22d4042b8677cecf9a3ba876f/capsule_184x69.jpg?t=1744875074",
     "website": null,
     "developers": [
       "Valkeala Software"
@@ -791,7 +808,20 @@
     "publishers": [
       "Valkeala Software"
     ],
-    "package_groups": [],
+    "packages": [
+      1280993
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Angry Golf 2",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -807,16 +837,19 @@
       4,
       23
     ],
+    "achievements": {
+      "total": 18
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "17 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "tero.lunkka@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634210?t=1743664447",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634210?t=1743664447",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634210?t=1744875074",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634210?t=1744875074",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1198,9 +1231,9 @@
       "name": "Kalia"
     },
     "supported_languages": "English, Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635590/e36f4fa58dcb27e34f801539b9bb8b233b7565e0/header.jpg?t=1743708829",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635590/422ce7ad99245741c2f2df5136f7a4f960210ce6/capsule_231x87.jpg?t=1743708829",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635590/422ce7ad99245741c2f2df5136f7a4f960210ce6/capsule_184x69.jpg?t=1743708829",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635590/fc57570ef09c6b7ee37ee3b69e8bf34e8d23035d/header.jpg?t=1744261324",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635590/f89cdff8bd899f67cdd665befb1d6f6cb476dc8d/capsule_231x87.jpg?t=1744261324",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635590/f89cdff8bd899f67cdd665befb1d6f6cb476dc8d/capsule_184x69.jpg?t=1744261324",
     "website": "https://www.mangagstudio.com",
     "developers": [
       "Manga Games Studio"
@@ -1230,8 +1263,8 @@
       "url": "https://www.mangagstudio.com",
       "email": "mangagstudiocontato@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3635590?t=1743708829",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635590/26bb9ae1556c740c960920d88e0a4ccf5761f2f2/page_bg_raw.jpg?t=1743708829",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3635590?t=1744261324",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635590/26bb9ae1556c740c960920d88e0a4ccf5761f2f2/page_bg_raw.jpg?t=1744261324",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1323,9 +1356,9 @@
     "is_free": false,
     "short_description": "Forge your civilization in this strategic idle game. Develop knowledge, build wonders, command armies, and recruit historical figures as you evolve from primitive beginnings to a mighty empire. The Heritage system lets your achievements persist, making each new civilization stronger than the last.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635150/c303a0b656476df6441e34c44aa6154e060321e2/header.jpg?t=1743699885",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635150/97355db425a6ee7b2e24aac127c94c726d502cb9/capsule_231x87.jpg?t=1743699885",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635150/97355db425a6ee7b2e24aac127c94c726d502cb9/capsule_184x69.jpg?t=1743699885",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635150/c303a0b656476df6441e34c44aa6154e060321e2/header.jpg?t=1744228991",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635150/97355db425a6ee7b2e24aac127c94c726d502cb9/capsule_231x87.jpg?t=1744228991",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635150/97355db425a6ee7b2e24aac127c94c726d502cb9/capsule_184x69.jpg?t=1744228991",
     "website": "https://civrise.com/",
     "developers": [
       "CivRise Team"
@@ -1333,10 +1366,16 @@
     "publishers": [
       "CivRise Team"
     ],
+    "demos": [
+      {
+        "appid": 3644220,
+        "description": ""
+      }
+    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
@@ -1356,8 +1395,8 @@
       "url": "https://catchy.games/",
       "email": "info@catchy.games"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3635150?t=1743699885",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635150/5d26a2be63b273c4eb84608eeca66e0501c686f4/page_bg_raw.jpg?t=1743699885",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3635150?t=1744228991",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635150/5d26a2be63b273c4eb84608eeca66e0501c686f4/page_bg_raw.jpg?t=1744228991",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2305,9 +2344,9 @@
       "name": "Caller of the Crows"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633370/4cf719051151d5d4ec11784c68b6b7cfd5c1ac51/header.jpg?t=1743814189",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633370/e9e16fd2b0b9057b2eb789b4666139baf1f54ee7/capsule_231x87.jpg?t=1743814189",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633370/e9e16fd2b0b9057b2eb789b4666139baf1f54ee7/capsule_184x69.jpg?t=1743814189",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633370/4cf719051151d5d4ec11784c68b6b7cfd5c1ac51/header.jpg?t=1744065058",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633370/e9e16fd2b0b9057b2eb789b4666139baf1f54ee7/capsule_231x87.jpg?t=1744065058",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633370/e9e16fd2b0b9057b2eb789b4666139baf1f54ee7/capsule_184x69.jpg?t=1744065058",
     "website": null,
     "developers": [
       "Nepxel Studio, Bibek Pandey"
@@ -2326,15 +2365,15 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "nepxelstudio@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633370?t=1743814189",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633370?t=1743814189",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633370?t=1744065058",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633370?t=1744065058",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3573,9 +3612,9 @@
     "controller_support": "full",
     "short_description": "Claim the Prizren Tower in the first action RPG set in medieval Serbia! Battle demonic navs, uncover forgotten legends, and survive a brutal world where Slavic myth and dark history collide. Your choices will shape the fate of all realms.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633890/bfcc97bf351b44ef3ff66edfd83327870de25096/header.jpg?t=1744048546",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633890/f48420ce9a8af0615d119b06b5676c75d74d5fff/capsule_231x87.jpg?t=1744048546",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633890/f48420ce9a8af0615d119b06b5676c75d74d5fff/capsule_184x69.jpg?t=1744048546",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633890/fed91109f81efc9828998f3c4ce17681c7a27b80/header.jpg?t=1744225317",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633890/949971b25acf8c04ab9327d77ac6d1059612b99a/capsule_231x87.jpg?t=1744225317",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633890/949971b25acf8c04ab9327d77ac6d1059612b99a/capsule_184x69.jpg?t=1744225317",
     "website": null,
     "developers": [
       "My Two Pixels"
@@ -3607,8 +3646,8 @@
       "url": "",
       "email": "milos165@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633890?t=1744048546",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633890/b46844e8d92faf50616ef81f109094efaebb07d8/page_bg_raw.jpg?t=1744048546",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633890?t=1744225317",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633890/b46844e8d92faf50616ef81f109094efaebb07d8/page_bg_raw.jpg?t=1744225317",
     "content_descriptors": {
       "ids": [
         2,
@@ -3848,9 +3887,10 @@
       "appid": "3570450",
       "name": "Bacterian"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633660/5974f9435c3ab8a454540bae536060ccfd0abf10/header.jpg?t=1744108987",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633660/938b3f53c160869433279151de818290547262c7/capsule_231x87.jpg?t=1744108987",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633660/938b3f53c160869433279151de818290547262c7/capsule_184x69.jpg?t=1744108987",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633660/5974f9435c3ab8a454540bae536060ccfd0abf10/header.jpg?t=1744914748",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633660/938b3f53c160869433279151de818290547262c7/capsule_231x87.jpg?t=1744914748",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633660/938b3f53c160869433279151de818290547262c7/capsule_184x69.jpg?t=1744914748",
     "website": "https://error300.com/",
     "developers": [
       "Error 300"
@@ -3869,15 +3909,15 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "April 2025"
+      "coming_soon": false,
+      "date": "17 Apr, 2025"
     },
     "support_info": {
       "url": "https://error300.com/",
       "email": "contact@error300.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633660?t=1744108987",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633660?t=1744108987",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633660?t=1744914748",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633660?t=1744914748",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3909,9 +3949,9 @@
     "is_free": true,
     "short_description": "Explore the steamy world of &quot;Fuck Fest,&quot; a find 5 differences game with 10,000+ levels. Spot differences in seductive scenes, unlock sizzling Kamasutra stickers, and indulge in endless tropical fantasies.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633730/a6c6519769206b881af3cd3a6f67ee025ddfaee0/header.jpg?t=1744103660",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633730/8fd694af47a571a013cedbeb0ab3a383b3aa981e/capsule_231x87.jpg?t=1744103660",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633730/8fd694af47a571a013cedbeb0ab3a383b3aa981e/capsule_184x69.jpg?t=1744103660",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633730/a6c6519769206b881af3cd3a6f67ee025ddfaee0/header.jpg?t=1744176781",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633730/8fd694af47a571a013cedbeb0ab3a383b3aa981e/capsule_231x87.jpg?t=1744176781",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633730/8fd694af47a571a013cedbeb0ab3a383b3aa981e/capsule_184x69.jpg?t=1744176781",
     "website": null,
     "developers": [
       "Horn E Ent."
@@ -3941,8 +3981,8 @@
       "url": "",
       "email": "Horn_e@fastmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633730?t=1744103660",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633730?t=1744103660",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633730?t=1744176781",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3633730?t=1744176781",
     "content_descriptors": {
       "ids": [
         1,
@@ -4408,11 +4448,11 @@
     "steam_appid": 3634800,
     "required_age": 0,
     "is_free": false,
-    "short_description": "\u4f60\u662f\u5426\u8fd8\u71ac\u591c\u5728\u7535\u8111\u524d\u5b64\u72ec\u7684\u594b\u6597\uff0c\u4f60\u662f\u5426\u5728\u67af\u71e5\u7684\u751f\u6d3b\u4e2d\u8ff7\u5931\u4e86\u81ea\u6211\uff0c\u6765\u628a\u8fd9\u6b3e\u684c\u5ba0\u5e26\u56de\u5bb6\u5427\uff0c\u8fd9\u662f\u4e00\u6b3e\u6709\u7075\u9b42\u7684\u804a\u5929\u4f19\u4f34\uff0c\u5979\u6709\u7740\u9971\u6ee1\u7684\u6027\u683c\u60c5\u7eea\u548c\u6d69\u701a\u7684\u77e5\u8bc6\uff0c\u4e0d\u7ba1\u662f\u60c5\u7eea\u4ef7\u503c\u8fd8\u662f\u4e13\u4e1a\u4ef7\u503c\uff0c\u5979\u90fd\u53ef\u4ee5\u7ed9\u4f60\uff01",
-    "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634800/31af8251a54d6eb03753e11e79c01bb2256d5ea6/header.jpg?t=1744158732",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634800/f9a6af94d2455a06d45720d7702e5cada8fe0f54/capsule_231x87.jpg?t=1744158732",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634800/f9a6af94d2455a06d45720d7702e5cada8fe0f54/capsule_184x69.jpg?t=1744158732",
+    "short_description": "Are you still staying up late and struggling alone in front of the computer? Bring this desktop pet home! This is a chatting partner with a soul. She has rich personality and emotions as well as extensive knowledge. Whether it's emotional value or professional value, she can offer it to you!",
+    "supported_languages": "Simplified Chinese<strong>*</strong>, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634800/31af8251a54d6eb03753e11e79c01bb2256d5ea6/header.jpg?t=1744944863",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634800/f9a6af94d2455a06d45720d7702e5cada8fe0f54/capsule_231x87.jpg?t=1744944863",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634800/f9a6af94d2455a06d45720d7702e5cada8fe0f54/capsule_184x69.jpg?t=1744944863",
     "website": null,
     "developers": [
       "GAZEM"
@@ -4443,8 +4483,8 @@
       "url": "https://steamcommunity.com/",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634800?t=1744158732",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634800?t=1744158732",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634800?t=1744944863",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3634800?t=1744944863",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6642,5 +6682,38 @@
         "descriptors": "Fantasy-Gewalt"
       }
     }
+  },
+  "3635760": {
+    "type": "game",
+    "name": "Grinding Guilds Playtest",
+    "steam_appid": 3635760,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635760/5dd963ce7e04526bb40cd7287328e5b15582b928/header.jpg?t=1744985407",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635760/f87cb6ee12b55f2f2742001d90813375368d821a/capsule_231x87.jpg?t=1744985407",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635760/f87cb6ee12b55f2f2742001d90813375368d821a/capsule_184x69.jpg?t=1744985407",
+    "website": null,
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "18 Apr, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3635760?t=1744985407",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3635760?t=1744985407",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": null
   }
 }
