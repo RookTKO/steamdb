@@ -1755,8 +1755,8 @@
       "url": "",
       "email": "Lostinputgames@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3479740?t=1738019877",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3479740?t=1738019877",
     "content_descriptors": {
       "ids": [
         2,
@@ -1984,8 +1984,8 @@
       "url": "",
       "email": "vlados.qgd@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479310/page_bg_generated_v6b.jpg?t=1738063051",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479310/page.bg.jpg?t=1738063051",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3479310?t=1738063051",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479310/page_bg_raw.jpg?t=1738063051",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2015,11 +2015,14 @@
     "steam_appid": 3478700,
     "required_age": 0,
     "is_free": true,
+    "dlc": [
+      3563840
+    ],
     "short_description": "The Children of Clay is a short stop motion archeology horror game, where you have to study an ancient artefact and discover its dark secret.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478700/header.jpg?t=1738182183",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478700/7e7fbc40750055c1e976bed30dd7b907d3a860dd/capsule_231x87.jpg?t=1738182183",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478700/7e7fbc40750055c1e976bed30dd7b907d3a860dd/capsule_184x69.jpg?t=1738182183",
+    "supported_languages": "English, Spanish - Spain, Hungarian, Japanese, Portuguese - Brazil",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478700/header.jpg?t=1744917456",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478700/7e7fbc40750055c1e976bed30dd7b907d3a860dd/capsule_231x87.jpg?t=1744917456",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478700/7e7fbc40750055c1e976bed30dd7b907d3a860dd/capsule_184x69.jpg?t=1744917456",
     "website": null,
     "developers": [
       "Balazs Ronyai"
@@ -2030,11 +2033,12 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": true
     },
     "categories": [
-      2
+      2,
+      22
     ],
     "genres": [
       23,
@@ -2042,16 +2046,19 @@
       28,
       37
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2025"
+      "coming_soon": false,
+      "date": "7 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "ronyaibalazs@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478700/page_bg_generated_v6b.jpg?t=1738182183",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478700/page_bg_generated.jpg?t=1738182183",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3478700?t=1744917456",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3478700?t=1744917456",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2574,10 +2581,10 @@
     "is_free": true,
     "short_description": "An expansive nature simulation experience for VR and desktop, to get lost in a virtual recreation of a &quot;third place&quot;.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479940/header.jpg?t=1738094009",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479940/1f2484b30aa0ede9e666f055803185211d414372/capsule_231x87.jpg?t=1738094009",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479940/1f2484b30aa0ede9e666f055803185211d414372/capsule_184x69.jpg?t=1738094009",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479940/header.jpg?t=1741360246",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479940/1f2484b30aa0ede9e666f055803185211d414372/capsule_231x87.jpg?t=1741360246",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479940/1f2484b30aa0ede9e666f055803185211d414372/capsule_184x69.jpg?t=1741360246",
+    "website": "https://xvr.place/",
     "developers": [
       "Enverex"
     ],
@@ -2610,11 +2617,11 @@
       "date": "To be announced"
     },
     "support_info": {
-      "url": "",
-      "email": "enverex@enverex.dev"
+      "url": "https://xvr.place",
+      "email": "support@xvr.place"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479940/page_bg_generated_v6b.jpg?t=1738094009",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479940/page.bg.jpg?t=1738094009",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3479940?t=1741360246",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479940/page_bg_raw.jpg?t=1741360246",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3745,9 +3752,9 @@
     "is_free": true,
     "short_description": "The $MCRT Game Maker is a user-friendly tool for MagicCraft, allowing players to design and customize unique maps. This powerful editor empowers creators to craft epic battlefields and immersive worlds, providing a foundation for future integration within the MagicCraft metaverse.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478810/header.jpg?t=1738707615",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478810/ad85238590c3c2e57496160b37e633ac5654906a/capsule_231x87.jpg?t=1738707615",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478810/ad85238590c3c2e57496160b37e633ac5654906a/capsule_184x69.jpg?t=1738707615",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478810/header.jpg?t=1739878021",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478810/ad85238590c3c2e57496160b37e633ac5654906a/capsule_231x87.jpg?t=1739878021",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478810/ad85238590c3c2e57496160b37e633ac5654906a/capsule_184x69.jpg?t=1739878021",
     "website": "https://magiccraft.io",
     "developers": [
       "MagicCraft"
@@ -3771,15 +3778,15 @@
       60
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "18 Feb, 2025"
     },
     "support_info": {
       "url": "https://magiccraft.io",
       "email": "contact@magiccraft.io"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478810/page_bg_generated_v6b.jpg?t=1738707615",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478810/page_bg_generated.jpg?t=1738707615",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3478810?t=1739878021",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3478810?t=1739878021",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3810,10 +3817,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Mistress Marigold's Home Improvement is a kinetic (linear) short story. It is an AVN, but linear by design, telling a very specific story. You play as George, who has admired Mari - his coworker - from afar. One lucky Saturday, she invites him to become a bigger part of her life. Let the fun begin!",
-    "supported_languages": "English, French, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Swedish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477740/header.jpg?t=1738295415",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477740/20b8b8a6ac99d58e122579fee87e36be007cb489/capsule_231x87.jpg?t=1738295415",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477740/20b8b8a6ac99d58e122579fee87e36be007cb489/capsule_184x69.jpg?t=1738295415",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477740/header.jpg?t=1740944884",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477740/20b8b8a6ac99d58e122579fee87e36be007cb489/capsule_231x87.jpg?t=1740944884",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477740/20b8b8a6ac99d58e122579fee87e36be007cb489/capsule_184x69.jpg?t=1740944884",
     "website": "http://doc62productions.com/",
     "developers": [
       "Doc62 Productions"
@@ -3821,7 +3828,20 @@
     "publishers": [
       "Doc62 Productions"
     ],
-    "package_groups": [],
+    "packages": [
+      1228454
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Mistress Marigold's Home Improvement",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -3829,23 +3849,27 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       4,
       23,
       25
     ],
+    "achievements": {
+      "total": 21
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "28 Feb, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/gfyE84Uv83",
       "email": "doc62productions@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477740/page_bg_generated_v6b.jpg?t=1738295415",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477740/page.bg.jpg?t=1738295415",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3477740?t=1740944884",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477740/page_bg_raw.jpg?t=1740944884",
     "content_descriptors": {
       "ids": [
         1,
@@ -3882,9 +3906,9 @@
     "is_free": false,
     "short_description": "It is a game where you choose her life.\u3000Various parameters change as you decide on your actions for the day.",
     "supported_languages": "English, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477550/header.jpg?t=1738278122",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477550/73934ddd49f9b4cab8788d9308807ade413f1daf/capsule_231x87.jpg?t=1738278122",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477550/73934ddd49f9b4cab8788d9308807ade413f1daf/capsule_184x69.jpg?t=1738278122",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477550/header.jpg?t=1739862266",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477550/73934ddd49f9b4cab8788d9308807ade413f1daf/capsule_231x87.jpg?t=1739862266",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477550/73934ddd49f9b4cab8788d9308807ade413f1daf/capsule_184x69.jpg?t=1739862266",
     "website": null,
     "developers": [
       "Uzura Studio"
@@ -3892,28 +3916,42 @@
     "publishers": [
       "Uzura Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1228383
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Her Erotic Life",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "17 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "mken8790@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477550/page_bg_generated_v6b.jpg?t=1738278122",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477550/page.bg.jpg?t=1738278122",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3477550?t=1739862266",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477550/page_bg_raw.jpg?t=1739862266",
     "content_descriptors": {
       "ids": [
         1,
@@ -4097,8 +4135,8 @@
       "url": "",
       "email": "t-lecroart@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479350/page_bg_generated_v6b.jpg?t=1738361461",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479350/page.bg.jpg?t=1738361461",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3479350?t=1738361461",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479350/page_bg_raw.jpg?t=1738361461",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4128,12 +4166,11 @@
     "steam_appid": 3477170,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
     "short_description": "A beautiful open world/exploration eagle simulator game that takes place in Alaska! Fly from island to island with incredibly fun and realistic flying controls! Complete mini quests! Unlock special abilities! Discover Treasure! Controllers supported: PS5, Xbox, or PC Keyboard.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477170/header.jpg?t=1738340950",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477170/16eded3ee49584273d609ebaff8407edaa4f460a/capsule_231x87.jpg?t=1738340950",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477170/16eded3ee49584273d609ebaff8407edaa4f460a/capsule_184x69.jpg?t=1738340950",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477170/header.jpg?t=1744004881",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477170/16eded3ee49584273d609ebaff8407edaa4f460a/capsule_231x87.jpg?t=1744004881",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477170/16eded3ee49584273d609ebaff8407edaa4f460a/capsule_184x69.jpg?t=1744004881",
     "website": null,
     "developers": [
       "More K Games LLC"
@@ -4141,7 +4178,20 @@
     "publishers": [
       "More K Games LLC"
     ],
-    "package_groups": [],
+    "packages": [
+      1228261
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Isle of the Eagle",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4149,7 +4199,8 @@
     },
     "categories": [
       2,
-      28
+      18,
+      62
     ],
     "genres": [
       4,
@@ -4157,15 +4208,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2025"
+      "coming_soon": false,
+      "date": "4 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "info@morekgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477170/page_bg_generated_v6b.jpg?t=1738340950",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477170/page_bg_generated.jpg?t=1738340950",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3477170?t=1744004881",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3477170?t=1744004881",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4269,11 +4320,14 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
+    "dlc": [
+      3590490
+    ],
     "short_description": "A forgotten file. An echo that repeats. Memories that aren\u2019t yours. The past always finds a way back. Are you ready to remember?",
-    "supported_languages": "English, Spanish - Spain, Spanish - Latin America, Portuguese - Portugal",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479870/header.jpg?t=1738358240",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479870/7c834e314c9bd35bf5aaef597cbd5f149302aa84/capsule_231x87.jpg?t=1738358240",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479870/7c834e314c9bd35bf5aaef597cbd5f149302aa84/capsule_184x69.jpg?t=1738358240",
+    "supported_languages": "English, Spanish - Latin America, Portuguese - Portugal",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479870/header.jpg?t=1742536925",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479870/7c834e314c9bd35bf5aaef597cbd5f149302aa84/capsule_231x87.jpg?t=1742536925",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479870/7c834e314c9bd35bf5aaef597cbd5f149302aa84/capsule_184x69.jpg?t=1742536925",
     "website": null,
     "developers": [
       "Kalimater Studios"
@@ -4281,7 +4335,20 @@
     "publishers": [
       "Kalimater Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1229159
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy File 47",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4290,25 +4357,31 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       23,
       25
     ],
+    "achievements": {
+      "total": 11
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Mar, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/yURCUZS5",
       "email": "kalimaterstudios@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479870/page_bg_generated_v6b.jpg?t=1738358240",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479870/page.bg.jpg?t=1738358240",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3479870?t=1742536925",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479870/page_bg_raw.jpg?t=1742536925",
     "content_descriptors": {
-      "ids": [],
+      "ids": [
+        5
+      ],
       "notes": null
     },
     "ratings": {
@@ -4338,9 +4411,9 @@
     "is_free": false,
     "short_description": "Defeat the evil witches, rescue the trapped bunnies, and defend the peace of the town!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477730/header.jpg?t=1738386580",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477730/6f82f1b3a8ab33cf80cdd50fa8f4b887033f7212/capsule_231x87.jpg?t=1738386580",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477730/6f82f1b3a8ab33cf80cdd50fa8f4b887033f7212/capsule_184x69.jpg?t=1738386580",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477730/header.jpg?t=1739527990",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477730/6f82f1b3a8ab33cf80cdd50fa8f4b887033f7212/capsule_231x87.jpg?t=1739527990",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477730/6f82f1b3a8ab33cf80cdd50fa8f4b887033f7212/capsule_184x69.jpg?t=1739527990",
     "website": null,
     "developers": [
       "AA Mini Games Studio"
@@ -4348,14 +4421,28 @@
     "publishers": [
       "AA Mini Games Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1228451
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Night of the Witch's Invasion",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -4365,15 +4452,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "11 Feb, 2025"
+      "coming_soon": false,
+      "date": "14 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "fushen58693ai@163.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477730/page_bg_generated_v6b.jpg?t=1738386580",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477730/page_bg_generated.jpg?t=1738386580",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3477730?t=1739527990",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3477730?t=1739527990",
     "content_descriptors": {
       "ids": [
         1,
@@ -7627,16 +7714,15 @@
     "steam_appid": 3479710,
     "required_age": 0,
     "is_free": true,
-    "controller_support": "full",
-    "short_description": "\u201cTroll\u201d is such a strong word for this 2D platformer demo with 55 of the full game's 150+ uniquely inventive levels. Some are saying this game is unfair. It\u2019s, uhh, totally fair-ish. Level Devil will make you curse the guy who made it (\ud83d\ude08Me) then ask for more.",
+    "short_description": "\u201cTroll\u201d is such a strong word for this 2D platformer demo with 55 of the full game's nearly 200 uniquely inventive levels. Some are saying this game is unfair. It\u2019s, uhh, totally fair-ish. Level Devil will make you curse the guy who made it (\ud83d\ude08Me) then ask for more.",
     "fullgame": {
       "appid": "3242750",
       "name": "Level Devil"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479710/header.jpg?t=1739051678",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479710/e23391b7cd3e059b9fc30471da8a7dcae68f03ea/capsule_231x87.jpg?t=1739051678",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479710/e23391b7cd3e059b9fc30471da8a7dcae68f03ea/capsule_184x69.jpg?t=1739051678",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479710/header.jpg?t=1742773591",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479710/e23391b7cd3e059b9fc30471da8a7dcae68f03ea/capsule_231x87.jpg?t=1742773591",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479710/e23391b7cd3e059b9fc30471da8a7dcae68f03ea/capsule_184x69.jpg?t=1742773591",
     "website": "https://x.com/unept",
     "developers": [
       "Unept"
@@ -7654,8 +7740,8 @@
       1,
       2,
       10,
+      18,
       24,
-      28,
       37,
       44,
       49
@@ -7667,15 +7753,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "14 Feb, 2025"
+      "coming_soon": false,
+      "date": "13 Feb, 2025"
     },
     "support_info": {
       "url": "https://x.com/unept",
       "email": "adam@unept.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479710/page_bg_generated_v6b.jpg?t=1739051678",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479710/page_bg_generated.jpg?t=1739051678",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3479710?t=1742773591",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3479710?t=1742773591",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7724,7 +7810,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -7740,8 +7827,8 @@
       "url": "",
       "email": "wernert.contact@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478120/page_bg_generated_v6b.jpg?t=1739178588",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478120/page_bg_generated.jpg?t=1739178588",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3478120?t=1739178588",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3478120?t=1739178588",
     "content_descriptors": {
       "ids": [],
       "notes": null
