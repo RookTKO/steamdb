@@ -528,23 +528,23 @@
   },
   "2681870": {
     "type": "game",
-    "name": "Kidbash : Super Legend",
+    "name": "Kidbash: Super Legend",
     "steam_appid": 2681870,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Kidbash: Super Legend is an exciting 2D platformer that blends classic gaming with a modern touch. You'll go on a thrilling adventure through two different phases - the Mountain and the Village. Your goal is to defeat Tao Shen Long, and begin the journey to becoming a Super Legendary Hero.",
+    "controller_support": "full",
+    "short_description": "In this nostalgic roguelike action-platformer, awaken in a world of forgotten game characters as a hero with no memory of his past. After failing to save a nearby village from destruction, can you rise, rebuild, and rediscover the true meaning of being a hero?",
     "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681870/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681870/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2681870/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681870/header.jpg?t=1741843310",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681870/b616ed48302b29c92446c1c2bf11c22dd26cc15c/capsule_231x87.jpg?t=1741843310",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681870/b616ed48302b29c92446c1c2bf11c22dd26cc15c/capsule_184x69.jpg?t=1741843310",
     "website": null,
     "developers": [
       "Authentic Remixes",
-      "Fat Raccoon",
-      "Niji Games"
+      "Fat Raccoon"
     ],
     "publishers": [
-      "Niji Games"
+      "Fat Raccoon"
     ],
     "package_groups": [],
     "platforms": {
@@ -553,26 +553,46 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      28,
+      62
     ],
     "genres": [
       1,
       23,
-      25
+      28
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "sidekast.io",
       "email": "official@kid-bash.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2681870/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2681870/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2681870?t=1741843310",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681870/page_bg_raw.jpg?t=1741843310",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2679690": {
@@ -4057,11 +4077,11 @@
     "steam_appid": 2681270,
     "required_age": 0,
     "is_free": false,
-    "short_description": "In The Void Project, You're thrust into a high-octane shooter experience set in an eerie, otherworldly arena. Confront unending waves of demonic foes.Combine your shooting skills with swift movement tactics to outlast the onslaught and prove your mettle in this relentless battle for survival.",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese, Turkish, Urdu",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681270/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681270/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2681270/capsule_184x69.jpg",
+    "short_description": "Fight through relentless demon hordes in a fast-paced and retro-inspired arena shooter, where mastering speed, strategy, and precision will push you to the top of the leaderboard.",
+    "supported_languages": "English, German, Russian, Urdu",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681270/header.jpg?t=1734626865",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681270/f3738bf271a2a85311cb2ed4c8bfb0cf91c7e84c/capsule_231x87.jpg?t=1734626865",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681270/f3738bf271a2a85311cb2ed4c8bfb0cf91c7e84c/capsule_184x69.jpg?t=1734626865",
     "website": "https://www.thesilverdemons.com",
     "developers": [
       "Silver Demon Studios"
@@ -4069,41 +4089,129 @@
     "publishers": [
       "Silver Demon Studios"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2990420,
+        "description": ""
+      }
+    ],
+    "packages": [
+      960440
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Void Project",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": true
     },
     "categories": [
-      1,
       2,
       22,
       23,
       25,
-      36,
-      49
+      62
     ],
     "genres": [
       1,
       23
     ],
+    "achievements": {
+      "total": 23
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "31 Oct, 2024"
     },
     "support_info": {
-      "url": "www.thesilverdemons.com/",
+      "url": "",
       "email": "teamsilverdemon@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2681270/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2681270/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2681270?t=1734626865",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681270/page_bg_raw.jpg?t=1734626865",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
-      "notes": null
+      "notes": "This game has some Violence Elements to it, Killing Monsters and Blood and Gore. It is advisable to ask your parents first before purchasing this game or you can skip this part if you are 16+ and have no problem with violence and gore."
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Violence",
+        "display_online_notice": "true",
+        "display_online_music_notice": "true"
+      },
+      "pegi": {
+        "rating": "15",
+        "descriptors": "Violence"
+      },
+      "bbfc": {
+        "rating": "15",
+        "descriptors": "Violence"
+      },
+      "usk": {
+        "rating": "16",
+        "descriptors": "Violence"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "descriptors": "Violence"
+      },
+      "nzoflc": {
+        "rating": "ma15",
+        "descriptors": "Violence"
+      },
+      "cero": {
+        "rating": "c",
+        "descriptors": "Violence"
+      },
+      "kgrb": {
+        "rating": "15",
+        "descriptors": "Violence"
+      },
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia"
+      },
+      "mda": {
+        "rating": "AA16",
+        "descriptors": "Violence"
+      },
+      "fpb": {
+        "rating": "13",
+        "descriptors": "Violence"
+      },
+      "csrr": {
+        "rating": "C15",
+        "descriptors": "Violence"
+      },
+      "crl": {
+        "rating": "16",
+        "descriptors": "Violence"
+      },
+      "agcom": {
+        "rating": "16",
+        "descriptors": "Violenza"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2679390": {
@@ -4344,9 +4452,9 @@
     "is_free": true,
     "short_description": "Tank Captain &quot;is a strategic warfare game where players will play the role of commander and engage in different tank combinations to enhance the refined attributes of tanks and artillery. They can enhance their attack or armor abilities according to their preferences and win the war.",
     "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681890/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681890/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2681890/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681890/header.jpg?t=1712147672",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681890/capsule_231x87.jpg?t=1712147672",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681890/capsule_184x69.jpg?t=1712147672",
     "website": "https://tkdzpc.yilewan.com/",
     "developers": [
       "Thunder Tank"
@@ -4371,7 +4479,8 @@
       49
     ],
     "genres": [
-      2
+      2,
+      37
     ],
     "release_date": {
       "coming_soon": false,
@@ -4381,11 +4490,29 @@
       "url": "https://service.yilewan.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2681890/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2681890/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2681890?t=1712147672",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681890/page_bg_raw.jpg?t=1712147672",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2680540": {
@@ -4462,16 +4589,22 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "A punishing precision-based, speedrun 2D platformer...in the dark. Uncover the level with every death, earn swag and unlock new chapters. Run, Jump, Dash, Die, Repeat.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2679880/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2679880/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2679880/capsule_184x69.jpg",
+    "supported_languages": "English, French, German, Russian, Japanese, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Spanish - Latin America, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679880/header.jpg?t=1745207910",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679880/capsule_231x87.jpg?t=1745207910",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679880/capsule_184x69.jpg?t=1745207910",
     "website": null,
     "developers": [
       "HardBox Games"
     ],
     "publishers": [
-      "HardBox Games"
+      "IndieArk"
+    ],
+    "demos": [
+      {
+        "appid": 2908870,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4480,8 +4613,18 @@
       "linux": false
     },
     "categories": [
+      1,
       2,
-      28
+      9,
+      22,
+      23,
+      24,
+      28,
+      37,
+      39,
+      44,
+      49,
+      62
     ],
     "genres": [
       1,
@@ -4489,17 +4632,35 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2024"
+      "date": "2025"
     },
     "support_info": {
       "url": "",
       "email": "contact@hardboxgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2679880/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2679880/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2679880?t=1745207910",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2679880?t=1745207910",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2680800": {
@@ -5144,17 +5305,27 @@
     "steam_appid": 2681730,
     "required_age": 0,
     "is_free": true,
-    "short_description": "An otome game about magical girls and boys! Befriend your teammates, defeat the villainous Nightmare Agency, rescue the princess, and fall in love along the way.",
+    "dlc": [
+      2681860,
+      2887030
+    ],
+    "short_description": "A romantic dramedy visual novel about magical girls! Play as Diamond Heart and lead a team of magical warriors. Will you defeat the Nightmares, make new friends, and find love along the way? Or will you meet a tragic end?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681730/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681730/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2681730/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681730/header.jpg?t=1745044854",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681730/capsule_231x87.jpg?t=1745044854",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681730/capsule_184x69.jpg?t=1745044854",
     "website": "https://magicalwarriordiamondheart.com/",
     "developers": [
       "Dreamy Pyon"
     ],
     "publishers": [
       "Dreamy Pyon"
+    ],
+    "demos": [
+      {
+        "appid": 2875520,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5163,7 +5334,8 @@
       "linux": true
     },
     "categories": [
-      2
+      2,
+      22
     ],
     "genres": [
       4,
@@ -5178,13 +5350,31 @@
       "url": "",
       "email": "diamondheartvn@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2681730/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2681730/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2681730?t=1745044854",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681730/page_bg_raw.jpg?t=1745044854",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "This visual novel explores topics some readers may find upsetting such as mental health struggles, depression, anxiety, suicidal ideation, and abuse. This story also depicts magic-based violence, blood/injury, and body horror. Adult characters are seen drinking. Some language and crude humor is also present."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2680550": {
@@ -8438,9 +8628,9 @@
     "is_free": false,
     "short_description": "\u8fd9\u662f\u4e00\u90e8\u5305\u542b\u767e\u5408\u8981\u7d20\u7684\u89c6\u89c9\u5c0f\u8bf4\uff0c\u8bb2\u8ff0\u4e86\u5728\u5c01\u95ed\u7684\u90fd\u5e02\u4e2d\uff0c\u5c11\u5973\u5c55\u5f00\u5192\u9669\u7684\u6545\u4e8b\u3002",
     "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681060/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2681060/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2681060/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681060/header.jpg?t=1706347925",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681060/capsule_231x87.jpg?t=1706347925",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681060/capsule_184x69.jpg?t=1706347925",
     "website": null,
     "developers": [
       "\u53ef\u98df\u7528\u84dd\u58a8\u6c34"
@@ -8448,14 +8638,28 @@
     "publishers": [
       "\u53ef\u98df\u7528\u84dd\u58a8\u6c34"
     ],
-    "package_groups": [],
+    "packages": [
+      960377
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u8346\u68d8\u843d\u5c18\u57c3 Dust On Thorn",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
@@ -8463,18 +8667,36 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Jan, 2024"
     },
     "support_info": {
       "url": "https://weibo.com/u/3877148682",
       "email": "eatingblueink@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2681060/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2681060/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2681060?t=1706347925",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681060/page_bg_raw.jpg?t=1706347925",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2679430": {

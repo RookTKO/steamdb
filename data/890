@@ -3264,7 +3264,7 @@
   },
   "2672100": {
     "type": "dlc",
-    "name": "Cats and Seek - Extra Level",
+    "name": "Cats and Seek: Osaka - Extra Content",
     "steam_appid": 2672100,
     "required_age": 0,
     "is_free": false,
@@ -3272,12 +3272,12 @@
     "short_description": "207 more cats for you to find!",
     "fullgame": {
       "appid": "2672090",
-      "name": "Cats and Seek : Cats Hidden in Osaka"
+      "name": "Cats and Seek: Osaka"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Indonesian, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Thai, Traditional Chinese, Turkish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2672100/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2672100/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2672100/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672100/header.jpg?t=1736062687",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672100/44bd996ed435430e22d329fe092b9f3178cd32dd/capsule_231x87.jpg?t=1736062687",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672100/44bd996ed435430e22d329fe092b9f3178cd32dd/capsule_184x69.jpg?t=1736062687",
     "website": null,
     "developers": [
       "Noobzilla"
@@ -3291,7 +3291,7 @@
     "package_groups": [
       {
         "name": "default",
-        "title": "Buy Cats and Seek - Extra Level",
+        "title": "Buy Cats and Seek: Osaka - Extra Content",
         "description": "",
         "selection_text": "Select a purchase option",
         "save_text": "",
@@ -3322,11 +3322,29 @@
       "url": "https://noobzilla.games",
       "email": "ub@noobzilla.games"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2672100/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2672100/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2672100?t=1736062687",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2672100?t=1736062687",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2671800": {
@@ -4292,11 +4310,12 @@
     "steam_appid": 2671210,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Minesweeper with a story and detailed tutorial! Each level completed impacts the game world and advances you through the storyline. You will encounter collections, crafting, and level chains. Experience new game mechanics in the world of minesweeper!",
-    "supported_languages": "English, Russian, French, Italian, German, Spanish - Spain",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2671210/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2671210/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2671210/capsule_184x69.jpg",
+    "controller_support": "full",
+    "short_description": "Big minesweeper game with a storyline and a variety of minesweeper-based mechanics. Each level affects the game world and advances you through the storyline. You will discover collections, crafting, level chains, hexagons, fishing, runes and you can even build up your own level in the editor!",
+    "supported_languages": "English, Russian, Traditional Chinese, Simplified Chinese, German, Spanish - Spain, Portuguese - Brazil, Spanish - Latin America, Portuguese - Portugal",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671210/header.jpg?t=1742909823",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671210/b39c952ed1a190b9ff6375804289b7d217398d53/capsule_231x87.jpg?t=1742909823",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671210/b39c952ed1a190b9ff6375804289b7d217398d53/capsule_184x69.jpg?t=1742909823",
     "website": null,
     "developers": [
       "Anton Kryukov"
@@ -4304,7 +4323,20 @@
     "publishers": [
       "Anton Kryukov"
     ],
-    "package_groups": [],
+    "packages": [
+      957046
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Minesweeper Collector 2",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4312,27 +4344,52 @@
     },
     "categories": [
       2,
+      17,
       22,
-      23
+      23,
+      25,
+      28,
+      62
     ],
     "genres": [
       4,
       23,
       25
     ],
+    "achievements": {
+      "total": 34
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "29 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "itetra2d@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2671210/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2671210/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2671210?t=1742909823",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2671210?t=1742909823",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2670900": {
@@ -6613,23 +6670,36 @@
   },
   "2672510": {
     "type": "game",
-    "name": "Hentai Cosplay Heroes",
+    "name": "Kinky Cosplay Heroes",
     "steam_appid": 2672510,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Start your own sexy club, filling your staff with cute anime girls. Flirt with the girls, win their hearts, dress them up in the cutest outfits... And have fun with them in various sex scenes, all the while your business grows even while you are away.",
-    "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2672510/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2672510/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2672510/capsule_184x69.jpg",
+    "short_description": "Start your own sexy idler streaming studio, filling your staff with cute anime girls. Flirt with the girls, win their hearts, dress them up in the cutest outfits... And have fun with them in various sex scenes, all the while your business grows even while you are away.",
+    "supported_languages": "English, Japanese, Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672510/header.jpg?t=1735299408",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672510/capsule_231x87.jpg?t=1735299408",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672510/capsule_184x69.jpg?t=1735299408",
     "website": "https://www.woopmedia.online/",
     "developers": [
-      "Woop Media"
+      "Sexy Hentai Games Factory"
     ],
     "publishers": [
       "Woop Media"
     ],
-    "package_groups": [],
+    "packages": [
+      957525
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Kinky Cosplay Heroes",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6637,23 +6707,28 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
+      3,
       4,
       23,
       28
     ],
+    "achievements": {
+      "total": 16
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "7 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "company@woop.hu"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2672510/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2672510/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2672510?t=1735299408",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672510/page_bg_raw.jpg?t=1735299408",
     "content_descriptors": {
       "ids": [
         1,
@@ -6662,6 +6737,24 @@
         5
       ],
       "notes": "The whole game revolve around sexuality e.g.\r\n* the icons and user interface\r\n* the story \r\n* the characters\r\n* the adult cutscenes\r\n\r\nIn some scene interactions between 2 or more adults are shown.  The erotic movements and nudity of women are  frequent in the game. In the dialogues the sexuality also there in a mid level.\r\n\r\nNo violence and drug in the game."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2671090": {
@@ -9758,23 +9851,17 @@
     "steam_appid": 2672520,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Versebound is a challenging action roguelike with bullet hell elements. Slay hordes of enemies and dodge projectiles in handcrafted environments, outmaneuver versatile boss encounters and collect XP to craft your optimal build! Here, verses wield power...",
+    "short_description": "Slay hordes of enemies and fight mythical bosses in this challenging action roguelike. In a desperate fight for survival you must perform rituals, buildcraft and learn from every misstep to become stronger. Use unique abilities and powerful artifacts to beat every trial in the world of Kalevala!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2672520/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2672520/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2672520/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672520/header.jpg?t=1740585638",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672520/e90bb131db5598a51776ca852a805fa9ba775250/capsule_231x87.jpg?t=1740585638",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672520/e90bb131db5598a51776ca852a805fa9ba775250/capsule_184x69.jpg?t=1740585638",
     "website": null,
     "developers": [
       "Conifer Digital"
     ],
     "publishers": [
       "Conifer Digital"
-    ],
-    "demos": [
-      {
-        "appid": 2724580,
-        "description": ""
-      }
     ],
     "package_groups": [],
     "platforms": {
@@ -9783,7 +9870,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -9797,11 +9885,29 @@
       "url": "",
       "email": "coniferdigital@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2672520/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2672520/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2672520?t=1740585638",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672520/page_bg_raw.jpg?t=1740585638",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2670510": {
@@ -11316,11 +11422,11 @@
     "steam_appid": 2671010,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Choose your weapons and ride your giant turtle while hordes of enemies try to take you down. Gather orbs to upgrade and pick the right skills to survive the long road to the outpost!",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2671010/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2671010/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2671010/capsule_184x69.jpg",
+    "short_description": "Ride giant turtles and aim your weapons at hordes of enemies chasing you while you gather as many resources as you can. Pick your upgrades carefully and create strong builds to survive the long road to the Outpost!",
+    "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Portuguese - Portugal, Spanish - Latin America",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671010/header.jpg?t=1742789018",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671010/e33024fa85b56cfd7a4f0e170ba7bde25b07718b/capsule_231x87.jpg?t=1742789018",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671010/e33024fa85b56cfd7a4f0e170ba7bde25b07718b/capsule_184x69.jpg?t=1742789018",
     "website": null,
     "developers": [
       "Solenya"
@@ -11328,33 +11434,72 @@
     "publishers": [
       "Solenya"
     ],
-    "package_groups": [],
+    "packages": [
+      956983
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Turtle Riders",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      15,
+      22,
+      23,
+      25,
+      62
     ],
     "genres": [
       1,
-      4,
+      2,
       23
     ],
+    "achievements": {
+      "total": 29
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "23 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "nikoskokir@hotmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2671010/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2671010/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2671010?t=1742789018",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2671010?t=1742789018",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2670930": {

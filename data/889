@@ -86,9 +86,9 @@
     "is_free": false,
     "short_description": "The golden age of violent flash games now in your VR headset. Fully physics based combat with melee and firearms featuring copious amounts of blood, gore and destruction.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2669380/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2669380/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2669380/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669380/header.jpg?t=1728728353",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669380/capsule_231x87.jpg?t=1728728353",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669380/capsule_184x69.jpg?t=1728728353",
     "website": null,
     "developers": [
       "Kubunautilus"
@@ -102,35 +102,72 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      956420
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy BRUTALISTICK VR",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      23,
+      30,
+      52,
+      54,
+      62
     ],
     "genres": [
       1,
+      23,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "31 Mar, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "erikivar.haav@gmail.com"
+      "email": "kubunautilus@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2669380/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2669380/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2669380?t=1728728353",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2669380?t=1728728353",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "Extreme cartoony violence. Blood, gore, dismemberment, internal organs."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2668180": {
@@ -1267,9 +1304,9 @@
     "controller_support": "full",
     "short_description": "Cattie is a platform game with retro graphics.",
     "supported_languages": "English<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2668580/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2668580/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2668580/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668580/header.jpg?t=1699966877",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668580/capsule_231x87.jpg?t=1699966877",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668580/capsule_184x69.jpg?t=1699966877",
     "website": null,
     "developers": [
       "Vergiu"
@@ -1300,7 +1337,8 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -1317,11 +1355,29 @@
       "url": "",
       "email": "vergiudev@hotmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2668580/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2668580/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2668580?t=1699966877",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2668580?t=1699966877",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2667580": {
@@ -1526,20 +1582,20 @@
   },
   "2669430": {
     "type": "demo",
-    "name": "The Book of Aaru Demo",
+    "name": "The Book of Aaru - Depths of the Gilded Demo",
     "steam_appid": 2669430,
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
-    "short_description": "Isometric Action Roguelite: Delve into an Egyptian world fused with sci-fi elements. Battle relentless foes, navigate hand-crafted trap puzzles, and face randomly assembled environments in each unique run.",
+    "short_description": "Dive into The Book of Aaru, an action isometric rogue-lite set in an ancient Egyptian world where history blends with sci-fi. Navigate traps, battle foes, and adapt to unique levels. Excel in combat with combo attacks. Each run crafts a new tale, bringing you closer to becoming a legend.",
     "fullgame": {
       "appid": "2092970",
       "name": "The Book of Aaru"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2669430/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2669430/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2669430/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669430/header.jpg?t=1734537958",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669430/45d708bda03324c06a6f41730f44993b8bf843ef/capsule_231x87.jpg?t=1734537958",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669430/45d708bda03324c06a6f41730f44993b8bf843ef/capsule_184x69.jpg?t=1734537958",
     "website": null,
     "developers": [
       "Amenti Studio"
@@ -1558,6 +1614,11 @@
       10,
       28
     ],
+    "genres": [
+      1,
+      3,
+      25
+    ],
     "release_date": {
       "coming_soon": false,
       "date": "31 Oct, 2023"
@@ -1566,14 +1627,32 @@
       "url": "",
       "email": "davidtomas@amentistudio.com (QA) or ladi@amentistudio.com (bussines) or marek@amentistudio.com (QA)"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2669430?t=1734537958",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2669430?t=1734537958",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "Core of our game is a rythmic combat viewed from isometric perspective. Blood can be explicitly seen, but is stylized. No other mature content than stylized combat violence is present."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2669760": {
@@ -4146,11 +4225,11 @@
     "steam_appid": 2667740,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A game you can read, a book you can play. A text-driven mystery game that mixes puzzles and reading to immerse you in the story about the price of pursuing your dreams.",
-    "supported_languages": "English<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2667740/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2667740/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2667740/capsule_184x69.jpg",
+    "short_description": "A narrative puzzle-thriller that blurs the lines between games and books, reality and fiction, puzzles and storytelling.",
+    "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, French<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2667740/9eb8d5df122f6bda409e6584b95cedf0314fb35d/header.jpg?t=1743629443",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2667740/6d2e9ddf1612ee96790bb0c054a882a844d8ec3f/capsule_231x87.jpg?t=1743629443",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2667740/6d2e9ddf1612ee96790bb0c054a882a844d8ec3f/capsule_184x69.jpg?t=1743629443",
     "website": "https://peworks.info/portfolio-items/yourhouse/",
     "developers": [
       "PATRONES & ESCONDITES"
@@ -4158,32 +4237,71 @@
     "publishers": [
       "PATRONES & ESCONDITES"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3309260,
+        "description": ""
+      }
+    ],
+    "packages": [
+      955833
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy YOUR HOUSE",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
+      4,
       23,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Mar, 2025"
     },
     "support_info": {
       "url": "http:/peworks.info",
       "email": "contact@peworks.info"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2667740/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2667740/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2667740?t=1743629443",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2667740?t=1743629443",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Verbrechen"
+      }
     }
   },
   "2668340": {
@@ -4839,16 +4957,16 @@
   },
   "2667950": {
     "type": "game",
-    "name": "Gloomy Eyes - The Game",
+    "name": "Gloomy Eyes",
     "steam_appid": 2667950,
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
     "short_description": "Within a world where the sun has stopped rising, the darkness awoke the dead from their graves, and an oppressive leader has cast them out. Play Gloomy and Nena, a zombie and a human , on a quest to find the sun in this dark but poetic narrative puzzle game.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2667950/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2667950/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2667950/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2667950/header.jpg?t=1741093818",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2667950/cfb17596a58d17e87ceee4569cf35527f081e4a0/capsule_231x87.jpg?t=1741093818",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2667950/cfb17596a58d17e87ceee4569cf35527f081e4a0/capsule_184x69.jpg?t=1741093818",
     "website": null,
     "developers": [
       "Atlas V",
@@ -4867,7 +4985,10 @@
     },
     "categories": [
       2,
-      28
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       4,
@@ -4876,17 +4997,35 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "2025"
     },
     "support_info": {
       "url": "",
       "email": "storemanager@artefrance.fr"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2667950/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2667950/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2667950?t=1741093818",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2667950?t=1741093818",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2668230": {
@@ -8343,11 +8482,11 @@
     "steam_appid": 2668000,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Build your 3D wizard school, recruit students and staff, manage your resources, take strategic decisions and solve the mystery of the severe mana shortages at Wizdom Academy. Engage in deep and meaningful interactions with those who evolve in your castle and thrive in this magical adventure !",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Portuguese - Portugal, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2668000/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2668000/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2668000/capsule_184x69.jpg",
+    "short_description": "Build and manage your wizard academy as the headmaster. Feel the city-building thrill of constructing your magic school. Recruit students, guide them to become wizards, control resources, customize your castle, and expand your academy's influence and prestige. Start your legacy today!",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Portuguese - Portugal, Simplified Chinese, Russian, Korean, Turkish<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668000/header.jpg?t=1744986421",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668000/e61b73ec6f1536b38143b53b84c6681424fe659e/capsule_231x87.jpg?t=1744986421",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668000/e61b73ec6f1536b38143b53b84c6681424fe659e/capsule_184x69.jpg?t=1744986421",
     "website": "https://www.wizdomacademy.com/",
     "developers": [
       "Kipwak Studio"
@@ -8355,32 +8494,65 @@
     "publishers": [
       "Kipwak Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      955919
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Wizdom Academy",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
-      28
+      28,
+      70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "17 Apr, 2025"
     },
     "support_info": {
       "url": "https://www.wizdomacademy.com/",
       "email": "contact@kipwak.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2668000/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2668000/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2668000?t=1744986421",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668000/page_bg_raw.jpg?t=1744986421",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2668670": {
@@ -10491,19 +10663,32 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "A fast-paced puzzle adventure where strategy and agility collide!",
+    "short_description": "Pick up and throw magic boxes. Use abilities like the Magic Wand to zap them away. Call in the next round of boxes, and organize your room to maximize combinations and chain reactions. Explore a sprawling dungeon of ever changing rules, surprises and milestones to conquer.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2669820/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2669820/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2669820/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669820/header.jpg?t=1714618103",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669820/capsule_231x87.jpg?t=1714618103",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669820/capsule_184x69.jpg?t=1714618103",
+    "website": "https://retrocasual.com",
     "developers": [
       "Ismael Rodriguez"
     ],
     "publishers": [
       "Retro Casual LLC"
     ],
-    "package_groups": [],
+    "packages": [
+      956576
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Box Room",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -10512,26 +10697,48 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       2,
       4,
       23
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "26 Apr, 2024"
     },
     "support_info": {
       "url": "https://retrocasual.com",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2669820/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2669820/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2669820?t=1714618103",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669820/page_bg_raw.jpg?t=1714618103",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2667690": {
