@@ -4985,9 +4985,9 @@
     "is_free": false,
     "short_description": "A short zero-gravity horror game where you investigate a religious research station gone silent.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490710/header.jpg?t=1738934400",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490710/19ed16aeac222ac314b0f0331588d9544cb1562e/capsule_231x87.jpg?t=1738934400",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490710/19ed16aeac222ac314b0f0331588d9544cb1562e/capsule_184x69.jpg?t=1738934400",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490710/header.jpg?t=1740418535",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490710/19ed16aeac222ac314b0f0331588d9544cb1562e/capsule_231x87.jpg?t=1740418535",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490710/19ed16aeac222ac314b0f0331588d9544cb1562e/capsule_184x69.jpg?t=1740418535",
     "website": "https://wumbo-workshop.com",
     "developers": [
       "Wumbo Workshop LLC"
@@ -4995,14 +4995,28 @@
     "publishers": [
       "Wumbo Workshop LLC"
     ],
-    "package_groups": [],
+    "packages": [
+      1232765
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy BURN",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -5011,15 +5025,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "18 Feb, 2025"
     },
     "support_info": {
       "url": "https://wumbo-workshop.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490710/page_bg_generated_v6b.jpg?t=1738934400",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490710/page_bg_generated.jpg?t=1738934400",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490710?t=1740418535",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490710?t=1740418535",
     "content_descriptors": {
       "ids": [
         5
@@ -5047,30 +5061,45 @@
   },
   "3490820": {
     "type": "game",
-    "name": "Meme Survivors",
+    "name": "Meme Survivors: Backrooms",
     "steam_appid": 3490820,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Meme Survivors is a casual game with a vibrant visual style predominantly made up of popular memes, featuring simplified roguelike elements. Waves of Cheems, Doge, and other enemies face off against Pop Cat and his friends!",
+    "short_description": "Meme Survivors: Backrooms is a casual game with a vivid visual style and simplified roguelike elements, immersing you in the mysterious and endless corridors of the Backrooms, filled with characters and enemies inspired by the internet\u2019s most popular memes.",
     "supported_languages": "English, Russian, French, German, Spanish - Spain, Ukrainian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490820/header.jpg?t=1738727464",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490820/6a0bb99a6176137cc8b3fdf7460ec00342550d33/capsule_231x87.jpg?t=1738727464",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490820/6a0bb99a6176137cc8b3fdf7460ec00342550d33/capsule_184x69.jpg?t=1738727464",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490820/88f457663e4d820ff58958c2ac8c73da67544a1a/header.jpg?t=1745479936",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490820/fe1011595809f1293f374e54b23cdb311ee89cef/capsule_231x87.jpg?t=1745479936",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490820/fe1011595809f1293f374e54b23cdb311ee89cef/capsule_184x69.jpg?t=1745479936",
     "website": null,
     "developers": [
-      "Gem\u00fctlich"
+      "Gem\u00fctlich Kayling"
     ],
     "publishers": [
-      "Gem\u00fctlich"
+      "Gem\u00fctlich Kayling"
     ],
-    "package_groups": [],
+    "packages": [
+      1232803
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Meme Survivors: Backrooms",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       1,
@@ -5080,16 +5109,19 @@
       25,
       70
     ],
+    "achievements": {
+      "total": 1
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "20 Feb, 2025"
+      "coming_soon": false,
+      "date": "18 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "alekseylol70@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490820/page_bg_generated_v6b.jpg?t=1738727464",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490820/page_bg_generated.jpg?t=1738727464",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490820?t=1745479936",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490820?t=1745479936",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8069,9 +8101,9 @@
     "controller_support": "full",
     "short_description": "After several failed adventures, You decide to set out one more... Wintervale Keep. As you explore the dungeons of Wintervale, you will encounter other adventurers just the same. Their eyes full of lust for fortune and fame. Explore, level up and discover what lurks below in this retro 3D jrpg",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490660/header.jpg?t=1739495214",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490660/e33758d543386928102a2f4beeff75fc46f8155f/capsule_231x87.jpg?t=1739495214",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490660/e33758d543386928102a2f4beeff75fc46f8155f/capsule_184x69.jpg?t=1739495214",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490660/header.jpg?t=1741179375",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490660/e33758d543386928102a2f4beeff75fc46f8155f/capsule_231x87.jpg?t=1741179375",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490660/e33758d543386928102a2f4beeff75fc46f8155f/capsule_184x69.jpg?t=1741179375",
     "website": null,
     "developers": [
       "MDZ-Games"
@@ -8079,7 +8111,20 @@
     "publishers": [
       "MDZ-Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1232750
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Wintervale Keep",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8087,22 +8132,23 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       3,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "5 Mar, 2025"
     },
     "support_info": {
       "url": "https://www.patreon.com/c/MDZGames?fromConcierge=true",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490660/page_bg_generated_v6b.jpg?t=1739495214",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490660/page.bg.jpg?t=1739495214",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3490660?t=1741179375",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3490660/page_bg_raw.jpg?t=1741179375",
     "content_descriptors": {
       "ids": [
         1,
@@ -8118,7 +8164,7 @@
         "required_age": "18",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Nudez\nLinguagem impr\u00f3pria\nDrogas l\u00edcitas"
+        "descriptors": "Nudez\nLinguagem impr\u00f3pria\nViol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -8126,7 +8172,7 @@
         "required_age": "2147483647",
         "banned": "1",
         "use_age_gate": "0",
-        "descriptors": "Sexuelle Inhalte\nAlkohol / Tabak\nGewalt"
+        "descriptors": "Sexuelle Inhalte\nGewalt\nAlkohol / Tabak"
       }
     }
   },
@@ -8136,11 +8182,11 @@
     "steam_appid": 3491350,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Seeker Tactics is a turn-based extraction tactics where players assume the role of a seeker, venturing into dangerous dungeons\u00a0to uncover powerful artifacts and secure a safe escape.",
+    "short_description": "Seeker Tactics is a turn-based extraction looter. Players assume the role of a Seeker, exploring dangerous dungeons, seeking powerful artifacts, and ensuring their safe escape.",
     "supported_languages": "English, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491350/header.jpg?t=1739501877",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491350/5573a4ee42d13338deee84f36371c5f09e2f7eea/capsule_231x87.jpg?t=1739501877",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491350/5573a4ee42d13338deee84f36371c5f09e2f7eea/capsule_184x69.jpg?t=1739501877",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491350/header.jpg?t=1740718798",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491350/5573a4ee42d13338deee84f36371c5f09e2f7eea/capsule_231x87.jpg?t=1740718798",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491350/5573a4ee42d13338deee84f36371c5f09e2f7eea/capsule_184x69.jpg?t=1740718798",
     "website": "https://da2creative.com",
     "developers": [
       "DA2 Creative Inc."
@@ -8155,7 +8201,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2
@@ -8168,8 +8215,8 @@
       "url": "https://da2creative.com",
       "email": "contact@da2creative.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491350/page_bg_generated_v6b.jpg?t=1739501877",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491350/page.bg.jpg?t=1739501877",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3491350?t=1740718798",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491350/page_bg_raw.jpg?t=1740718798",
     "content_descriptors": {
       "ids": [],
       "notes": null

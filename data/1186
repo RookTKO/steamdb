@@ -5616,17 +5616,23 @@
     "steam_appid": 3560640,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A top-down roguelike shooter where love becomes your curse. Fight and move into defeated enemies to change your character's abilities and use different weapons.",
+    "short_description": "Broken Scary Skeleton is a rogue-like top-down shooter in which you are cursed with love. Fight and possess defeated enemies to change your character's abilities and use different types of weapons.",
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560640/f6b9a12c241c8fefc0b9ef2b30de19db177d6e4a/header.jpg?t=1742000258",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560640/d961da2e22fb9dc360644fd48963b422cec450d6/capsule_231x87.jpg?t=1742000258",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560640/d961da2e22fb9dc360644fd48963b422cec450d6/capsule_184x69.jpg?t=1742000258",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560640/f6b9a12c241c8fefc0b9ef2b30de19db177d6e4a/header.jpg?t=1744492129",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560640/d961da2e22fb9dc360644fd48963b422cec450d6/capsule_231x87.jpg?t=1744492129",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560640/d961da2e22fb9dc360644fd48963b422cec450d6/capsule_184x69.jpg?t=1744492129",
+    "website": "https://gdaeon.ru/brokenscaryskeleton",
     "developers": [
       "GDAEON"
     ],
     "publishers": [
       "GDAEON"
+    ],
+    "demos": [
+      {
+        "appid": 3593440,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5653,8 +5659,8 @@
       "url": "",
       "email": "mail@gdaeon.ru"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3560640?t=1742000258",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560640/8e276c8dacdb559fbfc5062d4f43bc38cf820f0d/page_bg_raw.jpg?t=1742000258",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3560640?t=1744492129",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560640/8e276c8dacdb559fbfc5062d4f43bc38cf820f0d/page_bg_raw.jpg?t=1744492129",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5685,10 +5691,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "You wake up on the floor of a library, guilt-ridden for forgetting to return your borrowed book. Now, you find yourself trapped in an endless loop of bringing it back to ease your conscience, forced to check for anomalies to work off your debt.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558310/header.jpg?t=1741995906",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558310/fb4ba5378bc9f67ca1d1bb0c4b20569de0017544/capsule_231x87.jpg?t=1741995906",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558310/fb4ba5378bc9f67ca1d1bb0c4b20569de0017544/capsule_184x69.jpg?t=1741995906",
+    "supported_languages": "English<strong>*</strong>, German<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558310/header.jpg?t=1745223667",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558310/fb4ba5378bc9f67ca1d1bb0c4b20569de0017544/capsule_231x87.jpg?t=1745223667",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558310/fb4ba5378bc9f67ca1d1bb0c4b20569de0017544/capsule_184x69.jpg?t=1745223667",
     "website": null,
     "developers": [
       "Struggle Games Studio"
@@ -5696,7 +5702,20 @@
     "publishers": [
       "Struggle Games Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1255580
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Bring the Book back",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5711,16 +5730,19 @@
     "genres": [
       23
     ],
+    "achievements": {
+      "total": 26
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "31 Mar, 2025"
+      "coming_soon": false,
+      "date": "8 Apr, 2025"
     },
     "support_info": {
       "url": "https://steamcommunity.com/groups/StruggleGamesStudio",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3558310?t=1741995906",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3558310?t=1741995906",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3558310?t=1745223667",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3558310?t=1745223667",
     "content_descriptors": {
       "ids": [
         5
@@ -5754,21 +5776,15 @@
     "is_free": false,
     "short_description": "Don't Touch Us is a psychological horror RPG set in an abandoned hospital filled with puzzles, terrifying jump scares, and eerie mysteries. Play as Anya\u2019s fragmented spirit, uncover the truth behind her brutal murder, and face the sinister Doctor in a haunting, story-driven experience.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560860/530a85ad2b941311181cf34a063c4832a7b21e6b/header.jpg?t=1741998556",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560860/78f81fb3fd59147bcc36ca5d4631c4c3fdfdaff9/capsule_231x87.jpg?t=1741998556",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560860/78f81fb3fd59147bcc36ca5d4631c4c3fdfdaff9/capsule_184x69.jpg?t=1741998556",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560860/530a85ad2b941311181cf34a063c4832a7b21e6b/header.jpg?t=1743106235",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560860/78f81fb3fd59147bcc36ca5d4631c4c3fdfdaff9/capsule_231x87.jpg?t=1743106235",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560860/78f81fb3fd59147bcc36ca5d4631c4c3fdfdaff9/capsule_184x69.jpg?t=1743106235",
     "website": null,
     "developers": [
       "Fierca Studio"
     ],
     "publishers": [
       "Fierca Studio"
-    ],
-    "demos": [
-      {
-        "appid": 3583460,
-        "description": ""
-      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5788,14 +5804,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q2 2025"
+      "date": "Q3 2025"
     },
     "support_info": {
       "url": "https://discord.gg/vEtBVXVK",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3560860?t=1741998556",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3560860?t=1741998556",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3560860?t=1743106235",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3560860?t=1743106235",
     "content_descriptors": {
       "ids": [
         2,
@@ -5829,18 +5845,31 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Great news for those who can never click enough! Just enter a single word, and your perfect clicker will be generated automatically!",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian, Simplified Chinese, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558020/fef8b447e56dd02eab5f35fed851a8b2a9170026/header.jpg?t=1742007785",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558020/d4bbb4f060b26b2452a15283112fe7e438e2fc75/capsule_231x87.jpg?t=1742007785",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558020/d4bbb4f060b26b2452a15283112fe7e438e2fc75/capsule_184x69.jpg?t=1742007785",
-    "website": null,
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian, Simplified Chinese, Japanese, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558020/fef8b447e56dd02eab5f35fed851a8b2a9170026/header.jpg?t=1743831350",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558020/d4bbb4f060b26b2452a15283112fe7e438e2fc75/capsule_231x87.jpg?t=1743831350",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558020/d4bbb4f060b26b2452a15283112fe7e438e2fc75/capsule_184x69.jpg?t=1743831350",
+    "website": "https://x1024.click/4ZKeOxTq2L",
     "developers": [
       "Bogoobee"
     ],
     "publishers": [
       "Bogoobee"
     ],
-    "package_groups": [],
+    "packages": [
+      1255478
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Clicker Maker",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -5854,15 +5883,15 @@
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "March 2025"
+      "coming_soon": false,
+      "date": "31 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@bogoobee.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3558020?t=1742007785",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558020/b512aa03faa0b85b77e132eff53d61d425c863ac/page_bg_raw.jpg?t=1742007785",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3558020?t=1743831350",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558020/b512aa03faa0b85b77e132eff53d61d425c863ac/page_bg_raw.jpg?t=1743831350",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5898,14 +5927,27 @@
       "name": "Cipheur"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3559290/98e2c4c03af35b679a6543e92b38dbdb82e9a356/header.jpg?t=1742049973",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3559290/c7026e9e6e6c58260dd4698266d6f847298cd5dc/capsule_231x87.jpg?t=1742049973",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3559290/c7026e9e6e6c58260dd4698266d6f847298cd5dc/capsule_184x69.jpg?t=1742049973",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3559290/98e2c4c03af35b679a6543e92b38dbdb82e9a356/header.jpg?t=1742459838",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3559290/c7026e9e6e6c58260dd4698266d6f847298cd5dc/capsule_231x87.jpg?t=1742459838",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3559290/c7026e9e6e6c58260dd4698266d6f847298cd5dc/capsule_184x69.jpg?t=1742459838",
     "website": "https://error300.com/",
     "developers": [
       "Error 300"
     ],
-    "package_groups": [],
+    "packages": [
+      1255912
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cipheur - Famous People Quotes 4",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -5920,15 +5962,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "20 Mar, 2025"
     },
     "support_info": {
       "url": "https://error300.com/",
       "email": "contact@error300.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3559290?t=1742049973",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3559290?t=1742049973",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3559290?t=1742459838",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3559290?t=1742459838",
     "content_descriptors": {
       "ids": [],
       "notes": null

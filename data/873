@@ -2047,11 +2047,14 @@
     "steam_appid": 2619450,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Discover desire in Tower of Hidden Waifus, a unique hidden object game. Ascend the tower, find over 600 enticing waifus, and unlock sensual encounters with animated passion. Explore secrets, master challenges, and unveil your deepest desires.",
-    "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2619450/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2619450/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2619450/capsule_184x69.jpg",
+    "dlc": [
+      2873980
+    ],
+    "short_description": "Discover desire in Tower of Hidden Waifus, a unique hidden object game. Ascend the tower, find over 600 enticing waifus, and unlock sensual encounters with animated passion. Reveal secrets, master challenges, and unveil your deepest desires.",
+    "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Romanian, Russian, Simplified Chinese, Traditional Chinese, Turkish, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2619450/header.jpg?t=1726251235",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2619450/capsule_231x87.jpg?t=1726251235",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2619450/capsule_184x69.jpg?t=1726251235",
     "website": null,
     "developers": [
       "Mizuki Software"
@@ -2059,7 +2062,20 @@
     "publishers": [
       "Mizuki Software"
     ],
-    "package_groups": [],
+    "packages": [
+      939725
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Tower of Hidden Waifus",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2069,22 +2085,26 @@
       2,
       22,
       23,
-      25
+      25,
+      62
     ],
     "genres": [
       4,
       25
     ],
+    "achievements": {
+      "total": 41
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "15 Jan, 2024"
+      "coming_soon": false,
+      "date": "30 Jul, 2024"
     },
     "support_info": {
       "url": "",
       "email": "mizukisoftware@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2619450/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2619450/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2619450?t=1726251235",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2619450?t=1726251235",
     "content_descriptors": {
       "ids": [
         1,
@@ -2093,6 +2113,24 @@
         5
       ],
       "notes": "This game contains content not appropriate for all ages, or for viewing at work: sexual acts, nudity. The game graphically depicts sex. All characters in the game are over the age of 18."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2621670": {
@@ -2826,9 +2864,9 @@
     "is_free": true,
     "short_description": "iTop Easy Desktop: a free and easy-to-use desktop manager and wallpaper tool for Windows. Automatically organize icons, files, and folders. Create private boxes. Enjoy quick search access, scheduling tools &amp; more. Experience a clutter-free desktop and maximize productivity with this powerful App.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Ukrainian, Russian, Bulgarian, Hungarian, Indonesian, Turkish, Greek, Norwegian, Czech, Japanese, Polish, Thai, Swedish, Simplified Chinese, Traditional Chinese, Romanian, Finnish, Dutch, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America, Vietnamese, Arabic, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2620310/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2620310/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2620310/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620310/header.jpg?t=1741967003",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620310/capsule_231x87.jpg?t=1741967003",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620310/capsule_184x69.jpg?t=1741967003",
     "website": "https://www.itopvpn.com/itop-easy-desktop",
     "developers": [
       "iTop"
@@ -2854,12 +2892,13 @@
       "url": "https://www.itopvpn.com/support",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2620310/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2620310/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2620310?t=1741967003",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620310/page_bg_raw.jpg?t=1741967003",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2621760": {
     "type": "game",
@@ -5803,23 +5842,17 @@
     "steam_appid": 2620770,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Dive into leafy tranquility in Leaf Blower Paradise, a solo adventure where you wield a powerful blower to transform messy landscapes into clean havens. Upgrade your gear, enjoy the serene atmosphere, and sculpt your outdoor sanctum. It's a relaxing escape to blow away stress, one leaf at a time.",
+    "short_description": "Dive into leafy tranquility in Leaf Blower Sim, a solo adventure where you wield a powerful blower to transform messy landscapes into clean havens. Upgrade your gear, enjoy the serene atmosphere, and sculpt your outdoor sanctum. It's a relaxing escape to blow away stress, one leaf at a time.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2620770/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2620770/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2620770/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620770/header.jpg?t=1728830759",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620770/capsule_231x87.jpg?t=1728830759",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620770/capsule_184x69.jpg?t=1728830759",
     "website": "https://steamcommunity.com/app/2620770",
     "developers": [
       "Lift Indie Games"
     ],
     "publishers": [
       "Lift Indie Games"
-    ],
-    "demos": [
-      {
-        "appid": 2686170,
-        "description": ""
-      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5828,25 +5861,45 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
-      28
+      28,
+      70
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "December 2024"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "seanryanunreal@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2620770/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2620770/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2620770?t=1728830759",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620770/page_bg_raw.jpg?t=1728830759",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2620110": {
@@ -6110,13 +6163,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2619550/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2619550/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2619550/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2619550/header.jpg?t=1729241929",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2619550/capsule_231x87.jpg?t=1729241929",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2619550/capsule_184x69.jpg?t=1729241929",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -6131,12 +6181,13 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2619550?t=1729241929",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2619550?t=1729241929",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2620380": {
     "type": "game",
@@ -7150,18 +7201,15 @@
     "short_description": "&quot; Horror Companion (SWADE) Savage Worlds and horror go together like chainsaws and spraying blood\u2026 The Savage Worlds Horror Companion lets you recreate everything from the classic Universal\u00ae monster movies and Vault of Horror\u00ae comics to Lovecraftian cosmic horror to more modern fare like The Walking Dead\u00ae, the works of Stephen King, ",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2621620/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2621620/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2621620/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621620/header.jpg?t=1699984768",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621620/capsule_231x87.jpg?t=1699984768",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621620/capsule_184x69.jpg?t=1699984768",
     "website": null,
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       940434
@@ -7191,7 +7239,8 @@
       27,
       38,
       39,
-      48
+      48,
+      62
     ],
     "genres": [
       2,
@@ -7206,11 +7255,27 @@
       "url": "support.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2621620/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2621620/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2621620?t=1699984768",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2621620?t=1699984768",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2619540": {
@@ -7980,9 +8045,9 @@
       "name": "Farming Simulator 22"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Finnish, Hungarian, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Norwegian, Spanish - Latin America",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2620980/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2620980/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2620980/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620980/header.jpg?t=1700210203",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620980/capsule_231x87.jpg?t=1700210203",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620980/capsule_184x69.jpg?t=1700210203",
     "website": "https://farming-simulator.com/",
     "developers": [
       "Giants Software"
@@ -8020,7 +8085,8 @@
       28,
       29,
       38,
-      43
+      43,
+      62
     ],
     "genres": [
       28
@@ -8033,11 +8099,50 @@
       "url": "http://www.farming-simulator.com/support.php",
       "email": "support@giants-software.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2620980/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2620980/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2620980?t=1700210203",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620980/page_bg_raw.jpg?t=1700210203",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "3"
+      },
+      "usk": {
+        "rating": "0"
+      },
+      "dejus": {
+        "rating": "l"
+      },
+      "csrr": {
+        "rating": "G"
+      },
+      "esrb": {
+        "rating": "e",
+        "interactive_elements": "Users Interact",
+        "display_online_notice": "true"
+      },
+      "oflc": {
+        "rating": "g"
+      },
+      "kgrb": {
+        "rating": "all"
+      },
+      "fpb": {
+        "rating": "A"
+      },
+      "cero": {
+        "rating": "a"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2621650": {
@@ -8372,11 +8477,11 @@
     "steam_appid": 2620220,
     "required_age": 0,
     "is_free": true,
-    "short_description": "\ud83d\udd96 &quot;Have you ever played a tycoon game that is as realistic and visually stunning as the ones you see in the screenshot images? &quot;",
-    "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2620220/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2620220/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2620220/capsule_184x69.jpg",
+    "short_description": "\ud83d\uded2 Ever played a realistic and stunning mall tycoon game like the screenshots? 1\ufe0f\u20e3 Start by building up your free cash flow with a clicker power business using windmills and solar panels!2\ufe0f\u20e3 Supercharge your mall\u2019s growth with a REAL business investment!",
+    "supported_languages": "English, Japanese, French, Italian, German, Spanish - Spain, Indonesian, Thai, Portuguese - Brazil, Russian, Traditional Chinese, Korean, Arabic, Spanish - Latin America, Portuguese - Portugal, Polish, Simplified Chinese, Hindi, Bangla",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620220/header.jpg?t=1738662561",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620220/2f06f9542ca2dd7d1d243457add9367104be05e0/capsule_231x87.jpg?t=1738662561",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620220/2f06f9542ca2dd7d1d243457add9367104be05e0/capsule_184x69.jpg?t=1738662561",
     "website": null,
     "developers": [
       "Tycoon Technologies"
@@ -8392,7 +8497,7 @@
     },
     "categories": [
       2,
-      18
+      35
     ],
     "genres": [
       2,
@@ -8401,18 +8506,36 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2023"
+      "coming_soon": false,
+      "date": "5 Dec, 2024"
     },
     "support_info": {
       "url": "https://tycoontechnologies2.wordpress.com/",
       "email": "asahibiz531@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2620220/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2620220/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2620220?t=1738662561",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2620220?t=1738662561",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2620610": {
