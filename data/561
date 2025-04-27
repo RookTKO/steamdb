@@ -14970,18 +14970,18 @@
     "steam_appid": 1684010,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Open World VR Pirate Adventure Game!",
+    "short_description": "Open World, Multiplayer VR Pirate Game!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1684010/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1684010/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1684010/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684010/bdd110f340dd3db5bd9162e4c62ca3a1d10abbfc/header.jpg?t=1742835675",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684010/dcd901d2f34aa917958ba3e3789161c3683ac491/capsule_231x87.jpg?t=1742835675",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684010/dcd901d2f34aa917958ba3e3789161c3683ac491/capsule_184x69.jpg?t=1742835675",
     "website": "https://www.sail-vr.com",
     "developers": [
       "Red Team Interactive Inc.",
       "Continuum XR"
     ],
     "publishers": [
-      "Garett cook "
+      "Garett cook"
     ],
     "packages": [
       738673
@@ -15003,9 +15003,15 @@
       "linux": false
     },
     "categories": [
-      2,
+      1,
+      9,
+      27,
+      36,
+      38,
+      49,
       52,
-      54
+      54,
+      62
     ],
     "genres": [
       1,
@@ -15023,13 +15029,29 @@
     },
     "support_info": {
       "url": "",
-      "email": "g119.contact@gmail.com"
+      "email": "support@redteam.games"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1684010/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1684010/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1684010?t=1742835675",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684010/page_bg_raw.jpg?t=1742835675",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "1683560": {
@@ -19861,12 +19883,15 @@
     "name": "The Chronicles: Wasteland Assault",
     "steam_appid": 1683400,
     "required_age": 0,
-    "is_free": false,
-    "short_description": "The wastes of Dubai have been overwhelmed by Screamers. Play and evolve the iconic characters from the hit novel; The Chronicles: Wasteland and take back the dead lands. Survive against the horror and use whatever it takes to last long enough to build sanctions, unlock characters and many items.",
+    "is_free": true,
+    "dlc": [
+      3409530
+    ],
+    "short_description": "With nowhere else to run, you are forced to face off against wave after wave of an endless Screamer hoard. How long can you survive for? Strengthen you character, and bolster your armoury. Can you achieve the highest score, and trump your competitors by killing the most, and surviving the longest?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1683400/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1683400/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1683400/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683400/header.jpg?t=1739667643",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683400/capsule_231x87.jpg?t=1739667643",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683400/capsule_184x69.jpg?t=1739667643",
     "website": "https://www.thechronicleswasteland.com/",
     "developers": [
       "Golden Ox Studios",
@@ -19875,20 +19900,7 @@
     "publishers": [
       "Golden Ox Studios"
     ],
-    "packages": [
-      599042
-    ],
-    "package_groups": [
-      {
-        "name": "default",
-        "title": "Buy The Chronicles: Wasteland Assault",
-        "description": "",
-        "selection_text": "Select a purchase option",
-        "save_text": "",
-        "display_type": 0,
-        "is_recurring_subscription": "false"
-      }
-    ],
+    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -19897,17 +19909,19 @@
     "categories": [
       2,
       13,
-      22
+      22,
+      25
     ],
     "genres": [
       1,
       3,
       4,
       23,
-      25
+      25,
+      37
     ],
     "achievements": {
-      "total": 11
+      "total": 20
     },
     "release_date": {
       "coming_soon": false,
@@ -19917,14 +19931,30 @@
       "url": "https://www.thechronicleswasteland.com/",
       "email": "goldenoxstudios@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1683400/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1683400/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1683400?t=1739667643",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1683400?t=1739667643",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "The Chronicles: Wasteland Assault does contain frequent violence and gore."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nMedo",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "1683060": {
