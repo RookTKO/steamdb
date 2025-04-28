@@ -3696,11 +3696,11 @@
     "steam_appid": 2274970,
     "required_age": 0,
     "is_free": false,
-    "short_description": "When The Devil Takes Hold promises to be a bone-chilling journey into the heart of fear, with immersive first-person gameplay, a deep storyline, and a heart-pumping atmosphere.",
-    "supported_languages": "English<strong>*</strong>, German, Hungarian, Polish, Russian, French, Romanian, Japanese, Italian, Spanish - Spain, Danish, Dutch, Finnish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274970/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274970/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2274970/capsule_184x69.jpg",
+    "short_description": "When The Devil Takes Hold is a first-person psychological horror game. Step into the shoes of James Davidson, a fearless content creator whose search for views leads him to a cursed location. Explore the haunted grounds and solve puzzles to uncover the dark past.",
+    "supported_languages": "English<strong>*</strong>, German, Hungarian, Russian<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274970/header.jpg?t=1726516139",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274970/capsule_231x87.jpg?t=1726516139",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274970/capsule_184x69.jpg?t=1726516139",
     "website": "https://novakstudios.hu/",
     "developers": [
       "NOVAK STUDIOS"
@@ -3708,42 +3708,69 @@
     "publishers": [
       "NOVAK STUDIOS"
     ],
-    "demos": [
+    "packages": [
+      816111
+    ],
+    "package_groups": [
       {
-        "appid": 2480330,
-        "description": ""
+        "name": "default",
+        "title": "Buy When The Devil Takes Hold",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": false
     },
     "categories": [
       2,
-      18,
-      22
+      22,
+      62
     ],
     "genres": [
       23,
       25
     ],
+    "achievements": {
+      "total": 8
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q2 2024"
+      "coming_soon": false,
+      "date": "22 Aug, 2024"
     },
     "support_info": {
       "url": "https://novakstudios.hu/",
       "email": "support@novakstudios.hu"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2274970/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2274970/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2274970?t=1726516139",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2274970?t=1726516139",
     "content_descriptors": {
       "ids": [
+        2,
         5
       ],
       "notes": "The game contains blood, language and scenes that may not be appropriate for all ages."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nMedo\r\nNudez",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nSchimpfw\u00f6rte"
+      }
     }
   },
   "2274500": {
@@ -6216,9 +6243,9 @@
     "controller_support": "full",
     "short_description": "It\u2019s an adventure that lasts a whole year! Daily Dadish is a retro platformer that features over 365 handcrafted levels - one for every day of the year! Face challenging foes, unlock cool characters, and help reunite Dadish with his missing kids all over again!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274700/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274700/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2274700/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274700/header.jpg?t=1675767914",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274700/capsule_231x87.jpg?t=1675767914",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274700/capsule_184x69.jpg?t=1675767914",
     "website": "http://www.dailydadish.com",
     "developers": [
       "Thomas K. Young"
@@ -6247,7 +6274,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -6264,11 +6292,29 @@
       "url": "http://www.thomaskyoung.com",
       "email": "tom@thomaskyoung.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2274700/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2274700/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2274700?t=1675767914",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2274700?t=1675767914",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2276840": {
@@ -9726,25 +9772,25 @@
   },
   "2274260": {
     "type": "demo",
-    "name": "DEVIL'S LIMINAL - Demo",
+    "name": "DEVIL'S LIMINAL - Extended Demo",
     "steam_appid": 2274260,
     "required_age": 0,
     "is_free": true,
-    "short_description": "A demon's imprint, a final summer. A horror and queer romance visual novel.",
+    "short_description": "A demon's pact, a final summer. Yuri horror visual novel inspired by Azores folklore.",
     "fullgame": {
       "appid": "2271270",
       "name": "DEVIL'S LIMINAL"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274260/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2274260/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2274260/capsule_184x69.jpg",
-    "website": "https://devilsliminal.com/",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274260/header.jpg?t=1745485247",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274260/0de96e3c7f6d1995494ac12ffff68756a9ef9e78/capsule_231x87.jpg?t=1745485247",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274260/0de96e3c7f6d1995494ac12ffff68756a9ef9e78/capsule_184x69.jpg?t=1745485247",
+    "website": "https://studiointerlude.com",
     "developers": [
-      "Renee Blair"
+      "Studio Interlude"
     ],
     "publishers": [
-      "Renee Blair"
+      "Studio Interlude"
     ],
     "package_groups": [],
     "platforms": {
@@ -9764,13 +9810,23 @@
       "url": "https://forms.gle/S8ZQFebskjLQ9a4N6",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2274260/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2274260/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2274260?t=1745485247",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274260/page_bg_raw.jpg?t=1745485247",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "This game includes content such as blood, drug reference, strong language, and violence."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2274530": {
@@ -10495,9 +10551,9 @@
     "is_free": false,
     "short_description": "Lead nomadic families through the Stone Age in this turn-based 4X strategy game with deeply simulated characters, cultures, and ecosystems. Explore the wilderness, gather and trade resources, and stand your ground in tactical combat. Discover fire, medicine, language\u2014and survive to tell the tale.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2275300/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2275300/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2275300/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275300/header.jpg?t=1740660517",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275300/capsule_231x87.jpg?t=1740660517",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275300/capsule_184x69.jpg?t=1740660517",
     "website": null,
     "developers": [
       "Curious Dynamics"
@@ -10512,7 +10568,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -10521,17 +10578,33 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2024"
+      "date": "2025"
     },
     "support_info": {
       "url": "https://twitter.com/CuriousDynamics",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2275300/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2275300/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2275300?t=1740660517",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275300/page_bg_raw.jpg?t=1740660517",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2275130": {

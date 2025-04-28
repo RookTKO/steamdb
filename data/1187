@@ -3236,22 +3236,27 @@
   },
   "3563710": {
     "type": "game",
-    "name": "Black Smith Shop Simulator",
+    "name": "Blacksmith Shop Simulator",
     "steam_appid": 3563710,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
     "short_description": "Run your own blacksmith shop in this immersive simulation game! Craft and sell swords, shields, armor, and more to satisfy your customers, earn profits, and expand your business. Manage your forge with a dynamic day-night cycle and become a legendary blacksmith!",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Simplified Chinese, Portuguese - Brazil, Bulgarian, Danish, Indonesian, Dutch, Finnish, Traditional Chinese, Japanese, Korean, Spanish - Latin America, Polish, Hungarian, Norwegian, Portuguese - Portugal, Romanian, Russian, Thai, Turkish, Ukrainian, Vietnamese, Greek, Czech, Swedish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563710/9ca9794818a1b8eeefa4284096e0021717e56012/header.jpg?t=1741534301",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563710/f1b7f97b972c27382b76dae076c0f57bd7c80153/capsule_231x87.jpg?t=1741534301",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563710/f1b7f97b972c27382b76dae076c0f57bd7c80153/capsule_184x69.jpg?t=1741534301",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Dutch, Finnish, Polish, Hungarian, Norwegian, Portuguese - Portugal, Romanian, Turkish, Swedish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563710/9ca9794818a1b8eeefa4284096e0021717e56012/header.jpg?t=1745419804",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563710/f1b7f97b972c27382b76dae076c0f57bd7c80153/capsule_231x87.jpg?t=1745419804",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563710/f1b7f97b972c27382b76dae076c0f57bd7c80153/capsule_184x69.jpg?t=1745419804",
     "website": null,
     "developers": [
       "Dual Cluster Studios"
     ],
     "publishers": [
       "Dual Cluster Studios"
+    ],
+    "demos": [
+      {
+        "appid": 3563770,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -3261,8 +3266,6 @@
     },
     "categories": [
       2,
-      22,
-      28,
       62
     ],
     "genres": [
@@ -3274,14 +3277,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "10 Jul, 2025"
+      "date": "11 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "dualclusterstudios@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563710?t=1741534301",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563710?t=1741534301",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563710?t=1745419804",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563710?t=1745419804",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6734,9 +6737,9 @@
     "is_free": false,
     "short_description": "In &quot;Pixel Cavern Quest,&quot; players embark on an adventurous journey through a mysterious and challenging underground world. The game captivates with its unique pixel art style and retro adventure gameplay, immersing players in a cave exploration filled with unknowns and surprises.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563830/2fd44982dd1e37f391aa3988a6a0c852edfaffa9/header.jpg?t=1742237936",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563830/8523645523defc5b1e5879d48e5e01990776619d/capsule_231x87.jpg?t=1742237936",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563830/8523645523defc5b1e5879d48e5e01990776619d/capsule_184x69.jpg?t=1742237936",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563830/2fd44982dd1e37f391aa3988a6a0c852edfaffa9/header.jpg?t=1745005245",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563830/8523645523defc5b1e5879d48e5e01990776619d/capsule_231x87.jpg?t=1745005245",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563830/8523645523defc5b1e5879d48e5e01990776619d/capsule_184x69.jpg?t=1745005245",
     "website": null,
     "developers": [
       "Pixel Cavern Quest"
@@ -6744,7 +6747,20 @@
     "publishers": [
       "Pixel Cavern Quest"
     ],
-    "package_groups": [],
+    "packages": [
+      1257537
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Pixel Cavern Quest",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6760,15 +6776,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "18 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "zmx@70it.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563830?t=1742237936",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563830?t=1742237936",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563830?t=1745005245",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563830?t=1745005245",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6867,10 +6883,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Brass Lament is an interactive experience that explores memory, trauma, and the intertwined fates of ordinary people. You step into the fragmented recollections of an aging soldier, witnessing four lives entangled by war.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563530/3a351437019c7b48e8b74074c22bf1cc1988363c/header.jpg?t=1742253419",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563530/3f8306098323d60f454f21d3c25e9904f4b93ed1/capsule_231x87.jpg?t=1742253419",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563530/3f8306098323d60f454f21d3c25e9904f4b93ed1/capsule_184x69.jpg?t=1742253419",
+    "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563530/3a351437019c7b48e8b74074c22bf1cc1988363c/header.jpg?t=1742457911",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563530/3f8306098323d60f454f21d3c25e9904f4b93ed1/capsule_231x87.jpg?t=1742457911",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563530/3f8306098323d60f454f21d3c25e9904f4b93ed1/capsule_184x69.jpg?t=1742457911",
     "website": null,
     "developers": [
       "Moonisle Studio"
@@ -6900,8 +6916,8 @@
       "url": "",
       "email": "moonislestudio@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563530?t=1742253419",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563530/c2523606095ac25bce740505b1d3224f8337f8ae/page_bg_raw.jpg?t=1742253419",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3563530?t=1742457911",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563530/c2523606095ac25bce740505b1d3224f8337f8ae/page_bg_raw.jpg?t=1742457911",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6933,9 +6949,9 @@
     "is_free": true,
     "short_description": "Relax, potter, and build in Jade Spring, a small Guild Wars 2 decorating and homesteading fan game.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561310/16d2a34b5f849c080d44d5d8ff7e1ddbb4feb568/header.jpg?t=1742266789",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561310/c8e2d2800a2fb42bd9a7505eec9b48e4a9e9fb3b/capsule_231x87.jpg?t=1742266789",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561310/c8e2d2800a2fb42bd9a7505eec9b48e4a9e9fb3b/capsule_184x69.jpg?t=1742266789",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561310/16d2a34b5f849c080d44d5d8ff7e1ddbb4feb568/header.jpg?t=1745551184",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561310/c8e2d2800a2fb42bd9a7505eec9b48e4a9e9fb3b/capsule_231x87.jpg?t=1745551184",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561310/c8e2d2800a2fb42bd9a7505eec9b48e4a9e9fb3b/capsule_184x69.jpg?t=1745551184",
     "website": "https://slyllama.net/jade-spring",
     "developers": [
       "Slyllama"
@@ -6953,6 +6969,7 @@
       2,
       15,
       18,
+      22,
       23
     ],
     "genres": [
@@ -6963,14 +6980,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "Q2 2025"
     },
     "support_info": {
       "url": "https://bsky.app/profile/slyllama.net",
       "email": "slyllama@outlook.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561310?t=1742266789",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561310/077a922a7a5bc8970b2634de4fdd3b543f914b63/page_bg_raw.jpg?t=1742266789",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561310?t=1745551184",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561310/077a922a7a5bc8970b2634de4fdd3b543f914b63/page_bg_raw.jpg?t=1745551184",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7068,9 +7085,9 @@
     "controller_support": "full",
     "short_description": "A thousand years ago, humanity tore the moon from the sky, sealing it within you and chaining you to the earth. But all chains rust. Now freed, you must journey into the scorched, war-torn land you once called home and return the moon to the sky.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561430/6b5aac2abf70bf66de80d0c58eebebf5c326a342/header.jpg?t=1742311993",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561430/4be1229dd1e07a629c92c43d2e1a48a50736f61a/capsule_231x87.jpg?t=1742311993",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561430/4be1229dd1e07a629c92c43d2e1a48a50736f61a/capsule_184x69.jpg?t=1742311993",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561430/6b5aac2abf70bf66de80d0c58eebebf5c326a342/header.jpg?t=1745612724",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561430/4be1229dd1e07a629c92c43d2e1a48a50736f61a/capsule_231x87.jpg?t=1745612724",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561430/4be1229dd1e07a629c92c43d2e1a48a50736f61a/capsule_184x69.jpg?t=1745612724",
     "website": null,
     "developers": [
       "The Bye Weeklies"
@@ -7086,7 +7103,6 @@
     },
     "categories": [
       2,
-      13,
       28
     ],
     "genres": [
@@ -7103,8 +7119,8 @@
       "url": "",
       "email": "xechosteam@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561430?t=1742311993",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561430/41e7091454ce20965b25bf7e9338497673a20994/page_bg_raw.jpg?t=1742311993",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3561430?t=1745612724",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561430/41e7091454ce20965b25bf7e9338497673a20994/page_bg_raw.jpg?t=1745612724",
     "content_descriptors": {
       "ids": [],
       "notes": null

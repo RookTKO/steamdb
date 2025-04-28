@@ -5753,7 +5753,7 @@
     "short_description": "It's the music from Magnet Jack!",
     "fullgame": {
       "appid": "1491800",
-      "name": "Magnet Jack"
+      "name": "Magnet Jack & Roxanne"
     },
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493120/header.jpg?t=1738813478",
     "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493120/58c37f26a69d86a3e283672c8b79ef5d9f54be54/capsule_231x87.jpg?t=1738813478",
@@ -5793,8 +5793,8 @@
       "url": "",
       "email": "blakefix@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493120/page_bg_generated_v6b.jpg?t=1738813478",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493120/page_bg_generated.jpg?t=1738813478",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3493120?t=1738813478",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3493120?t=1738813478",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5895,9 +5895,9 @@
     "is_free": false,
     "short_description": "Rival Roads Car Racing is a fast-paced top-down single-player racing game where you navigate challenging tracks, outmaneuver rivals, and prove your skills to become the ultimate racer! Upgrade your car, master tight turns, and dominate every race in Rival Roads Car Racing!",
     "supported_languages": "English<strong>*</strong>, French<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493150/header.jpg?t=1738826406",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493150/5049a4ab894f3d4b7fa29a34677d1b448acf3de1/capsule_231x87.jpg?t=1738826406",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493150/5049a4ab894f3d4b7fa29a34677d1b448acf3de1/capsule_184x69.jpg?t=1738826406",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493150/header.jpg?t=1740344178",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493150/5049a4ab894f3d4b7fa29a34677d1b448acf3de1/capsule_231x87.jpg?t=1740344178",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493150/5049a4ab894f3d4b7fa29a34677d1b448acf3de1/capsule_184x69.jpg?t=1740344178",
     "website": null,
     "developers": [
       "HAER Studio"
@@ -5905,7 +5905,20 @@
     "publishers": [
       "Hyperion Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1233584
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Rival Roads Car Racing",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5918,7 +5931,8 @@
       22,
       24,
       39,
-      44
+      44,
+      62
     ],
     "genres": [
       1,
@@ -5927,16 +5941,19 @@
       23,
       28
     ],
+    "achievements": {
+      "total": 1
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "22 Feb, 2025"
     },
     "support_info": {
       "url": "http://haerstudios.online",
       "email": "haergamestudios@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493150/page_bg_generated_v6b.jpg?t=1738826406",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493150/page.bg.jpg?t=1738826406",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3493150?t=1740344178",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493150/page_bg_raw.jpg?t=1740344178",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6006,8 +6023,8 @@
       "url": "https://www.necoplanet.com/",
       "email": "developneco@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3494260/page_bg_generated_v6b.jpg?t=1738830836",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3494260/page.bg.jpg?t=1738830836",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3494260?t=1738830836",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3494260/page_bg_raw.jpg?t=1738830836",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6248,11 +6265,11 @@
     "steam_appid": 3493400,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Bloodletter is a medieval deck builder all about customizing your unique deck to influence villagers\u2019 stats to protect them from mysterious entities\u2019 torment. In return utilise the villager\u2019s unique deck-building abilities to enhance your healing methods, may your dubious methods work!",
+    "short_description": "Bloodletter is a medieval deck builder all about using your cards to heal bizarre villagers. Protect their bodies and minds from the torment of mysterious entities by customising your unique deck and enhancing your dubious healing methods.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493400/header.jpg?t=1739279186",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493400/57acfdc9863a2f093f4be770e616012f691947fd/capsule_231x87.jpg?t=1739279186",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493400/57acfdc9863a2f093f4be770e616012f691947fd/capsule_184x69.jpg?t=1739279186",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493400/header.jpg?t=1742983199",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493400/57acfdc9863a2f093f4be770e616012f691947fd/capsule_231x87.jpg?t=1742983199",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493400/57acfdc9863a2f093f4be770e616012f691947fd/capsule_184x69.jpg?t=1742983199",
     "website": null,
     "developers": [
       "ALDAMAMI GAMES"
@@ -6267,7 +6284,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -6282,8 +6300,8 @@
       "url": "",
       "email": "aldamami.help@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493400/page_bg_generated_v6b.jpg?t=1739279186",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493400/page_bg_generated.jpg?t=1739279186",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3493400?t=1742983199",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3493400?t=1742983199",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7963,9 +7981,9 @@
       "name": "Lacey's Flash Games"
     },
     "supported_languages": "English<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3492230/header.jpg?t=1739629899",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3492230/fc2104afe98e7f55626d5076a597bd5c6e7e02fb/capsule_231x87.jpg?t=1739629899",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3492230/fc2104afe98e7f55626d5076a597bd5c6e7e02fb/capsule_184x69.jpg?t=1739629899",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3492230/header.jpg?t=1740763836",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3492230/fc2104afe98e7f55626d5076a597bd5c6e7e02fb/capsule_231x87.jpg?t=1740763836",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3492230/fc2104afe98e7f55626d5076a597bd5c6e7e02fb/capsule_184x69.jpg?t=1740763836",
     "website": null,
     "developers": [
       "ghosttundra",
@@ -7987,15 +8005,15 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "28 Feb, 2025"
     },
     "support_info": {
       "url": "https://euroclipse.com.br/",
       "email": "laceygames@euroclipse.com.br"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3492230?t=1740763836",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3492230?t=1740763836",
     "content_descriptors": {
       "ids": [
         5

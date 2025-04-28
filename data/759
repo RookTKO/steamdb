@@ -6328,12 +6328,12 @@
     "name": "DAEMON MASQUERADE",
     "steam_appid": 2277090,
     "required_age": 0,
-    "is_free": true,
+    "is_free": false,
     "short_description": "An anime-inspired supernatural detective game. Uncover the identities and powers of your adversaries using a conspiracy board full of evidence.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277090/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277090/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2277090/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277090/header.jpg?t=1740441507",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277090/capsule_231x87.jpg?t=1740441507",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277090/capsule_184x69.jpg?t=1740441507",
     "website": null,
     "developers": [
       "Callum Page"
@@ -6347,34 +6347,69 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      816821
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy DAEMON MASQUERADE",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
-      13
+      22,
+      62
     ],
     "genres": [
       4,
       23,
       25
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "22 Oct, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "callumfpage@gmail.com"
+      "email": "daemonmasquerade@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2277090/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2277090/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2277090?t=1740441507",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277090/3a0d9ced94daa974d39d39e415f9f1fbcc2c4663/page_bg_raw.jpg?t=1740441507",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Conte\u00fado sexual\nLinguagem impr\u00f3pria\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt\nSexuelle Andeutungen\nAlkohol / Tabak"
+      }
     }
   },
   "2278700": {
@@ -8287,9 +8322,9 @@
       "name": "The Sims\u2122 4"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Japanese, Norwegian, Polish, Portuguese - Brazil, Russian, Swedish, Finnish, Traditional Chinese, Simplified Chinese, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278351/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2278351/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2278351/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278351/header.jpg?t=1711660624",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278351/capsule_231x87.jpg?t=1711660624",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278351/capsule_184x69.jpg?t=1711660624",
     "website": "https://www.ea.com/games/the-sims/the-sims-4",
     "developers": [
       "Maxis"
@@ -8335,14 +8370,64 @@
       "url": "https://help.ea.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2278351/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2278351/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2278351?t=1711660624",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278351/page_bg_raw.jpg?t=1711660624",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Violence\r\nSexual Themes\r\nCrude Humor",
+        "interactive_elements": "Users Interact\r\nIn-Game Purchases"
+      },
+      "pegi": {
+        "rating": "12",
+        "descriptors": "Sex\r\nViolence"
+      },
+      "usk": {
+        "rating": "6"
+      },
+      "oflc": {
+        "rating": "m",
+        "descriptors": "Violence and sexual references"
+      },
+      "nzoflc": {
+        "rating": "m",
+        "descriptors": "Violence and sexual references"
+      },
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado Sexual"
+      },
+      "fpb": {
+        "rating": "13",
+        "descriptors": "H N S V"
+      },
+      "csrr": {
+        "rating": "C15"
+      },
+      "crl": {
+        "rating": "18"
+      },
+      "kgrb": {
+        "rating": "15"
+      },
+      "mda": {
+        "rating": "AA16"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2279780": {
@@ -8835,9 +8920,9 @@
       "name": "STAND-ALONE"
     },
     "supported_languages": "English, Japanese, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277700/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277700/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2277700/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277700/header.jpg?t=1745428050",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277700/capsule_231x87.jpg?t=1745428050",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277700/capsule_184x69.jpg?t=1745428050",
     "website": null,
     "developers": [
       "LIFUEL"
@@ -8864,11 +8949,29 @@
       "url": "",
       "email": "lifuelgames@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2277700?t=1745428050",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2277700?t=1745428050",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2277510": {
@@ -9400,21 +9503,15 @@
     "controller_support": "full",
     "short_description": "A dark fantasy 3D adventure in Cinderella Chronicles. Use magic and wield a bloodthirsty shoe sword to battle corrupted enemies, transcend into badass mode, and solve puzzles with sidekicks. Unravel the truth behind a mysterious curse and embark on an epic journey to save the tales from darkness !",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279160/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2279160/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2279160/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279160/header.jpg?t=1711372067",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279160/capsule_231x87.jpg?t=1711372067",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279160/capsule_184x69.jpg?t=1711372067",
     "website": "https://www.catontree.com",
     "developers": [
       "CatOnTree Studio"
     ],
     "publishers": [
       "CatOnTree Studio"
-    ],
-    "demos": [
-      {
-        "appid": 2519630,
-        "description": ""
-      }
     ],
     "package_groups": [],
     "platforms": {
@@ -9424,7 +9521,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -9433,17 +9531,35 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "https://www.catontree.com",
       "email": "contact@catontree.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2279160/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2279160/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2279160?t=1711372067",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279160/page_bg_raw.jpg?t=1711372067",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2278690": {
@@ -11165,9 +11281,9 @@
     "is_free": false,
     "short_description": "Dash between your foes an unleash spells of your own creation. Build your own magic peice by peice, gather the elements and mark them with runes to do your will. Your weapons are creativity and intellect in this first-person spell-slinger where YOU are the spell designer.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277940/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2277940/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2277940/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277940/8ab0710d60ae79f60bf213276d2b5738a5a5ef64/header.jpg?t=1745689781",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277940/f7bd1d923ce10f4a2d9e702f31e358535b06ec51/capsule_231x87.jpg?t=1745689781",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277940/f7bd1d923ce10f4a2d9e702f31e358535b06ec51/capsule_184x69.jpg?t=1745689781",
     "website": null,
     "developers": [
       "Charredfire productions"
@@ -11185,7 +11301,9 @@
       1,
       2,
       9,
-      38
+      18,
+      38,
+      62
     ],
     "genres": [
       1,
@@ -11193,17 +11311,23 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "To be announced"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "charlesdunlap15@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2277940/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2277940/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2277940?t=1745689781",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277940/b183dbe4f945ee3c97a74176471bc292ec326090/page_bg_raw.jpg?t=1745689781",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      }
     }
   },
   "2279330": {
