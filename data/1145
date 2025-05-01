@@ -112,8 +112,8 @@
       "url": "",
       "email": "uncreditedgame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435150/page_bg_generated_v6b.jpg?t=1737015282",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435150/page_bg_generated.jpg?t=1737015282",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435150?t=1737015282",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435150?t=1737015282",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -654,8 +654,8 @@
       "url": "",
       "email": "marcabcdef1@gmai.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435650/page_bg_generated_v6b.jpg?t=1737578291",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435650/page.bg.jpg?t=1737578291",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435650?t=1737578291",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435650/page_bg_raw.jpg?t=1737578291",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -902,8 +902,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435520?t=1736411489",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435520?t=1736411489",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1324,9 +1324,9 @@
       "name": "Galactic Warship"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435970/header.jpg?t=1737140376",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435970/67ff076e693518c51dcf2f347c343319489cc419/capsule_231x87.jpg?t=1737140376",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435970/67ff076e693518c51dcf2f347c343319489cc419/capsule_184x69.jpg?t=1737140376",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435970/header.jpg?t=1739574333",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435970/67ff076e693518c51dcf2f347c343319489cc419/capsule_231x87.jpg?t=1739574333",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435970/67ff076e693518c51dcf2f347c343319489cc419/capsule_184x69.jpg?t=1739574333",
     "website": null,
     "developers": [
       "Box of Tricks Entertainment"
@@ -1352,8 +1352,8 @@
       "url": "",
       "email": "boxoftricksentertainment@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435970?t=1739574333",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435970/page_bg_raw.jpg?t=1739574333",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1492,16 +1492,22 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "This is a fantasy adventure action game that blends Eastern and Western elements. Players will become dragon slaying warriors and embark on a long journey, freely wandering between multiple main storylines. Acquire various skills, and challenge the ultimate boss.",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian, Turkish, Japanese, Polish, Simplified Chinese, Traditional Chinese, Portuguese - Portugal, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435310/header.jpg?t=1738324220",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435310/28aabce627b17e0e049e08d78f6692376ab53835/capsule_231x87.jpg?t=1738324220",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435310/28aabce627b17e0e049e08d78f6692376ab53835/capsule_184x69.jpg?t=1738324220",
+    "supported_languages": "English, French, Italian, German, Russian, Turkish, Japanese, Simplified Chinese, Traditional Chinese, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435310/header.jpg?t=1744727284",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435310/28aabce627b17e0e049e08d78f6692376ab53835/capsule_231x87.jpg?t=1744727284",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435310/28aabce627b17e0e049e08d78f6692376ab53835/capsule_184x69.jpg?t=1744727284",
     "website": null,
     "developers": [
       "Eternal Studio"
     ],
     "publishers": [
       "Eternal Studio"
+    ],
+    "demos": [
+      {
+        "appid": 3503600,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -1510,7 +1516,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -1526,10 +1533,13 @@
       "url": "",
       "email": "duanxiaoyao@126.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435310/page_bg_generated_v6b.jpg?t=1738324220",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435310/page_bg_generated.jpg?t=1738324220",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435310?t=1744727284",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435310?t=1744727284",
     "content_descriptors": {
-      "ids": [],
+      "ids": [
+        1,
+        5
+      ],
       "notes": null
     },
     "ratings": {
@@ -1547,7 +1557,7 @@
         "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Gewalt"
+        "descriptors": "Gewalt\nSexuelle Andeutungen"
       }
     }
   },
@@ -1705,9 +1715,9 @@
       "name": "Abyss Chaser"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435800/header.jpg?t=1738329113",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435800/34d2a86c1a126cb5be65d4f66b082cfe0a9e2c9f/capsule_231x87.jpg?t=1738329113",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435800/34d2a86c1a126cb5be65d4f66b082cfe0a9e2c9f/capsule_184x69.jpg?t=1738329113",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435800/header.jpg?t=1739448708",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435800/34d2a86c1a126cb5be65d4f66b082cfe0a9e2c9f/capsule_231x87.jpg?t=1739448708",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435800/34d2a86c1a126cb5be65d4f66b082cfe0a9e2c9f/capsule_184x69.jpg?t=1739448708",
     "website": null,
     "developers": [
       "Bitrunner"
@@ -1727,15 +1737,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "14 Feb, 2025"
+      "coming_soon": false,
+      "date": "13 Feb, 2025"
     },
     "support_info": {
       "url": "https://bitrunner.pl/",
       "email": "contact@bitrunner.pl"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435800?t=1739448708",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435800?t=1739448708",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2054,8 +2064,8 @@
       "url": "",
       "email": "ssjraden@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436600/page_bg_generated_v6b.jpg?t=1737787826",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436600/page_bg_generated.jpg?t=1737787826",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3436600?t=1737787826",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3436600?t=1737787826",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4833,9 +4843,9 @@
     "controller_support": "full",
     "short_description": "Shooting freedom\u2014aim anywhere and unleash chaos with dual guns!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435530/header.jpg?t=1736876431",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435530/9edafde2d249208878afad9a59b250e4e62c4655/capsule_231x87.jpg?t=1736876431",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435530/9edafde2d249208878afad9a59b250e4e62c4655/capsule_184x69.jpg?t=1736876431",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435530/header.jpg?t=1740742607",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435530/9edafde2d249208878afad9a59b250e4e62c4655/capsule_231x87.jpg?t=1740742607",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435530/9edafde2d249208878afad9a59b250e4e62c4655/capsule_184x69.jpg?t=1740742607",
     "website": "https://www.entity3.com/",
     "developers": [
       "Entity3 Limited"
@@ -4843,7 +4853,20 @@
     "publishers": [
       "Entity3 Limited"
     ],
-    "package_groups": [],
+    "packages": [
+      1214534
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Double Dangerous",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4853,23 +4876,27 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       4,
       25
     ],
+    "achievements": {
+      "total": 22
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "28 Feb, 2025"
     },
     "support_info": {
       "url": "https://entity3.com/",
       "email": "support@entity3.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435530/page_bg_generated_v6b.jpg?t=1736876431",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435530/page.bg.jpg?t=1736876431",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435530?t=1740742607",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435530/page_bg_raw.jpg?t=1740742607",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4969,9 +4996,9 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435390/header.jpg?t=1737072872",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435390/d74b6dcf89b99ed046669798d7a5c6dfe7d3e933/capsule_231x87.jpg?t=1737072872",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435390/d74b6dcf89b99ed046669798d7a5c6dfe7d3e933/capsule_184x69.jpg?t=1737072872",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435390/header.jpg?t=1745234063",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435390/d74b6dcf89b99ed046669798d7a5c6dfe7d3e933/capsule_231x87.jpg?t=1745234063",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435390/d74b6dcf89b99ed046669798d7a5c6dfe7d3e933/capsule_184x69.jpg?t=1745234063",
     "website": null,
     "package_groups": [],
     "platforms": {
@@ -4981,14 +5008,14 @@
     },
     "release_date": {
       "coming_soon": false,
-      "date": "16 Jan, 2025"
+      "date": "21 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435390/page_bg_generated_v6b.jpg?t=1737072872",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435390/page.bg.jpg?t=1737072872",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435390?t=1745234063",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435390/page_bg_raw.jpg?t=1745234063",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5073,9 +5100,9 @@
       "appid": "3169660",
       "name": "Looney Landers"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435760/header.jpg?t=1737099666",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435760/506358f118c3904cad841d94ff012ee19ec78f71/capsule_231x87.jpg?t=1737099666",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435760/506358f118c3904cad841d94ff012ee19ec78f71/capsule_184x69.jpg?t=1737099666",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435760/header.jpg?t=1738912356",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435760/506358f118c3904cad841d94ff012ee19ec78f71/capsule_231x87.jpg?t=1738912356",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435760/506358f118c3904cad841d94ff012ee19ec78f71/capsule_184x69.jpg?t=1738912356",
     "website": null,
     "developers": [
       "pixel games SARL-S"
@@ -5083,22 +5110,35 @@
     "publishers": [
       "pixel games SARL-S"
     ],
-    "package_groups": [],
+    "packages": [
+      1214611
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Looney Landers Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "5 Feb, 2025"
     },
     "support_info": {
       "url": "https://pixel.games",
       "email": "support@pixel.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435760/page_bg_generated_v6b.jpg?t=1737099666",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435760/page_bg_generated.jpg?t=1737099666",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435760?t=1738912356",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435760?t=1738912356",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5342,8 +5382,8 @@
       "url": "",
       "email": "goroboralu@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435420/page_bg_generated_v6b.jpg?t=1738331068",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435420/page.bg.jpg?t=1738331068",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3435420?t=1738331068",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435420/page_bg_raw.jpg?t=1738331068",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5423,8 +5463,8 @@
       "url": "",
       "email": "muwhask@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436710/page_bg_generated_v6b.jpg?t=1737180507",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436710/page_bg_generated.jpg?t=1737180507",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3436710?t=1737180507",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3436710?t=1737180507",
     "content_descriptors": {
       "ids": [],
       "notes": null
