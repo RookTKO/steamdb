@@ -115,9 +115,9 @@
     "is_free": false,
     "short_description": "In the social network, the main character plays the quest &quot;Hide and Seek&quot;, but this time the organizers decided to move the quest to the real world. They indicate the coordinates of the place where the quest item was hidden, the one who finds it first will receive a cash prize.",
     "supported_languages": "English, Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1726730/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1726730/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1726730/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726730/header.jpg?t=1688032181",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726730/capsule_231x87.jpg?t=1688032181",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726730/capsule_184x69.jpg?t=1688032181",
     "website": null,
     "developers": [
       "Thin Line"
@@ -147,7 +147,8 @@
     "categories": [
       2,
       18,
-      22
+      22,
+      62
     ],
     "genres": [
       23,
@@ -164,14 +165,32 @@
       "url": "https://thinline.itch.io/you-must",
       "email": "joyemily37@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1726730/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1726730/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1726730?t=1688032181",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1726730?t=1688032181",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "The game contains images of scenes of violence that can have a negative impact on the psyche. Please also keep in mind that there are scenes of alcohol or drug use in the game. Some content items may not be suitable for certain age categories. A reasonable restriction of the game audience is recommended."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nMedo\nAtos criminosos"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "1726520": {
@@ -2829,11 +2848,14 @@
     "steam_appid": 1726360,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      1813520
+    ],
     "short_description": "Take control of Peter as he travels across the kingdom, solving puzzles, making friends and defeating monsters. This game is designed to be accessible to a very broad range of players, including young children and people learning English as a second language.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Greek<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Thai<strong>*</strong>, Vietnamese<strong>*</strong>, Turkish<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726360/header.jpg?t=1728736321",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726360/capsule_231x87.jpg?t=1728736321",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726360/capsule_184x69.jpg?t=1728736321",
     "website": "https://rocketboygames.com/",
     "developers": [
       "Rocket Boy Games"
@@ -2863,7 +2885,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       4,
@@ -2881,11 +2904,27 @@
       "url": "https://rocketboygames.com/",
       "email": "Info@RocketBoyGames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1726360?t=1728736321",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726360/page_bg_raw.jpg?t=1728736321",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Alkohol / Tabak"
+      }
     }
   },
   "1726380": {
@@ -6785,9 +6824,9 @@
       "name": "DCS World Steam Edition"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1725570/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1725570/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1725570/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1725570/header.jpg?t=1658735469",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1725570/capsule_231x87.jpg?t=1658735469",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1725570/capsule_184x69.jpg?t=1658735469",
     "website": "https://steamcommunity.com/app/223750",
     "developers": [
       "Eagle Dynamics SA"
@@ -6832,11 +6871,19 @@
       "url": "https://steamcommunity.com/app/223750/discussions/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1725570/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1725570/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1725570?t=1658735469",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1725570?t=1658735469",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "1725030": {
@@ -7564,17 +7611,26 @@
     "steam_appid": 1727590,
     "required_age": 0,
     "is_free": false,
-    "short_description": "THE SPIRIT LIFT is a deck-building rogue-like horror adventure in a haunted hotel. Ascend 13 floors in a ghostly elevator. Use equipment cards to battle monsters. Make it to the villain at the top\u2026 or die trying!",
+    "dlc": [
+      3020420
+    ],
+    "short_description": "THE SPIRIT LIFT is a cute spooky card game blending deckbuilding rogue-likes with story-driven indie horror. As teenagers from the '90s, players explore an ever-changing retro 3D hotel with the help of a magic elevator. Be Kind, Rewind, and Seek the Truth Lost Behind...",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1727590/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1727590/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1727590/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727590/header.jpg?t=1746209465",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727590/capsule_231x87.jpg?t=1746209465",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727590/capsule_184x69.jpg?t=1746209465",
     "website": "https://www.thespiritlift.com/",
     "developers": [
       "prettysmart games"
     ],
     "publishers": [
       "prettysmart games"
+    ],
+    "demos": [
+      {
+        "appid": 3020380,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7584,7 +7640,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       2,
@@ -7592,17 +7649,33 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "2025"
     },
     "support_info": {
       "url": "http://www.prettysmartgames.com/contact",
       "email": "info@prettysmartgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1727590/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1727590/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1727590?t=1746209465",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727590/page_bg_raw.jpg?t=1746209465",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Medo",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogen\nGewalt\nSchimpfw\u00f6rte"
+      }
     }
   },
   "1726120": {
