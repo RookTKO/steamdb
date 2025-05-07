@@ -1982,8 +1982,8 @@
       "url": "https://www.sundaelectronics.com/games",
       "email": "support@sundaelectronics.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482410/page_bg_generated_v6b.jpg?t=1739520094",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482410/page.bg.jpg?t=1739520094",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3482410?t=1739520094",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482410/page_bg_raw.jpg?t=1739520094",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2145,11 +2145,12 @@
     "steam_appid": 3482240,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "It's picnic time! Help Pinguino the penguin push tasty treats onto the picnic blanket in this charming Sokoban-inspired puzzle game.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482240/header.jpg?t=1739567016",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482240/2948536666f41ce83e48e87383e367dfce9e23ac/capsule_231x87.jpg?t=1739567016",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482240/2948536666f41ce83e48e87383e367dfce9e23ac/capsule_184x69.jpg?t=1739567016",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482240/header.jpg?t=1741708839",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482240/2948536666f41ce83e48e87383e367dfce9e23ac/capsule_231x87.jpg?t=1741708839",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482240/2948536666f41ce83e48e87383e367dfce9e23ac/capsule_184x69.jpg?t=1741708839",
     "website": "https://neutronized.com/",
     "developers": [
       "Neutronized"
@@ -2157,7 +2158,20 @@
     "publishers": [
       "Neutronized"
     ],
-    "package_groups": [],
+    "packages": [
+      1229921
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Picnic Penguin",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2165,23 +2179,27 @@
     },
     "categories": [
       2,
-      18,
-      22
+      22,
+      28,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 4
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Mar, 2025"
     },
     "support_info": {
       "url": "http://neutronized.com/contact.php",
       "email": "support@neutronized.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482240/page_bg_generated_v6b.jpg?t=1739567016",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482240/page_bg_generated.jpg?t=1739567016",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3482240?t=1741708839",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3482240?t=1741708839",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7555,7 +7573,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2
@@ -7568,8 +7587,8 @@
       "url": "https://gamtropy.com/contact-us-en/",
       "email": "support@gamtropy.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480590/page_bg_generated_v6b.jpg?t=1739773566",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480590/page.bg.jpg?t=1739773566",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3480590?t=1739773566",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480590/page_bg_raw.jpg?t=1739773566",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7674,14 +7693,27 @@
       "name": "Deep Rock Galactic"
     },
     "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Ukrainian, Italian, Japanese, Korean, Turkish, Spanish - Latin America, Hungarian, Romanian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/header.jpg?t=1739879802",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/ab6bed0b9f5e17a91f93c2da1e777840a2676291/capsule_231x87.jpg?t=1739879802",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/ab6bed0b9f5e17a91f93c2da1e777840a2676291/capsule_184x69.jpg?t=1739879802",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/header.jpg?t=1740752989",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/ab6bed0b9f5e17a91f93c2da1e777840a2676291/capsule_231x87.jpg?t=1740752989",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/ab6bed0b9f5e17a91f93c2da1e777840a2676291/capsule_184x69.jpg?t=1740752989",
     "website": "http://deeprockgalactic.com",
     "developers": [
       "Ghost Ship Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1229668
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Deep Rock Galactic - Skullcrusher Pack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7699,21 +7731,22 @@
       29,
       38,
       42,
-      43
+      43,
+      62
     ],
     "genres": [
       1
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "27 Feb, 2025"
     },
     "support_info": {
       "url": "https://drg.pleasefix.gg/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/page_bg_generated_v6b.jpg?t=1739879802",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/page_bg_generated.jpg?t=1739879802",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3481460?t=1740752989",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3481460?t=1740752989",
     "content_descriptors": {
       "ids": [
         5
