@@ -164,11 +164,11 @@
     "steam_appid": 3396160,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Warfactory is an innovative blend of factory building, production management, and real-time strategy, putting you in control of a powerful industrial war machine. Design, optimize, and unleash your creativity as you build complex production chains and craft unique robots to dominate the battlefield.",
+    "short_description": "Warfactory fuses planet-scale automation with real-time strategy and lite 4X elements. Build sprawling factories, design modular robot armies, and lead thousands of units into battle. Conquer a galaxy with a supply chain \u2014 one conveyor belt at a time.",
     "supported_languages": "English<strong>*</strong>, Ukrainian, French, Italian, German, Spanish - Spain, Danish, Simplified Chinese, Korean, Dutch, Polish, Portuguese - Brazil, Portuguese - Portugal, Thai, Turkish, Hungarian, Finnish, Czech, Swedish, Japanese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396160/header.jpg?t=1735900236",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396160/17ee99154a46b111d149a49e250eef5bbc22bd5c/capsule_231x87.jpg?t=1735900236",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396160/17ee99154a46b111d149a49e250eef5bbc22bd5c/capsule_184x69.jpg?t=1735900236",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396160/header.jpg?t=1746528877",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396160/7f73489ca891932e1528a8768f1a47027d8a40a9/capsule_231x87.jpg?t=1746528877",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396160/7f73489ca891932e1528a8768f1a47027d8a40a9/capsule_184x69.jpg?t=1746528877",
     "website": null,
     "developers": [
       "Almost Games",
@@ -187,7 +187,8 @@
       1,
       2,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2,
@@ -196,14 +197,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q3 2025"
+      "date": "Q4 2025"
     },
     "support_info": {
       "url": "",
       "email": "warfactory.game@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396160/page_bg_generated_v6b.jpg?t=1735900236",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396160/page_bg_generated.jpg?t=1735900236",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3396160?t=1746528877",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3396160?t=1746528877",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6211,31 +6212,36 @@
   },
   "3396310": {
     "type": "game",
-    "name": "Harborde",
+    "name": "Shorebound",
     "steam_appid": 3396310,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Harborde blends roguelike action with settlement building. Fight waves of enemies, craft gear, farm, fish, raise pets, and grow stronger. Every run is unique.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396310/header.jpg?t=1736603754",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396310/327983c1da1b04176b3cfb7c67c79a6b96466cd0/capsule_231x87.jpg?t=1736603754",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396310/327983c1da1b04176b3cfb7c67c79a6b96466cd0/capsule_184x69.jpg?t=1736603754",
+    "short_description": "Shorebound blends roguelike action with settlement building. Fight waves of enemies, craft gear, farm, fish, raise pets, and grow stronger. Every run is unique.",
+    "supported_languages": "English, French, German, Spanish - Spain, Korean, Portuguese - Portugal, Simplified Chinese, Turkish, Russian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396310/c37845e3dded11d3a4abf039dfe74581c9983124/header.jpg?t=1745659077",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396310/0affc576d5d7286f34466275240ce97209206cca/capsule_231x87.jpg?t=1745659077",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396310/0affc576d5d7286f34466275240ce97209206cca/capsule_184x69.jpg?t=1745659077",
     "website": null,
     "developers": [
-      "Synax",
-      "Apex Studio"
+      "Synax"
     ],
     "publishers": [
-      "Synax",
-      "Apex Studio"
+      "Synax"
     ],
-    "demos": [
+    "packages": [
+      1201621
+    ],
+    "package_groups": [
       {
-        "appid": 3428020,
-        "description": ""
+        "name": "default",
+        "title": "Buy Shorebound",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6243,23 +6249,28 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       1,
       23,
+      25,
       70
     ],
+    "achievements": {
+      "total": 17
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "14 Apr, 2025"
     },
     "support_info": {
       "url": "",
-      "email": "harborde_dev@hotmail.com"
+      "email": "xeum30111999@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396310/page_bg_generated_v6b.jpg?t=1736603754",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396310/page.bg.jpg?t=1736603754",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3396310?t=1745659077",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396310/page_bg_raw.jpg?t=1745659077",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9478,9 +9489,9 @@
     "is_free": false,
     "short_description": "A shop life simulator and management, From owning a small room above the store to selling exclusive products as the highest rated shop, or scratch lottery tickets to try your luck at winning big, In a 24/7 shop, Manage alone or with friends.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396090/header.jpg?t=1736533586",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396090/381daac98199e00023d4d6282ddc2f796bfb7e6c/capsule_231x87.jpg?t=1736533586",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396090/381daac98199e00023d4d6282ddc2f796bfb7e6c/capsule_184x69.jpg?t=1736533586",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396090/header.jpg?t=1744036856",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396090/381daac98199e00023d4d6282ddc2f796bfb7e6c/capsule_231x87.jpg?t=1744036856",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396090/381daac98199e00023d4d6282ddc2f796bfb7e6c/capsule_184x69.jpg?t=1744036856",
     "website": "https://aionware.com",
     "developers": [
       "AIONWARE LTD"
@@ -9488,7 +9499,26 @@
     "publishers": [
       "AIONWARE LTD"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3459090,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1201549
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Shop Life Simulator",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -9499,25 +9529,29 @@
       2,
       9,
       18,
-      22,
       38,
-      61
+      61,
+      62
     ],
     "genres": [
       4,
+      23,
       28,
       70
     ],
+    "achievements": {
+      "total": 0
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2025"
+      "coming_soon": false,
+      "date": "7 Apr, 2025"
     },
     "support_info": {
       "url": "https://aionware.com",
       "email": "support@aionware.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396090/page_bg_generated_v6b.jpg?t=1736533586",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396090/page_bg_generated.jpg?t=1736533586",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3396090?t=1744036856",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3396090?t=1744036856",
     "content_descriptors": {
       "ids": [],
       "notes": null
