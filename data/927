@@ -7934,10 +7934,10 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Destroy demoniac TVs with crazy powerups! Demoniac TV is a roguelite with a cyberpunk look that has its game flow in waves. Kill, buy weapons and become stronger! In this mission, exorcising is your final destination.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781720/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2781720/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2781720/capsule_184x69.jpg",
+    "supported_languages": "English, Portuguese - Brazil",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781720/header.jpg?t=1723335137",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781720/capsule_231x87.jpg?t=1723335137",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781720/capsule_184x69.jpg?t=1723335137",
     "website": null,
     "developers": [
       "Oak Dev"
@@ -7945,7 +7945,26 @@
     "publishers": [
       "Oak Dev"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2845860,
+        "description": ""
+      }
+    ],
+    "packages": [
+      994057
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Demoniac TV",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7953,22 +7972,26 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       23
     ],
+    "achievements": {
+      "total": 3
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "9 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "demoniactvofficial@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2781720/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2781720/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2781720?t=1723335137",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2781720?t=1723335137",
     "content_descriptors": {
       "ids": [],
       "notes": null

@@ -1109,17 +1109,30 @@
     "controller_support": "full",
     "short_description": "Frantic 4-player laser ricocheting top-down shooter. Keep it casual and enjoy the chaos, or master the surprisingly deep mechanics to obliterate your enemies. Duke it out locally in free-for-all or 2v2.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772890/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772890/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772890/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772890/header.jpg?t=1734370791",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772890/capsule_231x87.jpg?t=1734370791",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772890/capsule_184x69.jpg?t=1734370791",
+    "website": "https://speglargame.com/",
     "developers": [
       "Dexter Gramfors"
     ],
     "publishers": [
       "12G"
     ],
-    "package_groups": [],
+    "packages": [
+      991173
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Speglar",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -1132,23 +1145,27 @@
       28,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
       4,
       23
     ],
+    "achievements": {
+      "total": 15
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "20 May, 2024"
     },
     "support_info": {
       "url": "",
       "email": "dexter.gramfors@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772890/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772890/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772890?t=1734370791",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772890/page_bg_raw.jpg?t=1734370791",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1543,15 +1560,15 @@
     "steam_appid": 2772130,
     "required_age": 0,
     "is_free": true,
-    "short_description": "",
+    "short_description": "Rescue your game from a hungry virus named Spunk in this comedic narrative driven exploration game! Befriend or destroy him, tackle challenges and minigames, uncover secrets, unlock customizations, and explore different endings. With GlitchSPANKR's antivirus, every level is different and unexpected!",
     "fullgame": {
       "appid": "2727660",
       "name": "GlitchSPANKR"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772130/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772130/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772130/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772130/header.jpg?t=1741289539",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772130/capsule_231x87.jpg?t=1741289539",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772130/capsule_184x69.jpg?t=1741289539",
     "website": "https://www.theclassifiedx.com",
     "developers": [
       "Mahelyk",
@@ -1571,6 +1588,10 @@
       10,
       13
     ],
+    "genres": [
+      4,
+      25
+    ],
     "release_date": {
       "coming_soon": false,
       "date": "12 Jan, 2024"
@@ -1579,8 +1600,8 @@
       "url": "https://www.theclassifiedx.com",
       "email": "theclassifiedx@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772130/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772130/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772130?t=1741289539",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772130/ddb5513fb0226edb0c5c65c4b8de1a8f989941f8/page_bg_raw.jpg?t=1741289539",
     "content_descriptors": {
       "ids": [
         5
@@ -3007,7 +3028,7 @@
   },
   "2772740": {
     "type": "dlc",
-    "name": "iVRy Driver for SteamVR DEMO (PSVR2 Lite Edition)",
+    "name": "BETA: iVRy Driver for SteamVR DEMO (PSVR2 Lite Edition)",
     "steam_appid": 2772740,
     "required_age": 0,
     "is_free": true,
@@ -3018,9 +3039,9 @@
       "name": "iVRy Driver for SteamVR"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772740/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772740/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772740/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772740/header.jpg?t=1718211558",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772740/capsule_231x87.jpg?t=1718211558",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772740/capsule_184x69.jpg?t=1718211558",
     "website": "https://twitter.com/iVRy_VR",
     "developers": [
       "Mediator Software"
@@ -3044,15 +3065,15 @@
       57
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "10 Jun, 2024"
     },
     "support_info": {
       "url": "https://steamcommunity.com/app/992490/discussions/",
       "email": "ivry.vr@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772740/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772740/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772740?t=1718211558",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772740/page_bg_raw.jpg?t=1718211558",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5757,9 +5778,9 @@
     "controller_support": "full",
     "short_description": "Realms of Arcana is an engaging RPG set in a mysterious world shaped by the legacy of a fallen empire, featuring deep exploration, crafting, strategic combat with melee, magic, stealth, and a storyline where every choice impacts the game's rich narrative.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772580/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772580/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772580/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772580/header.jpg?t=1743926550",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772580/capsule_231x87.jpg?t=1743926550",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772580/capsule_184x69.jpg?t=1743926550",
     "website": "https://www.71studios.net",
     "developers": [
       "71 Studios"
@@ -5780,7 +5801,8 @@
       28,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -5790,14 +5812,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "1 Jul, 2024"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "https://www.71studios.net",
       "email": "info@71studios.net"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772580/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772580/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772580?t=1743926550",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772580?t=1743926550",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6044,9 +6066,9 @@
     "controller_support": "full",
     "short_description": "\u300c\u5fc3\u970a\u65c5\u9928\u300d\u306f\u5ec3\u65c5\u9928\u304b\u3089\u8131\u51fa\u3059\u308b3D\u30db\u30e9\u30fc\u30b2\u30fc\u30e0\u3002 \u8b0e\u3092\u89e3\u304d\u3001\u6050\u6016\u3092\u4e57\u308a\u8d8a\u3048\u8131\u51fa\u3092\u76ee\u6307\u3057\u307e\u3057\u3087\u3046\uff01",
     "supported_languages": "Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773930/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773930/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773930/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773930/header.jpg?t=1728605235",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773930/capsule_231x87.jpg?t=1728605235",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773930/capsule_184x69.jpg?t=1728605235",
     "website": "https://twitter.com/wood_table_st",
     "developers": [
       "WoodTableStudio"
@@ -6068,6 +6090,7 @@
     ],
     "genres": [
       1,
+      23,
       25,
       37
     ],
@@ -6082,8 +6105,8 @@
       "url": "https://twitter.com/wood_table_st",
       "email": "woodtablestudio@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773930/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773930/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773930?t=1728605235",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773930/page_bg_raw.jpg?t=1728605235",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6952,9 +6975,9 @@
       "name": "Infernal Elements"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773810/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773810/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773810/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773810/header.jpg?t=1705705517",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773810/capsule_231x87.jpg?t=1705705517",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773810/capsule_184x69.jpg?t=1705705517",
     "website": null,
     "developers": [
       "JustMakeGames"
@@ -6980,8 +7003,8 @@
       "url": "",
       "email": "justmakegamesdev@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773810/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773810/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773810?t=1705705517",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773810?t=1705705517",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7085,9 +7108,9 @@
       "name": "Rogue Mech"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772500/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772500/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772500/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772500/header.jpg?t=1705567814",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772500/capsule_231x87.jpg?t=1705567814",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772500/capsule_184x69.jpg?t=1705567814",
     "website": null,
     "developers": [
       "Sinking Dutchman"
@@ -7113,8 +7136,8 @@
       "url": "https://www.sinkingdutchman.com/",
       "email": "mail@sinkingdutchman.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772500?t=1705567814",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772500?t=1705567814",
     "content_descriptors": {
       "ids": [
         5
@@ -7239,9 +7262,9 @@
     "is_free": false,
     "short_description": "Coming home on a Saturday from the grocery store with little expectations, your roommate informs you that the femboy next door was looking for you...",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772460/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772460/header.jpg?t=1708679140",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772460/capsule_231x87.jpg?t=1708679140",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772460/capsule_184x69.jpg?t=1708679140",
     "website": null,
     "developers": [
       "owlyboi"
@@ -7283,8 +7306,8 @@
       "url": "",
       "email": "owlyboigames@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772460/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772460?t=1708679140",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772460/page_bg_raw.jpg?t=1708679140",
     "content_descriptors": {
       "ids": [
         1,
@@ -7321,9 +7344,9 @@
     "is_free": false,
     "short_description": "Spartacus Card Game is a Gladiator Fighting Card Game for 1 to 2 players.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772810/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772810/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772810/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772810/header.jpg?t=1715815124",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772810/capsule_231x87.jpg?t=1715815124",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772810/capsule_184x69.jpg?t=1715815124",
     "website": "https://spartacustest-9f311.web.app/",
     "developers": [
       "Kings and Catapults"
@@ -7331,7 +7354,20 @@
     "publishers": [
       "Kings and Catapults"
     ],
-    "package_groups": [],
+    "packages": [
+      991142
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Spartacus Card Game",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7343,21 +7379,22 @@
       24,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       2
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "15 May, 2024"
     },
     "support_info": {
       "url": "https://kings-and-catapults-cyvasse.firebaseapp.com/",
       "email": "darinclarke6988@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772810/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772810/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772810?t=1715815124",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772810/page_bg_raw.jpg?t=1715815124",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9952,11 +9989,11 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Siege 'n Sow: Unleash strategic mastery in this minimalist real-time strategy game. Micromanage units, expand territory, and fend off night attacks. Harvest resources, build structures, and command diverse units to survive relentless waves. Will you triumph or succumb to the shadows?",
-    "supported_languages": "English, Portuguese - Brazil, French, Spanish - Spain, Traditional Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773700/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2773700/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2773700/capsule_184x69.jpg",
-    "website": null,
+    "supported_languages": "English, Portuguese - Brazil",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773700/header.jpg?t=1726337976",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773700/capsule_231x87.jpg?t=1726337976",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773700/capsule_184x69.jpg?t=1726337976",
+    "website": "https://discord.com/invite/CbXrxCmUv3",
     "developers": [
       "Cuca",
       "Hitsuji"
@@ -9974,21 +10011,22 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       2
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q3 2024"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "softwoolco@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2773700/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2773700/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2773700?t=1726337976",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2773700/page_bg_raw.jpg?t=1726337976",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10024,9 +10062,9 @@
       "name": "Spiritok\u00e9"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774200/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774200/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2774200/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774200/header.jpg?t=1707494175",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774200/capsule_231x87.jpg?t=1707494175",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774200/capsule_184x69.jpg?t=1707494175",
     "website": null,
     "developers": [
       "Genesyn"
@@ -10052,8 +10090,8 @@
       "url": "",
       "email": "spiritokeofficial@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774200?t=1707494175",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2774200?t=1707494175",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -13226,9 +13264,9 @@
     "is_free": false,
     "short_description": "You find yourself at the horse racetrack without any entertainment. Try to find something to do...",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772470/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772470/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772470/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772470/header.jpg?t=1712525995",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772470/capsule_231x87.jpg?t=1712525995",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772470/capsule_184x69.jpg?t=1712525995",
     "website": null,
     "developers": [
       "owlyboi"
@@ -13236,28 +13274,42 @@
     "publishers": [
       "owlyboi"
     ],
-    "package_groups": [],
+    "packages": [
+      991025
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy I got STRADDLED by a FEMBOY",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "3 May, 2024"
+      "coming_soon": false,
+      "date": "7 Apr, 2024"
     },
     "support_info": {
       "url": "",
       "email": "owlyboigames@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772470/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772470/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772470?t=1712525995",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772470/page_bg_raw.jpg?t=1712525995",
     "content_descriptors": {
       "ids": [
         1,
@@ -13265,7 +13317,7 @@
         4,
         5
       ],
-      "notes": "*All characters are over the age of 21 years old.\r\n\r\n- Femboy\r\n- Male on Male sex\r\n- Dirty language"
+      "notes": "*All characters are over the age of 21 years old.\r\n\r\n- Femboy\r\n- Public Sex\r\n- Male on Male sex\r\n- Dirty language\r\n- Performing a sexual act in the presence of animals(horses in the stable. The horses aren't actually involved in the intercourse, they are merely in the presence.)\r\n- Description of a horse penis and erection."
     },
     "ratings": {
       "dejus": {
@@ -13298,9 +13350,9 @@
       "name": "SHOVELBOY"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772710/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772710/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772710/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772710/header.jpg?t=1709931955",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772710/capsule_231x87.jpg?t=1709931955",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772710/capsule_184x69.jpg?t=1709931955",
     "website": null,
     "developers": [
       "LGV"
@@ -13308,7 +13360,20 @@
     "publishers": [
       "LGV"
     ],
-    "package_groups": [],
+    "packages": [
+      991108
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy SHOVELBOY: Zone X",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -13317,21 +13382,22 @@
     "categories": [
       2,
       18,
-      21
+      21,
+      62
     ],
     "genres": [
       23
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "8 Mar, 2024"
     },
     "support_info": {
       "url": "",
       "email": "conmtrast@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772710/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772710/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772710?t=1709931955",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772710?t=1709931955",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -13363,9 +13429,9 @@
     "is_free": false,
     "short_description": "Alien Bob is a fun but challenging, retro, precision platformer, spread across fast paced open areas and more intricate, precision based, enclosed areas, with a variety of environmental dangers and enemies along the way.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772370/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772370/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772370/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772370/header.jpg?t=1715174833",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772370/capsule_231x87.jpg?t=1715174833",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772370/capsule_184x69.jpg?t=1715174833",
     "website": null,
     "developers": [
       "Ruinous Studios Ltd"
@@ -13373,7 +13439,20 @@
     "publishers": [
       "Ruinous Studios Ltd"
     ],
-    "package_groups": [],
+    "packages": [
+      990996
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Alien Bob",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -13381,21 +13460,22 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       1
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "6 May, 2024"
+      "coming_soon": false,
+      "date": "8 May, 2024"
     },
     "support_info": {
       "url": "https://www.ruinousstudios.com/",
       "email": "info@ruinousstudios.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772370/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772370/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772370?t=1715174833",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772370?t=1715174833",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -13424,13 +13504,13 @@
     "name": "Brew Besties",
     "steam_appid": 2772170,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
     "controller_support": "full",
     "short_description": "Brew Besties is a couch co-op top-down game where 2-4 players have to brew potions and deliver them to impatient customers. Every world comes with unique obstacles that will challenge your teamwork.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772170/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2772170/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2772170/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772170/header.jpg?t=1731096362",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772170/capsule_231x87.jpg?t=1731096362",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772170/capsule_184x69.jpg?t=1731096362",
     "website": null,
     "developers": [
       "Besties Games"
@@ -13459,18 +13539,21 @@
       4,
       23,
       28,
-      70
+      37
     ],
+    "achievements": {
+      "total": 13
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "8 Nov, 2024"
     },
     "support_info": {
       "url": "",
       "email": "brewbesties.dsv@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2772170/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2772170/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2772170?t=1731096362",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772170/page_bg_raw.jpg?t=1731096362",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -13482,15 +13565,15 @@
         "required_age": "0",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": ""
+        "descriptors": "Viol\u00eancia fantasiosa"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "0",
-        "required_age": "0",
+        "rating": "6",
+        "required_age": "6",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": ""
+        "descriptors": "Fantasy-Gewalt"
       }
     }
   },
