@@ -2008,10 +2008,10 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "First\u2011person escape\u2011room puzzler (1\u20134\u00a0players). Unite the Horn\u00a0of\u00a0the\u00a0Fallen\u00a0One, Scepter\u00a0of\u00a0Radiance, and Abbot\u2019s\u00a0Ring to escape a cursed convent in\u00a060\u201390\u00a0minutes.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683160/d2307586468b1d3c51fb1dd6a6a67902638f9364/header.jpg?t=1745438556",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683160/1d0413e5877e969a4052bc5047c576be158ec5c0/capsule_231x87.jpg?t=1745438556",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683160/1d0413e5877e969a4052bc5047c576be158ec5c0/capsule_184x69.jpg?t=1745438556",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Portugal, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683160/d2307586468b1d3c51fb1dd6a6a67902638f9364/header.jpg?t=1747405088",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683160/1d0413e5877e969a4052bc5047c576be158ec5c0/capsule_231x87.jpg?t=1747405088",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683160/1d0413e5877e969a4052bc5047c576be158ec5c0/capsule_184x69.jpg?t=1747405088",
     "website": "https://www.playtogether-studio.com/",
     "developers": [
       "PlayTogether Studio"
@@ -2029,9 +2029,6 @@
       1,
       2,
       9,
-      13,
-      22,
-      23,
       27,
       28,
       38,
@@ -2052,8 +2049,8 @@
       "url": "https://t.co/ecqo5OaoAp?amp=1",
       "email": "clem@playtogether-studio.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683160?t=1745438556",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683160?t=1745438556",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683160?t=1747405088",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683160?t=1747405088",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2069,8 +2066,8 @@
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "0",
-        "required_age": "0",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
@@ -2225,9 +2222,9 @@
       "name": "Roulette Wheel"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Indonesian, Ukrainian, Dutch, Greek, Swedish, Spanish - Latin America, Thai, Czech, Danish, Turkish, Norwegian, Hungarian, Finnish, Bulgarian, Vietnamese, Portuguese - Brazil, Portuguese - Portugal, Polish, Romanian, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683810/0a0fd5f60e4f6e241cae77c8fe8f9dc11fa2b484/header.jpg?t=1745450125",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683810/96d1583307ff2afcac513559f34831c9bb365028/capsule_231x87.jpg?t=1745450125",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683810/96d1583307ff2afcac513559f34831c9bb365028/capsule_184x69.jpg?t=1745450125",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683810/0a0fd5f60e4f6e241cae77c8fe8f9dc11fa2b484/header.jpg?t=1746605402",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683810/96d1583307ff2afcac513559f34831c9bb365028/capsule_231x87.jpg?t=1746605402",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683810/96d1583307ff2afcac513559f34831c9bb365028/capsule_184x69.jpg?t=1746605402",
     "website": null,
     "developers": [
       "ao-system, Inc."
@@ -2235,7 +2232,20 @@
     "publishers": [
       "ao-system, Inc."
     ],
-    "package_groups": [],
+    "packages": [
+      1297444
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Roulette Wheel Full Version",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2249,15 +2259,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 May, 2025"
     },
     "support_info": {
       "url": "https://www.aosystem.co.jp/",
       "email": "info@ao-system.net"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683810?t=1745450125",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683810/8b32cfc91df6a0bc1fadb04b786582471d9dfe5d/page_bg_raw.jpg?t=1745450125",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683810?t=1746605402",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683810/8b32cfc91df6a0bc1fadb04b786582471d9dfe5d/page_bg_raw.jpg?t=1746605402",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2523,9 +2533,9 @@
     ],
     "short_description": "This game is designed with only the roulette wheel function. It does not include betting features or additional rules, focusing purely on simulating the operation of a roulette wheel in a simple design. It supports both the American and European types.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Indonesian, Ukrainian, Dutch, Greek, Swedish, Spanish - Latin America, Thai, Czech, Danish, Turkish, Norwegian, Hungarian, Finnish, Bulgarian, Vietnamese, Portuguese - Brazil, Portuguese - Portugal, Polish, Romanian, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683730/0a0fd5f60e4f6e241cae77c8fe8f9dc11fa2b484/header.jpg?t=1745449762",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683730/96d1583307ff2afcac513559f34831c9bb365028/capsule_231x87.jpg?t=1745449762",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683730/96d1583307ff2afcac513559f34831c9bb365028/capsule_184x69.jpg?t=1745449762",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683730/0a0fd5f60e4f6e241cae77c8fe8f9dc11fa2b484/header.jpg?t=1746675695",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683730/96d1583307ff2afcac513559f34831c9bb365028/capsule_231x87.jpg?t=1746675695",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683730/96d1583307ff2afcac513559f34831c9bb365028/capsule_184x69.jpg?t=1746675695",
     "website": null,
     "developers": [
       "ao-system, Inc."
@@ -2536,7 +2546,7 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": false
     },
     "categories": [
@@ -2546,15 +2556,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 May, 2025"
     },
     "support_info": {
       "url": "https://www.aosystem.co.jp/",
       "email": "info@ao-system.net"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683730?t=1745449762",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683730/8b32cfc91df6a0bc1fadb04b786582471d9dfe5d/page_bg_raw.jpg?t=1745449762",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683730?t=1746675695",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683730/8b32cfc91df6a0bc1fadb04b786582471d9dfe5d/page_bg_raw.jpg?t=1746675695",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2645,9 +2655,9 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683260/d4ea008754ac7651c0b7c6ee6538bdf71124b6b4/header.jpg?t=1745494659",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683260/14be5b6658d53a1d777def9f027f8b4e2b036972/capsule_231x87.jpg?t=1745494659",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683260/14be5b6658d53a1d777def9f027f8b4e2b036972/capsule_184x69.jpg?t=1745494659",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683260/d4ea008754ac7651c0b7c6ee6538bdf71124b6b4/header.jpg?t=1747036184",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683260/14be5b6658d53a1d777def9f027f8b4e2b036972/capsule_231x87.jpg?t=1747036184",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683260/14be5b6658d53a1d777def9f027f8b4e2b036972/capsule_184x69.jpg?t=1747036184",
     "website": null,
     "package_groups": [],
     "platforms": {
@@ -2657,14 +2667,14 @@
     },
     "release_date": {
       "coming_soon": false,
-      "date": "24 Apr, 2025"
+      "date": "12 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683260?t=1745494659",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683260?t=1745494659",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683260?t=1747036184",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683260?t=1747036184",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7060,9 +7070,9 @@
     "is_free": true,
     "short_description": "Do you love cats? How about coffee? Pawfee Bean lets you experience the laid-back work life of a cat running their very own evening caf\u00e9! Tailor your dream caf\u00e9 either alone or with up to 4 players! The purrfect pastime to spend with fellow felines and a warm cup of Pawfee!",
     "supported_languages": "English, Italian, Spanish - Latin America",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683680/8a28a48e944dcb0e13d84c1cb8c23b7c03be0b44/header.jpg?t=1746173635",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683680/a2310f5e9298ce9c958f7bd6da783b2767033b5b/capsule_231x87.jpg?t=1746173635",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683680/a2310f5e9298ce9c958f7bd6da783b2767033b5b/capsule_184x69.jpg?t=1746173635",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683680/8a28a48e944dcb0e13d84c1cb8c23b7c03be0b44/header.jpg?t=1747569354",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683680/a2310f5e9298ce9c958f7bd6da783b2767033b5b/capsule_231x87.jpg?t=1747569354",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683680/a2310f5e9298ce9c958f7bd6da783b2767033b5b/capsule_184x69.jpg?t=1747569354",
     "website": null,
     "developers": [
       "Buffalo Barnyard"
@@ -7097,8 +7107,8 @@
       "url": "",
       "email": "buffalobarnyardstudio@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683680?t=1746173635",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683680/6784e9969e68272893cb0b2769834f4c52f69d34/page_bg_raw.jpg?t=1746173635",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3683680?t=1747569354",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683680/e1ce11365775887b3c88ff996b91676673a1d917/page_bg_raw.jpg?t=1747569354",
     "content_descriptors": {
       "ids": [],
       "notes": null
