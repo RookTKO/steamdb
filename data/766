@@ -1634,29 +1634,36 @@
   },
   "2299400": {
     "type": "game",
-    "name": "Aquascape Simulator",
+    "name": "Aquascapers",
     "steam_appid": 2299400,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Bring Nature Home! Experience Aquascape Simulator, a single-player and co-op aquascaping simulation that invites you and friends to enjoy a journey of discovering and gathering various ornamental resources for your aquascaping projects. Enhance your business and dominate the market!",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish, Indonesian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299400/header_alt_assets_0.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299400/capsule_231x87_alt_assets_0.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2299400/capsule_184x69_alt_assets_0.jpg",
-    "website": null,
+    "short_description": "Bring Nature Home! Experience Aquascapers, a single-player and co-op aquascaping simulation that invites you and friends to discover and gather various ornamental resources for your aquascaping projects. Enhance your business and dominate the market!",
+    "supported_languages": "English, German, Indonesian, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299400/header.jpg?t=1747369053",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299400/capsule_231x87.jpg?t=1747369053",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299400/capsule_184x69.jpg?t=1747369053",
+    "website": "https://www.bewolba.com",
     "developers": [
       "Bewolba Studios"
     ],
     "publishers": [
       "Bewolba Studios"
     ],
-    "demos": [
+    "packages": [
+      825293
+    ],
+    "package_groups": [
       {
-        "appid": 2585350,
-        "description": ""
+        "name": "default",
+        "title": "Buy Aquascapers",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1666,26 +1673,49 @@
       1,
       2,
       9,
+      15,
       22,
       23,
-      38
+      38,
+      62
     ],
     "genres": [
       28
     ],
+    "achievements": {
+      "total": 9
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "1 Feb, 2024"
+      "coming_soon": false,
+      "date": "2 May, 2024"
     },
     "support_info": {
       "url": "https://www.bewolba.com",
       "email": "contact@bewolba.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2299400/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2299400/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2299400?t=1747369053",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2299400?t=1747369053",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2299600": {
@@ -2216,12 +2246,12 @@
     "steam_appid": 2300370,
     "required_age": 0,
     "is_free": true,
-    "short_description": "\u4e00\u6b3eQ\u7248\u4eff3D\u5373\u65f6\u6218\u6597\u7c7bMMORPG\uff0c\u6e29\u99a8\u53ef\u7231\u7684\u4e1c\u65b9\u6b66\u4fa0\u753b\u98ce\uff0c\u4e30\u5bcc\u7684\u7eb8\u5a03\u5a03\u53d8\u88c5\uff0c\u53d1\u578b\u3001\u5934\u9970\u3001\u8863\u670d\u3001\u80cc\u9970\u3001\u5c3e\u5df4\u81ea\u7531DIY\u81ea\u5df1\u559c\u6b22\u7684\u9020\u578b\uff0c\u8d85\u840c\u5ba0\u7269\u3001\u9a91\u5ba0\u8bbe\u8ba1\uff0c\u5145\u6ee1\u6e29\u99a8\u7684\u95e8\u6d3e\u3001\u90e8\u843d\uff0c\u4eff3D\u5373\u65f6\u6218\u6597\u3001\u961f\u4f0d\u7fa4P\u3001\u90e8\u843d\u6218\u4e89\u2026\u2026",
+    "short_description": "\u300a\u5929\u7fbd\u4f20\u5947Online\u300b\u662f\u4e00\u6b3eQ\u7248\u4eff3D\u5373\u65f6\u6218\u6597\u7c7bMMORPG\uff0c\u6e29\u99a8\u53ef\u7231\u7684\u4e1c\u65b9\u6b66\u4fa0\u753b\u98ce\uff0c\u4e30\u5bcc\u7684\u7eb8\u5a03\u5a03\u53d8\u88c5\uff0c\u53d1\u578b\u3001\u5934\u9970\u3001\u8863\u670d\u3001\u80cc\u9970\u3001\u5c3e\u5df4\u81ea\u7531DIY\u81ea\u5df1\u559c\u6b22\u7684\u9020\u578b\uff0c\u8d85\u840c\u5ba0\u7269\u3001\u9a91\u5ba0\u8bbe\u8ba1\uff0c\u5145\u6ee1\u6e29\u99a8\u7684\u95e8\u6d3e\u3001\u90e8\u843d\uff0c\u4eff3D\u5373\u65f6\u6218\u6597\u3001\u961f\u4f0d\u7fa4P\u3001\u90e8\u843d\u6218\u4e89\u2026\u2026",
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2300370/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2300370/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2300370/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300370/header.jpg?t=1708354860",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300370/capsule_231x87.jpg?t=1708354860",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300370/capsule_184x69.jpg?t=1708354860",
+    "website": "https://www.go2game.com/ty/",
     "developers": [
       "Go2Game.com"
     ],
@@ -2257,11 +2287,29 @@
       "url": "",
       "email": "go2game_com@hotmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2300370/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2300370/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2300370?t=1708354860",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2300370?t=1708354860",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2300090": {
@@ -4197,11 +4245,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Navigate the nonlinear underground base of the Sierra Research Institute, now flooded, while being relentlessly pursued by towering dinosaurs. With 12 hours of heart-pounding FPS survival horror gameplay and a whole cast of prehistoric enemies, can you outwit nature's dangers and escape?",
-    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Simplified Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299660/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299660/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2299660/capsule_184x69.jpg",
+    "short_description": "Turn up the volume, turn off the lights, and get ready for the definitive Jurassic survival horror experience. Pump your shotgun and put those dinos back where they belong... in the ground!",
+    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Italian, Japanese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299660/header.jpg?t=1747431656",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299660/capsule_231x87.jpg?t=1747431656",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299660/capsule_184x69.jpg?t=1747431656",
     "website": "https://dangerousbobstudio.com/",
     "developers": [
       "DangerousBob Studio LLC"
@@ -4215,7 +4263,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      825439
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Fossilfuel 2",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4225,7 +4286,8 @@
       2,
       22,
       25,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -4233,22 +4295,46 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 23
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "19 Feb, 2024"
     },
     "support_info": {
       "url": "https://discord.gg/K9hUQcnngb",
-      "email": "john@dangerousbobstudio.com"
+      "email": "contact@dangerousbobstudio.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2299660/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2299660/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2299660?t=1747431656",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299660/page_bg_raw.jpg?t=1747431656",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "This game features big scary dinosaurs that want to eat you. "
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nMedo\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood\r\nViolence\r\nLanguage",
+        "display_online_notice": "true"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2298410": {
@@ -5203,10 +5289,10 @@
     "is_free": false,
     "short_description": "A Node-based pixel art generator, editor, and VFX compositor. Create beautiful and complex effects in a non-destructive manner. Pixel Composer comes with a powerful graph system that supports multiple image manipulation, feedback effects, loop, physics, and fluid simulation.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299510/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299510/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2299510/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/625e909fcbd39126f86bd3785225ee1625d4ac22/header.jpg?t=1745213265",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/8d4719eb8577c51a59f82b172f132bdd4aacb3b6/capsule_231x87.jpg?t=1745213265",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/8d4719eb8577c51a59f82b172f132bdd4aacb3b6/capsule_184x69.jpg?t=1745213265",
+    "website": "https://pixel-composer.com",
     "developers": [
       "MakhamDev"
     ],
@@ -5243,6 +5329,7 @@
     ],
     "genres": [
       51,
+      53,
       55
     ],
     "release_date": {
@@ -5253,11 +5340,29 @@
       "url": "",
       "email": "makhamdev@outlook.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2299510/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2299510/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2299510?t=1745213265",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2299510?t=1745213265",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2299560": {
@@ -5396,9 +5501,9 @@
     "is_free": true,
     "short_description": "Spend Winter break with the popular and unapproachable Prince of the Empire in this cozy and heartwarming Magic Academy visual novel",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299730/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299730/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2299730/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299730/header.jpg?t=1685742603",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299730/capsule_231x87.jpg?t=1685742603",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299730/capsule_184x69.jpg?t=1685742603",
     "website": "https://www.galengames.com/",
     "developers": [
       "Galen Games"
@@ -5431,11 +5536,24 @@
       "url": "https://www.galengames.com/",
       "email": "Contact@galengames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2299730/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2299730/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2299730?t=1685742603",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2299730?t=1685742603",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2299920": {
@@ -6879,17 +6997,18 @@
     "steam_appid": 2300840,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Subliminal is a real-time software raytraced horror/puzzle game based on the concept of The Backrooms. Endless procedurally generated levels, bleeding edge lighting, hostile entities, liminal spaces, and a sense that something is not quite right...",
-    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong>, Afrikaans<strong>*</strong>, Albanian<strong>*</strong>, Amharic<strong>*</strong>, Armenian<strong>*</strong>, Assamese<strong>*</strong>, Azerbaijani<strong>*</strong>, Bangla<strong>*</strong>, Basque<strong>*</strong>, Belarusian<strong>*</strong>, Bosnian<strong>*</strong>, Catalan<strong>*</strong>, Cherokee<strong>*</strong>, Croatian<strong>*</strong>, Dari<strong>*</strong>, Estonian<strong>*</strong>, Filipino<strong>*</strong>, Galician<strong>*</strong>, Georgian<strong>*</strong>, Gujarati<strong>*</strong>, Hausa<strong>*</strong>, Hebrew<strong>*</strong>, Hindi<strong>*</strong>, Icelandic<strong>*</strong>, Igbo<strong>*</strong>, Indonesian<strong>*</strong>, Irish<strong>*</strong>, K'iche'<strong>*</strong>, Kannada<strong>*</strong>, Kazakh<strong>*</strong>, Khmer<strong>*</strong>, Kinyarwanda<strong>*</strong>, Konkani<strong>*</strong>, Kyrgyz<strong>*</strong>, Latvian<strong>*</strong>, Lithuanian<strong>*</strong>, Luxembourgish<strong>*</strong>, Macedonian<strong>*</strong>, Malay<strong>*</strong>, Malayalam<strong>*</strong>, Maltese<strong>*</strong>, Maori<strong>*</strong>, Marathi<strong>*</strong>, Mongolian<strong>*</strong>, Nepali<strong>*</strong>, Odia<strong>*</strong>, Persian<strong>*</strong>, Punjabi (Gurmukhi)<strong>*</strong>, Punjabi (Shahmukhi)<strong>*</strong>, Quechua<strong>*</strong>, Scots<strong>*</strong>, Serbian<strong>*</strong>, Sindhi<strong>*</strong>, Sinhala<strong>*</strong>, Slovak<strong>*</strong>, Slovenian<strong>*</strong>, Sorani<strong>*</strong>, Sotho<strong>*</strong>, Swahili<strong>*</strong>, Tajik<strong>*</strong>, Tamil<strong>*</strong>, Tatar<strong>*</strong>, Telugu<strong>*</strong>, Tigrinya<strong>*</strong>, Tswana<strong>*</strong>, Turkmen<strong>*</strong>, Urdu<strong>*</strong>, Uyghur<strong>*</strong>, Uzbek<strong>*</strong>, Valencian<strong>*</strong>, Welsh<strong>*</strong>, Wolof<strong>*</strong>, Xhosa<strong>*</strong>, Yoruba<strong>*</strong>, Zulu<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2300840/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2300840/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2300840/capsule_184x69.jpg",
+    "short_description": "Subliminal is a psychological horror/puzzle game inspired by the urban legend of The Backrooms. Bleeding edge of lighting and rendering, handcrafted open-ended levels, light and perspective-based puzzles, nostalgic spaces, unfamiliar faces, and a rotting feeling that something is not quite right...",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300840/header.jpg?t=1734696863",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300840/c6b8b27061d409affac368d0576a22c04aeff360/capsule_231x87.jpg?t=1734696863",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300840/c6b8b27061d409affac368d0576a22c04aeff360/capsule_184x69.jpg?t=1734696863",
     "website": "https://subliminalgame.com",
     "developers": [
-      "Sven"
+      "Accidental Studios"
     ],
     "publishers": [
-      "Sven"
+      "Gone Shootin",
+      "Infini Fun"
     ],
     "package_groups": [],
     "platforms": {
@@ -6900,27 +7019,46 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
       23,
-      28,
-      70
+      25,
+      28
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q4 2023"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "https://subliminalgame.com",
       "email": "Team@Subliminalgame.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2300840/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2300840/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2300840?t=1734696863",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2300840?t=1734696863",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2299710": {
@@ -8737,9 +8875,9 @@
     "controller_support": "full",
     "short_description": "Duckball is an action-packed battle royale game where up to 100 players compete to be the last duck standing. Play with friends online and collect wacky items to knock your opponents off the stage in an ever changing 3D environment. Do you have what it takes to be truly glorious?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299230/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2299230/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2299230/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299230/header.jpg?t=1697131048",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299230/capsule_231x87.jpg?t=1697131048",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299230/capsule_184x69.jpg?t=1697131048",
     "website": null,
     "developers": [
       "Dumb Bear Studios L.L.C."
@@ -8777,11 +8915,29 @@
       "url": "https://discord.gg/BBE7mGEZN8",
       "email": "dumbbearstudios@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2299230/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2299230/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2299230?t=1697131048",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2299230?t=1697131048",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2299150": {
@@ -9249,10 +9405,10 @@
     "is_free": false,
     "short_description": "You've been dragged into robbing a house by a couple of thugs, but what you discover there is beyond anything you could have imagined.",
     "supported_languages": "English, Japanese, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2300920/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2300920/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2300920/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300920/header.jpg?t=1729119258",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300920/capsule_231x87.jpg?t=1729119258",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300920/capsule_184x69.jpg?t=1729119258",
+    "website": "https://www.kaguragames.com/",
     "developers": [
       "Tokinokogiri"
     ],
@@ -9280,7 +9436,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       3,
@@ -9294,13 +9451,31 @@
       "url": "",
       "email": "info@kaguragames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2300920/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2300920/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2300920?t=1729119258",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300920/page_bg_raw.jpg?t=1729119258",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "Succubus Prison contains strong language."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Schimpfw\u00f6rte"
+      }
     }
   },
   "2298710": {

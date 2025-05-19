@@ -11538,9 +11538,9 @@
     "controller_support": "full",
     "short_description": "A narrative horror mystery game in which you take the role of an old gatekeeper in a small town just as things start to go astray. Manage the gate, interact with the townsfolk, make decisions, and patrol the town.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2838050/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2838050/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2838050/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2838050/header.jpg?t=1732221539",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2838050/capsule_231x87.jpg?t=1732221539",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2838050/capsule_184x69.jpg?t=1732221539",
     "website": null,
     "developers": [
       "Raw Tale Games"
@@ -11573,8 +11573,8 @@
       "url": "",
       "email": "contact@rawtalegames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2838050/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2838050/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2838050?t=1732221539",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2838050/page_bg_raw.jpg?t=1732221539",
     "content_descriptors": {
       "ids": [
         5
@@ -11932,15 +11932,15 @@
       "name": "Crossout"
     },
     "supported_languages": "English, Russian, German, Spanish - Spain, Japanese, Thai, French, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2839920/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2839920/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2839920/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2839920/header.jpg?t=1736848422",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2839920/capsule_231x87.jpg?t=1736848422",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2839920/capsule_184x69.jpg?t=1736848422",
     "website": "http://crossout.net/",
     "developers": [
       "Targem Games"
     ],
     "publishers": [
-      "Gaijin Distribution KFT"
+      "Gaijin Network Ltd"
     ],
     "packages": [
       1013358
@@ -11990,8 +11990,8 @@
       "url": "http://support.gaijinent.com",
       "email": "support@gaijinent.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2839920/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2839920/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2839920?t=1736848422",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2839920?t=1736848422",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12143,14 +12143,17 @@
     "steam_appid": 2838040,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      2956220
+    ],
     "short_description": "Control Rovee and complete her mission. Using the terminal and clever pathing, ensure Rovee finishes her mission successfully. Be careful, or she'll run out of battery and her mission will come to an end.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2838040/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2838040/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2838040/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2838040/header.jpg?t=1714396008",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2838040/capsule_231x87.jpg?t=1714396008",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2838040/capsule_184x69.jpg?t=1714396008",
     "website": null,
     "developers": [
-      "SphereProvinceGames",
+      "Sphere Province Games",
       "Jared Bowman",
       "Andrew Everage-Scheible",
       "Jeffrey Harmon",
@@ -12159,16 +12162,30 @@
       "Pandora Roberts"
     ],
     "publishers": [
-      "SphereProvinceGames"
+      "Sphere Province Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1012753
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Mission Rovee",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -12176,15 +12193,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "29 Apr, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "sphereprovincegames@gmail.com"
+      "email": "contact@sphereprovincegames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2838040/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2838040/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2838040?t=1714396008",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2838040?t=1714396008",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12216,9 +12233,9 @@
     "is_free": false,
     "short_description": "A vertical arcade bullet hell with window-breaking mechanics, cute coyotes, JRPG modes, outfit customization, skins, minigames, and a kick-ass soundtrack! Embark on a journey to save the SUNSTONE as Taro and Kiaan, two coyotes from The IMPERIUM, and dodge colorful patterns synced to the music!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2840640/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2840640/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2840640/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840640/header.jpg?t=1731354851",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840640/capsule_231x87.jpg?t=1731354851",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840640/capsule_184x69.jpg?t=1731354851",
     "website": null,
     "developers": [
       "Kuda Krystalis"
@@ -12234,7 +12251,8 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       1,
@@ -12250,8 +12268,8 @@
       "url": "",
       "email": "wolfwarehelp@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2840640/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2840640/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2840640?t=1731354851",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2840640?t=1731354851",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12281,16 +12299,17 @@
     "steam_appid": 2839850,
     "required_age": 0,
     "is_free": true,
-    "short_description": "",
+    "controller_support": "full",
+    "short_description": "Build your perfect defenses with hexagons! Use hex tiles to explore cyberspace, upgrade your defense towers, and complete quests in this unique turn-based strategy game. With a campaign, a procedurally generated endless mode, and a powerful editor, HexaScape offers endless challenges.",
     "fullgame": {
       "appid": "2647510",
       "name": "HexaScape: Cyber Defense"
     },
     "supported_languages": "English, German",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2839850/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2839850/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2839850/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2839850/header.jpg?t=1747238769",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2839850/capsule_231x87.jpg?t=1747238769",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2839850/capsule_184x69.jpg?t=1747238769",
+    "website": "https://hexa-scape.com/",
     "developers": [
       "Clockwork Origins"
     ],
@@ -12300,23 +12319,31 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
-      10
+      10,
+      17,
+      23,
+      28
+    ],
+    "genres": [
+      2,
+      23,
+      28
     ],
     "release_date": {
       "coming_soon": false,
       "date": "18 Apr, 2024"
     },
     "support_info": {
-      "url": "",
+      "url": "https://discord.gg/bwnuXq9",
       "email": "contact@clockwork-origins.de"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2839850?t=1747238769",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2839850?t=1747238769",
     "content_descriptors": {
       "ids": [],
       "notes": null

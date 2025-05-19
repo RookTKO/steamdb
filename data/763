@@ -2877,10 +2877,10 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Blast your way through a myriad of extra-terrestrial incursions in this arcade-style scrolling shooter! Pilot the ship Habroxia through 15 levels featuring intense boss fights, rescue missions, shifting perspectives, and untold surprises.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2290270/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2290270/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2290270/capsule_184x69.jpg",
+    "supported_languages": "English, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290270/header.jpg?t=1742962272",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290270/capsule_231x87.jpg?t=1742962272",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290270/capsule_184x69.jpg?t=1742962272",
     "website": "https://www.lillymogames.com",
     "developers": [
       "Lillymo Games"
@@ -2918,7 +2918,8 @@
       22,
       23,
       25,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -2935,11 +2936,29 @@
       "url": "https://lillymogames.com/contact",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2290270/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2290270/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2290270?t=1742962272",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290270/page_bg_raw.jpg?t=1742962272",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2289550": {
@@ -3342,9 +3361,9 @@
     "controller_support": "full",
     "short_description": "A 2D action shooter/hack&amp;slash set in a fantasy land where the gun is law... but so is the blade!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289670/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289670/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289670/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289670/header.jpg?t=1713482245",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289670/capsule_231x87.jpg?t=1713482245",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289670/capsule_184x69.jpg?t=1713482245",
     "website": null,
     "developers": [
       "Daltair"
@@ -3373,7 +3392,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -3387,13 +3407,29 @@
     },
     "support_info": {
       "url": "",
-      "email": "jdaltair@gmail.com"
+      "email": "daltairdev@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289670/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289670/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289670?t=1713482245",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289670/page_bg_raw.jpg?t=1713482245",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nLinguagem impr\u00f3pria\r\nConte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nSexuelle Andeutungen\nDerbe Sprache"
+      }
     }
   },
   "2289580": {
@@ -4271,55 +4307,122 @@
   },
   "2291060": {
     "type": "game",
-    "name": "EARTH DEFENSE FORCE \uff16",
+    "name": "EARTH DEFENSE FORCE 6",
     "steam_appid": 2291060,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Live the future of despair. The year is 2024 AD. The survivors fought against the remaining threats while trying their best to continue their recovery. Three years passed in the year 2027. In a new world without hope, the time has come to once again resist the fate of the Earth.",
+    "controller_support": "full",
+    "dlc": [
+      2378070,
+      2378071,
+      2378072,
+      2378073,
+      2378075,
+      2378076,
+      2378077,
+      2378078,
+      2378080,
+      2378081,
+      2378082,
+      2378083,
+      2378087,
+      2378088
+    ],
+    "short_description": "Live the future of despair.The year is 2024 AD. The survivors fought against the remaining threats while trying their best to continue their recovery.Three years passed in the year 2027. In a new world without hope, the time has come to once again resist the fate of the Earth.",
     "supported_languages": "English<strong>*</strong>, Traditional Chinese<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291060/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291060/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291060/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291060/header.jpg?t=1737512603",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291060/7516c54b49237066e807d0f24b344c15da26670c/capsule_231x87.jpg?t=1737512603",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291060/7516c54b49237066e807d0f24b344c15da26670c/capsule_184x69.jpg?t=1737512603",
     "website": "https://www.d3p.co.jp/edf6/",
+    "ext_user_account_notice": "Epic Online Services (required for online play) ",
     "developers": [
       "SANDLOT"
     ],
     "publishers": [
       "D3PUBLISHER"
     ],
-    "package_groups": [],
+    "packages": [
+      822006
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy EARTH DEFENSE FORCE 6",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
+    "metacritic": {
+      "score": 79,
+      "url": "https://www.metacritic.com/game/pc/earth-defense-force-6?ftag=MCD-06-10aaa1f"
+    },
     "categories": [
       1,
       2,
       9,
+      22,
+      23,
       24,
-      36,
+      28,
       38,
       39,
       44,
-      49
+      62
     ],
     "genres": [
       1
     ],
+    "achievements": {
+      "total": 39
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "25 Jul, 2024"
     },
     "support_info": {
       "url": "",
       "email": "steam_support@d3p.co.jp"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2291060/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2291060/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291060?t=1737512603",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291060/page_bg_raw.jpg?t=1737512603",
     "content_descriptors": {
-      "ids": [],
-      "notes": null
+      "ids": [
+        2,
+        5
+      ],
+      "notes": "This game contains gore, bloodshed, violence, and mild abuse."
+    },
+    "ratings": {
+      "cero": {
+        "rating": "d",
+        "descriptors": "\u66b4\u529b",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nSchimpfw\u00f6rte"
+      }
     }
   },
   "2291020": {
@@ -4593,11 +4696,11 @@
     "steam_appid": 2291760,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Return to Calypso Island to serve seasonal sundae treats in Papa's Freezeria Deluxe! Craft sundaes for all your quirky customers while earning tips, points and Special Recipes. Switch gears and take a trip in the Food Truck to concoct your own chilly creations and see who shows up!",
+    "short_description": "Return to Calypso Island to serve seasonal sundae treats in Papa's Freezeria Deluxe! Craft sundaes in the Freezeria for all your quirky customers while earning tips, points and Special Recipes. Switch gears and take a trip in the Food Truck to concoct your own chilly creations and see who shows up!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291760/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291760/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291760/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/header.jpg?t=1700157490",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/capsule_231x87.jpg?t=1700157490",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/capsule_184x69.jpg?t=1700157490",
     "website": null,
     "developers": [
       "Flipline Studios"
@@ -4627,7 +4730,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       1,
@@ -4647,11 +4751,24 @@
       "url": "",
       "email": "support@flipline.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2291760/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2291760/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291760?t=1700157490",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/page_bg_raw.jpg?t=1700157490",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2291822": {
@@ -6801,15 +6918,16 @@
     "is_free": false,
     "short_description": "A married couple moved into the apartment next door. While the husband\u2019s never home due to work, you start developing a crush on his wife, Niiyama Akiho. Spend time with Akiho, comfort her, and steal her affection! Once Akiho\u2019s desire reaches its peak, she will allow you to take the next step\u2026",
     "supported_languages": "Japanese, English, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289960/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289960/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289960/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289960/header.jpg?t=1725214062",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289960/capsule_231x87.jpg?t=1725214062",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289960/capsule_184x69.jpg?t=1725214062",
     "website": null,
     "developers": [
-      "\u3084\u3055\u306b\u304d"
+      "YASANIKI"
     ],
     "publishers": [
-      "Mango Party"
+      "Mango Party",
+      "Mango Party News"
     ],
     "packages": [
       821529
@@ -6831,7 +6949,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
@@ -6845,8 +6964,8 @@
       "url": "",
       "email": "support@mangopartygames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289960/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289960/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289960?t=1725214062",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289960/page_bg_raw.jpg?t=1725214062",
     "content_descriptors": {
       "ids": [
         1,
@@ -6855,6 +6974,22 @@
         5
       ],
       "notes": "All character depicted are over the age of 20.\r\nContent Warning:\"\"My Neighbor's Lonely Wife\"\" contains Netorare, Paizuri, Blowjob, and Exhibitionism."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Nudez",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2290470": {
@@ -9457,9 +9592,9 @@
     "is_free": false,
     "short_description": "You've got a new babysitting job, and things are taking a turn for the weird. Feed him, read him a bedtime story, and try not to fall into his dreams. How long can you stay in control?",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Thai, Vietnamese, Dutch, Polish, Turkish, Filipino, Hindi, Indonesian, Malay, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291340/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291340/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291340/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291340/header.jpg?t=1738594118",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291340/c46f4b9a295fff1ef16ca7c4df004695d8b0d282/capsule_231x87.jpg?t=1738594118",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291340/c46f4b9a295fff1ef16ca7c4df004695d8b0d282/capsule_184x69.jpg?t=1738594118",
     "website": "https://www.teamterriblegames.com/",
     "developers": [
       "Team Terrible"
@@ -9489,7 +9624,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       23,
@@ -9508,11 +9644,29 @@
       "url": "",
       "email": "support@teamterriblegames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2291340/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2291340/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291340?t=1738594118",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291340?t=1738594118",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2291470": {
