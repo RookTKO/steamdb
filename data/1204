@@ -8962,23 +8962,29 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Ludaro is a roguelike deck-building dice game with a unique twist on Ludo! Plan your moves, manipulate deterministic dice rolls, and unleash powerful hand cards to beat the score. Upgrade tiles, collect quirky pets and stack wild combos as you battle in epic boss fights with game-changing modifiers.",
-    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613030/0f530a80393d72edd5ebc3161f3bed372d2005ab/header.jpg?t=1744446717",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613030/3fad26fcbbd61c49a6564ab287e9dce134d0ed89/capsule_231x87.jpg?t=1744446717",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613030/3fad26fcbbd61c49a6564ab287e9dce134d0ed89/capsule_184x69.jpg?t=1744446717",
+    "short_description": "Ludaro is a Roguelike Deck-building dice game with a unique twist on Ludo! Plan your moves, manipulate dice rolls, and unleash powerful Spirit Cards to beat the score. Upgrade tiles, collect quirky pets and stack wild combos as you battle in epic boss fights with game-changing modifiers.",
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Indonesian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613030/693b9a7422585ed955271c0100cb4591e35a78b3/header_alt_assets_0.jpg?t=1748029573",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613030/bd5236e99bed1f211e5d1a5f8b130dc530da70dd/capsule_231x87_alt_assets_0.jpg?t=1748029573",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613030/bd5236e99bed1f211e5d1a5f8b130dc530da70dd/capsule_184x69_alt_assets_0.jpg?t=1748029573",
     "website": "https://www.evolxgames.com/",
     "developers": [
-      "EvolX"
+      "EvolX Games"
     ],
     "publishers": [
-      "EvolX"
+      "EvolX Games"
+    ],
+    "demos": [
+      {
+        "appid": 3714910,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
@@ -8999,10 +9005,10 @@
     },
     "support_info": {
       "url": "https://www.evolxgames.com/",
-      "email": "amitdhillon9@gmail.com"
+      "email": "amit@evolxgames.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3613030?t=1744446717",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613030/95d2ae13d01dc097719c4b15fdedbbfb40430173/page_bg_raw.jpg?t=1744446717",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3613030?t=1748029573",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613030/95d2ae13d01dc097719c4b15fdedbbfb40430173/page_bg_raw.jpg?t=1748029573",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9034,9 +9040,9 @@
     "is_free": false,
     "short_description": "Welcome to the world of classic puzzles! Slide the blocks and use ice, conveyor belts and walls to reach BLOCK+HOLE. Fill in all the BLOCK+HOLE and you win the game. Fall into the charm of class puzzle games with simple rules and in-depth gameplay.",
     "supported_languages": "English, Japanese, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3612000/7c10b4a1dd7ebedcde02c05d5bd980145c2e0485/header.jpg?t=1744472465",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3612000/5c8f4546847b4c7d1be3e020ce14bc5754e88ff9/capsule_231x87.jpg?t=1744472465",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3612000/5c8f4546847b4c7d1be3e020ce14bc5754e88ff9/capsule_184x69.jpg?t=1744472465",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3612000/7c10b4a1dd7ebedcde02c05d5bd980145c2e0485/header.jpg?t=1745755483",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3612000/5c8f4546847b4c7d1be3e020ce14bc5754e88ff9/capsule_231x87.jpg?t=1745755483",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3612000/5c8f4546847b4c7d1be3e020ce14bc5754e88ff9/capsule_184x69.jpg?t=1745755483",
     "website": null,
     "developers": [
       "CloudWhaleGameLab."
@@ -9044,7 +9050,20 @@
     "publishers": [
       "CloudWhaleGameLab."
     ],
-    "package_groups": [],
+    "packages": [
+      1273646
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy BLOCK+HOLE",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -9059,15 +9078,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "27 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "cloudwhalegamelab@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3612000?t=1744472465",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3612000/0fddd5e0914614dc43c043881c68ddbbefff95b5/page_bg_raw.jpg?t=1744472465",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3612000?t=1745755483",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3612000/0fddd5e0914614dc43c043881c68ddbbefff95b5/page_bg_raw.jpg?t=1745755483",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9099,9 +9118,9 @@
     "is_free": false,
     "short_description": "FocusFlow Field combines a Pomodoro Timer with Project Management and TodoList features in one gamified productivity app. Track your time with TimeLogger precision, organize tasks into Time Blocks, and build Focus through structured sessions. Create dedicated Focus Scenes.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613830/8d0cffcdc4c4787af8f6dae0da3b5a69e48e2e8c/header.jpg?t=1744563062",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613830/654164ee250af6d1f170d38807e844404493d2ab/capsule_231x87.jpg?t=1744563062",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613830/654164ee250af6d1f170d38807e844404493d2ab/capsule_184x69.jpg?t=1744563062",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613830/8d0cffcdc4c4787af8f6dae0da3b5a69e48e2e8c/header.jpg?t=1746701097",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613830/654164ee250af6d1f170d38807e844404493d2ab/capsule_231x87.jpg?t=1746701097",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613830/654164ee250af6d1f170d38807e844404493d2ab/capsule_184x69.jpg?t=1746701097",
     "website": null,
     "developers": [
       "RoamingPoetXi"
@@ -9109,7 +9128,20 @@
     "publishers": [
       "RoamingPoetXi"
     ],
-    "package_groups": [],
+    "packages": [
+      1274287
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy FocusFlow Field",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -9124,16 +9156,19 @@
       4,
       28
     ],
+    "achievements": {
+      "total": 25
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "April 2025"
+      "coming_soon": false,
+      "date": "26 Apr, 2025"
     },
     "support_info": {
       "url": "https://mail.qq.com/",
       "email": "1507819106@qq.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3613830?t=1744563062",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613830/d5cee037cd62cd9fddba0a3c5f1627fd38fcdc60/page_bg_raw.jpg?t=1744563062",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3613830?t=1746701097",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613830/d5cee037cd62cd9fddba0a3c5f1627fd38fcdc60/page_bg_raw.jpg?t=1746701097",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12193,6 +12228,77 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Horror"
+      }
+    }
+  },
+  "3613050": {
+    "type": "game",
+    "name": "Gravebound",
+    "steam_appid": 3613050,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "Gravebound is a post-apocalyptic extraction shooter set in a world where crumbling cities and ancient magic collide. Fight, loot, and survive against deadly creatures and rival players as you explore the Shatterlands.",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613050/fe48bad26e754003d6cb363e558efa8ee1b3a5a5/header.jpg?t=1748156952",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613050/57d16c8851d029e7e6e1c42f3eae518725cd63d1/capsule_231x87.jpg?t=1748156952",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613050/57d16c8851d029e7e6e1c42f3eae518725cd63d1/capsule_184x69.jpg?t=1748156952",
+    "website": null,
+    "developers": [
+      "Crater Studios"
+    ],
+    "publishers": [
+      "Crater Studios"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      1,
+      9,
+      28,
+      36,
+      38,
+      49,
+      62
+    ],
+    "genres": [
+      1,
+      70
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Q3 2025"
+    },
+    "support_info": {
+      "url": "https://www.craterstudiosgames.com/",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3613050?t=1748156952",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613050/cffc347567a1c4e1d95475ad3566e3bd1b68b3b7/page_bg_raw.jpg?t=1748156952",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
       }
     }
   }
