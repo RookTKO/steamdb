@@ -3243,9 +3243,9 @@
     "is_free": false,
     "short_description": "The mouse is the controller! Go fishing with \u201cTsurimasu\u201d, a mouse combined with a fishing rod! A whole new operating experience awaits you!",
     "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568200/3ad18799083df9a416ad1fec754a6007cc0fae4d/header.jpg?t=1742349355",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568200/496f415e2787cd3d95966fba614cae675e2d08f6/capsule_231x87.jpg?t=1742349355",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568200/496f415e2787cd3d95966fba614cae675e2d08f6/capsule_184x69.jpg?t=1742349355",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568200/3ad18799083df9a416ad1fec754a6007cc0fae4d/header.jpg?t=1743461320",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568200/496f415e2787cd3d95966fba614cae675e2d08f6/capsule_231x87.jpg?t=1743461320",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568200/496f415e2787cd3d95966fba614cae675e2d08f6/capsule_184x69.jpg?t=1743461320",
     "website": null,
     "developers": [
       "\u9b5a\u7fa4 ~GYOGUN~"
@@ -3253,7 +3253,20 @@
     "publishers": [
       "\u7267\u6751\u5178\u85ab"
     ],
-    "package_groups": [],
+    "packages": [
+      1259028
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u3069\u3053\u3067\u3082!!\u91e3\u308a\u30de\u30a5\u30b9",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3268,15 +3281,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "31 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "zentyu721wood@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568200?t=1742349355",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568200/d1b5856235c76303af689557932efb7b47f36045/page_bg_raw.jpg?t=1742349355",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568200?t=1743461320",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568200/d1b5856235c76303af689557932efb7b47f36045/page_bg_raw.jpg?t=1743461320",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3374,19 +3387,32 @@
     "steam_appid": 3568150,
     "required_age": 0,
     "is_free": false,
-    "short_description": "An action-adventure digging and exploration game. Your job? Travel across remote islands, dig up ancient artifacts, and curate the most impressive museum the world has ever seen! But there\u2019s more to this job than meets the eye\u2026",
+    "short_description": "An action-adventure digging and exploration game. Your job? Travel across remote islands, dig up ancient artifacts, and curate the most impressive museum the world has ever seen!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568150/33d1fb619d153a7b929719532a8984ca552450c9/header.jpg?t=1741434473",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568150/47ac7dd8312222e3bb34392bc17293d6a33db4d0/capsule_231x87.jpg?t=1741434473",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568150/47ac7dd8312222e3bb34392bc17293d6a33db4d0/capsule_184x69.jpg?t=1741434473",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568150/50e1b2621254953c84d971451c209dd8bccff6a2/header.jpg?t=1746834900",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568150/0e8ff8a349d64e552fd5dc98eaa98b55e7d35429/capsule_231x87.jpg?t=1746834900",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568150/0e8ff8a349d64e552fd5dc98eaa98b55e7d35429/capsule_184x69.jpg?t=1746834900",
+    "website": "https://exponential-production.com/",
     "developers": [
       "Exponential production"
     ],
     "publishers": [
       "Exponential production"
     ],
-    "package_groups": [],
+    "packages": [
+      1259011
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy A Totally Legal Archaeology Adventure",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3396,6 +3422,7 @@
       2,
       15,
       22,
+      23,
       62
     ],
     "genres": [
@@ -3405,16 +3432,19 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 7
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "1 May, 2025"
     },
     "support_info": {
-      "url": "",
+      "url": "https://exponential-production.com/",
       "email": "contact@exponential-production.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568150?t=1741434473",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568150?t=1741434473",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568150?t=1746834900",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568150?t=1746834900",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6691,9 +6721,9 @@
     "is_free": false,
     "short_description": "No it is in no way related to Nex's UZG. We know about one another tho. UZG is a fast paced wave based zombie shooter game. There isn't much more to say about it. Similar in movement to Quake/Half-Life.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568290/63c0c398a4ab356dac95e949827f0deaac63a0dd/header.jpg?t=1742322339",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568290/f49ba57aafc1f2939de03681a670231f6a3c3d0a/capsule_231x87.jpg?t=1742322339",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568290/f49ba57aafc1f2939de03681a670231f6a3c3d0a/capsule_184x69.jpg?t=1742322339",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568290/63c0c398a4ab356dac95e949827f0deaac63a0dd/header.jpg?t=1748546995",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568290/f49ba57aafc1f2939de03681a670231f6a3c3d0a/capsule_231x87.jpg?t=1748546995",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568290/f49ba57aafc1f2939de03681a670231f6a3c3d0a/capsule_184x69.jpg?t=1748546995",
     "website": null,
     "developers": [
       "Suppe"
@@ -6720,14 +6750,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "2 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "suppeworks@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568290?t=1742322339",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568290/f3e6633f2cac6fdbefa38e87bd04a097da6d9026/page_bg_raw.jpg?t=1742322339",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568290?t=1748546995",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568290/f3e6633f2cac6fdbefa38e87bd04a097da6d9026/page_bg_raw.jpg?t=1748546995",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6758,18 +6788,15 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568610/33d1fb619d153a7b929719532a8984ca552450c9/header.jpg?t=1742334610",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568610/47ac7dd8312222e3bb34392bc17293d6a33db4d0/capsule_231x87.jpg?t=1742334610",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568610/47ac7dd8312222e3bb34392bc17293d6a33db4d0/capsule_184x69.jpg?t=1742334610",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568610/33d1fb619d153a7b929719532a8984ca552450c9/header.jpg?t=1742506362",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568610/47ac7dd8312222e3bb34392bc17293d6a33db4d0/capsule_231x87.jpg?t=1742506362",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568610/47ac7dd8312222e3bb34392bc17293d6a33db4d0/capsule_184x69.jpg?t=1742506362",
     "website": null,
     "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
-    },
-    "achievements": {
-      "total": 4
     },
     "release_date": {
       "coming_soon": false,
@@ -6779,8 +6806,8 @@
       "url": "",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568610?t=1742334610",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568610?t=1742334610",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568610?t=1742506362",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3568610?t=1742506362",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6799,9 +6826,9 @@
       "name": "Trapped Souls"
     },
     "supported_languages": "English, Ukrainian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567250/a97d4dc04db3332b3d48a39fa8ff1cd54dd3c90b/header.jpg?t=1742333878",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567250/a801a1fd787eb46efefe896ecfff40d3afa20ced/capsule_231x87.jpg?t=1742333878",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567250/a801a1fd787eb46efefe896ecfff40d3afa20ced/capsule_184x69.jpg?t=1742333878",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567250/a97d4dc04db3332b3d48a39fa8ff1cd54dd3c90b/header.jpg?t=1743793151",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567250/a801a1fd787eb46efefe896ecfff40d3afa20ced/capsule_231x87.jpg?t=1743793151",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567250/a801a1fd787eb46efefe896ecfff40d3afa20ced/capsule_184x69.jpg?t=1743793151",
     "website": null,
     "developers": [
       "Fullmetal Developer"
@@ -6809,7 +6836,20 @@
     "publishers": [
       "Fullmetal Developer"
     ],
-    "package_groups": [],
+    "packages": [
+      1258716
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Trapped Souls - Mimic Midas",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6832,15 +6872,15 @@
       3
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "4 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "funnygamepadysupp0rt@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3567250?t=1742333878",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3567250?t=1742333878",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3567250?t=1743793151",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3567250?t=1743793151",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6866,15 +6906,15 @@
   },
   "3567940": {
     "type": "game",
-    "name": "\u5931\u4e61\u9a91\u58eb",
+    "name": "Banished Knight",
     "steam_appid": 3567940,
     "required_age": 0,
-    "is_free": true,
+    "is_free": false,
     "short_description": "The 'Banished Knight' is a 3D top-down action Roguelike game. The story takes place after Ragnarok, where the player, as a heroic knight, must travel to Svartalfheim to battle various types of monsters, collect resources, unlock new weapons,and repair the Valkyrie statue.",
-    "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567940/9734fb4cbc9311c0d9fe89285b64b95ea5cd7522/header.jpg?t=1742389803",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567940/4392b876fa514ae75c8178fe69961ae3346d870b/capsule_231x87.jpg?t=1742389803",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567940/4392b876fa514ae75c8178fe69961ae3346d870b/capsule_184x69.jpg?t=1742389803",
+    "supported_languages": "Simplified Chinese, English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567940/06d41097f91748b5defd2afcfed46ba0acca747e/header.jpg?t=1746155469",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567940/5780d246afd5b22e181b7efee6462d7769b3a022/capsule_231x87.jpg?t=1746155469",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567940/5780d246afd5b22e181b7efee6462d7769b3a022/capsule_184x69.jpg?t=1746155469",
     "website": null,
     "developers": [
       "Moss Studio"
@@ -6882,33 +6922,46 @@
     "publishers": [
       "Moss Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1258946
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Banished Knight",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
       3,
       23,
       25,
-      37,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "8 Apr, 2025"
     },
     "support_info": {
       "url": "https://space.bilibili.com/31185924?spm_id_from=333.788.0.0",
       "email": "mosstudio@163.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3567940?t=1742389803",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567940/e3388f6a00e1fc1ee7dd8cb9caf19106c67e11a3/page_bg_raw.jpg?t=1742389803",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3567940?t=1746155469",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567940/e3388f6a00e1fc1ee7dd8cb9caf19106c67e11a3/page_bg_raw.jpg?t=1746155469",
     "content_descriptors": {
       "ids": [],
       "notes": null
