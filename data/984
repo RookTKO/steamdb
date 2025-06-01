@@ -4669,13 +4669,13 @@
     "type": "game",
     "name": "Live Day \u6d3b\u7740\u7684\u65e5\u5b50",
     "steam_appid": 2952940,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "This is a game that combines construction, shooting, and tower defense with a third person apocalyptic theme. In the apocalyptic environment, let players build apocalyptic strongholds that are suitable for their survival.",
     "supported_languages": "Simplified Chinese, English, French, Italian, German, Spanish - Spain, Russian, Turkish, Japanese, Polish, Portuguese - Portugal, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2952940/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2952940/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2952940/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952940/header.jpg?t=1716479457",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952940/capsule_231x87.jpg?t=1716479457",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952940/capsule_184x69.jpg?t=1716479457",
     "website": null,
     "developers": [
       "flashplume"
@@ -4723,8 +4723,8 @@
       "url": "",
       "email": "flashplume@qq.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2952940/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2952940/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2952940?t=1716479457",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2952940?t=1716479457",
     "content_descriptors": {
       "ids": [
         2,
@@ -4733,12 +4733,6 @@
       "notes": null
     },
     "ratings": {
-      "esrb": {
-        "rating": "m",
-        "descriptors": "Blood\r\nViolence",
-        "use_age_gate": "true",
-        "required_age": "18"
-      },
       "pegi": {
         "rating": "18",
         "descriptors": "Blood\uff0cViolence",
@@ -4842,17 +4836,30 @@
     "is_free": false,
     "short_description": "&quot;TOKYO DRIVE&quot; is a racing game that uses the location data of actual roads and buildings in Tokyo, Japan (Tokyo's 23 wards).",
     "supported_languages": "Japanese, English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2954240/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2954240/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2954240/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954240/header.jpg?t=1743956239",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954240/capsule_231x87.jpg?t=1743956239",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954240/capsule_184x69.jpg?t=1743956239",
+    "website": "https://www.creator-mind.com/",
     "developers": [
       "AiTHER SOFT"
     ],
     "publishers": [
       "AiTHER SOFT"
     ],
-    "package_groups": [],
+    "packages": [
+      1051879
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy TOKYO DRIVE",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4860,22 +4867,27 @@
     },
     "categories": [
       2,
-      22
+      18,
+      22,
+      62
     ],
     "genres": [
       9,
       70
     ],
+    "achievements": {
+      "total": 24
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "1 Aug, 2024"
     },
     "support_info": {
       "url": "https://www.creator-mind.com/",
-      "email": "aither_mail@yahoo.co.jp"
+      "email": "aithersoft999@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2954240/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2954240/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2954240?t=1743956239",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2954240?t=1743956239",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7516,16 +7528,16 @@
   },
   "2953690": {
     "type": "game",
-    "name": "Afterlife",
+    "name": "Turn Illness into a Weapon",
     "steam_appid": 2953690,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Afterlife is a visual novel about life after death. Shoplift cosmetics and destroy evidence of your crimes.",
+    "short_description": "In a high school hidden within a centuries-old castle, terror strikes as a sinister force begins hunting the students. You must use your skills and wits to survive, evade the relentless villain, and find a way to escape.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2953690/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2953690/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2953690/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953690/header.jpg?t=1746556813",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953690/0816b4d1b835f84ee2c0a337cab484e7017852d9/capsule_231x87.jpg?t=1746556813",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953690/0816b4d1b835f84ee2c0a337cab484e7017852d9/capsule_184x69.jpg?t=1746556813",
+    "website": "https://enderverse.win",
     "developers": [
       "enderverse"
     ],
@@ -7539,21 +7551,22 @@
       "linux": true
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
-      25
+      3
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q4 2024"
+      "date": "Q3 2025"
     },
     "support_info": {
       "url": "",
-      "email": "ender.minyard@protonmail.com"
+      "email": "info@enderverse.win"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2953690/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2953690/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2953690?t=1746556813",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953690/page_bg_raw.jpg?t=1746556813",
     "content_descriptors": {
       "ids": [
         5
@@ -9881,9 +9894,9 @@
     "controller_support": "full",
     "short_description": "In Ronin's Requiem you play as a ninja who has fallen from grace and now, to regain his honor, he has to eliminate an army of demons in a foreign land. Ronin's Requiem is a fast-paced platformer with solid gameplay and fast-paced combat.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2952310/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2952310/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2952310/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952310/header.jpg?t=1718305496",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952310/capsule_231x87.jpg?t=1718305496",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952310/capsule_184x69.jpg?t=1718305496",
     "website": null,
     "developers": [
       "Arid Wind Games"
@@ -9891,7 +9904,20 @@
     "publishers": [
       "Arid Wind Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1051242
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ronin's Requiem",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -9900,23 +9926,27 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       23,
       25
     ],
+    "achievements": {
+      "total": 7
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "13 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "aridwindgames@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2952310/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2952310/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2952310?t=1718305496",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2952310?t=1718305496",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9948,9 +9978,9 @@
     "is_free": true,
     "short_description": "You can explorer different studio sets in this game, and using a virtual cinema camera to help your picture design.",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2952130/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2952130/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2952130/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952130/header.jpg?t=1723215548",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952130/capsule_231x87.jpg?t=1723215548",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952130/capsule_184x69.jpg?t=1723215548",
     "website": null,
     "developers": [
       "FoxSchumacher"
@@ -9973,15 +10003,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "June 2024"
+      "coming_soon": false,
+      "date": "29 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "foxschumacher@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2952130/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2952130/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2952130?t=1723215548",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952130/page_bg_raw.jpg?t=1723215548",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10097,9 +10127,9 @@
     "is_free": true,
     "short_description": "Lifting Unlimited is a fun, fast-paced, strategic lifting game. Train in the Bench Press, Squat, and Deadlift to increase your total through difficult progression. Compete in state, national, and international competitions to set Earth-shattering Records! Start your weightlifting journey today!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2953600/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2953600/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2953600/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953600/header.jpg?t=1717707597",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953600/capsule_231x87.jpg?t=1717707597",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953600/capsule_184x69.jpg?t=1717707597",
     "website": null,
     "developers": [
       "Will Gibson"
@@ -10123,15 +10153,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "6 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "gibsongamedesignstudios@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2953600/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2953600/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2953600?t=1717707597",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2953600?t=1717707597",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10157,26 +10187,26 @@
   },
   "2953830": {
     "type": "demo",
-    "name": "Teeto (Demo)",
+    "name": "Teeto Demo",
     "steam_appid": 2953830,
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
-    "short_description": "",
+    "short_description": "Teeto is a 3D adventure platformer where you play as a tiny blob and bunny duo on an extraordinary journey. Absorb objects from the world, harnessing their powers to fight the shadow corruption and help out a cast of crazy characters in an action packed adventure!",
     "fullgame": {
       "appid": "2783370",
       "name": "Teeto"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2953830/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2953830/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2953830/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953830/header.jpg?t=1748467674",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953830/d2e2a1b0c7099097b8c8807e849155be31e269be/capsule_231x87.jpg?t=1748467674",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953830/d2e2a1b0c7099097b8c8807e849155be31e269be/capsule_184x69.jpg?t=1748467674",
+    "website": "https://www.eatpantgames.com/",
     "developers": [
-      "Eat Pant"
+      "Eat Pant Games"
     ],
     "publishers": [
-      "Eat Pant"
+      "Eat Pant Games"
     ],
     "package_groups": [],
     "platforms": {
@@ -10191,10 +10221,17 @@
       10,
       13,
       22,
+      23,
       24,
       28,
       39,
+      43,
       44
+    ],
+    "genres": [
+      4,
+      23,
+      25
     ],
     "release_date": {
       "coming_soon": false,
@@ -10202,10 +10239,10 @@
     },
     "support_info": {
       "url": "",
-      "email": "Eatpantgames@gmail.com"
+      "email": "teeto@eatpantgames.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2953830?t=1748467674",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2953830?t=1748467674",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10231,22 +10268,28 @@
   },
   "2953300": {
     "type": "game",
-    "name": "SportKill",
+    "name": "\u5fc5\u6bba\u7403 SportKill",
     "steam_appid": 2953300,
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
     "short_description": "SportKill is a fast-paced ,2D dodgeball fighting game. Charge up the ball and beat other player with power shot! Hold down attack to aim the ball or throw off your enemy!",
     "supported_languages": "English, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953300/header.jpg?t=1716516712",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953300/capsule_231x87.jpg?t=1716516712",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953300/capsule_184x69.jpg?t=1716516712",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953300/header.jpg?t=1728465937",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953300/capsule_231x87.jpg?t=1728465937",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953300/capsule_184x69.jpg?t=1728465937",
     "website": null,
     "developers": [
       "SBOOKY Games"
     ],
     "publishers": [
       "SBOOKY Games"
+    ],
+    "demos": [
+      {
+        "appid": 3079650,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -10265,6 +10308,7 @@
     ],
     "genres": [
       1,
+      2,
       18,
       23,
       37
@@ -10277,8 +10321,8 @@
       "url": "",
       "email": "maxkou5657@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953300/page_bg_generated_v6b.jpg?t=1716516712",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953300/page_bg_generated.jpg?t=1716516712",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2953300?t=1728465937",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2953300?t=1728465937",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -14871,6 +14915,89 @@
     },
     "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2954530?t=1748462620",
     "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2954530?t=1748462620",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
+    }
+  },
+  "2954510": {
+    "type": "dlc",
+    "name": "100 Crime Cats - Artbook",
+    "steam_appid": 2954510,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "This art pack contains all the artworks used in the game in high resolution. Just go into the game's installation location, find the Art Pack folder, and enjoy!",
+    "fullgame": {
+      "appid": "2954460",
+      "name": "100 Crime Cats"
+    },
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954510/header.jpg?t=1748790029",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954510/capsule_231x87.jpg?t=1748790029",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954510/capsule_184x69.jpg?t=1748790029",
+    "website": null,
+    "developers": [
+      "100 Cozy Games"
+    ],
+    "publishers": [
+      "100 Cozy Games"
+    ],
+    "packages": [
+      1051966
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy 100 Crime Cats - Artbook",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      21,
+      62
+    ],
+    "genres": [
+      4,
+      23
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "1 Jun, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "100cozygames@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2954510?t=1748790029",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2954510?t=1748790029",
     "content_descriptors": {
       "ids": [],
       "notes": null
