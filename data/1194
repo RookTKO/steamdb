@@ -2566,10 +2566,10 @@
       3586580
     ],
     "short_description": "Reach the flag, complete the race and DON'T TOUCH ANYTHING! 24 areas to dominate and enter your name in the global leaderboard!",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583170/3a5a6642b1c6ee452efc74ab3e2b7e0e71932f0f/header.jpg?t=1743005174",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583170/10bf15c1cb059ab36c53f94d7b0aff3f46a69c3a/capsule_231x87.jpg?t=1743005174",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583170/10bf15c1cb059ab36c53f94d7b0aff3f46a69c3a/capsule_184x69.jpg?t=1743005174",
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Indonesian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583170/3a5a6642b1c6ee452efc74ab3e2b7e0e71932f0f/header.jpg?t=1743182636",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583170/10bf15c1cb059ab36c53f94d7b0aff3f46a69c3a/capsule_231x87.jpg?t=1743182636",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583170/10bf15c1cb059ab36c53f94d7b0aff3f46a69c3a/capsule_184x69.jpg?t=1743182636",
     "website": null,
     "developers": [
       "Instant Death"
@@ -2585,6 +2585,7 @@
     },
     "categories": [
       2,
+      22,
       23,
       25
     ],
@@ -2593,16 +2594,19 @@
       23,
       37
     ],
+    "achievements": {
+      "total": 7
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "27 Mar, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/mGDe5Sy",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583170?t=1743005174",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583170?t=1743005174",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583170?t=1743182636",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583170?t=1743182636",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4677,9 +4681,9 @@
       "name": "MH-Zombie"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582730/a43dc191a43c61b676a2f9337acfbda9c0445aa4/header.jpg?t=1742157239",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582730/6c100cb07911546e5ca0a3a34659e6fdc12200ea/capsule_231x87.jpg?t=1742157239",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582730/6c100cb07911546e5ca0a3a34659e6fdc12200ea/capsule_184x69.jpg?t=1742157239",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582730/a43dc191a43c61b676a2f9337acfbda9c0445aa4/header.jpg?t=1745847993",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582730/6c100cb07911546e5ca0a3a34659e6fdc12200ea/capsule_231x87.jpg?t=1745847993",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582730/6c100cb07911546e5ca0a3a34659e6fdc12200ea/capsule_184x69.jpg?t=1745847993",
     "website": "https://www.facebook.com/MHZombie",
     "developers": [
       "Raulworks"
@@ -4687,7 +4691,20 @@
     "publishers": [
       "Raulworks"
     ],
-    "package_groups": [],
+    "packages": [
+      1263871
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy MH-Zombie VR!",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4706,15 +4723,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "28 Apr, 2025"
     },
     "support_info": {
       "url": "https://www.facebook.com/MHZombie",
       "email": "raulboy@icloud.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582730?t=1742157239",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582730/bc9716c2e145ec31da385435e1f5f52b3acad42f/page_bg_raw.jpg?t=1742157239",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582730?t=1745847993",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582730/bc9716c2e145ec31da385435e1f5f52b3acad42f/page_bg_raw.jpg?t=1745847993",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6918,17 +6935,23 @@
     "steam_appid": 3583330,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Your job is to inspect all produced robots. Deal with unauthorized hardware modifications and rogue behavior. And escape the building! You are the only human there, but you are not alone.",
-    "supported_languages": "English, Spanish - Spain, Spanish - Latin America, Portuguese - Brazil, Russian, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583330/11184b71ca603437b114dbe620dbf3e925d8eeb8/header.jpg?t=1742953398",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583330/42ec58f1f60e3647dedeb2b34ba8adb9ee0cb1b8/capsule_231x87.jpg?t=1742953398",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583330/42ec58f1f60e3647dedeb2b34ba8adb9ee0cb1b8/capsule_184x69.jpg?t=1742953398",
+    "short_description": "Your job is to inspect all produced robots. Investigate unauthorized hardware modifications and rogue behavior. And escape the building! You are the only human there, but you are not alone.",
+    "supported_languages": "English, Spanish - Spain, Spanish - Latin America, Portuguese - Brazil, Russian, Simplified Chinese, German, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583330/8ca9514d8d5cbc3360c0d9f92af152870e293db9/header.jpg?t=1749047704",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583330/0003569056a1189a450bc077e3be012153fa1902/capsule_231x87.jpg?t=1749047704",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583330/0003569056a1189a450bc077e3be012153fa1902/capsule_184x69.jpg?t=1749047704",
     "website": "https://v3.envialosimple.com/form/renderwidget/format/html/AdministratorID/188603/FormID/1/Lang/en",
     "developers": [
       "Eibriel"
     ],
     "publishers": [
       "Eibriel"
+    ],
+    "demos": [
+      {
+        "appid": 3619430,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -6942,7 +6965,8 @@
       18,
       22,
       23,
-      62
+      62,
+      63
     ],
     "genres": [
       23,
@@ -6951,14 +6975,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "16 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "gamedev@eibriel.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583330?t=1742953398",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583330?t=1742953398",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583330?t=1749047704",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583330?t=1749047704",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7304,19 +7328,35 @@
     "steam_appid": 3584720,
     "required_age": 0,
     "is_free": false,
-    "short_description": "\ud83d\udc96 CyberMaid \u2013 Your Caring Desktop Maid! She accompanies and interacts with you, bringing warmth to your computer! Whether for work, study, or entertainment, make your desktop more lovable and unique!",
+    "dlc": [
+      3672770
+    ],
+    "short_description": "\ud83d\udc96 Touchable, bouncing boobs! CyberMaid \u2013 Your sexy desktop maid! With real-time physics, you can grab, jiggle, and enjoy her soft reactions. She stays on your screen, always there to spice up work, study, or chill time with fun, charm, and just the right amount of bounce.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian, Japanese, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Spanish - Latin America, Korean, Indonesian, Greek, Czech, Polish, Thai, Vietnamese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584720/8b553ef40a1396bb245039f394b1562915279a23/header.jpg?t=1742923570",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584720/bb97274d200b1601df14c36ff10bd5e8e8d298cb/capsule_231x87.jpg?t=1742923570",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584720/bb97274d200b1601df14c36ff10bd5e8e8d298cb/capsule_184x69.jpg?t=1742923570",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584720/d60f1fbb20d6734ba4ea907c3df1d979aa4dce64/header.jpg?t=1747208851",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584720/b9f06135d8d586bb8284101be9a9704e37e28653/capsule_231x87.jpg?t=1747208851",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584720/b9f06135d8d586bb8284101be9a9704e37e28653/capsule_184x69.jpg?t=1747208851",
+    "website": "https://shen.technology/",
     "developers": [
       "SHEN Co., Ltd."
     ],
     "publishers": [
       "SHEN Co., Ltd."
     ],
-    "package_groups": [],
+    "packages": [
+      1264571
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy CyberMaid",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7332,20 +7372,22 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "3 Apr, 2025"
+      "coming_soon": false,
+      "date": "7 Apr, 2025"
     },
     "support_info": {
       "url": "",
-      "email": "k@shen.technology"
+      "email": "contact@shen.technology"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584720?t=1742923570",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584720/0174c9ce8145a76ec4e55ee56079ce4c0d409fb8/page_bg_raw.jpg?t=1742923570",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584720?t=1747208851",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584720/9afb6360747868edf21441093bcd4c1699abb0b9/page_bg_raw.jpg?t=1747208851",
     "content_descriptors": {
       "ids": [
+        1,
+        4,
         5
       ],
-      "notes": "This game includes interactive physics simulation, allowing players to touch female characters' bodies using the mouse or controller. For example, the character\u2019s chest will respond to player input with physical reactions, such as movement in the direction of applied force or natural jiggle effects. This feature is purely a gameplay mechanic and does not include nudity, sexual acts, or explicit content. All characters remain fully clothed.\r\n\r\nThe game does not depict non-consensual actions, violence, or other sensitive material. All interactions occur within the designed feedback mechanics of the game."
+      "notes": "This game contains frequent suggestive content, including interactive physics-based body reactions. Players can interact with fully clothed female characters using the mouse or controller, and the physics system allows natural responses such as movement in reaction to applied force and jiggle effects.\r\n\r\nWhile the game includes frequent suggestive interactions, it does not feature nudity, sexual acts, or explicit depictions of intercourse.The game does not depict non-consensual actions, violence, or any sensitive material."
     },
     "ratings": {
       "dejus": {
@@ -7358,11 +7400,11 @@
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "12",
-        "required_age": "12",
+        "rating": "16",
+        "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Gewalt"
+        "descriptors": "Sexuelle Inhalte\nGewalt"
       }
     }
   },
@@ -7675,11 +7717,12 @@
     "steam_appid": 3584440,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "7 Keys Saga\u00a0is a top-down 2D action RPG where you embark on a quest to find seven mystical keys scattered across a dangerous world.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584440/5507feee768f3e39a0961b2748dfaa558cadfd22/header.jpg?t=1742952151",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584440/027c7a5d58557711971695a199d5458d5287d7ba/capsule_231x87.jpg?t=1742952151",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584440/027c7a5d58557711971695a199d5458d5287d7ba/capsule_184x69.jpg?t=1742952151",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584440/1d534541ecfe479074dff2951ad9e0edc8b4f4b6/header.jpg?t=1748349079",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584440/027c7a5d58557711971695a199d5458d5287d7ba/capsule_231x87.jpg?t=1748349079",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584440/027c7a5d58557711971695a199d5458d5287d7ba/capsule_184x69.jpg?t=1748349079",
     "website": "https://7keyssaga.com",
     "developers": [
       "Politebot LLC"
@@ -7687,14 +7730,30 @@
     "publishers": [
       "Politebot LLC"
     ],
-    "package_groups": [],
+    "packages": [
+      1264480
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy 7 Keys Saga",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
+      22,
+      23,
+      28,
       62
     ],
     "genres": [
@@ -7703,16 +7762,19 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 1
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "4 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@7keyssaga.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584440?t=1742952151",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584440?t=1742952151",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584440?t=1748349079",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584440?t=1748349079",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7887,9 +7949,9 @@
     "is_free": false,
     "short_description": "A fast-paced parkour platformer where you jump, climb, and navigate surreal landscapes to find your way home. Face gravity-defying challenges, mysterious portals, and ever-changing worlds as you fight to escape the unknown. Keep moving forward\u2014your only way back is down.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584900/3ba612d83612365e09d804bf0c809dba66e1c6fd/header.jpg?t=1742614799",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584900/b42728eec97df844a28af9a630eb07bf3aea4c27/capsule_231x87.jpg?t=1742614799",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584900/b42728eec97df844a28af9a630eb07bf3aea4c27/capsule_184x69.jpg?t=1742614799",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584900/3ba612d83612365e09d804bf0c809dba66e1c6fd/header.jpg?t=1746159312",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584900/b42728eec97df844a28af9a630eb07bf3aea4c27/capsule_231x87.jpg?t=1746159312",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584900/b42728eec97df844a28af9a630eb07bf3aea4c27/capsule_184x69.jpg?t=1746159312",
     "website": null,
     "developers": [
       "After Life Studio"
@@ -7897,7 +7959,20 @@
     "publishers": [
       "After Life Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1264627
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Do Not Fall",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7913,15 +7988,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "March 2025"
+      "coming_soon": false,
+      "date": "4 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "afterlifestudioog@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584900?t=1742614799",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584900?t=1742614799",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584900?t=1746159312",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584900?t=1746159312",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8913,9 +8988,9 @@
       "appid": "3284270",
       "name": "Blobun"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583440/521d785c775905001fe65f2aa66d63e2903e3d3a/header.jpg?t=1743017268",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583440/b4b45d2ccc8b8b5ca5caaa42f90cd9cbc0ae3b38/capsule_231x87.jpg?t=1743017268",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583440/b4b45d2ccc8b8b5ca5caaa42f90cd9cbc0ae3b38/capsule_184x69.jpg?t=1743017268",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583440/521d785c775905001fe65f2aa66d63e2903e3d3a/header.jpg?t=1743716285",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583440/b4b45d2ccc8b8b5ca5caaa42f90cd9cbc0ae3b38/capsule_231x87.jpg?t=1743716285",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583440/b4b45d2ccc8b8b5ca5caaa42f90cd9cbc0ae3b38/capsule_184x69.jpg?t=1743716285",
     "website": null,
     "developers": [
       "CyanSorcery"
@@ -8923,7 +8998,20 @@
     "publishers": [
       "CyanSorcery"
     ],
-    "package_groups": [],
+    "packages": [
+      1264147
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Blobun Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -8933,15 +9021,15 @@
       50
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "3 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@blobun.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583440?t=1743017268",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583440?t=1743017268",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583440?t=1743716285",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583440?t=1743716285",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9037,15 +9125,15 @@
   },
   "3582480": {
     "type": "game",
-    "name": "GoopUp",
+    "name": "Goop Up!",
     "steam_appid": 3582480,
     "required_age": 0,
     "is_free": false,
     "short_description": "A vibrant and mysterious world filled with enchanted hats, oozing clumps of slime, hidden pathways, and a terrible king. Follow the trail of adventure to defeat the king and save the world from his tyrannical rule!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582480/ea6aca3fc92ed1d290bbe90e2e198b40969b1db8/header.jpg?t=1743023830",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582480/4e60d7a0d126eb82d93abd498314fb8470375509/capsule_231x87.jpg?t=1743023830",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582480/4e60d7a0d126eb82d93abd498314fb8470375509/capsule_184x69.jpg?t=1743023830",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582480/ea6aca3fc92ed1d290bbe90e2e198b40969b1db8/header.jpg?t=1744620563",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582480/4e60d7a0d126eb82d93abd498314fb8470375509/capsule_231x87.jpg?t=1744620563",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582480/4e60d7a0d126eb82d93abd498314fb8470375509/capsule_184x69.jpg?t=1744620563",
     "website": null,
     "developers": [
       "SkogfallStudios"
@@ -9077,14 +9165,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q2 2026"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "skogfallstudios@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582480?t=1743023830",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582480?t=1743023830",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582480?t=1744620563",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582480?t=1744620563",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9199,9 +9287,9 @@
     "is_free": false,
     "short_description": "Misty's Super Golf Solitaire is a Golf Solitaire variant with deck-building. Earn gold coins to buy unique cards to maintain your winning streak while you aim for the highest rank. Features classical music and turn-of-the-century-inspired backgrounds all in a nostalgic 16-bit style.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582460/b7adff05b8f384c770c35490c42f6773b0219f36/header.jpg?t=1743080878",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582460/dd8e57f95f649ba2d71071249221c9f917978d20/capsule_231x87.jpg?t=1743080878",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582460/dd8e57f95f649ba2d71071249221c9f917978d20/capsule_184x69.jpg?t=1743080878",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582460/b7adff05b8f384c770c35490c42f6773b0219f36/header.jpg?t=1744272541",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582460/dd8e57f95f649ba2d71071249221c9f917978d20/capsule_231x87.jpg?t=1744272541",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582460/dd8e57f95f649ba2d71071249221c9f917978d20/capsule_184x69.jpg?t=1744272541",
     "website": null,
     "developers": [
       "Misty V Productions"
@@ -9209,7 +9297,20 @@
     "publishers": [
       "Misty V Productions"
     ],
-    "package_groups": [],
+    "packages": [
+      1263787
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Misty's Super Golf Solitaire",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -9224,16 +9325,19 @@
       4,
       23
     ],
+    "achievements": {
+      "total": 16
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "April 2025"
+      "coming_soon": false,
+      "date": "10 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "koboldslayer@yandex.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582460?t=1743080878",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582460?t=1743080878",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582460?t=1744272541",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3582460?t=1744272541",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9268,9 +9372,9 @@
       "appid": "3445580",
       "name": "Ambidextro"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584520/0f2056799f4181f5a53788aeefceeb6cec5c7183/header.jpg?t=1743095892",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584520/6a093c77f01788736b45ff7c7fdd40665518b6c7/capsule_231x87.jpg?t=1743095892",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584520/6a093c77f01788736b45ff7c7fdd40665518b6c7/capsule_184x69.jpg?t=1743095892",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584520/0f2056799f4181f5a53788aeefceeb6cec5c7183/header.jpg?t=1743182149",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584520/6a093c77f01788736b45ff7c7fdd40665518b6c7/capsule_231x87.jpg?t=1743182149",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584520/6a093c77f01788736b45ff7c7fdd40665518b6c7/capsule_184x69.jpg?t=1743182149",
     "website": null,
     "developers": [
       "Majorariatto"
@@ -9278,22 +9382,35 @@
     "publishers": [
       "Majorariatto"
     ],
-    "package_groups": [],
+    "packages": [
+      1264505
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ambidextro Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "28 Mar, 2025"
     },
     "support_info": {
       "url": "https://www.majorariatto.com/",
       "email": "contact@majorariatto.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584520?t=1743095892",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584520/68507db53a9b017d57b93aecd8909f6eaf3412cf/page_bg_raw.jpg?t=1743095892",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3584520?t=1743182149",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584520/68507db53a9b017d57b93aecd8909f6eaf3412cf/page_bg_raw.jpg?t=1743182149",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12730,6 +12847,79 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Drogen\nVerbrechen\nDerbe Sprache"
+      }
+    }
+  },
+  "3583220": {
+    "type": "game",
+    "name": "The Colony",
+    "steam_appid": 3583220,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "You're an unorthodox ex-priest who uses occult knowledge to exorcise demons, face the dangers of the afterlife and shoot with a shotgun! COLONIA is a survival horror game inspired by the horrors of the Col\u00f4nia Hospital in Barbacena, Minas Gerais (Brazil). Action and the occult in one game!",
+    "supported_languages": "English, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583220/9314cce8fc69e873f297e4f419558e9f9c75d5a5/header.jpg?t=1749007445",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583220/b181e112e5a4dc575c5cf27e2d42b07e136f058a/capsule_231x87.jpg?t=1749007445",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583220/b181e112e5a4dc575c5cf27e2d42b07e136f058a/capsule_184x69.jpg?t=1749007445",
+    "website": "https://www.tiktok.com/@pandalokostudio",
+    "developers": [
+      "Panda Loko Studio"
+    ],
+    "publishers": [
+      "Panda Loko Studio"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      13,
+      22,
+      28,
+      62
+    ],
+    "genres": [
+      1,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "https://www.tiktok.com/@pandalokostudio",
+      "email": "pandalokostudio@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3583220?t=1749007445",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583220/e82c46b05870464832f9cfc2fe7f75ea8bcc47da/page_bg_raw.jpg?t=1749007445",
+    "content_descriptors": {
+      "ids": [
+        2,
+        5
+      ],
+      "notes": "Fantasy violence using cinematic elements such as a cross or an illumined weapon"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror\nDerbe Sprache"
       }
     }
   }
