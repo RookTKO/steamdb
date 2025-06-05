@@ -7875,16 +7875,16 @@
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
-    "short_description": "An arcade game with a retro vibe. Navigate a helicopter in 2.5D and rescue people waiting for transport. Don't overdo the aerial acrobatics\u2014passengers might fall out! Also, land softly! And be quick\u2014you're running out of fuel. Puzzles with portals add a modern twist to the retro gameplay.",
+    "short_description": "An arcade flying sim with a retro vibe. Navigate a helicopter in 2.5D and rescue people waiting for transport. Don't overdo the aerial acrobatics-passengers might fall out! Also, land softly! And be quick-you're running out of fuel. Progress and upgrade the heli.",
     "fullgame": {
       "appid": "3440810",
       "name": "Rescue Heli RH407"
     },
     "supported_languages": "English, Polish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585200/4526ba38a66199ecbab81fe05d15032bb3f13c3e/header.jpg?t=1743141442",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585200/090fc97dd61ae77b49a9365e2e39c6965f9d8dda/capsule_231x87.jpg?t=1743141442",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585200/090fc97dd61ae77b49a9365e2e39c6965f9d8dda/capsule_184x69.jpg?t=1743141442",
-    "website": "https://www.facebook.com/profile.php?id=61567630343963",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585200/4526ba38a66199ecbab81fe05d15032bb3f13c3e/header.jpg?t=1748684529",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585200/090fc97dd61ae77b49a9365e2e39c6965f9d8dda/capsule_231x87.jpg?t=1748684529",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585200/090fc97dd61ae77b49a9365e2e39c6965f9d8dda/capsule_184x69.jpg?t=1748684529",
+    "website": null,
     "developers": [
       "G-REX games"
     ],
@@ -7909,15 +7909,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "4 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "gawryl77@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3585200?t=1743141442",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585200/dc531de6c90d856b9b1182959f8e1975dd1ab139/page_bg_raw.jpg?t=1743141442",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3585200?t=1748684529",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585200/dc531de6c90d856b9b1182959f8e1975dd1ab139/page_bg_raw.jpg?t=1748684529",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8043,10 +8043,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Strategic card game set in a fantasy world. Create powerful combinations by combining elements and card levels in a unique circle system. Simple to learn, but full of depth - every decision matters. Master the mechanics, take risks and achieve the highest scores!",
-    "supported_languages": "English, Polish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586740/79b559771d7d31031c5f3ca59c0f9926fe7213e4/header.jpg?t=1743152205",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586740/209061793ae7ecd26098b8431abe3e58050cf461/capsule_231x87.jpg?t=1743152205",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586740/209061793ae7ecd26098b8431abe3e58050cf461/capsule_184x69.jpg?t=1743152205",
+    "supported_languages": "English, Polish, French, Italian, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Czech, Danish, Finnish, Japanese, Korean, Norwegian, Portuguese - Portugal, Portuguese - Brazil, Russian, Swedish, Turkish, Hungarian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586740/41172370515dc4f6f2b0372a7a06bf7258b2f38f/header.jpg?t=1748356489",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586740/209061793ae7ecd26098b8431abe3e58050cf461/capsule_231x87.jpg?t=1748356489",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586740/209061793ae7ecd26098b8431abe3e58050cf461/capsule_184x69.jpg?t=1748356489",
     "website": null,
     "developers": [
       "Kielan xD"
@@ -8054,11 +8054,24 @@
     "publishers": [
       "Kielan xD"
     ],
-    "package_groups": [],
+    "packages": [
+      1265234
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ellentis",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": true
+      "linux": false
     },
     "categories": [
       2,
@@ -8068,18 +8081,22 @@
     ],
     "genres": [
       2,
+      4,
       23
     ],
+    "achievements": {
+      "total": 80
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "kielanxd@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3586740?t=1743152205",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586740/34e5a1f8f3d18d04634c05b0779b84619e480f2d/page_bg_raw.jpg?t=1743152205",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3586740?t=1748356489",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586740/34e5a1f8f3d18d04634c05b0779b84619e480f2d/page_bg_raw.jpg?t=1748356489",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8116,9 +8133,9 @@
       "name": "Bit Crawl"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587210/c6a300c7435f18ceec9ae38f60f2c63b884ef0e6/header.jpg?t=1743170277",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587210/4ab0347926e8c8f50a851824648caa45e419cd55/capsule_231x87.jpg?t=1743170277",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587210/4ab0347926e8c8f50a851824648caa45e419cd55/capsule_184x69.jpg?t=1743170277",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587210/4b395d7b4ed1771cdbbce5b8b7221a503fbd916d/header.jpg?t=1744316739",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587210/0fc3d663879a958d2ca28ce9afdb25bfdf7cc23d/capsule_231x87.jpg?t=1744316739",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587210/0fc3d663879a958d2ca28ce9afdb25bfdf7cc23d/capsule_184x69.jpg?t=1744316739",
     "website": null,
     "developers": [
       "Milan"
@@ -8145,8 +8162,8 @@
       "url": "",
       "email": "contact.bitcrawl@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3587210?t=1743170277",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3587210?t=1743170277",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3587210?t=1744316739",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3587210?t=1744316739",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8316,9 +8333,9 @@
     "is_free": false,
     "short_description": "A fun and interactive desktop pet game! Your pet reacts to gravity, sticks to windows, and moves dynamically. Speed up its table favor animation by moving or clicking your mouse. Choose from 9 pre-made models or customize your own! Send it to your friends, let them together play &quot;Your Granny&quot;.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585210/8b04f03d31c7015220e2d6bb49f061c9143b34e7/header.jpg?t=1743153604",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585210/f49d1d84b4729602527ee463331ca302f61e4899/capsule_231x87.jpg?t=1743153604",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585210/f49d1d84b4729602527ee463331ca302f61e4899/capsule_184x69.jpg?t=1743153604",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585210/8b04f03d31c7015220e2d6bb49f061c9143b34e7/header.jpg?t=1744540873",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585210/f49d1d84b4729602527ee463331ca302f61e4899/capsule_231x87.jpg?t=1744540873",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585210/f49d1d84b4729602527ee463331ca302f61e4899/capsule_184x69.jpg?t=1744540873",
     "website": null,
     "developers": [
       "Alright Peaches Studio"
@@ -8326,7 +8343,21 @@
     "publishers": [
       "Alright Peaches Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1264726,
+      1297682
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Your Granny",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8344,16 +8375,19 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 7
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2025"
+      "coming_soon": false,
+      "date": "13 Apr, 2025"
     },
     "support_info": {
       "url": "http://www.tonytony.xyz",
       "email": "lovegold@126.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3585210?t=1743153604",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585210/409666da9b66d4a69b102d6df13a3092d018f7e6/page_bg_raw.jpg?t=1743153604",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3585210?t=1744540873",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585210/409666da9b66d4a69b102d6df13a3092d018f7e6/page_bg_raw.jpg?t=1744540873",
     "content_descriptors": {
       "ids": [
         5

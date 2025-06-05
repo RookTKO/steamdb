@@ -9220,12 +9220,12 @@
     "name": "Miner Tower Defense",
     "steam_appid": 2964990,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
     "short_description": "This is a game that combines mining and tower defense elements. Players need to build defense towers by digging and gathering minerals underground to resist a constant stream of monsters!",
     "supported_languages": "Simplified Chinese, English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964990/header.jpg?t=1716896269",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964990/capsule_231x87.jpg?t=1716896269",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964990/capsule_184x69.jpg?t=1716896269",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964990/header.jpg?t=1739915386",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964990/capsule_231x87.jpg?t=1739915386",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964990/capsule_184x69.jpg?t=1739915386",
     "website": null,
     "developers": [
       "\u714c\u714c\u5217\u661f"
@@ -9244,18 +9244,19 @@
     ],
     "genres": [
       2,
-      23
+      23,
+      37
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "10 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "3757889176@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964990/page_bg_generated_v6b.jpg?t=1716896269",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964990/page_bg_generated.jpg?t=1716896269",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2964990?t=1739915386",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2964990?t=1739915386",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9284,55 +9285,75 @@
     "name": "Yapori Minigames",
     "steam_appid": 2964440,
     "required_age": 0,
-    "is_free": true,
-    "short_description": "Yapori Minigames is a game with various different mini-games and several playable characters!",
-    "supported_languages": "Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964440/header.jpg?t=1716898860",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964440/capsule_231x87.jpg?t=1716898860",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964440/capsule_184x69.jpg?t=1716898860",
-    "website": "https://www.youtube.com/channel/UC3YkA1xMaszXzoBCQUuCleA",
+    "is_free": false,
+    "short_description": "Yapori Minigames is a multiplayer game with various different mini-games and several playable characters!",
+    "supported_languages": "Portuguese - Brazil, English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964440/header.jpg?t=1736381101",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964440/capsule_231x87.jpg?t=1736381101",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964440/capsule_184x69.jpg?t=1736381101",
+    "website": null,
     "developers": [
       "Hayllon"
     ],
     "publishers": [
-      "Hayllon"
+      "The Yapori Show"
     ],
-    "package_groups": [],
+    "packages": [
+      1193734,
+      1198541
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Yapori Minigames",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
+      1,
       2,
-      22
+      9,
+      38,
+      62
     ],
     "genres": [
-      4,
-      37
+      4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "31 Oct, 2024"
     },
     "support_info": {
       "url": "",
       "email": "animationdrawn7@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964440/page_bg_generated_v6b.jpg?t=1716898860",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964440/page.bg.jpg?t=1716898860",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2964440?t=1736381101",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964440/page_bg_raw.jpg?t=1736381101",
     "content_descriptors": {
       "ids": [],
       "notes": null
     },
     "ratings": {
-      "dejus": {
-        "rating": "12",
-        "descriptors": "Viol\u00eancia fantasiosa\r\nLinguagem impr\u00f3pria"
-      },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "0",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
         "required_age": "0",
         "banned": "0",
         "use_age_gate": "0",
