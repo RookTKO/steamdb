@@ -330,23 +330,46 @@
   },
   "2289390": {
     "type": "game",
-    "name": "Crab God: Mother of the Tide",
+    "name": "Crab God",
     "steam_appid": 2289390,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Crab God is an atmospheric underwater god game where you must restore the environment to sustain your children. Build beautiful coral reefs, grow your crabby religion, and explore a hostile yet beautiful ocean world. Can you protect your children and raise the next generation of ocean guardians?",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289390/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289390/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289390/capsule_184x69.jpg",
-    "website": "https://www.crabgodgame.com",
+    "controller_support": "full",
+    "dlc": [
+      3016900
+    ],
+    "short_description": "Crab God is an atmospheric underwater strategy game. Guide your Crabling colony through wild ocean depths, and defend the egg of the next Crab God.Restore and protect diverse coral reefs, making a difference in the real world as you progress in-game. Make waves, praise the claw!",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Indonesian, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Turkish, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/header.jpg?t=1742312800",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/37dec62457341763e027d2759b9663cfaf3968b0/capsule_231x87.jpg?t=1742312800",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/37dec62457341763e027d2759b9663cfaf3968b0/capsule_184x69.jpg?t=1742312800",
+    "website": "https://firesquid.games/games/crab-god",
     "developers": [
       "Chaos Theory Games"
     ],
     "publishers": [
-      "Chaos Theory Games"
+      "Firesquid"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2985580,
+        "description": ""
+      }
+    ],
+    "packages": [
+      821302
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Crab God",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -354,25 +377,51 @@
     },
     "categories": [
       2,
-      22
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       2,
+      23,
+      25,
       28
     ],
+    "achievements": {
+      "total": 47
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Jun, 2024"
     },
     "support_info": {
-      "url": "https://www.chaostheorygames.com",
-      "email": "support@chaostheory.games"
+      "url": "https://firesquid.games/",
+      "email": "contact@firesquid.fr"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289390/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289390/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289390?t=1742312800",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/page_bg_raw.jpg?t=1742312800",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2291200": {
@@ -752,15 +801,15 @@
     "is_free": false,
     "short_description": "Better tomato clock! More free room layout!",
     "supported_languages": "Simplified Chinese, English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289460/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289460/header.jpg?t=1726324244",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289460/capsule_231x87.jpg?t=1726324244",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289460/capsule_184x69.jpg?t=1726324244",
     "website": null,
     "developers": [
-      "NaA Games"
+      "Where \u6e38\u620f"
     ],
     "publishers": [
-      "NaA Games"
+      "Where \u6e38\u620f"
     ],
     "packages": [
       821360
@@ -782,7 +831,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -797,11 +847,27 @@
       "url": "",
       "email": "yanghaoran@naagames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289460/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289460?t=1726324244",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289460/page_bg_raw.jpg?t=1726324244",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Nudez",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2291510": {
@@ -981,9 +1047,9 @@
       "name": "Call of Duty\u00ae: Vanguard"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289415/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289415/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289415/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289415/header.jpg?t=1699489764",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289415/capsule_231x87.jpg?t=1699489764",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289415/capsule_184x69.jpg?t=1699489764",
     "website": "https://www.callofduty.com/vanguard",
     "developers": [
       "Sledgehammer Games",
@@ -1039,14 +1105,32 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289415/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289415/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289415?t=1699489764",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289415/page_bg_raw.jpg?t=1699489764",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2289295": {
@@ -1062,9 +1146,9 @@
       "name": "Call of Duty\u00ae: Black Ops Cold War"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289295/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289295/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289295/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289295/header.jpg?t=1678294872",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289295/capsule_231x87.jpg?t=1678294872",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289295/capsule_184x69.jpg?t=1678294872",
     "website": "https://www.callofduty.com/blackopscoldwar",
     "developers": [
       "Treyarch",
@@ -1120,15 +1204,16 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289295/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289295/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289295?t=1678294872",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289295/page_bg_raw.jpg?t=1678294872",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2290650": {
     "type": "game",
@@ -1473,9 +1558,9 @@
     "is_free": false,
     "short_description": "A hand drawn, turn-based, card battling hybrid. Collect cards and build your deck to conquer your opponents! Outwit and ultimately outplay them with a superior strategy!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289000/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289000/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289000/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289000/header.jpg?t=1687748808",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289000/capsule_231x87.jpg?t=1687748808",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289000/capsule_184x69.jpg?t=1687748808",
     "website": null,
     "developers": [
       "Jeezums"
@@ -1493,7 +1578,8 @@
       1,
       2,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2,
@@ -1507,11 +1593,19 @@
       "url": "",
       "email": "joshpetersdev@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289000/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289000/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289000?t=1687748808",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289000/page_bg_raw.jpg?t=1687748808",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      }
     }
   },
   "2289750": {
@@ -1844,13 +1938,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289340/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289340/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289340/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289340/header.jpg?t=1679748373",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289340/capsule_231x87.jpg?t=1679748373",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289340/capsule_184x69.jpg?t=1679748373",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -1865,12 +1956,13 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289340?t=1679748373",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289340?t=1679748373",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2291490": {
     "type": "game",
@@ -1943,9 +2035,9 @@
     "is_free": false,
     "short_description": "Fight for victory in this fast-paced 1v1 online multiplayer game. Use strategy to infiltrate your opponents zone, eliminate pieces, and capture their flag. With dynamic respawns and intense battles, every match will put your strategy to the test.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289420/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289420/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289420/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289420/header.jpg?t=1675224139",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289420/capsule_231x87.jpg?t=1675224139",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289420/capsule_184x69.jpg?t=1675224139",
     "website": null,
     "developers": [
       "Buoy Interactive"
@@ -1963,7 +2055,8 @@
       1,
       2,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -1976,11 +2069,16 @@
       "url": "",
       "email": "DILLANTHOMAS88@GMAIL.COM"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289420/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289420/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289420?t=1675224139",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289420/page_bg_raw.jpg?t=1675224139",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      }
     }
   },
   "2291130": {
@@ -2458,9 +2556,9 @@
       "name": "Call of Duty\u00ae: Vanguard"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289417/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289417/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289417/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289417/header.jpg?t=1678295056",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289417/capsule_231x87.jpg?t=1678295056",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289417/capsule_184x69.jpg?t=1678295056",
     "website": "https://www.callofduty.com/vanguard",
     "developers": [
       "Sledgehammer Games",
@@ -2516,14 +2614,32 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289417/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289417/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289417?t=1678295056",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289417/page_bg_raw.jpg?t=1678295056",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2291030": {
@@ -2989,23 +3105,30 @@
     "controller_support": "full",
     "short_description": "&quot;Space Recall&quot; is a side-scrolling game with action Roguelike structure, skill and equipment combination as innovation points, and economic operation as the driving force. players can build character skills according to the situation, and at the same time with special abilities",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289550/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289550/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289550/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289550/header.jpg?t=1748001016",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289550/capsule_231x87.jpg?t=1748001016",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289550/capsule_184x69.jpg?t=1748001016",
+    "website": "https://discord.gg/JhpR64EGqH",
     "developers": [
       "JohnHang"
     ],
     "publishers": [
       "JohnHang"
     ],
-    "demos": [
+    "packages": [
+      821389
+    ],
+    "package_groups": [
       {
-        "appid": 2398560,
-        "description": ""
+        "name": "default",
+        "title": "Buy Space Recall",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3013,7 +3136,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -3021,19 +3145,35 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 9
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "November 2023"
+      "coming_soon": false,
+      "date": "17 Nov, 2023"
     },
     "support_info": {
       "url": "",
       "email": "471887620@qq.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289550/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289550/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289550?t=1748001016",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289550?t=1748001016",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2289298": {
@@ -3049,9 +3189,9 @@
       "name": "Call of Duty\u00ae: Black Ops Cold War"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289298/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289298/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289298/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289298/header.jpg?t=1678300387",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289298/capsule_231x87.jpg?t=1678300387",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289298/capsule_184x69.jpg?t=1678300387",
     "website": "https://www.callofduty.com/blackopscoldwar",
     "developers": [
       "Treyarch",
@@ -3107,15 +3247,16 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289298/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289298/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289298?t=1678300387",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289298/page_bg_raw.jpg?t=1678300387",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2289910": {
     "type": "game",
@@ -3180,9 +3321,9 @@
       "name": "Call of Duty\u00ae: Black Ops Cold War"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289297/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289297/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289297/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289297/header.jpg?t=1678294875",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289297/capsule_231x87.jpg?t=1678294875",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289297/capsule_184x69.jpg?t=1678294875",
     "website": "https://www.callofduty.com/blackopscoldwar",
     "developers": [
       "Treyarch",
@@ -3238,15 +3379,16 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289297/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289297/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289297?t=1678294875",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289297/page_bg_raw.jpg?t=1678294875",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2289840": {
     "type": "dlc",
@@ -3460,9 +3602,9 @@
     "controller_support": "full",
     "short_description": "You\u2019re a creepy witch in the woods. Burst out of a bloated deer carcass, battle the undead, rebuild your home, unlock earth-shattering black magic, and explore a 2D hand-drawn world of witchcraft.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289580/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289580/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289580/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289580/header.jpg?t=1726515224",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289580/capsule_231x87.jpg?t=1726515224",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289580/capsule_184x69.jpg?t=1726515224",
     "website": "https://www.valadria.com/witchmore/",
     "developers": [
       "Valadria"
@@ -3480,7 +3622,8 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -3496,14 +3639,30 @@
       "url": "https://www.valadria.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289580/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289580/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289580?t=1726515224",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289580/page_bg_raw.jpg?t=1726515224",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "Cartoon violence against monsters."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2289416": {
@@ -3519,9 +3678,9 @@
       "name": "Call of Duty\u00ae: Vanguard"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289416/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289416/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289416/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289416/header.jpg?t=1699489828",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289416/capsule_231x87.jpg?t=1699489828",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289416/capsule_184x69.jpg?t=1699489828",
     "website": "https://www.callofduty.com/vanguard",
     "developers": [
       "Sledgehammer Games",
@@ -3577,14 +3736,32 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289416/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289416/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289416?t=1699489828",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289416/page_bg_raw.jpg?t=1699489828",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2290280": {
@@ -4204,9 +4381,9 @@
       "name": "Call of Duty\u00ae: Vanguard"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289410/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289410/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289410/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289410/header.jpg?t=1678301135",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289410/capsule_231x87.jpg?t=1678301135",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289410/capsule_184x69.jpg?t=1678301135",
     "website": "https://www.callofduty.com/vanguard",
     "developers": [
       "Sledgehammer Games",
@@ -4262,14 +4439,32 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289410/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289410/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289410?t=1678301135",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289410/page_bg_raw.jpg?t=1678301135",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2289418": {
@@ -4285,9 +4480,9 @@
       "name": "Call of Duty\u00ae: Vanguard"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289418/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289418/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289418/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289418/header.jpg?t=1678295062",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289418/capsule_231x87.jpg?t=1678295062",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289418/capsule_184x69.jpg?t=1678295062",
     "website": "https://www.callofduty.com/vanguard",
     "developers": [
       "Sledgehammer Games",
@@ -4343,14 +4538,32 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289418/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289418/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289418?t=1678295062",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289418/page_bg_raw.jpg?t=1678295062",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2291060": {
@@ -5380,9 +5593,9 @@
       "name": "Corsairs Legacy - Pirate Action RPG & Sea Battles"
     },
     "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Ukrainian<strong>*</strong>, French, Italian, German, Spanish - Spain, Danish, Simplified Chinese, Traditional Chinese, Korean, Norwegian, Dutch, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Thai, Turkish, Hungarian, Finnish, Czech, Swedish, Japanese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289330/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289330/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289330/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289330/header.jpg?t=1699615654",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289330/capsule_231x87.jpg?t=1699615654",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289330/capsule_184x69.jpg?t=1699615654",
     "website": "https://corsairslegacy.com/",
     "developers": [
       "Mauris"
@@ -5410,11 +5623,24 @@
       "url": "",
       "email": "support@corsairslegacy.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289330/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289330/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289330?t=1699615654",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289330?t=1699615654",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2289200": {
@@ -5482,9 +5708,9 @@
     "is_free": false,
     "short_description": "&quot;Toast&quot; is a game where players must use problem-solving skills to escape a randomly generated maze while being chased by a deadly humanoid piece of toast. The game features challenging puzzles, randomly generated levels, and endless hours of excitement.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289610/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289610/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289610/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289610/header.jpg?t=1679861171",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289610/capsule_231x87.jpg?t=1679861171",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289610/capsule_184x69.jpg?t=1679861171",
     "website": null,
     "developers": [
       "Ethan Waddell",
@@ -5513,7 +5739,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -5528,11 +5755,29 @@
       "url": "",
       "email": "boundl3ssproductions@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289610/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289610/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289610?t=1679861171",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289610/page_bg_raw.jpg?t=1679861171",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2291000": {
@@ -5995,9 +6240,9 @@
     "is_free": false,
     "short_description": "MAD WAY is a game where you have to climb a strange universe without falling to find your love! A second map is now available in multiplayer mode (SandWay).",
     "supported_languages": "English<strong>*</strong>, French, German, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289400/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289400/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289400/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289400/header.jpg?t=1694021344",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289400/capsule_231x87.jpg?t=1694021344",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289400/capsule_184x69.jpg?t=1694021344",
     "website": null,
     "developers": [
       "SMB CLUB"
@@ -6030,7 +6275,8 @@
       9,
       22,
       25,
-      38
+      38,
+      62
     ],
     "genres": [
       4,
@@ -6049,11 +6295,29 @@
       "url": "",
       "email": "kikettestar@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289400/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289400/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289400?t=1694021344",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289400/page_bg_raw.jpg?t=1694021344",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2290070": {
@@ -6525,9 +6789,9 @@
       "name": "Call of Duty\u00ae: Black Ops Cold War"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289294/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289294/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289294/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289294/header.jpg?t=1678294863",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289294/capsule_231x87.jpg?t=1678294863",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289294/capsule_184x69.jpg?t=1678294863",
     "website": "https://www.callofduty.com/blackopscoldwar",
     "developers": [
       "Treyarch",
@@ -6583,15 +6847,16 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289294/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289294/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289294?t=1678294863",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289294/page_bg_raw.jpg?t=1678294863",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2290900": {
     "type": "game",
@@ -7480,9 +7745,9 @@
       "name": "Moonlight In Garland"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289520/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289520/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289520/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289520/header.jpg?t=1695283012",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289520/capsule_231x87.jpg?t=1695283012",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289520/capsule_184x69.jpg?t=1695283012",
     "website": "https://moonlightingarland.com",
     "developers": [
       "Winters Group Estate"
@@ -7508,11 +7773,21 @@
       "url": "https://moonlightingarland.com/contact/",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289520?t=1695283012",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289520?t=1695283012",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2289690": {
@@ -7839,9 +8114,9 @@
       "name": "Call of Duty\u00ae: Vanguard"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289411/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289411/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289411/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289411/header.jpg?t=1678299664",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289411/capsule_231x87.jpg?t=1678299664",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289411/capsule_184x69.jpg?t=1678299664",
     "website": "https://www.callofduty.com/vanguard",
     "developers": [
       "Sledgehammer Games",
@@ -7897,14 +8172,32 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289411/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289411/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289411?t=1678299664",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289411/page_bg_raw.jpg?t=1678299664",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2291240": {
@@ -8086,9 +8379,9 @@
       "appid": "2154940",
       "name": "Re:|THM - once upon a time"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289510/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289510/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289510/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289510/header.jpg?t=1675974440",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289510/capsule_231x87.jpg?t=1675974440",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289510/capsule_184x69.jpg?t=1675974440",
     "website": "https://soundcloud.com/user-771447507",
     "developers": [
       "Boyagers Games"
@@ -8123,11 +8416,21 @@
       "url": "",
       "email": "patagonia1258@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289510/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289510/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289510?t=1675974440",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289510?t=1675974440",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2289560": {
@@ -9529,9 +9832,9 @@
       "name": "Call of Duty\u00ae: Vanguard"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289414/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289414/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289414/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289414/header.jpg?t=1699489603",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289414/capsule_231x87.jpg?t=1699489603",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289414/capsule_184x69.jpg?t=1699489603",
     "website": "https://www.callofduty.com/vanguard",
     "developers": [
       "Sledgehammer Games",
@@ -9587,14 +9890,32 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289414/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289414/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289414?t=1699489603",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289414/page_bg_raw.jpg?t=1699489603",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2290930": {
@@ -9870,9 +10191,9 @@
     "is_free": false,
     "short_description": "Be the hero in virtual reality! Respond to a range of emergency situations and save lives with your first aid skills. Immerse yourself in the heat of the moment and experience the rush of being a first responder. Get ready to make a difference! #VRFirstResponder #SaveLives",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289500/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289500/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289500/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289500/header.jpg?t=1678674895",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289500/capsule_231x87.jpg?t=1678674895",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289500/capsule_184x69.jpg?t=1678674895",
     "website": null,
     "developers": [
       "Emergisim Pty Ltd"
@@ -9914,12 +10235,13 @@
       "url": "",
       "email": "hello@emergisimvr.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289500/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289500/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289500?t=1678674895",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289500/page_bg_raw.jpg?t=1678674895",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2291880": {
     "type": "game",
@@ -9998,14 +10320,13 @@
     "steam_appid": 2289040,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Classic turn based-RPG",
+    "short_description": "A psychological Turn Based Combat RPG Dungeon Crawling Horror",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289040/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289040/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289040/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289040/header.jpg?t=1739463848",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289040/ec8352009c470f7c74cdf0e1b8930f0095c06755/capsule_231x87.jpg?t=1739463848",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289040/ec8352009c470f7c74cdf0e1b8930f0095c06755/capsule_184x69.jpg?t=1739463848",
     "website": "https://trashvomitstudios.com/",
     "developers": [
-      "Trash Vomit Studios",
       "James H. Van der Meulen"
     ],
     "publishers": [
@@ -10033,26 +10354,46 @@
     "categories": [
       2,
       18,
-      23
+      23,
+      62
     ],
     "genres": [
-      3
+      3,
+      4
     ],
     "release_date": {
       "coming_soon": false,
       "date": "18 May, 2023"
     },
     "support_info": {
-      "url": "trashvomitstudios.com",
+      "url": "https://discord.gg/trZrDqhVnP",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289040/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289040/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289040?t=1739463848",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289040/page_bg_raw.jpg?t=1739463848",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "This game contains much pixelated gore and blood. Along with themes regarding mental illness. Themes of Death. As well as some drug and alcohol references. "
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas il\u00edcitas\nLinguagem impr\u00f3pria\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogen\nGewalt\nDerbe Sprache"
+      }
     }
   },
   "2289290": {
@@ -10413,9 +10754,9 @@
       "name": "Call of Duty\u00ae: Black Ops Cold War"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289296/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289296/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289296/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289296/header.jpg?t=1678294868",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289296/capsule_231x87.jpg?t=1678294868",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289296/capsule_184x69.jpg?t=1678294868",
     "website": "https://www.callofduty.com/blackopscoldwar",
     "developers": [
       "Treyarch",
@@ -10471,15 +10812,16 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289296/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289296/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289296?t=1678294868",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289296/page_bg_raw.jpg?t=1678294868",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2289080": {
     "type": "game",
@@ -10489,9 +10831,9 @@
     "is_free": false,
     "short_description": "Buy planes, set prices, calculate the budget, track the passenger flow of each city, create routes for the whole world, build your ideal airline",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Korean, Portuguese - Portugal, Russian, Japanese, Traditional Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289080/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289080/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289080/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289080/header.jpg?t=1705268307",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289080/capsule_231x87.jpg?t=1705268307",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289080/capsule_184x69.jpg?t=1705268307",
     "website": "https://elusorgames.com",
     "developers": [
       "Elusor Games"
@@ -10521,7 +10863,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
@@ -10539,11 +10882,39 @@
       "url": "https://elusorgames.com",
       "email": "support@elusorgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289080/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289080/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289080?t=1705268307",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289080/page_bg_raw.jpg?t=1705268307",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "3"
+      },
+      "usk": {
+        "rating": "0"
+      },
+      "oflc": {
+        "rating": "g"
+      },
+      "cero": {
+        "rating": "a"
+      },
+      "kgrb": {
+        "rating": "all"
+      },
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2291520": {
@@ -10825,9 +11196,9 @@
       "name": "Call of Duty\u00ae: Vanguard"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289412/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289412/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289412/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289412/header.jpg?t=1699487825",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289412/capsule_231x87.jpg?t=1699487825",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289412/capsule_184x69.jpg?t=1699487825",
     "website": "https://www.callofduty.com/vanguard",
     "developers": [
       "Sledgehammer Games",
@@ -10883,14 +11254,32 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289412/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289412/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289412?t=1699487825",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289412/page_bg_raw.jpg?t=1699487825",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2289830": {
@@ -11305,9 +11694,9 @@
       "appid": "2288310",
       "name": "Five Nights at Tinky's"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289060/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289060/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289060/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289060/header.jpg?t=1733787813",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289060/capsule_231x87.jpg?t=1733787813",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289060/capsule_184x69.jpg?t=1733787813",
     "website": null,
     "developers": [
       "Tinky"
@@ -11342,11 +11731,16 @@
       "url": "",
       "email": "fnatgamereply@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289060/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289060/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289060?t=1733787813",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289060?t=1733787813",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      }
     }
   },
   "2289413": {
@@ -11362,9 +11756,9 @@
       "name": "Call of Duty\u00ae: Vanguard"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289413/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289413/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289413/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289413/header.jpg?t=1699489517",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289413/capsule_231x87.jpg?t=1699489517",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289413/capsule_184x69.jpg?t=1699489517",
     "website": "https://www.callofduty.com/vanguard",
     "developers": [
       "Sledgehammer Games",
@@ -11419,14 +11813,32 @@
       "url": "https://support.activision.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289413/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289413/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289413?t=1699489517",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289413/page_bg_raw.jpg?t=1699489517",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2291410": {
@@ -11487,9 +11899,9 @@
     "is_free": false,
     "short_description": "Unpack the past and deny the future in this first-person psychological horror about the perception of memory, time and the lengths we go to control these forces. Find your remaining possessions and say goodbye to your shining castle, your diamond home, your Kaleidoscope Chateau.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289490/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289490/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2289490/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289490/header.jpg?t=1675333944",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289490/capsule_231x87.jpg?t=1675333944",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289490/capsule_184x69.jpg?t=1675333944",
     "website": null,
     "developers": [
       "Renz Bolado"
@@ -11506,7 +11918,8 @@
     "categories": [
       2,
       13,
-      18
+      18,
+      62
     ],
     "genres": [
       4,
@@ -11521,13 +11934,21 @@
       "url": "https://twitter.com/GlassAndAntlers",
       "email": "Renzbolado@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2289490/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2289490/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289490?t=1675333944",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2289490?t=1675333944",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "The game contains romanticizations of drug and alcohol abuse and implications of self-harm."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Viol\u00eancia Extrema\r\nMedo\r\nDrogas l\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "2290530": {
