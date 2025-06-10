@@ -756,37 +756,49 @@
     "name": "Neon Striker",
     "steam_appid": 3592710,
     "required_age": 0,
-    "is_free": true,
+    "is_free": false,
     "controller_support": "full",
     "short_description": "Configure the weaponry on your ship to blast away enemies as you navigate through swarms of bullets and space battles. Each ship has unique customization options and playstyles.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592710/c1237904c048569316b6e72d8cbc1dc6513c1d27/header.jpg?t=1743467982",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592710/472f068d1e92def7a3577a985701b0035f8316ef/capsule_231x87.jpg?t=1743467982",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592710/472f068d1e92def7a3577a985701b0035f8316ef/capsule_184x69.jpg?t=1743467982",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592710/c1237904c048569316b6e72d8cbc1dc6513c1d27/header.jpg?t=1749342281",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592710/472f068d1e92def7a3577a985701b0035f8316ef/capsule_231x87.jpg?t=1749342281",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592710/472f068d1e92def7a3577a985701b0035f8316ef/capsule_184x69.jpg?t=1749342281",
     "website": null,
     "developers": [
-      "Zeno's Adventure Team"
+      "Zeno's Adventure Team",
+      "Nickonhawk Games"
     ],
     "publishers": [
       "Zeno's Adventure Team"
     ],
+    "demos": [
+      {
+        "appid": 3714570,
+        "description": ""
+      }
+    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
+      1,
       2,
+      9,
       22,
-      28
+      23,
+      28,
+      38,
+      62
     ],
     "genres": [
       1,
       4,
       23,
       25,
-      37
+      70
     ],
     "release_date": {
       "coming_soon": true,
@@ -796,8 +808,8 @@
       "url": "",
       "email": "zenophobia220@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3592710?t=1743467982",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592710/1b7ce9e8408d0179b9f025c0f0c18e0404c0c136/page_bg_raw.jpg?t=1743467982",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3592710?t=1749342281",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592710/1b7ce9e8408d0179b9f025c0f0c18e0404c0c136/page_bg_raw.jpg?t=1749342281",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -813,8 +825,8 @@
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "6",
-        "required_age": "6",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Fantasy-Gewalt"
@@ -4536,21 +4548,36 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
+    "dlc": [
+      3680990
+    ],
     "short_description": "You wake up in a strange cabin deep in a mysterious forest, axe in hand, with only one way forward\u2014through. Chop trees, sell logs, purchase and upgrade gear, and uncover the secrets hidden deep in the forest.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593780/6bb8d9571a6fc64d7d3a86d81c90036933a8e660/header.jpg?t=1743612589",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593780/5a5b0c7edb64eb41c2e797e7adc9d86b06a06ba8/capsule_231x87.jpg?t=1743612589",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593780/5a5b0c7edb64eb41c2e797e7adc9d86b06a06ba8/capsule_184x69.jpg?t=1743612589",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593780/6bb8d9571a6fc64d7d3a86d81c90036933a8e660/header.jpg?t=1748882996",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593780/5a5b0c7edb64eb41c2e797e7adc9d86b06a06ba8/capsule_231x87.jpg?t=1748882996",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593780/5a5b0c7edb64eb41c2e797e7adc9d86b06a06ba8/capsule_184x69.jpg?t=1748882996",
     "website": null,
     "developers": [
       "Inner Realm Studios",
       "Dumb Duck Games"
     ],
     "publishers": [
-      "Dumb Duck Games",
-      "Inner Realm Studios"
+      "Dumb Duck Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1267629
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Lumberjacked",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4558,6 +4585,7 @@
     },
     "categories": [
       2,
+      22,
       28,
       62
     ],
@@ -4565,16 +4593,19 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 16
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "April 2025"
+      "coming_soon": false,
+      "date": "18 Apr, 2025"
     },
     "support_info": {
       "url": "",
-      "email": "innerrealmstudios.main@gmail.com"
+      "email": "dumbduckgames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593780?t=1743612589",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593780?t=1743612589",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593780?t=1748882996",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593780?t=1748882996",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4600,15 +4631,15 @@
   },
   "3593940": {
     "type": "game",
-    "name": "Spirit Possession",
+    "name": "\u51fa\u9a6c",
     "steam_appid": 3593940,
     "required_age": 0,
     "is_free": false,
-    "short_description": "\u300aSpirit Possession\u300b\u662f\u4e00\u6b3e\u4ea4\u4e92\u53d9\u4e8b\u7c7b\u6e38\u620f\uff0c\u73a9\u5bb6\u53ef\u4ee5\u5728\u6e38\u620f\u4e2d\u4f53\u9a8c\u591a\u91cd\u63a2\u7d22\u7684\u4e50\u8da3\u3002\u6545\u4e8b\u53d1\u751f\u5728\u6c11\u56fd\u4e8c\u5341\u4e09\u5e74\uff0c\u4e00\u4e2a\u5b66\u751f\u53d1\u8d77\u4e86\u4e00\u9879\u63a2\u9669\u6d3b\u52a8\uff0c\u5e26\u9886\u4e00\u540d\u8bb0\u8005\u548c\u8bb0\u8005\u9752\u6885\u7af9\u9a6c\u7684\u5c0f\u8b66\u63a2\uff0c\u524d\u5f80\u4e00\u4e2a\u6751\u5b50\uff0c\u63a2\u67e5\u4e00\u4ef6\u547d\u6848\u7684\u771f\u76f8\uff0c\u76f4\u81f3\u53d1\u73b0\u8fd9\u4e2a\u6751\u5e84\u9057\u7559\u7684\u67d0\u4e2a\u4f20\u8bf4\u3002",
+    "short_description": "\u300a\u51fa\u9a6c\u300b\u662f\u4e00\u6b3e\u7ed3\u5408\u4e86AVG\u548c\u6302\u673a\u73a9\u6cd5\u7684\u6050\u6016\u4e92\u52a8\u771f\u4eba\u5f71\u89c6\u6e38\u620f\uff0c\u8131\u53d8\u4e8e\u4e1c\u5317\u4f20\u7edf\u6c11\u4fd7\u51fa\u9a6c\u4ed9\uff0c\u540c\u65f6\u878d\u5408\u4e86\u6302\u673a\u73a9\u6cd5\uff0c\u4e0d\u4ec5\u8ba9\u4f60\u6709\u89c6\u89c9\u4f53\u9a8c\uff0c\u8fd8\u6709\u8d85\u9ad8\u7684\u6210\u5c31\u6536\u96c6\u4f53\u9a8c\u3002 \u5728\u6e38\u620f\u91cc\uff0c\u4f60\u5c06\u626e\u6f14\u6c11\u56fd\u65f6\u671f\u7684\u4e00\u540d\u5c14\u6ee8\u795e\u63a2\uff0c\u548c\u9752\u6885\u7af9\u9a6c\u7684\u8bb0\u8005\u6797\u79cb\uff0c\u53d7\u6797\u79cb\u5b66\u59b9\u5218\u83f2\u83f2\u7684\u9080\u8bf7\uff0c\u524d\u5f80\u4e00\u4e2a\u540d\u53eb\u9ed1\u9876\u5b50\u7684\u5c71\u6751\uff0c\u8c03\u67e5\u4e00\u8d77\u79bb\u5947\u547d\u6848\u3002\u8fc7\u7a0b\u81ea\u7136\u662f\u60ca\u6050\u4e07\u5206\uff0c\u4f60\u8981\u9762\u4e34\u591a\u79cd\u9009\u62e9\uff0c\u5728\u6751\u6c11\u3001\u6751\u957f\u3001\u5deb\u5e08\u3001\u6797\u79cb\u3001\u5218\u83f2\u83f2\uff0c\u4ee5\u53ca\u7a7f\u7740\u809a\u515c\u51fa\u73b0\u7684\u795e\u79d8\u5973\u4eba\u4e4b\u95f4\uff0c\u4e0d\u65ad\u505a\u51fa\u9009\u62e9\uff0c\u6700\u7ec8\u83b7\u5f97\u6b63\u7ecf\u7684\u3001\u4e0d\u6b63\u7ecf\u7684\u3001\u5b8c\u7f8e\u7684\u3001\u9057\u61be\u7684\u7b49\u591a\u79cd\u7ed3\u5c40\u3002",
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593940/799a5491b1a34ea705377df1caabd3e911c76cdb/header.jpg?t=1743212766",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593940/29bb2e5407db2668d8a696d0eb1011e52299ccf5/capsule_231x87.jpg?t=1743212766",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593940/29bb2e5407db2668d8a696d0eb1011e52299ccf5/capsule_184x69.jpg?t=1743212766",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593940/75434e612028959b019b7c0fbec18a5045ebebc8/header.jpg?t=1749549195",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593940/aa9e56ebd49ceaced75690897535a4d686361ea5/capsule_231x87.jpg?t=1749549195",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593940/aa9e56ebd49ceaced75690897535a4d686361ea5/capsule_184x69.jpg?t=1749549195",
     "website": null,
     "developers": [
       "SS STUDIO"
@@ -4616,7 +4647,20 @@
     "publishers": [
       "SS STUDIO"
     ],
-    "package_groups": [],
+    "packages": [
+      1267678
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u51fa\u9a6c",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4624,21 +4668,26 @@
     },
     "categories": [
       2,
+      22,
+      23,
       62
     ],
     "genres": [
       23
     ],
+    "achievements": {
+      "total": 80
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "15 Apr, 2025"
+      "coming_soon": false,
+      "date": "27 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "676690524@qq.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593940?t=1743212766",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593940?t=1743212766",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593940?t=1749549195",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593940?t=1749549195",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4674,9 +4723,9 @@
       "name": "An alt girl for skoof"
     },
     "supported_languages": "Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592130/729dfd6121161f0756d1e618effbb5c76474197b/header.jpg?t=1742807747",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592130/1e3b964a11bf6c8a7cb1570f5607e1e4615c0d52/capsule_231x87.jpg?t=1742807747",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592130/1e3b964a11bf6c8a7cb1570f5607e1e4615c0d52/capsule_184x69.jpg?t=1742807747",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592130/729dfd6121161f0756d1e618effbb5c76474197b/header.jpg?t=1747763402",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592130/1e3b964a11bf6c8a7cb1570f5607e1e4615c0d52/capsule_231x87.jpg?t=1747763402",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592130/1e3b964a11bf6c8a7cb1570f5607e1e4615c0d52/capsule_184x69.jpg?t=1747763402",
     "website": null,
     "developers": [
       "Terletski Games",
@@ -4685,7 +4734,20 @@
     "publishers": [
       "Terletski Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1267061
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy An Alt girl for Skoof: The Third Chance",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4702,15 +4764,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "24 Apr, 2025"
     },
     "support_info": {
       "url": "",
-      "email": "terletsky.comics@gmail.com"
+      "email": "terletski.games@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3592130?t=1742807747",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592130/b5473781c4efe72d3110fc233008664c7a1d2321/page_bg_raw.jpg?t=1742807747",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3592130?t=1747763402",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592130/b5473781c4efe72d3110fc233008664c7a1d2321/page_bg_raw.jpg?t=1747763402",
     "content_descriptors": {
       "ids": [
         1,
@@ -4941,12 +5003,11 @@
     "steam_appid": 3593060,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
     "short_description": "A racing game with a FULLY. DESTRUCTIBLE. TRACK. Blast through any wall to forge new paths to 1st. Obliterate the very ground of the track to make it more difficult for your opponents, and yourself if you can handle it.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593060/0f4a0d12668f50160d09a916c48c8c4293548829/header.jpg?t=1742939578",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593060/7c144a49be9ae167da08fd3b057f858e37ec2aa0/capsule_231x87.jpg?t=1742939578",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593060/7c144a49be9ae167da08fd3b057f858e37ec2aa0/capsule_184x69.jpg?t=1742939578",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593060/0f4a0d12668f50160d09a916c48c8c4293548829/header.jpg?t=1747894937",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593060/7c144a49be9ae167da08fd3b057f858e37ec2aa0/capsule_231x87.jpg?t=1747894937",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593060/7c144a49be9ae167da08fd3b057f858e37ec2aa0/capsule_184x69.jpg?t=1747894937",
     "website": null,
     "developers": [
       "Polygon Dust Entertainment Ltd."
@@ -4963,7 +5024,7 @@
     "categories": [
       1,
       2,
-      28,
+      18,
       36,
       49,
       62
@@ -4975,14 +5036,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q3 2025"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "info@polygondustentertainment.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593060?t=1742939578",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593060/a2002fac75419b91519bff5b6f22da6a8adf745e/page_bg_raw.jpg?t=1742939578",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3593060?t=1747894937",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593060/a2002fac75419b91519bff5b6f22da6a8adf745e/page_bg_raw.jpg?t=1747894937",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7285,11 +7346,15 @@
     "steam_appid": 3592310,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Desktop Pals 2 is the ultimate desktop companion game, featuring a wide selection of pets, interaction, advanced settings and more!",
+    "dlc": [
+      3649030,
+      3649040
+    ],
+    "short_description": "Desktop Pals 2 is the ultimate desktop companion game, which allows you to share your desktop with a cute companion of your choice!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592310/37485afc9cb038ea30a423e55812d2296b7956b9/header.jpg?t=1743543736",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592310/696fe3eac78ce7d7821aa98579c4bf574a87e3fc/capsule_231x87.jpg?t=1743543736",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592310/696fe3eac78ce7d7821aa98579c4bf574a87e3fc/capsule_184x69.jpg?t=1743543736",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592310/37485afc9cb038ea30a423e55812d2296b7956b9/header.jpg?t=1746696444",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592310/696fe3eac78ce7d7821aa98579c4bf574a87e3fc/capsule_231x87.jpg?t=1746696444",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592310/696fe3eac78ce7d7821aa98579c4bf574a87e3fc/capsule_184x69.jpg?t=1746696444",
     "website": null,
     "developers": [
       "Shutterframe Studios"
@@ -7311,15 +7376,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "April 2025"
+      "coming_soon": false,
+      "date": "3 May, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/Rq6cyFugg4",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3592310?t=1743543736",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3592310?t=1743543736",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3592310?t=1746696444",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592310/267056c772e8f4960cf85ab118751f6810e9cec0/page_bg_raw.jpg?t=1746696444",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7351,9 +7416,9 @@
     "is_free": false,
     "short_description": "Blast into the chaos of Space Rocks in Space, the ultimate 3D space flight adventure. Pilot customizable ships, explore stunning worlds, and battle through asteroid storms, UFO attacks and endless missiles barrages in this retro arcade odyssey.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591990/cbb298b1da79c49685428f79550c45a497c8d6b0/header.jpg?t=1743588783",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591990/1e52073585d3522cb88e774369ed4df8e6ff9f01/capsule_231x87.jpg?t=1743588783",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591990/1e52073585d3522cb88e774369ed4df8e6ff9f01/capsule_184x69.jpg?t=1743588783",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591990/cbb298b1da79c49685428f79550c45a497c8d6b0/header.jpg?t=1744794054",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591990/1e52073585d3522cb88e774369ed4df8e6ff9f01/capsule_231x87.jpg?t=1744794054",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591990/1e52073585d3522cb88e774369ed4df8e6ff9f01/capsule_184x69.jpg?t=1744794054",
     "website": null,
     "developers": [
       "Rock Hyrax"
@@ -7361,7 +7426,20 @@
     "publishers": [
       "Rock Hyrax"
     ],
-    "package_groups": [],
+    "packages": [
+      1267010
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Space Rocks in Space",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7377,15 +7455,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "16 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "spacerocksinspace@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3591990?t=1743588783",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3591990?t=1743588783",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3591990?t=1744794054",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3591990?t=1744794054",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7418,17 +7496,31 @@
     "controller_support": "full",
     "short_description": "A highly addictive endless jumper you can play either solo or with friends for couch multiplayer fun!",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591940/7005a35f390a80ba0ec0d6a6e35dab376c8f5752/header.jpg?t=1743757344",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591940/b1d2612b118257b3c1a9f3eca73d027a5aef01bf/capsule_231x87.jpg?t=1743757344",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591940/b1d2612b118257b3c1a9f3eca73d027a5aef01bf/capsule_184x69.jpg?t=1743757344",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591940/7005a35f390a80ba0ec0d6a6e35dab376c8f5752/header.jpg?t=1748869879",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591940/b1d2612b118257b3c1a9f3eca73d027a5aef01bf/capsule_231x87.jpg?t=1748869879",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591940/b1d2612b118257b3c1a9f3eca73d027a5aef01bf/capsule_184x69.jpg?t=1748869879",
     "website": "https://www.sanukgames.com",
     "developers": [
       "Sanuk Games"
     ],
     "publishers": [
-      "Plug In Digital"
+      "Plug In Digital",
+      "Dear Villagers"
     ],
-    "package_groups": [],
+    "packages": [
+      1266995
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Jump Man",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7446,16 +7538,19 @@
       4,
       23
     ],
+    "achievements": {
+      "total": 18
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "23 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "contact@sanukgames.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3591940?t=1743757344",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3591940?t=1743757344",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3591940?t=1748869879",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3591940?t=1748869879",
     "content_descriptors": {
       "ids": [],
       "notes": null
