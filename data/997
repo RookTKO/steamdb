@@ -7692,12 +7692,12 @@
     "steam_appid": 2991890,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Cauldron Caution is an adventure card game about weird creatures and magic ingredients ! Explore this bizarre fantasy world while defending yourself from intimidating foes !",
+    "short_description": "Cauldron Caution is a story-rich Card Battler. Fight against cartoony monsters with your Magic Creatures &amp; Ingredients. Find hidden Booster Packs by exploring this wild world to improve your collection. Meet quirky characters and solve diverse puzzles along the way.",
     "supported_languages": "English, French",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991890/header.jpg?t=1717442187",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991890/capsule_231x87.jpg?t=1717442187",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991890/capsule_184x69.jpg?t=1717442187",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991890/header.jpg?t=1748873197",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991890/capsule_231x87.jpg?t=1748873197",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991890/capsule_184x69.jpg?t=1748873197",
+    "website": "https://cauldron-caution.com/",
     "developers": [
       "Poisheesh"
     ],
@@ -7710,30 +7710,55 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1064573
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cauldron Caution",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
+      1,
       2,
-      13
+      22,
+      23,
+      36,
+      49,
+      62,
+      65,
+      68,
+      74,
+      76
     ],
     "genres": [
       2,
       25
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "2 Jun, 2025"
     },
     "support_info": {
       "url": "",
-      "email": "poisheesh@outlook.com"
+      "email": "poisheesh@cauldron-caution.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991890/page_bg_generated_v6b.jpg?t=1717442187",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991890/page_bg_generated.jpg?t=1717442187",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2991890?t=1748873197",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2991890?t=1748873197",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7749,8 +7774,8 @@
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "6",
-        "required_age": "6",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Fantasy-Gewalt"
