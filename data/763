@@ -95,9 +95,9 @@
     "is_free": false,
     "short_description": "Have you ever wondered what it would be like to be a Mouse? Have you ever wondered what it would be like to be inside of a Maze? Wonder no more! In R.A.T.T.Z. Maze you will have to rely on the mouse to smell, and your brain to remember! Welcome to the Maze, Good luck!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291660/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291660/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291660/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291660/header.jpg?t=1677690043",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291660/capsule_231x87.jpg?t=1677690043",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291660/capsule_184x69.jpg?t=1677690043",
     "website": null,
     "developers": [
       "G.W.O.Y.T. Games"
@@ -125,7 +125,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -140,11 +141,29 @@
       "url": "",
       "email": "thegwoytgames@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2291660/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2291660/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291660?t=1677690043",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291660?t=1677690043",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2290290": {
@@ -1774,49 +1793,68 @@
     "steam_appid": 2291680,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Living as a slave to the Monster Princess in a colorful cohabitation lifestyle! An enriching and exciting time management love development game.",
-    "supported_languages": "Traditional Chinese, Japanese<strong>*</strong>, Simplified Chinese, Korean, English<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291680/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291680/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291680/capsule_184x69.jpg",
+    "dlc": [
+      2714810,
+      2714820
+    ],
+    "short_description": "Living as a slave to the Kaiju Princess in a colorful cohabitation lifestyle! An enriching and exciting time management love development game.",
+    "supported_languages": "Traditional Chinese, Japanese<strong>*</strong>, Simplified Chinese, Korean, English, Russian, Ukrainian<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291680/header.jpg?t=1734053865",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291680/capsule_231x87.jpg?t=1734053865",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291680/capsule_184x69.jpg?t=1734053865",
     "website": null,
     "developers": [
       "ARTcelerator",
       "PantyParrot"
     ],
     "publishers": [
-      "Mango Party"
+      "Mango Party",
+      "Mango Party News"
     ],
-    "demos": [
+    "packages": [
+      822223
+    ],
+    "package_groups": [
       {
-        "appid": 2589170,
-        "description": ""
+        "name": "default",
+        "title": "Buy The Arrogant Kaiju Princess and The Detective Servant",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      29,
+      62
     ],
     "genres": [
       3,
       4,
       23
     ],
+    "achievements": {
+      "total": 41
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2023"
+      "coming_soon": false,
+      "date": "20 Dec, 2023"
     },
     "support_info": {
       "url": "",
       "email": "support@mangopartygames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2291680/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2291680/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291680?t=1734053865",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291680/page_bg_raw.jpg?t=1734053865",
     "content_descriptors": {
       "ids": [
         1,
@@ -1825,6 +1863,29 @@
         5
       ],
       "notes": "All characters are over 20 years old.\r\nContent Warning: This game contains sexual scenes.\r\nplease make sure you are in the right place to avoid any unnecessary attention."
+    },
+    "ratings": {
+      "csrr": {
+        "rating": "R",
+        "use_age_gate": "true",
+        "required_age": "20"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2289000": {
@@ -2678,9 +2739,9 @@
       "name": "NightFall Hollow"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291750/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291750/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291750/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291750/header.jpg?t=1675769175",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291750/capsule_231x87.jpg?t=1675769175",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291750/capsule_184x69.jpg?t=1675769175",
     "website": null,
     "developers": [
       "Lee Hall",
@@ -2709,14 +2770,24 @@
       "url": "",
       "email": "visitthehollow@outlook.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291750?t=1675769175",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291750?t=1675769175",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "Please note this demo features scenes of blood, horror, death, alcohol abuse and strong language"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2291160": {
@@ -5349,10 +5420,10 @@
       "appid": "548430",
       "name": "Deep Rock Galactic"
     },
-    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Ukrainian, Italian, Japanese, Korean, Turkish, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291670/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291670/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291670/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Ukrainian, Italian, Japanese, Korean, Turkish, Spanish - Latin America, Hungarian, Romanian<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/header.jpg?t=1740397993",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/capsule_231x87.jpg?t=1740397993",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/capsule_184x69.jpg?t=1740397993",
     "website": "http://deeprockgalactic.com",
     "developers": [
       "Ghost Ship Games"
@@ -5391,7 +5462,8 @@
       29,
       38,
       42,
-      43
+      43,
+      62
     ],
     "genres": [
       1
@@ -5404,13 +5476,21 @@
       "url": "",
       "email": "support@deeprockgalactic.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2291670/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2291670/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291670?t=1740397993",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291670?t=1740397993",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "Violence, Use of Alcohol, Strong Language "
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia fantasiosa\r\nViol\u00eancia\r\nLinguagem impr\u00f3pria\r\nDrogas l\u00edcitas",
+        "use_age_gate": "true",
+        "required_age": "14"
+      }
     }
   },
   "2290340": {
@@ -6586,9 +6666,9 @@
     "is_free": false,
     "short_description": "Caroline's Fantasies is an Interactive Erotic Story about the vivid and intense SEXUAL FANTASIES of a beautiful college coed. Come along for the ride as Caroline is the Beta Tester for a new Virtual Sexual Experience System that brings all of her deepest sexual desires and fantasies to life.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291690/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291690/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291690/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291690/header.jpg?t=1677239147",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291690/capsule_231x87.jpg?t=1677239147",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291690/capsule_184x69.jpg?t=1677239147",
     "website": null,
     "developers": [
       "HFTGames"
@@ -6616,7 +6696,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -6630,8 +6711,8 @@
       "url": "http://hftgames.com",
       "email": "tom@hftgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2291690/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2291690/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291690?t=1677239147",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291690/page_bg_raw.jpg?t=1677239147",
     "content_descriptors": {
       "ids": [
         1,
@@ -6640,6 +6721,24 @@
         4
       ],
       "notes": "Caroline's Fantasies contains nudity, graphic sexual content and mature language and themes throughout. Additionally, though all scenes in the game are consensual and spring from the imagination and sexual desires of the female main character, the game does contain scenes of intense/forceful sexual encounters with humans, monsters and/or supernatural creatures, and in some cases, Dubious Consent (DubCon). Caroline's Fantasies is intended for mature audiences only. All characters in the game are above the age of eighteen years old."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nLinguagem impr\u00f3pria\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte\nHorror\nDerbe Sprache"
+      }
     }
   },
   "2291780": {
@@ -9171,9 +9270,9 @@
     "controller_support": "full",
     "short_description": "Investigate the strange town of Nightfall Hollow, and see if you can get to the truth. Enjoy the opening chapter of our game, meet some of the residents, solve a selection of puzzles, and have your first glimpse into Nightfall Hollow. There's plenty to discover, and the odd Easter-egg or two as well",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291740/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291740/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291740/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291740/header.jpg?t=1690981594",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291740/capsule_231x87.jpg?t=1690981594",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291740/capsule_184x69.jpg?t=1690981594",
     "website": null,
     "developers": [
       "Lee Hall",
@@ -9207,20 +9306,28 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "21 Aug, 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "visitthehollow@outlook.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2291740/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2291740/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291740?t=1690981594",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291740/page_bg_raw.jpg?t=1690981594",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "Please be aware this game features scenes of blood, gore, death, alcohol abuse and strong language "
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia\r\nMedo\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "14"
+      }
     }
   },
   "2290860": {
@@ -11796,9 +11903,9 @@
       "name": "Mia and the Dragon Princess"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291730/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291730/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2291730/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291730/header.jpg?t=1723466352",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291730/130065492f1b1b0bbbfbd4e17d814cfbd76ec83f/capsule_231x87.jpg?t=1723466352",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291730/130065492f1b1b0bbbfbd4e17d814cfbd76ec83f/capsule_184x69.jpg?t=1723466352",
     "website": "http://www.walesinteractive.com/miaandthedragonprincess",
     "developers": [
       "Wales Interactive",
@@ -11830,15 +11937,16 @@
       "url": "www.walesinteractive.com/contact",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2291730/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2291730/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291730?t=1723466352",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2291730?t=1723466352",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2289710": {
     "type": "music",

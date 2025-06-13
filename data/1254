@@ -4120,9 +4120,9 @@
     "is_free": false,
     "short_description": "Super Dog Adventure is a local co-op platformer for 2\u20134 players. Join forces with friends on the same screen to jump, run, solve puzzles, together in an exciting retro-style adventure!",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764130/56cafa977a4d3852a3f00651c0b013279c98476f/header.jpg?t=1748513310",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764130/020b36a8ed72e5cec8a6116652f8c223b078242f/capsule_231x87.jpg?t=1748513310",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764130/020b36a8ed72e5cec8a6116652f8c223b078242f/capsule_184x69.jpg?t=1748513310",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764130/56cafa977a4d3852a3f00651c0b013279c98476f/header.jpg?t=1749629448",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764130/020b36a8ed72e5cec8a6116652f8c223b078242f/capsule_231x87.jpg?t=1749629448",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764130/020b36a8ed72e5cec8a6116652f8c223b078242f/capsule_184x69.jpg?t=1749629448",
     "website": null,
     "developers": [
       "\u8d85\u7ea7\u72d7\u5192\u9669\u5de5\u4f5c\u5ba4"
@@ -4130,7 +4130,20 @@
     "publishers": [
       "\u8d85\u7ea7\u72d7\u5192\u9669\u5de5\u4f5c\u5ba4"
     ],
-    "package_groups": [],
+    "packages": [
+      1324534
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Super Dog Adventure",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4139,25 +4152,27 @@
     "categories": [
       1,
       9,
-      18,
       24,
       39,
-      62
+      62,
+      68,
+      74,
+      79
     ],
     "genres": [
       4,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "9 Jun, 2025"
+      "coming_soon": false,
+      "date": "11 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "2395766186@qq.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3764130?t=1748513310",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3764130?t=1748513310",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3764130?t=1749629448",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3764130?t=1749629448",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4207,7 +4222,11 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      68,
+      74,
+      75,
+      79
     ],
     "genres": [
       3,
