@@ -1065,11 +1065,11 @@
       "appid": "3267900",
       "name": "Click and Conquer"
     },
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701240/7adb8dfa4a64a758322146ca3eb24da141eaaa6f/header.jpg?t=1746657231",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701240/4a312efd361c0232e1e0af37dfd174d055d2202a/capsule_231x87.jpg?t=1746657231",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701240/4a312efd361c0232e1e0af37dfd174d055d2202a/capsule_184x69.jpg?t=1746657231",
-    "website": null,
+    "supported_languages": "English, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701240/7adb8dfa4a64a758322146ca3eb24da141eaaa6f/header.jpg?t=1749683543",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701240/4a312efd361c0232e1e0af37dfd174d055d2202a/capsule_231x87.jpg?t=1749683543",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701240/4a312efd361c0232e1e0af37dfd174d055d2202a/capsule_184x69.jpg?t=1749683543",
+    "website": "https://impress.games/press-kit/sockhouse-studios/click-and-conquer",
     "developers": [
       "SOCKHOUSE STUDIOS"
     ],
@@ -1097,10 +1097,10 @@
     },
     "support_info": {
       "url": "",
-      "email": "support@sockhousestudios.com"
+      "email": "stefan@sockhousestudios.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701240?t=1746657231",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701240?t=1746657231",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701240?t=1749683543",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701240?t=1749683543",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1518,9 +1518,9 @@
     "controller_support": "full",
     "short_description": "Hentai Store - Cozy and hot shop near home.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700910/874d4f242efc71d546ddfc761562d25a3d1c1ff3/header.jpg?t=1745995176",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700910/ea28f89f10e440fc5a9e10322a606f8dddf9a5f7/capsule_231x87.jpg?t=1745995176",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700910/ea28f89f10e440fc5a9e10322a606f8dddf9a5f7/capsule_184x69.jpg?t=1745995176",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700910/874d4f242efc71d546ddfc761562d25a3d1c1ff3/header.jpg?t=1747497222",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700910/ea28f89f10e440fc5a9e10322a606f8dddf9a5f7/capsule_231x87.jpg?t=1747497222",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700910/ea28f89f10e440fc5a9e10322a606f8dddf9a5f7/capsule_184x69.jpg?t=1747497222",
     "website": null,
     "developers": [
       "UwU"
@@ -1528,7 +1528,20 @@
     "publishers": [
       "UwU"
     ],
-    "package_groups": [],
+    "packages": [
+      1303129
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hentai Store",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1544,16 +1557,19 @@
       4,
       23
     ],
+    "achievements": {
+      "total": 25
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "17 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "uwuGameDEVelop@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700910?t=1745995176",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700910?t=1745995176",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700910?t=1747497222",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700910?t=1747497222",
     "content_descriptors": {
       "ids": [
         1,
@@ -1721,9 +1737,9 @@
     "is_free": true,
     "short_description": "A classic RPG full of combat and regions to explore, focused on collecting resources to create magical items and defeating monsters. You are the last defense of this kingdom, hire adventurers to help you on your journey.",
     "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Simplified Chinese, Japanese, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701320/d44f03105d2150229d6bf8de3ede1a995d6b4dfb/header.jpg?t=1746824364",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701320/7c250e8df5609175ba44bf2b576298c26ee4a652/capsule_231x87.jpg?t=1746824364",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701320/7c250e8df5609175ba44bf2b576298c26ee4a652/capsule_184x69.jpg?t=1746824364",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701320/d44f03105d2150229d6bf8de3ede1a995d6b4dfb/header.jpg?t=1747660054",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701320/7c250e8df5609175ba44bf2b576298c26ee4a652/capsule_231x87.jpg?t=1747660054",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701320/7c250e8df5609175ba44bf2b576298c26ee4a652/capsule_184x69.jpg?t=1747660054",
     "website": "http://wkm-studio.com/",
     "developers": [
       "WKM-STUDIO"
@@ -1739,25 +1755,32 @@
     },
     "categories": [
       2,
+      15,
       22,
-      23
+      23,
+      25,
+      35
     ],
     "genres": [
       3,
       23,
       25,
+      29,
       37
     ],
+    "achievements": {
+      "total": 18
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "19 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "contact@wkm-studio.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701320?t=1746824364",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701320?t=1746824364",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701320?t=1747660054",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701320?t=1747660054",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2785,9 +2808,9 @@
       "name": "Duskmarch"
     },
     "supported_languages": "English, Russian, Ukrainian, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Traditional Chinese, Simplified Chinese, Korean, Polish, Turkish, Swedish, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701890/f378c52767c1e69070e0ad304fe6e3a42eb56214/header.jpg?t=1746456410",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701890/5e0b4e8487fc80e4a6206db2f5abb9edb8795f1e/capsule_231x87.jpg?t=1746456410",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701890/5e0b4e8487fc80e4a6206db2f5abb9edb8795f1e/capsule_184x69.jpg?t=1746456410",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701890/f378c52767c1e69070e0ad304fe6e3a42eb56214/header.jpg?t=1747206596",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701890/5e0b4e8487fc80e4a6206db2f5abb9edb8795f1e/capsule_231x87.jpg?t=1747206596",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701890/5e0b4e8487fc80e4a6206db2f5abb9edb8795f1e/capsule_184x69.jpg?t=1747206596",
     "website": null,
     "developers": [
       "Aberrance Guild"
@@ -2809,15 +2832,15 @@
       3
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q3 2025"
+      "coming_soon": false,
+      "date": "14 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "aberranceguild@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701890?t=1746456410",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701890?t=1746456410",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701890?t=1747206596",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701890?t=1747206596",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2923,9 +2946,9 @@
       "name": "Mo The Moai"
     },
     "supported_languages": "English, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700970/4a9399e2db11bad39390d27ff76a30f530488d09/header.jpg?t=1746176239",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700970/1d2f2522a1216fce7934821ef386d751bbdea48c/capsule_231x87.jpg?t=1746176239",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700970/1d2f2522a1216fce7934821ef386d751bbdea48c/capsule_184x69.jpg?t=1746176239",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700970/4a9399e2db11bad39390d27ff76a30f530488d09/header.jpg?t=1748953799",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700970/1d2f2522a1216fce7934821ef386d751bbdea48c/capsule_231x87.jpg?t=1748953799",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700970/1d2f2522a1216fce7934821ef386d751bbdea48c/capsule_184x69.jpg?t=1748953799",
     "website": "https://impress.games/press-kit/samuel-alvarez/mo-the-moai",
     "developers": [
       "Samuel Alvarez"
@@ -2958,8 +2981,8 @@
       "url": "",
       "email": "samuelredditalvarez@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700970?t=1746176239",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700970?t=1746176239",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700970?t=1748953799",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700970?t=1748953799",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3523,9 +3546,9 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701150/2bf88095091a211d38af91a69d5662096dc2bef3/header.jpg?t=1746127463",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701150/654aca9df829b8a021da9703680ddb401cc3f537/capsule_231x87.jpg?t=1746127463",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701150/654aca9df829b8a021da9703680ddb401cc3f537/capsule_184x69.jpg?t=1746127463",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701150/2bf88095091a211d38af91a69d5662096dc2bef3/header.jpg?t=1749625495",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701150/654aca9df829b8a021da9703680ddb401cc3f537/capsule_231x87.jpg?t=1749625495",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701150/654aca9df829b8a021da9703680ddb401cc3f537/capsule_184x69.jpg?t=1749625495",
     "website": null,
     "package_groups": [],
     "platforms": {
@@ -3535,14 +3558,14 @@
     },
     "release_date": {
       "coming_soon": false,
-      "date": "1 May, 2025"
+      "date": "11 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701150?t=1746127463",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701150?t=1746127463",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701150?t=1749625495",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701150?t=1749625495",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3829,15 +3852,16 @@
     "steam_appid": 3701450,
     "required_age": 0,
     "is_free": true,
+    "controller_support": "full",
     "short_description": "",
     "fullgame": {
       "appid": "2643010",
       "name": "Becoming Saint"
     },
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701450/65724eb78f081acbffc33b143589a7d73550c65e/header.jpg?t=1746443016",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701450/0dd98d74cb5d99ac45459f03b3ab0f0c10c5057a/capsule_231x87.jpg?t=1746443016",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701450/0dd98d74cb5d99ac45459f03b3ab0f0c10c5057a/capsule_184x69.jpg?t=1746443016",
+    "supported_languages": "English, French, Italian, German, Russian, Spanish - Latin America, Ukrainian, Indonesian, Japanese, Korean, Simplified Chinese, Traditional Chinese, Vietnamese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701450/65724eb78f081acbffc33b143589a7d73550c65e/header.jpg?t=1749066266",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701450/0dd98d74cb5d99ac45459f03b3ab0f0c10c5057a/capsule_231x87.jpg?t=1749066266",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701450/0dd98d74cb5d99ac45459f03b3ab0f0c10c5057a/capsule_184x69.jpg?t=1749066266",
     "website": "https://firesquid.games/",
     "developers": [
       "Open Lab Games"
@@ -3853,18 +3877,25 @@
     },
     "categories": [
       2,
-      10
+      10,
+      28,
+      64,
+      68,
+      74,
+      76,
+      77,
+      78
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 May, 2025"
     },
     "support_info": {
       "url": "https://firesquid.games/",
       "email": "contact@firesquid.fr"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701450?t=1746443016",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701450/5c60423a1051f9383b097d93e21e808e11f66f2a/page_bg_raw.jpg?t=1746443016",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3701450?t=1749066266",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701450/5c60423a1051f9383b097d93e21e808e11f66f2a/page_bg_raw.jpg?t=1749066266",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5626,15 +5657,21 @@
     "is_free": false,
     "short_description": "A story-driven management sim set in a 1980s disco bar. Mix drinks, handle guests, and uncover secrets behind the neon lights.",
     "supported_languages": "English, Turkish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700950/6707ccede5f6c73a8c8acb40e28448490f131f68/header.jpg?t=1746980997",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700950/bf7a2c4cdd250d4fe78b9629be0236cc56126463/capsule_231x87.jpg?t=1746980997",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700950/bf7a2c4cdd250d4fe78b9629be0236cc56126463/capsule_184x69.jpg?t=1746980997",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700950/6707ccede5f6c73a8c8acb40e28448490f131f68/header.jpg?t=1748453576",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700950/bf7a2c4cdd250d4fe78b9629be0236cc56126463/capsule_231x87.jpg?t=1748453576",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700950/bf7a2c4cdd250d4fe78b9629be0236cc56126463/capsule_184x69.jpg?t=1748453576",
     "website": "https://www.efsus.games",
     "developers": [
       "Efsus Games"
     ],
     "publishers": [
       "Efsus Games"
+    ],
+    "demos": [
+      {
+        "appid": 3779050,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5658,8 +5695,8 @@
       "url": "https://www.efsus.games/",
       "email": "info@efsus.games"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700950?t=1746980997",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700950/926dac33f2fb9293a4541b028ebf8f5f623e2ecc/page_bg_raw.jpg?t=1746980997",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700950?t=1748453576",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700950/926dac33f2fb9293a4541b028ebf8f5f623e2ecc/page_bg_raw.jpg?t=1748453576",
     "content_descriptors": {
       "ids": [
         5
@@ -12767,6 +12804,142 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Drastische Gewalt"
+      }
+    }
+  },
+  "3699780": {
+    "type": "game",
+    "name": "Lil Johnny's Escapade",
+    "steam_appid": 3699780,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "Lil\u2019 Johnny\u2019s ESCAPADE is a 2D Platformer, that you shoot your way through oil enemy's and slide your way through a series of levels, jumping and avoid enemy as you go. Use strategies to fight your way through countless levels!",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699780/74894a99a7995e412d7ec232af78471fea6c9d2b/header.jpg?t=1749856438",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699780/bb239ad9a1ad8aa5f70cc4543abca47b451d0721/capsule_231x87.jpg?t=1749856438",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699780/bb239ad9a1ad8aa5f70cc4543abca47b451d0721/capsule_184x69.jpg?t=1749856438",
+    "website": null,
+    "developers": [
+      "Panther Game Design Studio"
+    ],
+    "publishers": [
+      "Panther Game Design Studio"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2
+    ],
+    "genres": [
+      1,
+      4,
+      23,
+      25,
+      37
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "August 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3699780?t=1749856438",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699780/a0b4834ffcd597f6910c8b514bc2eb6837020084/page_bg_raw.jpg?t=1749856438",
+    "content_descriptors": {
+      "ids": [
+        5
+      ],
+      "notes": "Fun adventure game where you go around fighting evil oil bad guys"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
+    }
+  },
+  "3699790": {
+    "type": "demo",
+    "name": "Lil Johnny's Escapade Demo",
+    "steam_appid": 3699790,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "",
+    "fullgame": {
+      "appid": "3699780",
+      "name": "Lil Johnny's Escapade"
+    },
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699790/86f4e767a6ea693ebf54c27fd0bda129220f2a02/header.jpg?t=1749856471",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699790/077c75063ac3f11b41061d671142175d32bc9710/capsule_231x87.jpg?t=1749856471",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699790/077c75063ac3f11b41061d671142175d32bc9710/capsule_184x69.jpg?t=1749856471",
+    "website": null,
+    "developers": [
+      "Panther Game Design Studio"
+    ],
+    "publishers": [
+      "Panther Game Design Studio"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      10
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "13 Jun, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3699790?t=1749856471",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699790/a0b4834ffcd597f6910c8b514bc2eb6837020084/page_bg_raw.jpg?t=1749856471",
+    "content_descriptors": {
+      "ids": [
+        5
+      ],
+      "notes": "Lil Johnny does shoot lazers out of his hand while fighting oil barrels"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
       }
     }
   }
