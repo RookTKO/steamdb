@@ -9082,11 +9082,12 @@
     "steam_appid": 2998990,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "Tilemancer dungeon is a minimalist dungeon crawler - card game where you create &amp; explore your own dungeon. Create your own path, fight your way through the dungeon, gear up and claim the dungeon to become the next Tilemancer !",
-    "supported_languages": "English, French",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998990/header.jpg?t=1717943939",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998990/capsule_231x87.jpg?t=1717943939",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998990/capsule_184x69.jpg?t=1717943939",
+    "supported_languages": "English, French, Portuguese - Brazil, German, Spanish - Latin America",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998990/header.jpg?t=1745520439",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998990/dc065f465cccbdbf313410250638c2937da0b6a6/capsule_231x87.jpg?t=1745520439",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998990/dc065f465cccbdbf313410250638c2937da0b6a6/capsule_184x69.jpg?t=1745520439",
     "website": null,
     "developers": [
       "Szym Games"
@@ -9094,29 +9095,59 @@
     "publishers": [
       "Szym Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3071130,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1066959
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Tilemancer Dungeon",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      28,
+      62,
+      67,
+      68,
+      74,
+      76
     ],
     "genres": [
       3,
       4
     ],
+    "achievements": {
+      "total": 42
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Mar, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/g4p79kbj2b",
       "email": "szymgamestudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998990/page_bg_generated_v6b.jpg?t=1717943939",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998990/page_bg_generated.jpg?t=1717943939",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998990?t=1745520439",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998990?t=1745520439",
     "content_descriptors": {
       "ids": [],
       "notes": null

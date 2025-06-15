@@ -8312,18 +8312,18 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995020/header.jpg?t=1717699874",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995020/capsule_231x87.jpg?t=1717699874",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995020/capsule_184x69.jpg?t=1717699874",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995020/header.jpg?t=1735231708",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995020/capsule_231x87.jpg?t=1735231708",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995020/capsule_184x69.jpg?t=1735231708",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
+    },
+    "achievements": {
+      "total": 0
     },
     "release_date": {
       "coming_soon": false,
@@ -8333,8 +8333,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2995020?t=1735231708",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2995020?t=1735231708",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8422,11 +8422,11 @@
     "steam_appid": 2994780,
     "required_age": 0,
     "is_free": false,
-    "short_description": "An adventure game, where you don't control the adventurer. Play the side characters in a medieval village, and decide to help or hinder the adventurer in their mysterious quest.",
+    "short_description": "A short adventure game, where you don't control the adventurer. Play the side characters in a medieval village, and decide to help or hinder the adventurer in their mysterious quest.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994780/header.jpg?t=1717769360",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994780/capsule_231x87.jpg?t=1717769360",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994780/capsule_184x69.jpg?t=1717769360",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994780/header.jpg?t=1741789838",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994780/6cbe46eaa8217b40a617c2435444798b6ab339a7/capsule_231x87.jpg?t=1741789838",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994780/6cbe46eaa8217b40a617c2435444798b6ab339a7/capsule_184x69.jpg?t=1741789838",
     "website": "https://www.theprotagonish.com",
     "developers": [
       "College Fun Games"
@@ -8434,7 +8434,20 @@
     "publishers": [
       "College Fun Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1065549
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Protagonish",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -8442,23 +8455,26 @@
     },
     "categories": [
       2,
-      13,
-      22
+      22,
+      62
     ],
     "genres": [
       23,
       25
     ],
+    "achievements": {
+      "total": 8
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q3 2024"
+      "coming_soon": false,
+      "date": "24 Oct, 2024"
     },
     "support_info": {
       "url": "https://www.collegefun.games",
       "email": "support@collegefun.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994780/page_bg_generated_v6b.jpg?t=1717769360",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994780/page.bg.jpg?t=1717769360",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2994780?t=1741789838",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994780/page_bg_raw.jpg?t=1741789838",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8488,46 +8504,64 @@
     "steam_appid": 2995390,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3111540
+    ],
     "short_description": "Kikumaru's life was fairly normal until a gun wielding catgirl appears during his grandfather's funeral. Even his little sister suddenly sprouts tanuki-ears! A beautiful woman (with cat ears as well) comes to his rescue. The curtain rises on the latest chapter in the NEKO-NIN exHeart series. Nin!",
     "supported_languages": "English, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995390/header.jpg?t=1717787164",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995390/capsule_231x87.jpg?t=1717787164",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995390/capsule_184x69.jpg?t=1717787164",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995390/header.jpg?t=1728617177",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995390/capsule_231x87.jpg?t=1728617177",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995390/capsule_184x69.jpg?t=1728617177",
+    "website": "https://sekaiproject.com/game/neko-nin-exheart-spin/",
     "developers": [
       "Whirlpool"
     ],
     "publishers": [
       "Sekai Project"
     ],
-    "package_groups": [],
+    "packages": [
+      1065749
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy NEKO-NIN exHeart SPIN!",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "15 Jul, 2024"
     },
     "support_info": {
       "url": "https://support.sekaiproject.com/",
       "email": "support@sekaiproject.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995390/page_bg_generated_v6b.jpg?t=1717787164",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995390/page.bg.jpg?t=1717787164",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2995390?t=1728617177",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995390/page_bg_raw.jpg?t=1728617177",
     "content_descriptors": {
       "ids": [
+        1,
         5
       ],
-      "notes": "Game contains suggestive language and themes that may not be suitable for all ages."
+      "notes": "Game contains suggestive language, sexual (consensual and non-consensual) innuendos, and mature themes that may not be suitable for all ages."
     },
     "ratings": {
       "dejus": {
