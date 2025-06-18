@@ -1048,9 +1048,9 @@
     "is_free": false,
     "short_description": "This is a casual puzzle game, where the position of each game image is random and can be repeated.At first, it may be very chaotic,Then gradually place the image in the corresponding position,The image gradually becomes complete,Come and give it a try!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771250/41948c613418ee2352efe1090e8b2a1035773d7d/header.jpg?t=1748393421",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771250/c58887e4525958f09a7c26b100163fc1806066bb/capsule_231x87.jpg?t=1748393421",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771250/c58887e4525958f09a7c26b100163fc1806066bb/capsule_184x69.jpg?t=1748393421",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771250/41948c613418ee2352efe1090e8b2a1035773d7d/header.jpg?t=1749539263",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771250/c58887e4525958f09a7c26b100163fc1806066bb/capsule_231x87.jpg?t=1749539263",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771250/c58887e4525958f09a7c26b100163fc1806066bb/capsule_184x69.jpg?t=1749539263",
     "website": null,
     "developers": [
       "hgmGame"
@@ -1058,7 +1058,20 @@
     "publishers": [
       "hgmGame"
     ],
-    "package_groups": [],
+    "packages": [
+      1326887
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy hgmGame-bee",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1072,15 +1085,15 @@
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "10 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "453998820@qq.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3771250?t=1748393421",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3771250?t=1748393421",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3771250?t=1749539263",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3771250?t=1749539263",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10921,6 +10934,71 @@
         "banned": "1",
         "use_age_gate": "0",
         "descriptors": "Sexuelle Inhalte"
+      }
+    }
+  },
+  "3771660": {
+    "type": "game",
+    "name": "Pass Tiger Cage",
+    "steam_appid": 3771660,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "A Roguelike game. You will play a general in the game who leads his troops to guard the historical gate. Choose from a variety of combat skills, upgrade your equipment and recruit troops to assist in the battle.",
+    "supported_languages": "Simplified Chinese, Traditional Chinese, English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771660/b6f350419d977d9a641fb11ab6ed910b49ac8ecf/header.jpg?t=1750247950",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771660/f63ffcef67d1b77458bf1c3e7571521327d85276/capsule_231x87.jpg?t=1750247950",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771660/f63ffcef67d1b77458bf1c3e7571521327d85276/capsule_184x69.jpg?t=1750247950",
+    "website": null,
+    "developers": [
+      "Antares"
+    ],
+    "publishers": [
+      "Antares"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      62
+    ],
+    "genres": [
+      2,
+      3
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "aresmartant@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3771660?t=1750247950",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3771660?t=1750247950",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
       }
     }
   }

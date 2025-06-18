@@ -5073,9 +5073,6 @@
     "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989060/capsule_231x87.jpg?t=1716306100",
     "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989060/capsule_184x69.jpg?t=1716306100",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -5090,8 +5087,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2989060?t=1716306100",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2989060?t=1716306100",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5106,9 +5103,9 @@
     "is_free": true,
     "short_description": "Take action in this immersive 3D experience where you can build your own village, command your troops into battle, and plunder resources from enemies.",
     "supported_languages": "English, Spanish - Latin America",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990490/header.jpg?t=1718019924",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990490/capsule_231x87.jpg?t=1718019924",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990490/capsule_184x69.jpg?t=1718019924",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990490/header.jpg?t=1718391626",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990490/capsule_231x87.jpg?t=1718391626",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990490/capsule_184x69.jpg?t=1718391626",
     "website": "https://proyectotocho.com/",
     "developers": [
       "Tocho Incorporated"
@@ -5131,14 +5128,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "July 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "proyectotocho@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990490/page_bg_generated_v6b.jpg?t=1718019924",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990490/page.bg.jpg?t=1718019924",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2990490?t=1718391626",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990490/page_bg_raw.jpg?t=1718391626",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5229,8 +5226,8 @@
       "url": "http://freestyle2.joycitygames.com/support/faq",
       "email": "steam_support@gamekiss.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989610/page_bg_generated_v6b.jpg?t=1716340069",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989610/page.bg.jpg?t=1716340069",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2989610?t=1716340069",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989610/page_bg_raw.jpg?t=1716340069",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8187,10 +8184,10 @@
       "appid": "1731520",
       "name": "Ark Mobius: Censored Edition"
     },
-    "supported_languages": "Japanese, Simplified Chinese, English, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990130/header.jpg?t=1716768400",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990130/capsule_231x87.jpg?t=1716768400",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990130/capsule_184x69.jpg?t=1716768400",
+    "supported_languages": "Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990130/header.jpg?t=1718533890",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990130/capsule_231x87.jpg?t=1718533890",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990130/capsule_184x69.jpg?t=1718533890",
     "website": null,
     "developers": [
       "YellowDuckWorks"
@@ -8198,7 +8195,20 @@
     "publishers": [
       "YellowDuckWorks"
     ],
-    "package_groups": [],
+    "packages": [
+      1063982
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ark Mobius - Artbook",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8207,7 +8217,8 @@
     "categories": [
       2,
       21,
-      23
+      23,
+      62
     ],
     "genres": [
       1,
@@ -8217,15 +8228,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q2 2024"
+      "coming_soon": false,
+      "date": "16 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "yellowduckworks@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990130/page_bg_generated_v6b.jpg?t=1716768400",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990130/page_bg_generated.jpg?t=1716768400",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2990130?t=1718533890",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2990130?t=1718533890",
     "content_descriptors": {
       "ids": [],
       "notes": null

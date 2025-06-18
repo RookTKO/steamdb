@@ -461,7 +461,10 @@
       "linux": false
     },
     "categories": [
-      10
+      10,
+      68,
+      76,
+      79
     ],
     "release_date": {
       "coming_soon": false,
@@ -3123,7 +3126,8 @@
     },
     "categories": [
       2,
-      10
+      10,
+      74
     ],
     "release_date": {
       "coming_soon": false,
@@ -3188,7 +3192,11 @@
     },
     "categories": [
       2,
-      10
+      10,
+      67,
+      68,
+      74,
+      79
     ],
     "release_date": {
       "coming_soon": false,
@@ -3231,9 +3239,9 @@
     "is_free": false,
     "short_description": "A Match-3 game with gambling (simulated).",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765820/d671b9047547f565c175fc4cfa00a8d86da18cad/header.jpg?t=1748368272",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765820/22851ef1576f616ec3f661bdb00b2a056ffe0683/capsule_231x87.jpg?t=1748368272",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765820/22851ef1576f616ec3f661bdb00b2a056ffe0683/capsule_184x69.jpg?t=1748368272",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765820/d671b9047547f565c175fc4cfa00a8d86da18cad/header.jpg?t=1749458925",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765820/22851ef1576f616ec3f661bdb00b2a056ffe0683/capsule_231x87.jpg?t=1749458925",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765820/22851ef1576f616ec3f661bdb00b2a056ffe0683/capsule_184x69.jpg?t=1749458925",
     "website": null,
     "developers": [
       "Megadude"
@@ -3249,6 +3257,7 @@
     },
     "categories": [
       2,
+      22,
       25,
       62
     ],
@@ -3264,8 +3273,8 @@
       "url": "",
       "email": "info.megadude@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765820?t=1748368272",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765820?t=1748368272",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765820?t=1749458925",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765820?t=1749458925",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3296,10 +3305,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Enter Mirror Atelier, an enchanting sliding puzzle game where art and stories intertwine. Solve beautiful fragmented artworks, piece by piece, to unlock delightful narrative snippets. Challenge your perception and immerse yourself in this tranquil adventure.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766130/cd70278fbb5ee85b5fc21926bb1d43f044f89859/header.jpg?t=1748779400",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766130/10f92c2ae0117ee8e09ffde864a4cb271f0e92a4/capsule_231x87.jpg?t=1748779400",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766130/10f92c2ae0117ee8e09ffde864a4cb271f0e92a4/capsule_184x69.jpg?t=1748779400",
+    "supported_languages": "English, Turkish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766130/cd70278fbb5ee85b5fc21926bb1d43f044f89859/header.jpg?t=1750252759",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766130/10f92c2ae0117ee8e09ffde864a4cb271f0e92a4/capsule_231x87.jpg?t=1750252759",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766130/10f92c2ae0117ee8e09ffde864a4cb271f0e92a4/capsule_184x69.jpg?t=1750252759",
     "website": null,
     "developers": [
       "fifthrubric"
@@ -3307,7 +3316,20 @@
     "publishers": [
       "fifthrubric"
     ],
-    "package_groups": [],
+    "packages": [
+      1325202
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Mirror Atelier",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3315,22 +3337,27 @@
     },
     "categories": [
       2,
+      15,
+      22,
       62
     ],
     "genres": [
       4,
       25
     ],
+    "achievements": {
+      "total": 26
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "mira-support@besinci-kural.tech"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3766130?t=1748779400",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766130/52ad82bc5e596238e55b316d59906feeda68d590/page_bg_raw.jpg?t=1748779400",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3766130?t=1750252759",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766130/52ad82bc5e596238e55b316d59906feeda68d590/page_bg_raw.jpg?t=1750252759",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3342,15 +3369,15 @@
         "required_age": "14",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia fantasiosa"
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "6",
-        "required_age": "6",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Derbe Sprache\nFantasy-Gewalt"
+        "descriptors": "Gewalt\nDerbe Sprache"
       }
     }
   },
@@ -3360,12 +3387,11 @@
     "steam_appid": 3765460,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
     "short_description": "Start an exciting sailing adventure in virtual reality. Steer the ship, shoot cannons, transport goods, develop the skills of your captain. Use special skills and magical artifacts to defend the land of the dragon reef from pirates. VR, dragons, pirates, sea battles, fantasy, family friendly game",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Traditional Chinese, Simplified Chinese, Czech, Danish, Finnish, Greek, Spanish - Latin America, Dutch, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Romanian, Swedish, Thai, Turkish, Ukrainian, Vietnamese, Hungarian, Estonian, Hindi, Catalan",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765460/ba9b06c2cc1871d989a8ea001dcb944e5fa20f76/header.jpg?t=1748383143",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765460/4f9878ff3b46ef212e524a22c3a098a91f86b650/capsule_231x87.jpg?t=1748383143",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765460/4f9878ff3b46ef212e524a22c3a098a91f86b650/capsule_184x69.jpg?t=1748383143",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765460/ba9b06c2cc1871d989a8ea001dcb944e5fa20f76/header.jpg?t=1749651119",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765460/4f9878ff3b46ef212e524a22c3a098a91f86b650/capsule_231x87.jpg?t=1749651119",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765460/4f9878ff3b46ef212e524a22c3a098a91f86b650/capsule_184x69.jpg?t=1749651119",
     "website": null,
     "developers": [
       "Radoslaw Kutowinski"
@@ -3381,10 +3407,12 @@
     },
     "categories": [
       2,
-      28,
       52,
       54,
-      62
+      62,
+      70,
+      74,
+      78
     ],
     "genres": [
       1,
@@ -3401,8 +3429,8 @@
       "url": "",
       "email": "dragons_reef@architekcigier.pl"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765460?t=1748383143",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765460?t=1748383143",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765460?t=1749651119",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765460?t=1749651119",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3438,9 +3466,9 @@
       "name": "Heart Idler"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767760/15a3959e13ed285b7b8b0a9763a4a725ed58c3e9/header.jpg?t=1748689149",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767760/0822c9907d596742a2befc4c1aa07a28606f84c0/capsule_231x87.jpg?t=1748689149",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767760/0822c9907d596742a2befc4c1aa07a28606f84c0/capsule_184x69.jpg?t=1748689149",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767760/15a3959e13ed285b7b8b0a9763a4a725ed58c3e9/header.jpg?t=1749209524",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767760/0822c9907d596742a2befc4c1aa07a28606f84c0/capsule_231x87.jpg?t=1749209524",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767760/0822c9907d596742a2befc4c1aa07a28606f84c0/capsule_184x69.jpg?t=1749209524",
     "website": null,
     "developers": [
       "Vacantknight5"
@@ -3456,22 +3484,25 @@
     },
     "categories": [
       2,
-      10
+      10,
+      66,
+      68,
+      76
     ],
     "genres": [
       4,
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "June 2025"
+      "coming_soon": false,
+      "date": "6 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "vacantknightstudios@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3767760?t=1748689149",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3767760?t=1748689149",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3767760?t=1749209524",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3767760?t=1749209524",
     "content_descriptors": {
       "ids": [],
       "notes": null
