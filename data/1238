@@ -145,15 +145,15 @@
     "steam_appid": 3714130,
     "required_age": 0,
     "is_free": true,
-    "short_description": "The First Mine is a relaxed turn based building, strategy and puzzle game. You need to run a productive gold mine by placing, grouping and upgrading various resource tiles without being distracted by random events.",
+    "short_description": "The First Mine is a turn based building, strategy and puzzle game. You need to run a productive gold mine by placing, grouping and upgrading various resource tiles without being distracted by random events.",
     "fullgame": {
       "appid": "2328840",
       "name": "The First Mine"
     },
     "supported_languages": "English, German",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714130/eceaec8df5a0e56b34efe963ced61bf60f7ab5c8/header.jpg?t=1747324247",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714130/f1526320867d4975eb60c07ec7ce395b2e4b3cd0/capsule_231x87.jpg?t=1747324247",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714130/f1526320867d4975eb60c07ec7ce395b2e4b3cd0/capsule_184x69.jpg?t=1747324247",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714130/eceaec8df5a0e56b34efe963ced61bf60f7ab5c8/header.jpg?t=1747987197",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714130/f1526320867d4975eb60c07ec7ce395b2e4b3cd0/capsule_231x87.jpg?t=1747987197",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714130/f1526320867d4975eb60c07ec7ce395b2e4b3cd0/capsule_184x69.jpg?t=1747987197",
     "website": "https://www.thefirstmine.com/",
     "developers": [
       "Stefan B\u00f6ttcher"
@@ -185,8 +185,8 @@
       "url": "https://www.thefirstmine.com/",
       "email": "games@stefan-boettcher.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714130?t=1747324247",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714130/c62e1ccf45a422f5054adf68e8e003dfb5069838/page_bg_raw.jpg?t=1747324247",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714130?t=1747987197",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714130/c62e1ccf45a422f5054adf68e8e003dfb5069838/page_bg_raw.jpg?t=1747987197",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7204,17 +7204,36 @@
     "is_free": false,
     "short_description": "Part incremental game, part art project. You buy upgrades which alter the hypnotic progression of the circles in the simulation. It's kind of a screen saver that you progress through. The whole process is only a few hours.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714750/fade15ab381a4b285e94a6cd9074a341e03a93f1/header.jpg?t=1747424822",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714750/988e7f2200fc3817ba3a2bdae901a44de3ed61e3/capsule_231x87.jpg?t=1747424822",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714750/988e7f2200fc3817ba3a2bdae901a44de3ed61e3/capsule_184x69.jpg?t=1747424822",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714750/fade15ab381a4b285e94a6cd9074a341e03a93f1/header.jpg?t=1750107271",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714750/988e7f2200fc3817ba3a2bdae901a44de3ed61e3/capsule_231x87.jpg?t=1750107271",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714750/988e7f2200fc3817ba3a2bdae901a44de3ed61e3/capsule_184x69.jpg?t=1750107271",
     "website": null,
     "developers": [
-      "Vegetablebread games"
+      "Vegetablebread Games"
     ],
     "publishers": [
-      "Vegetablebread games"
+      "Vegetablebread Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3749020,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1307716
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Falling Sand Idle",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7222,22 +7241,26 @@
     },
     "categories": [
       2,
-      62
+      62,
+      67,
+      74,
+      76,
+      79
     ],
     "genres": [
       4,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "June 2025"
+      "coming_soon": false,
+      "date": "16 Jun, 2025"
     },
     "support_info": {
       "url": "http://vegetablebreadgames.com/",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714750?t=1747424822",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714750?t=1747424822",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714750?t=1750107271",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714750?t=1750107271",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7341,9 +7364,9 @@
       "appid": "3610170",
       "name": "Arcadian Days"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714990/10eab7d9b0433be99191d5db090b10b0ead261f6/header.jpg?t=1747448678",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714990/b2a079e75bcc3ecb7df9080c725063e80247484b/capsule_231x87.jpg?t=1747448678",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714990/b2a079e75bcc3ecb7df9080c725063e80247484b/capsule_184x69.jpg?t=1747448678",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714990/ab3a46ca717bbafb94a90f39bda6f884f7051b96/header.jpg?t=1750062730",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714990/1141174f43c4e570f22d9ff8b7b3a2a78e5baf5a/capsule_231x87.jpg?t=1750062730",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714990/1141174f43c4e570f22d9ff8b7b3a2a78e5baf5a/capsule_184x69.jpg?t=1750062730",
     "website": null,
     "developers": [
       "IMMERSIV GAMES"
@@ -7362,15 +7385,15 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 May, 2025"
     },
     "support_info": {
       "url": "https://immersivgames.com/",
       "email": "calin@immersivgames.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714990?t=1747448678",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714990?t=1747448678",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714990?t=1750062730",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714990?t=1750062730",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11291,6 +11314,147 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Alkohol / Tabak\nSchimpfw\u00f6rte"
+      }
+    }
+  },
+  "3714550": {
+    "type": "game",
+    "name": "\u859b\u5b9a\u8c14\u8ff7\u5bab",
+    "steam_appid": 3714550,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Schr\u00f6dinger\u2019s Maze is an indie adventure game that combines tower-style combat with a real-time generated maze system. In this ever-shifting labyrinth, only what\u2019s within your field of view truly &quot;exists&quot;",
+    "supported_languages": "Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714550/97d4fff36258e41dd515edd012dbe0c3954f4e81/header.jpg?t=1750513624",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714550/d4bb45105e6a2ba250be54157f4ef5e0dc19d8e9/capsule_231x87.jpg?t=1750513624",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714550/d4bb45105e6a2ba250be54157f4ef5e0dc19d8e9/capsule_184x69.jpg?t=1750513624",
+    "website": null,
+    "developers": [
+      "Zeros"
+    ],
+    "publishers": [
+      "Zeros"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      18,
+      62
+    ],
+    "genres": [
+      2,
+      3,
+      4,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Q3 2025"
+    },
+    "support_info": {
+      "url": "zeros.group",
+      "email": "2692762586@qq.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714550?t=1750513624",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3714550?t=1750513624",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
+    }
+  },
+  "3715880": {
+    "type": "game",
+    "name": "Delta 78: The Passenger",
+    "steam_appid": 3715880,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "An engineer wakes up alone on a silent ship. Something's wrong. Something is watching. Delta 78: The Passenger is a dark sci-fi experience with interactive narrative and stealth gameplay.",
+    "supported_languages": "English, Portuguese - Brazil",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715880/506ec8e422ebd4ce993775a1f3b99bfbc560b6f6/header.jpg?t=1750469655",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715880/c56ca19300db4b129ebe1b9d5d0db8d9b5669c00/capsule_231x87.jpg?t=1750469655",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715880/c56ca19300db4b129ebe1b9d5d0db8d9b5669c00/capsule_184x69.jpg?t=1750469655",
+    "website": null,
+    "developers": [
+      "Kaioyllan"
+    ],
+    "publishers": [
+      "Kaioyllan"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      22,
+      28,
+      62,
+      69,
+      74,
+      75
+    ],
+    "genres": [
+      4,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "",
+      "email": "deltaproject144@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3715880?t=1750469655",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715880/7fb1a39bff024bd857ccfa6b2209cca49a85c289/page_bg_raw.jpg?t=1750469655",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
       }
     }
   }

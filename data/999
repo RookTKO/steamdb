@@ -574,8 +574,8 @@
       "url": "https://studiopraparat.wixsite.com/mysite",
       "email": "rakushi@86650b5e0b37e851.lolipop.jp"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998450/page_bg_generated_v6b.jpg?t=1716683584",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998450/page_bg_generated.jpg?t=1716683584",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998450?t=1716683584",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998450?t=1716683584",
     "content_descriptors": {
       "ids": [
         2,
@@ -1000,9 +1000,6 @@
     "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998540/capsule_231x87.jpg?t=1716093855",
     "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998540/capsule_184x69.jpg?t=1716093855",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -1017,8 +1014,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998540?t=1716093855",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998540?t=1716093855",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1376,8 +1373,8 @@
       "url": "https://forms.gle/wECi1QjQ1AnuRvKW7",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999520/page_bg_generated_v6b.jpg?t=1716504290",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999520/page.bg.jpg?t=1716504290",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999520?t=1716504290",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999520/page_bg_raw.jpg?t=1716504290",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1475,9 +1472,9 @@
     "controller_support": "full",
     "short_description": "Take on waves of mystical creatures and survive the highland trials in Highland Huntress! This bullet heaven blends roguelite and casual elements, featuring archery combat, dynamic weather, and a quest to find your fox kit. Explore lush landscapes and strategize to overcome relentless hordes.",
     "supported_languages": "English, German, Spanish - Spain, Simplified Chinese, Japanese, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999820/header.jpg?t=1716583709",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999820/capsule_231x87.jpg?t=1716583709",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999820/capsule_184x69.jpg?t=1716583709",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999820/header.jpg?t=1729190137",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999820/capsule_231x87.jpg?t=1729190137",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999820/capsule_184x69.jpg?t=1729190137",
     "website": null,
     "developers": [
       "Accessed None"
@@ -1485,7 +1482,20 @@
     "publishers": [
       "Accessed None"
     ],
-    "package_groups": [],
+    "packages": [
+      1067227
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Highland Huntress",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1495,23 +1505,28 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
       4,
-      23
+      23,
+      70
     ],
+    "achievements": {
+      "total": 1
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "1 Oct, 2024"
+      "coming_soon": false,
+      "date": "17 Oct, 2024"
     },
     "support_info": {
       "url": "www.accessednone.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999820/page_bg_generated_v6b.jpg?t=1716583709",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999820/page_bg_generated.jpg?t=1716583709",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999820?t=1729190137",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999820?t=1729190137",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2123,16 +2138,16 @@
     "name": "Lantern of Worlds - Lorebook",
     "steam_appid": 2999470,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
     "short_description": "In this lore book you will find descriptions of the land of Idunia, it\u2019s provinces and rulers, it\u2019s customs, faiths and gods. As well as backstories of several characters you will meet in the game 'Lantern of Worlds : Storybook.'",
     "fullgame": {
       "appid": "1047190",
       "name": "Lantern of Worlds - Storybook"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999470/header.jpg?t=1716458496",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999470/capsule_231x87.jpg?t=1716458496",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999470/capsule_184x69.jpg?t=1716458496",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999470/header.jpg?t=1737395739",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999470/capsule_231x87.jpg?t=1737395739",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999470/capsule_184x69.jpg?t=1737395739",
     "website": "http://www.fasoldgames.com",
     "developers": [
       "Fasold Publishing"
@@ -2140,20 +2155,7 @@
     "publishers": [
       "Fasold Publishing"
     ],
-    "packages": [
-      1067117
-    ],
-    "package_groups": [
-      {
-        "name": "default",
-        "title": "Buy Lantern of Worlds - Lorebook",
-        "description": "",
-        "selection_text": "Select a purchase option",
-        "save_text": "",
-        "display_type": 0,
-        "is_recurring_subscription": "false"
-      }
-    ],
+    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -2166,7 +2168,8 @@
     "genres": [
       3,
       23,
-      25
+      25,
+      37
     ],
     "release_date": {
       "coming_soon": false,
@@ -2176,8 +2179,8 @@
       "url": "http://www.fasoldgames.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999470/page_bg_generated_v6b.jpg?t=1716458496",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999470/page.bg.jpg?t=1716458496",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999470?t=1737395739",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999470/page_bg_raw.jpg?t=1737395739",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2525,8 +2528,8 @@
       "url": "https://vk.com/ak_studio_dev",
       "email": "admin@aksweb.ru"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999680/page_bg_generated_v6b.jpg?t=1717873402",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999680/page_bg_generated.jpg?t=1717873402",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999680?t=1717873402",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999680?t=1717873402",
     "content_descriptors": {
       "ids": [
         5
@@ -2558,12 +2561,11 @@
     "steam_appid": 2997860,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
     "short_description": "You are an experienced astronaut, stranded in space. Will you reach Earth, or will you get lost in space and die?",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Simplified Chinese, Spanish - Latin America, Russian, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997860/header.jpg?t=1717246802",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997860/capsule_231x87.jpg?t=1717246802",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997860/capsule_184x69.jpg?t=1717246802",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997860/header.jpg?t=1746836426",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997860/capsule_231x87.jpg?t=1746836426",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997860/capsule_184x69.jpg?t=1746836426",
     "website": null,
     "developers": [
       "Digital Kingdom"
@@ -2571,7 +2573,26 @@
     "publishers": [
       "Digital Kingdom"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3086810,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1066580
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Journey to Earth",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2579,7 +2600,7 @@
     },
     "categories": [
       2,
-      28
+      62
     ],
     "genres": [
       1,
@@ -2589,15 +2610,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Nov, 2024"
     },
     "support_info": {
       "url": "",
       "email": "digitalgameskingdom@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997860/page_bg_generated_v6b.jpg?t=1717246802",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997860/page.bg.jpg?t=1717246802",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2997860?t=1746836426",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997860/page_bg_raw.jpg?t=1746836426",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2707,9 +2728,6 @@
     "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999170/capsule_231x87.jpg?t=1717774535",
     "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999170/capsule_184x69.jpg?t=1717774535",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -2724,8 +2742,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999170?t=1717774535",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999170?t=1717774535",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2737,17 +2755,17 @@
     "name": "Pampas & Selene - Pirate Software's Ferret Sanctuary DLC",
     "steam_appid": 2999010,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
     "controller_support": "full",
-    "short_description": "This DLC contains a special Ferret Pet in collaboration with Pirate Software! 100% of developer proceeds from this pack will be used to support Pirate Software's Ferret Sanctuary. Have your very own furry ferret friend follow you around!",
+    "short_description": "This DLC contains a special Ferret Pet in collaboration with Pirate Software! Have your very own furry ferret friend follow you around!",
     "fullgame": {
       "appid": "1966220",
       "name": "Pampas & Selene: The Maze of Demons"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999010/header.jpg?t=1716484681",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999010/capsule_231x87.jpg?t=1716484681",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999010/capsule_184x69.jpg?t=1716484681",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999010/header.jpg?t=1734336358",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999010/capsule_231x87.jpg?t=1734336358",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999010/capsule_184x69.jpg?t=1734336358",
     "website": "http://unepicfran.com/en/msx_pampas.html",
     "developers": [
       "@unepic_fran"
@@ -2755,20 +2773,7 @@
     "publishers": [
       "Unepic Games"
     ],
-    "packages": [
-      1066965
-    ],
-    "package_groups": [
-      {
-        "name": "default",
-        "title": "Buy Pampas & Selene - Pirate Software's Ferret Sanctuary DLC",
-        "description": "",
-        "selection_text": "Select a purchase option",
-        "save_text": "",
-        "display_type": 0,
-        "is_recurring_subscription": "false"
-      }
-    ],
+    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2792,7 +2797,8 @@
       1,
       3,
       23,
-      25
+      25,
+      37
     ],
     "release_date": {
       "coming_soon": false,
@@ -2802,8 +2808,8 @@
       "url": "",
       "email": "unepicgame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999010/page_bg_generated_v6b.jpg?t=1716484681",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999010/page_bg_generated.jpg?t=1716484681",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999010?t=1734336358",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999010?t=1734336358",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5602,7 +5608,7 @@
   },
   "2998010": {
     "type": "dlc",
-    "name": "Epic Roller Coasters - Colosseum",
+    "name": "Epic Roller Coasters \u2014 Colosseum",
     "steam_appid": 2998010,
     "required_age": 0,
     "is_free": false,
@@ -5613,15 +5619,12 @@
       "name": "Epic Roller Coasters"
     },
     "supported_languages": "English, French, German, Spanish - Spain, Simplified Chinese, Korean, Japanese, Portuguese - Brazil, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998010/header.jpg?t=1717107585",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998010/capsule_231x87.jpg?t=1717107585",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998010/capsule_184x69.jpg?t=1717107585",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998010/header.jpg?t=1736525632",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998010/capsule_231x87.jpg?t=1736525632",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998010/capsule_184x69.jpg?t=1736525632",
     "website": "https://b4t.games/",
     "developers": [
       "B4T Games"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       1066643
@@ -5629,7 +5632,7 @@
     "package_groups": [
       {
         "name": "default",
-        "title": "Buy Epic Roller Coasters - Colosseum",
+        "title": "Buy Epic Roller Coasters \u2014 Colosseum",
         "description": "",
         "selection_text": "Select a purchase option",
         "save_text": "",
@@ -5671,8 +5674,8 @@
       "url": "http://b4t.games",
       "email": "contact@b4t.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998010/page_bg_generated_v6b.jpg?t=1717107585",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998010/page_bg_generated.jpg?t=1717107585",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998010?t=1736525632",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998010?t=1736525632",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5760,8 +5763,8 @@
       "url": "https://www.tamingdragons.com",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2997750?t=1718049507",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2997750?t=1718049507",
     "content_descriptors": {
       "ids": [],
       "notes": null
