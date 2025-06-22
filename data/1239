@@ -2207,9 +2207,9 @@
     "is_free": false,
     "short_description": "You're stationed on a moon far from Earth for 50 days. Use drones to perform work cycles at substations, gathering resources to spend on crafting, tasks, and upgrades while selling what you collect to perform research and meet day end requirements. However, you aren\u2019t alone\u2026",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717850/0e82d337179a5229bad46fbc5a86336a699a57c0/header.jpg?t=1747354135",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717850/d03dc73fc7ba0960c722fad2edfca3a1074eea34/capsule_231x87.jpg?t=1747354135",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717850/d03dc73fc7ba0960c722fad2edfca3a1074eea34/capsule_184x69.jpg?t=1747354135",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717850/0e82d337179a5229bad46fbc5a86336a699a57c0/header.jpg?t=1747859850",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717850/d03dc73fc7ba0960c722fad2edfca3a1074eea34/capsule_231x87.jpg?t=1747859850",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717850/d03dc73fc7ba0960c722fad2edfca3a1074eea34/capsule_184x69.jpg?t=1747859850",
     "website": null,
     "developers": [
       "Callian / SleepyMoonlight"
@@ -2217,7 +2217,20 @@
     "publishers": [
       "Callian / SleepyMoonlight"
     ],
-    "package_groups": [],
+    "packages": [
+      1308867
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy CragEx-5",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2232,15 +2245,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "21 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "sleepymoonlightdevelopment@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717850?t=1747354135",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717850?t=1747354135",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717850?t=1747859850",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717850?t=1747859850",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2271,11 +2284,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Puzzle games with Brick Laying out a 10x10 space Fun with gimmicks like respawning and changing bricks Seems like luck, but there's a path",
-    "supported_languages": "English, Japanese, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718670/17a5574ec736b3a77f361f65afba36ae798d9e9a/header.jpg?t=1747289048",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718670/86ebfb455287c05cdcea55bf859f33c2272590fa/capsule_231x87.jpg?t=1747289048",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718670/86ebfb455287c05cdcea55bf859f33c2272590fa/capsule_184x69.jpg?t=1747289048",
+    "short_description": "Bricks 10x10 is a puzzle game where you place bricks on a 10x10 grid to create combos. Use mechanics like swapping and respawning bricks to play strategically. Simple to learn, yet full of deep fun and challenges.",
+    "supported_languages": "English, Japanese, Korean, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Turkish, Portuguese - Brazil",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718670/17a5574ec736b3a77f361f65afba36ae798d9e9a/header.jpg?t=1748313026",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718670/86ebfb455287c05cdcea55bf859f33c2272590fa/capsule_231x87.jpg?t=1748313026",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718670/86ebfb455287c05cdcea55bf859f33c2272590fa/capsule_184x69.jpg?t=1748313026",
     "website": null,
     "developers": [
       "LeiZna"
@@ -2283,7 +2296,20 @@
     "publishers": [
       "LeiZna"
     ],
-    "package_groups": [],
+    "packages": [
+      1309139
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Bricks 10x10",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2295,22 +2321,29 @@
       22,
       25,
       28,
-      62
+      62,
+      68,
+      69,
+      74,
+      76
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 15
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "leikezenema@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3718670?t=1747289048",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718670/c61ffe1ea829df5acb3d310e28d14630bbeaec98/page_bg_raw.jpg?t=1747289048",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3718670?t=1748313026",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718670/c61ffe1ea829df5acb3d310e28d14630bbeaec98/page_bg_raw.jpg?t=1748313026",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2365,7 +2398,13 @@
     "categories": [
       2,
       21,
-      62
+      62,
+      66,
+      67,
+      68,
+      74,
+      76,
+      78
     ],
     "genres": [
       3,
@@ -2550,9 +2589,9 @@
     "is_free": false,
     "short_description": "A cozy simulation game blending farming, animal care, and cooking. it invites you to a cheerful, colorful world where you shape your utopia through a simple yet dynamic economy. Enjoy quick, satisfying gameplay sessions as you grow crops, cook dishes, and build your dream community!",
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717010/95fa0a7f2638bbb0298127e491d34cda2b3c5da1/header.jpg?t=1746702476",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717010/9636013ce1eeac8b44f97064ab097a3b076579e0/capsule_231x87.jpg?t=1746702476",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717010/9636013ce1eeac8b44f97064ab097a3b076579e0/capsule_184x69.jpg?t=1746702476",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717010/95fa0a7f2638bbb0298127e491d34cda2b3c5da1/header.jpg?t=1749495220",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717010/9636013ce1eeac8b44f97064ab097a3b076579e0/capsule_231x87.jpg?t=1749495220",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717010/9636013ce1eeac8b44f97064ab097a3b076579e0/capsule_184x69.jpg?t=1749495220",
     "website": null,
     "developers": [
       "Almy02"
@@ -2568,7 +2607,13 @@
     },
     "categories": [
       2,
-      62
+      62,
+      68,
+      74,
+      75,
+      76,
+      78,
+      79
     ],
     "genres": [
       4,
@@ -2583,8 +2628,8 @@
       "url": "",
       "email": "1048663255@qq.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717010?t=1746702476",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717010?t=1746702476",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717010?t=1749495220",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717010?t=1749495220",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2616,10 +2661,10 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Kegan is a dark fantasy action RPG where you play as a dual-blade warrior on a quest for vengeance. Uncover ancient secrets, battle corrupted enemies, and shape the fate of a shattered world in this story-driven adventure.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717150/0adc62617132cf2800c080f59258039876c00f4e/header.jpg?t=1746709877",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717150/d8174e0ac953ff5e35961cf93d8bf63d43897b07/capsule_231x87.jpg?t=1746709877",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717150/d8174e0ac953ff5e35961cf93d8bf63d43897b07/capsule_184x69.jpg?t=1746709877",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717150/e8f35291e51077f20a054752dfb261444b6b96f5/header.jpg?t=1750601277",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717150/340b62d851dc366d02909f3a54145c7be7d844f4/capsule_231x87.jpg?t=1750601277",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717150/340b62d851dc366d02909f3a54145c7be7d844f4/capsule_184x69.jpg?t=1750601277",
     "website": null,
     "developers": [
       "TDOG STUDIOS"
@@ -2651,8 +2696,8 @@
       "url": "",
       "email": "theoelion54@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717150?t=1746709877",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717150?t=1746709877",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717150?t=1750601277",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3717150?t=1750601277",
     "content_descriptors": {
       "ids": [
         2,
@@ -2828,9 +2873,9 @@
     "is_free": false,
     "short_description": "Geometry Loop: Amazing Planetary AdventureReady to embark on a thrilling interstellar journey? Welcome to Geometry Loop, the ultimate arcade jumping game that will test your skills, reflexes, and timing! Navigate your character across the surface of mysterious planets, dodging obstacles.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718640/8cfeb933464ddf43c7221d65a8b872b8aae276b4/header.jpg?t=1746722363",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718640/a40a8cf7c019f11620b1d8a982986c2db0b16a5b/capsule_231x87.jpg?t=1746722363",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718640/a40a8cf7c019f11620b1d8a982986c2db0b16a5b/capsule_184x69.jpg?t=1746722363",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718640/8cfeb933464ddf43c7221d65a8b872b8aae276b4/header.jpg?t=1749542561",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718640/a40a8cf7c019f11620b1d8a982986c2db0b16a5b/capsule_231x87.jpg?t=1749542561",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718640/a40a8cf7c019f11620b1d8a982986c2db0b16a5b/capsule_184x69.jpg?t=1749542561",
     "website": null,
     "developers": [
       "Kidga Games"
@@ -2860,8 +2905,8 @@
       "url": "",
       "email": "kidga.games.lt@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3718640?t=1746722363",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718640/77062a6159fe3c9e9c56ce356539c093c79d924a/page_bg_raw.jpg?t=1746722363",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3718640?t=1749542561",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718640/77062a6159fe3c9e9c56ce356539c093c79d924a/page_bg_raw.jpg?t=1749542561",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10799,6 +10844,79 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
+      }
+    }
+  },
+  "3719500": {
+    "type": "game",
+    "name": "Muhe space",
+    "steam_appid": 3719500,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "A space strategy game. By freely editing the attributes of eight warships, engage in free combat and obtain unlimited resources to strengthen the warships. Featuring innovative combat modes, mutually restrained weapon types, and highly strategic.",
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3719500/46fce437fcdf67bdcc0d4fd1ec7ef387984630de/header.jpg?t=1750604196",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3719500/f67d8d1c4acfe6a5f2f9b2a4d767e601d895429c/capsule_231x87.jpg?t=1750604196",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3719500/f67d8d1c4acfe6a5f2f9b2a4d767e601d895429c/capsule_184x69.jpg?t=1750604196",
+    "website": null,
+    "developers": [
+      "klmfs"
+    ],
+    "publishers": [
+      "klmfs"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      1,
+      2,
+      9,
+      24,
+      37,
+      39,
+      44,
+      49,
+      62
+    ],
+    "genres": [
+      2,
+      4,
+      23
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "",
+      "email": "1843190010@qq.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3719500?t=1750604196",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3719500?t=1750604196",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
       }
     }
   }
