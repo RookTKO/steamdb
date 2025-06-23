@@ -3656,11 +3656,11 @@
     "steam_appid": 2998590,
     "required_age": 0,
     "is_free": false,
-    "short_description": "In development. Well well well, what have we here? Scary maze huh? i'm really scared! So you are happened to be in a maze, you dont know where exactly, all you know there is your buddies there and a monster. For all this nightmare to end you need to find an artifact and place it on the altar.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998590/header.jpg?t=1718725489",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998590/capsule_231x87.jpg?t=1718725489",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998590/capsule_184x69.jpg?t=1718725489",
+    "short_description": "Well well well, what have we here? Scary maze huh? i'm really scared! So you are happened to be in a maze, you dont know where exactly, all you know there is your buddies there and a monster. For all this nightmare to end you need to find an artifact and place it on the altar.",
+    "supported_languages": "English, Russian, Italian, German, Simplified Chinese, French, Spanish - Spain, Bulgarian, Czech, Danish, Finnish, Hungarian, Japanese, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America, Swedish, Turkish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998590/header.jpg?t=1734771671",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998590/capsule_231x87.jpg?t=1734771671",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998590/capsule_184x69.jpg?t=1734771671",
     "website": null,
     "developers": [
       "Finogenov Andrey"
@@ -3668,7 +3668,20 @@
     "publishers": [
       "Finogenov Andrey"
     ],
-    "package_groups": [],
+    "packages": [
+      1066830
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy MAZEING",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3677,7 +3690,8 @@
     "categories": [
       1,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2,
@@ -3685,15 +3699,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Jun, 2024"
     },
     "support_info": {
       "url": "",
       "email": "avfinogenov@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998590/page_bg_generated_v6b.jpg?t=1718725489",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998590/page.bg.jpg?t=1718725489",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998590?t=1734771671",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998590/page_bg_raw.jpg?t=1734771671",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3791,16 +3805,16 @@
   },
   "2999740": {
     "type": "game",
-    "name": "Books Upon Books",
+    "name": "Books Upon Books - Bookshop Simulator",
     "steam_appid": 2999740,
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
     "short_description": "It\u2019s time to turn the page and create the bookshop of your dreams. Customise your Layout. Customise your Colour Scheme. Build bigger and bigger. A casual, simulation game where you get to build and tend to your own bookshop.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Portugal, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999740/header.jpg?t=1718325016",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999740/capsule_231x87.jpg?t=1718325016",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999740/capsule_184x69.jpg?t=1718325016",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999740/header.jpg?t=1743849068",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999740/capsule_231x87.jpg?t=1743849068",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999740/capsule_184x69.jpg?t=1743849068",
     "website": null,
     "developers": [
       "Mellow Flame Games"
@@ -3808,7 +3822,26 @@
     "publishers": [
       "Mellow Flame Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3054050,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1067203
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Books Upon Books - Bookshop Simulator",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3816,7 +3849,9 @@
     },
     "categories": [
       2,
-      28
+      22,
+      28,
+      62
     ],
     "genres": [
       2,
@@ -3824,16 +3859,19 @@
       23,
       28
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "5 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@mellowflamegames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999740/page_bg_generated_v6b.jpg?t=1718325016",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999740/page.bg.jpg?t=1718325016",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999740?t=1743849068",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999740/page_bg_raw.jpg?t=1743849068",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6295,10 +6333,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Welcome to the exciting world of Flying Tobacco Eggs, an exciting arcade game with pixel graphics and addictive gameplay!",
-    "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999770/header.jpg?t=1718533110",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999770/capsule_231x87.jpg?t=1718533110",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999770/capsule_184x69.jpg?t=1718533110",
+    "supported_languages": "English, Russian, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Indonesian, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese, Azerbaijani, Albanian, Amharic, Armenian, Assamese, Afrikaans, Basque, Belarusian, Bangla, Bosnian, Valencian, Welsh, Wolof, Galician, Georgian, Gujarati, Dari, Zulu, Hebrew, Igbo, Irish, Icelandic, Yoruba, Kazakh, Kannada, Catalan, Quechua, Kinyarwanda, K'iche', Konkani, Xhosa, Khmer, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Persian, Serbian, Sotho, Sinhala, Sindhi, Slovak, Slovenian, Sorani, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Uzbek, Uyghur, Urdu, Filipino, Hausa, Hindi, Croatian, Cherokee, Scots, Estonian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999770/header.jpg?t=1744483909",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999770/capsule_231x87.jpg?t=1744483909",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999770/capsule_184x69.jpg?t=1744483909",
     "website": null,
     "developers": [
       "Gamesforgames"
@@ -6349,8 +6387,8 @@
       "url": "",
       "email": "ivan.zilagodin@rambler.ru"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999770/page_bg_generated_v6b.jpg?t=1718533110",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999770/page_bg_generated.jpg?t=1718533110",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999770?t=1744483909",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999770?t=1744483909",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6402,6 +6440,9 @@
       "mac": false,
       "linux": false
     },
+    "metacritic": {
+      "score": 87
+    },
     "categories": [
       2,
       10,
@@ -6415,8 +6456,8 @@
       "url": "http://suspicious.dev",
       "email": "support@suspiciousdevelopments.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998000?t=1717433895",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2998000?t=1717433895",
     "content_descriptors": {
       "ids": [
         5
@@ -10640,11 +10681,11 @@
     "steam_appid": 2999260,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Step into the thrilling world of Low Batt, a heart-pounding Top Down Shooter that pits you against the formidable security forces of Copperfeller Industries. Navigate through intense challenges requiring a blend of skill and strength and embark on an epic robotic adventure to rescue your robo-dog.",
+    "short_description": "Step into the thrilling world of Low Batt, a heart-pounding Top Down Shooter that pits you against the formidable security forces of L.E.A.D. Industries. Navigate through intense challenges requiring a blend of skill and strength and embark on an epic robotic adventure to rescue your robo-dog.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999260/header.jpg?t=1718734045",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999260/capsule_231x87.jpg?t=1718734045",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999260/capsule_184x69.jpg?t=1718734045",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999260/header.jpg?t=1738753085",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999260/capsule_231x87.jpg?t=1738753085",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999260/capsule_184x69.jpg?t=1738753085",
     "website": "https://www.esat.es/en/",
     "developers": [
       "ESAT",
@@ -10670,15 +10711,15 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "18 Jul, 2024"
     },
     "support_info": {
       "url": "https://x.com/Lowbattgame",
       "email": "lowbatt2023@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999260/page_bg_generated_v6b.jpg?t=1718734045",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999260/page.bg.jpg?t=1718734045",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999260?t=1738753085",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999260/page_bg_raw.jpg?t=1738753085",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10704,21 +10745,21 @@
   },
   "2999700": {
     "type": "game",
-    "name": "Garb Gallery",
+    "name": "Medieval Garb Simulator",
     "steam_appid": 2999700,
     "required_age": 0,
     "is_free": false,
-    "short_description": "This is a clothing store simulation game. Produce and sell your own clothing to grow your store. Wake up in a dilapidated place, find a functional sewing machine, clean up, and gather materials to start your fashion journey.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Korean, Russian, Turkish, Ukrainian, Greek<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999700/header.jpg?t=1718816499",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999700/capsule_231x87.jpg?t=1718816499",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999700/capsule_184x69.jpg?t=1718816499",
+    "short_description": "You awaken in the dusty corners of a forgotten medieval town \u2014 unknown, broke, and with only a rusty sewing tool in hand. Will you stitch your way to fame, &quot;borrow&quot; others\u2019 creations, or build your own path through charm and cunning?",
+    "supported_languages": "English, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999700/header.jpg?t=1748229100",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999700/60c625ca4222ebffe26e810a8e1e57ea949e2a1e/capsule_231x87.jpg?t=1748229100",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999700/60c625ca4222ebffe26e810a8e1e57ea949e2a1e/capsule_184x69.jpg?t=1748229100",
     "website": null,
     "developers": [
-      "Garb Gallery"
+      "Nonfigure Studio"
     ],
     "publishers": [
-      "Garb Gallery"
+      "Nonfigure Studio"
     ],
     "package_groups": [],
     "platforms": {
@@ -10727,25 +10768,30 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      62
     ],
     "genres": [
       2,
+      3,
       4,
       23,
       25,
-      28
+      28,
+      70
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "ggarbgallery@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999700/page_bg_generated_v6b.jpg?t=1718816499",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999700/page.bg.jpg?t=1718816499",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2999700?t=1748229100",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999700/page_bg_raw.jpg?t=1748229100",
     "content_descriptors": {
       "ids": [],
       "notes": null
