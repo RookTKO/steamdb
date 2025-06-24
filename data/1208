@@ -9314,14 +9314,27 @@
       "name": "The Slormancer"
     },
     "supported_languages": "English, French, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3625910/ebd0598955a2ef326f5de7790e70e075852bfc0f/header.jpg?t=1745316595",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3625910/16a8305beaa5e73fd25fc4b8498ebb946de6d482/capsule_231x87.jpg?t=1745316595",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3625910/16a8305beaa5e73fd25fc4b8498ebb946de6d482/capsule_184x69.jpg?t=1745316595",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3625910/3213fc4ee47339eb571a2298534bd3ee7f0f6c38/header.jpg?t=1747036083",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3625910/16a8305beaa5e73fd25fc4b8498ebb946de6d482/capsule_231x87.jpg?t=1747036083",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3625910/16a8305beaa5e73fd25fc4b8498ebb946de6d482/capsule_184x69.jpg?t=1747036083",
     "website": "http://www.slormitestudios.com/",
     "developers": [
       "Slormite Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1278297
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Slormancer - Supporter Pack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -9341,15 +9354,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "12 May, 2025"
     },
     "support_info": {
       "url": "http://www.slormitestudios.com/",
       "email": "support@slormitestudios.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3625910?t=1745316595",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3625910?t=1745316595",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3625910?t=1747036083",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3625910?t=1747036083",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9463,6 +9476,9 @@
     "categories": [
       54
     ],
+    "achievements": {
+      "total": 1
+    },
     "release_date": {
       "coming_soon": false,
       "date": "22 Apr, 2025"
@@ -13715,5 +13731,38 @@
         "descriptors": ""
       }
     }
+  },
+  "3624070": {
+    "type": "game",
+    "name": "Core Keeper Playtest Playtest",
+    "steam_appid": 3624070,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624070/c918d337b91855d5e98299c67e95abb8c61a53b0/header.jpg?t=1750757229",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624070/5b19828e142f23d88e5213280d8e226408dabbbf/capsule_231x87.jpg?t=1750757229",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624070/5b19828e142f23d88e5213280d8e226408dabbbf/capsule_184x69.jpg?t=1750757229",
+    "website": null,
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "24 Jun, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3624070?t=1750757229",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624070/f804d3423a9d22312f623a4b8babfb4a839de8a2/page_bg_raw.jpg?t=1750757229",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": null
   }
 }

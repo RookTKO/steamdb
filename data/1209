@@ -7860,9 +7860,9 @@
     "is_free": false,
     "short_description": "Let Catch Me is a bodycam-perspective survival horror game. In the game, players must survive in a cramped, eerie, and terrifying forest are combined with the horror demons, where players must to take pictures to score and to gain chances of survival and escape from enemies",
     "supported_languages": "English<strong>*</strong>, Japanese, Korean, Simplified Chinese, Vietnamese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627940/4d2d3002603c5fd5c167c7ce913ee58d2298accc/header.jpg?t=1745293884",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627940/3b5e0cb042d712146214bc1fab050057a5647764/capsule_231x87.jpg?t=1745293884",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627940/3b5e0cb042d712146214bc1fab050057a5647764/capsule_184x69.jpg?t=1745293884",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627940/4d2d3002603c5fd5c167c7ce913ee58d2298accc/header.jpg?t=1749090625",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627940/3b5e0cb042d712146214bc1fab050057a5647764/capsule_231x87.jpg?t=1749090625",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627940/3b5e0cb042d712146214bc1fab050057a5647764/capsule_184x69.jpg?t=1749090625",
     "website": "https://rockg-studio.com/let-catch-me/",
     "developers": [
       "RockG Studio"
@@ -7870,7 +7870,20 @@
     "publishers": [
       "RockG Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1278959
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Let Catch Me",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7878,7 +7891,6 @@
     },
     "categories": [
       2,
-      18,
       62
     ],
     "genres": [
@@ -7887,17 +7899,18 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "15 May, 2025"
     },
     "support_info": {
       "url": "https://rockg-studio.com/contact-us/",
       "email": "rockgstudio@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3627940?t=1745293884",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627940/68f541eb020bd76bad32fd22f861ccb461250fa3/page_bg_raw.jpg?t=1745293884",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3627940?t=1749090625",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627940/68f541eb020bd76bad32fd22f861ccb461250fa3/page_bg_raw.jpg?t=1749090625",
     "content_descriptors": {
       "ids": [
+        2,
         5
       ],
       "notes": "This game contains strong horror elements. It is not recommended for players under 18 years old or those with heart conditions, epilepsy, severe anxiety, or other related health issues. You play at your own risk.\r\n\r\nAll events, characters, and organizations depicted in this game are entirely fictional. Any resemblance to real persons, living or dead, or to actual events or locations is purely coincidental and unintentional."
@@ -7928,10 +7941,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Sizzle &amp; Stack is a fast-paced restaurant management card game where you stack ingredients, cook dishes, explore recipes, and serve hungry customers. Upgrade your kitchen and master strategic cooking in a unique blend of card play and time management!",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629080/9ec8ec0954b9e53334b9ee9538a25b4481732f2d/header.jpg?t=1745305916",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629080/e9a6140bced51a1dfc1ea5592dcd3b9de0eee7b0/capsule_231x87.jpg?t=1745305916",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629080/e9a6140bced51a1dfc1ea5592dcd3b9de0eee7b0/capsule_184x69.jpg?t=1745305916",
+    "supported_languages": "English, Turkish, Japanese, Simplified Chinese, Traditional Chinese, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629080/8e00348beeb979dc1b9ae11ded9c388704c18473/header.jpg?t=1750407235",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629080/d5db1a4dc74841357556596c2893313be644067b/capsule_231x87.jpg?t=1750407235",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629080/d5db1a4dc74841357556596c2893313be644067b/capsule_184x69.jpg?t=1750407235",
     "website": null,
     "developers": [
       "Arvis Games"
@@ -7939,31 +7952,39 @@
     "publishers": [
       "Arvis Games"
     ],
+    "demos": [
+      {
+        "appid": 3716680,
+        "description": ""
+      }
+    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
       2,
+      23,
       62
     ],
     "genres": [
+      2,
       4,
       23,
       28
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "4 Aug, 2025"
     },
     "support_info": {
       "url": "",
       "email": "alper@arvisgames.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3629080?t=1745305916",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3629080?t=1745305916",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3629080?t=1750407235",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3629080?t=1750407235",
     "content_descriptors": {
       "ids": [],
       "notes": null
