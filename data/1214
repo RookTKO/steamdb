@@ -4122,9 +4122,9 @@
     "is_free": false,
     "short_description": "A fresh and innovative puzzle game with casual controls and rules that still require thoughtful strategy. In addition to the short and accessible Story Mode, there are engaging features such as collecting treasures to complete the compendium, score attacks, and online rankings.",
     "supported_languages": "English, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642690/17ed905765ae9e3268cd6f65d00ea332631e4b15/header.jpg?t=1744463663",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642690/b8468f920946e80004b0285826647a26f4a8bdc5/capsule_231x87.jpg?t=1744463663",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642690/b8468f920946e80004b0285826647a26f4a8bdc5/capsule_184x69.jpg?t=1744463663",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642690/17ed905765ae9e3268cd6f65d00ea332631e4b15/header.jpg?t=1745767613",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642690/b8468f920946e80004b0285826647a26f4a8bdc5/capsule_231x87.jpg?t=1745767613",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642690/b8468f920946e80004b0285826647a26f4a8bdc5/capsule_184x69.jpg?t=1745767613",
     "website": "https://ggg-games-searchandbomb.amebaownd.com/",
     "developers": [
       "GGG"
@@ -4132,7 +4132,20 @@
     "publishers": [
       "GGG"
     ],
-    "package_groups": [],
+    "packages": [
+      1283850
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy SearchAndBomb",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4147,16 +4160,19 @@
       4,
       23
     ],
+    "achievements": {
+      "total": 26
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "28 Apr, 2025"
+      "coming_soon": false,
+      "date": "27 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "ggg.games.contact@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642690?t=1744463663",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642690?t=1744463663",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642690?t=1745767613",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642690?t=1745767613",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4186,17 +4202,24 @@
     "steam_appid": 3642550,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Noon Stone is a roguelite microgame inspired by TTRPGs and print &amp; play adventures. Travel across a procedurally generated hex map, uncover secrets, buy gear, and battle growing threats using dice-based and turn-based combat.",
-    "supported_languages": "English, French, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642550/6b7af6235c3f687fcd0b4813264ca5e1c63f7bf8/header.jpg?t=1744656647",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642550/13540300c4242b6e59fedb0615ffdf827f4c0bc7/capsule_231x87.jpg?t=1744656647",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642550/13540300c4242b6e59fedb0615ffdf827f4c0bc7/capsule_184x69.jpg?t=1744656647",
+    "controller_support": "full",
+    "short_description": "Quick runs, endless challenges. Noon Stone is a tactical adventure with RPG elements blending procedural exploration, strategic upgrades, and dice-driven combat.",
+    "supported_languages": "English, French, Spanish - Spain, Italian, German, Simplified Chinese, Traditional Chinese, Spanish - Latin America, Japanese, Portuguese - Brazil, Russian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642550/6b7af6235c3f687fcd0b4813264ca5e1c63f7bf8/header.jpg?t=1749734412",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642550/13540300c4242b6e59fedb0615ffdf827f4c0bc7/capsule_231x87.jpg?t=1749734412",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642550/13540300c4242b6e59fedb0615ffdf827f4c0bc7/capsule_184x69.jpg?t=1749734412",
     "website": null,
     "developers": [
       "RedderNoon"
     ],
     "publishers": [
       "RedderNoon"
+    ],
+    "demos": [
+      {
+        "appid": 3768090,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4206,7 +4229,16 @@
     },
     "categories": [
       2,
-      62
+      15,
+      22,
+      25,
+      28,
+      62,
+      68,
+      74,
+      75,
+      76,
+      79
     ],
     "genres": [
       2,
@@ -4216,14 +4248,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "September 2025"
     },
     "support_info": {
       "url": "",
       "email": "redno9000+support@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642550?t=1744656647",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642550?t=1744656647",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642550?t=1749734412",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642550?t=1749734412",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4359,9 +4391,9 @@
       "name": "A Slight Chance of Sawblades"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Vietnamese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642450/a6c0f719e52b8d3b5160a3611d7b9cba30dfcdc3/header.jpg?t=1745082160",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642450/dd110b6800b97e0db12033b50e1909261cd8b84d/capsule_231x87.jpg?t=1745082160",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642450/dd110b6800b97e0db12033b50e1909261cd8b84d/capsule_184x69.jpg?t=1745082160",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642450/61dbb60a898895ddf0d70d856eb6e39e380542b4/header.jpg?t=1748885297",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642450/4b1858670c4335f588af9955997944e33948efec/capsule_231x87.jpg?t=1748885297",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642450/4b1858670c4335f588af9955997944e33948efec/capsule_184x69.jpg?t=1748885297",
     "website": "https://sawblades.chinykian.com/",
     "developers": [
       "Chinykian Games"
@@ -4372,7 +4404,7 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": true
     },
     "categories": [
@@ -4388,15 +4420,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "5 May, 2025"
     },
     "support_info": {
       "url": "https://chinykian.com",
       "email": "hello@chinykian.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642450?t=1745082160",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642450/f4080400d236daf59b71f7adebc039223decebd9/page_bg_raw.jpg?t=1745082160",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3642450?t=1748885297",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642450/f4080400d236daf59b71f7adebc039223decebd9/page_bg_raw.jpg?t=1748885297",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11962,6 +11994,75 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
+      }
+    }
+  },
+  "3643790": {
+    "type": "game",
+    "name": "Gigils",
+    "steam_appid": 3643790,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Gigils is an action packed multiplayer game where players will take on the role of cute alien creatures that bite, evolve, and brawl to capture control points. Choose your class, devour bugs or enemies to unlock powerful abilities, and grow stronger. Alien mayhem has never been this delicious.",
+    "supported_languages": "English, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3643790/52de28fa92c0b9ec274892087a5977821650823f/header.jpg?t=1751042402",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3643790/001e0abb7514dad8f0142fa935831d5b12b7fff3/capsule_231x87.jpg?t=1751042402",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3643790/001e0abb7514dad8f0142fa935831d5b12b7fff3/capsule_184x69.jpg?t=1751042402",
+    "website": "http://gigilsgame.com/",
+    "developers": [
+      "Missset"
+    ],
+    "publishers": [
+      "Crytivo"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "categories": [
+      1,
+      18,
+      36,
+      49,
+      62
+    ],
+    "genres": [
+      1,
+      23,
+      29
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "To be announced"
+    },
+    "support_info": {
+      "url": "http://gigilsgame.com/",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3643790?t=1751042402",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3643790?t=1751042402",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
       }
     }
   }

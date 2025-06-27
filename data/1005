@@ -1408,10 +1408,10 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Kun\u2019tewiktuk: A Mi\u2019kmaw Adventure is a fantasy adventure game inspired by Mi\u2019kmaw legend and folklore. It chronicles the adventures of siblings Wasuek (&quot;Flower&quot;) and her brother U'n (&quot;Fog&quot;). They get separated one summer morning and they go on an adventure through the spirit world to reunite.",
-    "supported_languages": "English, French",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015950/header.jpg?t=1718155576",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015950/capsule_231x87.jpg?t=1718155576",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015950/capsule_184x69.jpg?t=1718155576",
+    "supported_languages": "English, French, German, Spanish - Spain, Spanish - Latin America",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015950/bb8109bb8a1950f31e15d70a1757f41122e0ab4b/header.jpg?t=1742618799",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015950/5872a05f4f858b1e98e87477bf144f54f41a416e/capsule_231x87.jpg?t=1742618799",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015950/5872a05f4f858b1e98e87477bf144f54f41a416e/capsule_184x69.jpg?t=1742618799",
     "website": "https://www.mikmawadventure.com",
     "developers": [
       "Green Robot Studios"
@@ -1419,7 +1419,20 @@
     "publishers": [
       "Green Robot Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1072656
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Kun\u2019tewiktuk: A Mi\u2019kmaw Adventure",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1427,21 +1440,26 @@
     },
     "categories": [
       2,
-      28
+      22,
+      28,
+      62
     ],
     "genres": [
       25
     ],
+    "achievements": {
+      "total": 19
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "20 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "info@greenrobotstudios.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015950/page_bg_generated_v6b.jpg?t=1718155576",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015950/page.bg.jpg?t=1718155576",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3015950?t=1742618799",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015950/page_bg_raw.jpg?t=1742618799",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5407,17 +5425,23 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Shobatsu is a fast paced arcade style beat'em up which will let you take the role of four highly skilled ninjas who must fight against hordes of powerful and varied enemies. Face the challenge yourself in the single player modes or invite a friend for extra fun in the local co-op mode.",
-    "supported_languages": "English, Spanish - Latin America, Portuguese - Brazil, French, Italian, Spanish - Spain, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015720/header.jpg?t=1717971369",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015720/capsule_231x87.jpg?t=1717971369",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015720/capsule_184x69.jpg?t=1717971369",
+    "short_description": "Shobatsu is a fast-paced 2d action brawler featuring combo intensive combat set in neo-feudal Japan. Choose among 4 highly skilled ninjas who must overcome hordes of nefarious cultists and cursed abominations. Face the challenge in the single-player modes or invite a friend for the local co-op mode.",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015720/2843bbc51017bac010c48c9a594e327cb2f240b8/header.jpg?t=1745736047",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015720/5ccc897eb94c0753e8957512340b72d51752a62b/capsule_231x87.jpg?t=1745736047",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015720/5ccc897eb94c0753e8957512340b72d51752a62b/capsule_184x69.jpg?t=1745736047",
     "website": null,
     "developers": [
-      "Roger GG"
+      "UtopicNinjaWorks"
     ],
     "publishers": [
-      "Roger GG"
+      "UtopicNinjaWorks"
+    ],
+    "demos": [
+      {
+        "appid": 3652880,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5431,7 +5455,8 @@
       9,
       24,
       28,
-      39
+      39,
+      62
     ],
     "genres": [
       1
@@ -5444,14 +5469,14 @@
       "url": "",
       "email": "shobatsugame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015720/page_bg_generated_v6b.jpg?t=1717971369",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015720/page.bg.jpg?t=1717971369",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3015720?t=1745736047",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015720/022d6b3e828e502fbb314423e413086cffd2d21d/page_bg_raw.jpg?t=1745736047",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
-      "notes": "Contains unrealistic and stylized depictions of violence, including killings, though no blood appears. Some characters wear provocative outfits that briefly become more revealing during certain animations but includes no explicit nudity."
+      "notes": "Contains unrealistic and stylized depictions of violence, including killings. A few scenes contain undetailed depictions of blood as part of its background. Some characters wear provocative outfits that briefly become more revealing during certain animations but includes no explicit nudity."
     },
     "ratings": {
       "dejus": {
@@ -5460,15 +5485,15 @@
         "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Conte\u00fado sexual\nMedo"
+        "descriptors": "Conte\u00fado sexual\nViol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "12",
-        "required_age": "12",
+        "rating": "16",
+        "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Sexuelle Andeutungen\nGewalt"
+        "descriptors": "Gewalt\nSexuelle Andeutungen"
       }
     }
   },
