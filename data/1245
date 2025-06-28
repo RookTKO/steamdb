@@ -5134,12 +5134,12 @@
     "steam_appid": 3735750,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A cat-filled puzzle adventure set in ruins floating in the sky!",
+    "short_description": "Summon cats and solve satisfying logic puzzles in floating ruins. A thoughtful challenge for puzzle lovers who enjoy every move.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735750/15036391e6eb6bd277e44a714629d73b8aee1d72/header.jpg?t=1747855553",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735750/a7bf8a5c946fecb871e7efa45c220efd64fb34d0/capsule_231x87.jpg?t=1747855553",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735750/a7bf8a5c946fecb871e7efa45c220efd64fb34d0/capsule_184x69.jpg?t=1747855553",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735750/15036391e6eb6bd277e44a714629d73b8aee1d72/header.jpg?t=1750990944",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735750/a7bf8a5c946fecb871e7efa45c220efd64fb34d0/capsule_231x87.jpg?t=1750990944",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735750/a7bf8a5c946fecb871e7efa45c220efd64fb34d0/capsule_184x69.jpg?t=1750990944",
+    "website": "https://ddby.jp/cat-summoner-01/",
     "developers": [
       "DDBY"
     ],
@@ -5168,8 +5168,8 @@
       "url": "",
       "email": "info.ddby@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3735750?t=1747855553",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735750/efc0c240fe2ddcdda3f4e592ffd6f83020de945d/page_bg_raw.jpg?t=1747855553",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3735750?t=1750990944",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735750/efc0c240fe2ddcdda3f4e592ffd6f83020de945d/page_bg_raw.jpg?t=1750990944",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5199,11 +5199,11 @@
     "steam_appid": 3735870,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Suit up as an undercover agent in Shadow\u202fProtocol, a high\u2011stakes, word\u2011based spy puzzle built in Python/Pygame. Solve rapid\u2011fire word riddles, defuse missions, and groove to an epic cinematic soundtrack\u2014all running natively on macOS.",
+    "short_description": "Suit up as an undercover agent in Shadow Protocol \u2014 a fast-paced, word-driven spy puzzle built in Python. Solve rapid-fire missions, crack clues, and save the world. Now on Windows. macOS is coming soon.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735870/409579660f965ba8b21f6805080edf6a197a69d2/header.jpg?t=1747861475",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735870/488cc4bcd71b90324a1e83f040d04aa9d21f4704/capsule_231x87.jpg?t=1747861475",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735870/488cc4bcd71b90324a1e83f040d04aa9d21f4704/capsule_184x69.jpg?t=1747861475",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735870/409579660f965ba8b21f6805080edf6a197a69d2/header.jpg?t=1751079156",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735870/488cc4bcd71b90324a1e83f040d04aa9d21f4704/capsule_231x87.jpg?t=1751079156",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735870/488cc4bcd71b90324a1e83f040d04aa9d21f4704/capsule_184x69.jpg?t=1751079156",
     "website": null,
     "developers": [
       "Shawn Futeran"
@@ -5211,15 +5211,29 @@
     "publishers": [
       "Shawn Futeran"
     ],
-    "package_groups": [],
+    "packages": [
+      1315103
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy SHADOW PROTOCOL",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
-      "windows": false,
-      "mac": true,
+      "windows": true,
+      "mac": false,
       "linux": false
     },
     "categories": [
       2,
-      62
+      62,
+      68
     ],
     "genres": [
       2,
@@ -5227,15 +5241,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "26 Jun, 2025"
     },
     "support_info": {
       "url": "www.linkedin.com/in/shawn-futeran-6593a1332",
-      "email": "shawnfuteran@gmail.com"
+      "email": "shawnfuteran.dev@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3735870?t=1747861475",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735870/a573ddf84cc39bc0998de318472243b790dcfce5/page_bg_raw.jpg?t=1747861475",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3735870?t=1751079156",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735870/a573ddf84cc39bc0998de318472243b790dcfce5/page_bg_raw.jpg?t=1751079156",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5285,7 +5299,9 @@
     },
     "categories": [
       2,
-      62
+      62,
+      78,
+      79
     ],
     "genres": [
       1,
@@ -5351,7 +5367,12 @@
     "categories": [
       2,
       13,
-      23
+      23,
+      68,
+      74,
+      75,
+      76,
+      79
     ],
     "genres": [
       3,
@@ -5405,9 +5426,9 @@
       "name": "Trailer Park Zombies"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736290/166d008076efa48eb9bf04c9c5fe92819b657ed7/header.jpg?t=1747905321",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736290/1cb743faccef98263c0f7e469a51f7a347abb346/capsule_231x87.jpg?t=1747905321",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736290/1cb743faccef98263c0f7e469a51f7a347abb346/capsule_184x69.jpg?t=1747905321",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736290/166d008076efa48eb9bf04c9c5fe92819b657ed7/header.jpg?t=1748016140",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736290/1cb743faccef98263c0f7e469a51f7a347abb346/capsule_231x87.jpg?t=1748016140",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736290/1cb743faccef98263c0f7e469a51f7a347abb346/capsule_184x69.jpg?t=1748016140",
     "website": "https://pistonmedia.fi/#games",
     "developers": [
       "Piston Media"
@@ -5423,22 +5444,23 @@
     },
     "categories": [
       2,
-      10
+      10,
+      68
     ],
     "genres": [
       1,
       23
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "23 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "sampo@pistonmedia.fi"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736290?t=1747905321",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736290?t=1747905321",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736290?t=1748016140",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736290?t=1748016140",
     "content_descriptors": {
       "ids": [
         5
@@ -5472,9 +5494,9 @@
     "is_free": false,
     "short_description": "Parry your way through Soulslike combat, where each attack is intuitively telegraphed and meticulously timed with hand-drawn sprites. Discover your own broken synergies and uncover the secrets of the eternal ataraxia the Moon promi\u2013GAZE THE MOON. SHED THE FLESH. ASCEND THE SPIRE. AND TRANSCEND.",
     "supported_languages": "English<strong>*</strong>, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736260/61879315b71b010120c8e013c980a00b3a17f728/header.jpg?t=1747919485",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736260/5adb8b8a941f7766085e405e9f43079b84a0b2c4/capsule_231x87.jpg?t=1747919485",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736260/5adb8b8a941f7766085e405e9f43079b84a0b2c4/capsule_184x69.jpg?t=1747919485",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736260/61879315b71b010120c8e013c980a00b3a17f728/header.jpg?t=1748585551",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736260/5adb8b8a941f7766085e405e9f43079b84a0b2c4/capsule_231x87.jpg?t=1748585551",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736260/5adb8b8a941f7766085e405e9f43079b84a0b2c4/capsule_184x69.jpg?t=1748585551",
     "website": null,
     "developers": [
       "Iron Deer Games",
@@ -5492,7 +5514,11 @@
     "categories": [
       2,
       18,
-      62
+      62,
+      68,
+      74,
+      75,
+      79
     ],
     "genres": [
       1,
@@ -5508,8 +5534,8 @@
       "url": "https://discord.gg/5fsRG63e",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736260?t=1747919485",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736260/7f17bec1e44906da2d0aa1c23767922bc610b888/page_bg_raw.jpg?t=1747919485",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736260?t=1748585551",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736260/7f17bec1e44906da2d0aa1c23767922bc610b888/page_bg_raw.jpg?t=1748585551",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5613,9 +5639,9 @@
       "name": "Twisted Jam"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736740/8574964f177c5dbd5c069b528e9bed0a15ac80e3/header.jpg?t=1747956238",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736740/db5ec698bb2826d95869b02ae725c5cb0f32113f/capsule_231x87.jpg?t=1747956238",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736740/db5ec698bb2826d95869b02ae725c5cb0f32113f/capsule_184x69.jpg?t=1747956238",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736740/8574964f177c5dbd5c069b528e9bed0a15ac80e3/header.jpg?t=1748440862",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736740/db5ec698bb2826d95869b02ae725c5cb0f32113f/capsule_231x87.jpg?t=1748440862",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736740/db5ec698bb2826d95869b02ae725c5cb0f32113f/capsule_184x69.jpg?t=1748440862",
     "website": null,
     "developers": [
       "Ethan Medjuck"
@@ -5643,15 +5669,15 @@
       18
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "28 May, 2025"
     },
     "support_info": {
       "url": "https://twistedjamgame.com",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736740?t=1747956238",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736740?t=1747956238",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736740?t=1748440862",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736740?t=1748440862",
     "content_descriptors": {
       "ids": [
         5
@@ -10169,6 +10195,71 @@
     },
     "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3737130?t=1750969188",
     "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737130/8341b08baf548c758102a3cf9e0be7c92d16b6e8/page_bg_raw.jpg?t=1750969188",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
+    }
+  },
+  "3737470": {
+    "type": "demo",
+    "name": "Vending Machine Co. Demo",
+    "steam_appid": 3737470,
+    "required_age": 0,
+    "is_free": true,
+    "short_description": "",
+    "fullgame": {
+      "appid": "3622640",
+      "name": "Vending Machine Co."
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737470/fb7d872bdfae87582f4c0dccd8643bbaa62b14fc/header.jpg?t=1751124268",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737470/1f9d5124da840e9c538a147d9fd2bb3eedf39fa1/capsule_231x87.jpg?t=1751124268",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737470/1f9d5124da840e9c538a147d9fd2bb3eedf39fa1/capsule_184x69.jpg?t=1751124268",
+    "website": "https://rogueduck.net",
+    "developers": [
+      "Rogue Duck Interactive"
+    ],
+    "publishers": [
+      "Rogue Duck Interactive"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      10
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "September 2025"
+    },
+    "support_info": {
+      "url": "https://rogueduck.net",
+      "email": "tokakburak@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3737470?t=1751124268",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3737470?t=1751124268",
     "content_descriptors": {
       "ids": [],
       "notes": null

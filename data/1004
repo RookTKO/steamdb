@@ -374,18 +374,20 @@
   },
   "3014590": {
     "type": "demo",
-    "name": "Stickin' the Landing Demo",
+    "name": "Stickin' the Landing - Demo",
     "steam_appid": 3014590,
     "required_age": 0,
     "is_free": true,
+    "controller_support": "full",
     "short_description": "Stickin\u2019 the Landing is a relaxing puzzle game where you use stickers and their gravitational properties to guide a spaceship adrift around outlandish worlds until you reach your destination. Travel through the home\u2019s nooks and crannies and discover everything this marvelous universe has to offer!",
     "fullgame": {
       "appid": "2740260",
       "name": "Stickin' the Landing"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014590/header.jpg?t=1717432502",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014590/capsule_231x87.jpg?t=1717432502",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014590/capsule_184x69.jpg?t=1717432502",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Portugal, Simplified Chinese, Basque, Catalan, Galician",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014590/header.jpg?t=1722602019",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014590/capsule_231x87.jpg?t=1722602019",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014590/capsule_184x69.jpg?t=1722602019",
     "website": null,
     "developers": [
       "Adrift Team"
@@ -400,7 +402,12 @@
       "linux": false
     },
     "categories": [
-      10
+      2,
+      10,
+      28
+    ],
+    "genres": [
+      4
     ],
     "release_date": {
       "coming_soon": false,
@@ -410,8 +417,8 @@
       "url": "https://www.entaltostudios.com/contact",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3014590?t=1722602019",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3014590?t=1722602019",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2408,7 +2415,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       23,
@@ -2422,8 +2430,8 @@
       "url": "https://backwoods-entertainment.com/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012400/page_bg_generated_v6b.jpg?t=1718355085",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012400/page_bg_generated.jpg?t=1718355085",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3012400?t=1718355085",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3012400?t=1718355085",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2530,9 +2538,9 @@
       "name": "Camper Van: Make it Home"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013060/header.jpg?t=1717011477",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013060/capsule_231x87.jpg?t=1717011477",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013060/capsule_184x69.jpg?t=1717011477",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013060/db3b0712cd272ed658b401c1df8df11be68261e5/header.jpg?t=1746545785",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013060/b08259f7524e67d29d0724cfeeca554b99a06199/capsule_231x87.jpg?t=1746545785",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013060/b08259f7524e67d29d0724cfeeca554b99a06199/capsule_184x69.jpg?t=1746545785",
     "website": null,
     "developers": [
       "Malapata Studio"
@@ -2543,7 +2551,7 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
@@ -2558,8 +2566,8 @@
       "url": "https://malapatastudio.com/",
       "email": "campervan@malapatastudio.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013060/page_bg_generated_v6b.jpg?t=1717011477",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013060/page_bg_generated.jpg?t=1717011477",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3013060?t=1746545785",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3013060?t=1746545785",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2660,13 +2668,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013480/header.jpg?t=1717084730",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013480/capsule_231x87.jpg?t=1717084730",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013480/capsule_184x69.jpg?t=1717084730",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013480/header.jpg?t=1730090534",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013480/capsule_231x87.jpg?t=1730090534",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013480/capsule_184x69.jpg?t=1730090534",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -2681,8 +2686,8 @@
       "url": "",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013480/page_bg_generated_v6b.jpg?t=1717084730",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013480/page_bg_generated.jpg?t=1717084730",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3013480?t=1730090534",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3013480?t=1730090534",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6253,9 +6258,9 @@
     "is_free": false,
     "short_description": "&quot;Get Up In The Night&quot; tells a sci-fi story set in the future, filled with dark humor. An old man wakes up in a completely unfamiliar place... His bladder can no longer hold, and he must rush to the bathroom! But what exactly is going on? What secrets are hidden within all this?",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian, Turkish, Japanese, Polish, Thai, Simplified Chinese, Traditional Chinese, Portuguese - Portugal, Vietnamese, Arabic, Korean, Indonesian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014090/header.jpg?t=1718782316",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014090/capsule_231x87.jpg?t=1718782316",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014090/capsule_184x69.jpg?t=1718782316",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014090/header.jpg?t=1749034093",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014090/979a5f532ee9d9545b8fb2ddec8263b71dee473e/capsule_231x87.jpg?t=1749034093",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014090/979a5f532ee9d9545b8fb2ddec8263b71dee473e/capsule_184x69.jpg?t=1749034093",
     "website": null,
     "developers": [
       "Zhao Yin Studio"
@@ -6307,8 +6312,8 @@
       "url": "",
       "email": "getupinthenight@126.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014090/page_bg_generated_v6b.jpg?t=1718782316",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014090/page.bg.jpg?t=1718782316",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3014090?t=1749034093",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014090/page_bg_raw.jpg?t=1749034093",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6339,13 +6344,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013000/header.jpg?t=1717671068",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013000/capsule_231x87.jpg?t=1717671068",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013000/capsule_184x69.jpg?t=1717671068",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013000/header.jpg?t=1737827097",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013000/capsule_231x87.jpg?t=1737827097",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013000/capsule_184x69.jpg?t=1737827097",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -6354,14 +6356,14 @@
     },
     "release_date": {
       "coming_soon": false,
-      "date": "6 Jun, 2024"
+      "date": "25 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013000/page_bg_generated_v6b.jpg?t=1717671068",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013000/page_bg_generated.jpg?t=1717671068",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3013000?t=1737827097",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3013000?t=1737827097",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6376,9 +6378,9 @@
     "is_free": false,
     "short_description": "Befriend misfit deities and make a life for yourself in the Underworld! Can you escape your arranged marriage to the King? Do you want to?",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013740/header.jpg?t=1717681839",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013740/capsule_231x87.jpg?t=1717681839",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013740/capsule_184x69.jpg?t=1717681839",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013740/header.jpg?t=1734035144",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013740/capsule_231x87.jpg?t=1734035144",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013740/capsule_184x69.jpg?t=1734035144",
     "website": null,
     "developers": [
       "Hosted Games"
@@ -6386,7 +6388,26 @@
     "publishers": [
       "Hosted Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3013760,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1071910
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Fields of Asphodel",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -6394,7 +6415,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       3,
@@ -6402,15 +6424,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "5 Sep, 2024"
     },
     "support_info": {
       "url": "https://www.hostedgames.org/contact-us/",
       "email": "support-asphodel-steam@hostedgames.org"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013740/page_bg_generated_v6b.jpg?t=1717681839",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013740/page_bg_generated.jpg?t=1717681839",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3013740?t=1734035144",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3013740?t=1734035144",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6422,7 +6444,7 @@
         "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Drogas l\u00edcitas\nLinguagem impr\u00f3pria\nViol\u00eancia"
+        "descriptors": "Drogas l\u00edcitas\nLinguagem impr\u00f3pria"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -6430,7 +6452,7 @@
         "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Alkohol / Tabak\nGewalt\nSchimpfw\u00f6rte"
+        "descriptors": "Alkohol / Tabak\nSchimpfw\u00f6rte"
       }
     }
   },
@@ -6440,43 +6462,64 @@
     "steam_appid": 3012780,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
-    "short_description": "Mystopia is a relaxing sandbox game about building your own worlds and crafting magical potions. Discover blocks inspired by witchcraft from different cultures, use potions for mystifying effects and build your dream worlds! The only limit is your imagination!",
-    "supported_languages": "English, German, French, Italian, Spanish - Spain, Arabic, Bulgarian, Greek, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012780/header.jpg?t=1718988483",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012780/capsule_231x87.jpg?t=1718988483",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012780/capsule_184x69.jpg?t=1718988483",
-    "website": null,
+    "short_description": "Mystopia is a relaxing creative sandbox game where you build unique little worlds by fulfilling the wishes of charming creatures. Discover hundreds of blocks, brew magical potions and maximize the happiness of your creatures to spread love throughout your worlds! Play in three different game modes.",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012780/da2fcbc38b5489c9e8cf53f4661ce829311062a0/header.jpg?t=1751037571",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012780/8e40cc647f6af6bb5ead1260284670fab95f961f/capsule_231x87.jpg?t=1751037571",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012780/8e40cc647f6af6bb5ead1260284670fab95f961f/capsule_184x69.jpg?t=1751037571",
+    "website": "https://mystopiagame.com",
     "developers": [
       "Last Minute Studios"
     ],
     "publishers": [
       "Last Minute Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1071595
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Mystopia",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
-      28
+      22,
+      23,
+      62,
+      68,
+      74,
+      76,
+      79
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 45
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 May, 2025"
     },
     "support_info": {
       "url": "mystopiagame.com",
       "email": "contact@mystopiagame.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012780/page_bg_generated_v6b.jpg?t=1718988483",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012780/page_bg_generated.jpg?t=1718988483",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3012780?t=1751037571",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3012780?t=1751037571",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6506,16 +6549,17 @@
     "steam_appid": 3012200,
     "required_age": 0,
     "is_free": true,
+    "controller_support": "full",
     "short_description": "NUMANUIN Demo - Incredible indie horror, a deconstruction of the horror genre. Seemingly simple, but saturated inside action dark 2d survival-horror in the style of pixels and with roguelite elements",
     "fullgame": {
       "appid": "2261040",
       "name": "NUMANUIN"
     },
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012200/header.jpg?t=1717731462",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012200/capsule_231x87.jpg?t=1717731462",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012200/capsule_184x69.jpg?t=1717731462",
-    "website": null,
+    "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Spanish - Latin America, Simplified Chinese, Polish, Portuguese - Portugal, Russian, Ukrainian, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012200/header.jpg?t=1734509319",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012200/556993864bdf2146b5922875361b88b94a0b5132/capsule_231x87.jpg?t=1734509319",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012200/556993864bdf2146b5922875361b88b94a0b5132/capsule_184x69.jpg?t=1734509319",
+    "website": "https://store.steampowered.com/franchise/NUMANUIN",
     "developers": [
       "NUMANUIN"
     ],
@@ -6530,18 +6574,30 @@
     },
     "categories": [
       2,
-      10
+      10,
+      15,
+      22,
+      23,
+      25,
+      28
     ],
+    "genres": [
+      1,
+      23
+    ],
+    "achievements": {
+      "total": 1
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "14 Oct, 2024"
     },
     "support_info": {
       "url": "https://steamcommunity.com/app/2261040/discussions/",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3012200?t=1734509319",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012200/page_bg_raw.jpg?t=1734509319",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6600,8 +6656,8 @@
       "url": "www.gmail.com",
       "email": "yinhanhan49@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014420/page_bg_generated_v6b.jpg?t=1717730687",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014420/page_bg_generated.jpg?t=1717730687",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3014420?t=1717730687",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3014420?t=1717730687",
     "content_descriptors": {
       "ids": [],
       "notes": null
