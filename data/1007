@@ -3926,8 +3926,8 @@
       "url": "",
       "email": "B2CGame@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021150/page_bg_generated_v6b.jpg?t=1719389751",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021150/page.bg.jpg?t=1719389751",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3021150?t=1719389751",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021150/page_bg_raw.jpg?t=1719389751",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4130,9 +4130,9 @@
       "name": "Rolled: A Pinball Nightmare"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021790/header.jpg?t=1717435302",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021790/capsule_231x87.jpg?t=1717435302",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021790/capsule_184x69.jpg?t=1717435302",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021790/header.jpg?t=1722001683",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021790/capsule_231x87.jpg?t=1722001683",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021790/capsule_184x69.jpg?t=1722001683",
     "website": "https://noagendastudios.com/games/rolled-a-pinball-nightmare/",
     "developers": [
       "No Agenda Studios"
@@ -4158,8 +4158,8 @@
       "url": "",
       "email": "staff@noagendastudios.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3021790?t=1722001683",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3021790?t=1722001683",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4411,9 +4411,6 @@
     "developers": [
       "WAKUWAKU"
     ],
-    "publishers": [
-      ""
-    ],
     "packages": [
       1074354
     ],
@@ -4452,8 +4449,8 @@
       "url": "",
       "email": "wakuwaku241@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021070/page_bg_generated_v6b.jpg?t=1717491382",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021070/page.bg.jpg?t=1717491382",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3021070?t=1717491382",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021070/page_bg_raw.jpg?t=1717491382",
     "content_descriptors": {
       "ids": [
         1,
@@ -4616,8 +4613,8 @@
       "url": "",
       "email": "staff@noagendastudios.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021750/page_bg_generated_v6b.jpg?t=1718607649",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021750/page.bg.jpg?t=1718607649",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3021750?t=1718607649",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021750/page_bg_raw.jpg?t=1718607649",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10467,9 +10464,9 @@
       "name": "My Recycling Center"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022730/header.jpg?t=1719564954",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022730/capsule_231x87.jpg?t=1719564954",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022730/capsule_184x69.jpg?t=1719564954",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022730/header.jpg?t=1724920279",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022730/capsule_231x87.jpg?t=1724920279",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022730/capsule_184x69.jpg?t=1724920279",
     "website": null,
     "developers": [
       "Darius Bode"
@@ -10477,7 +10474,20 @@
     "publishers": [
       "Darius Bode"
     ],
-    "package_groups": [],
+    "packages": [
+      1074898
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy My Recycling Center - Resources Trading Expansion",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -10486,22 +10496,23 @@
     "categories": [
       2,
       18,
-      21
+      21,
+      62
     ],
     "genres": [
       23,
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "29 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "support@abrissprofi-online.de"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022730/page_bg_generated_v6b.jpg?t=1719564954",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022730/page.bg.jpg?t=1719564954",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3022730?t=1724920279",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022730/page_bg_raw.jpg?t=1724920279",
     "content_descriptors": {
       "ids": [],
       "notes": null
