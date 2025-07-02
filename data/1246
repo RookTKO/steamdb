@@ -3434,9 +3434,9 @@
     "is_free": false,
     "short_description": "A chilling, stylized VR horror game. Collect scattered Data Fragments while avoiding an insidious entity that is corrupting your system. Simple gameplay. Dynamic AI opponent. 20-45 min playthrough. Roomscale or Seated.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3738180/a5859e0b5adba9557668904953644ce5b333d78d/header.jpg?t=1747954485",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3738180/521cb0508b1b7bb558b2b9730bacd53d93f6b190/capsule_231x87.jpg?t=1747954485",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3738180/521cb0508b1b7bb558b2b9730bacd53d93f6b190/capsule_184x69.jpg?t=1747954485",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3738180/a5859e0b5adba9557668904953644ce5b333d78d/header.jpg?t=1748618577",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3738180/521cb0508b1b7bb558b2b9730bacd53d93f6b190/capsule_231x87.jpg?t=1748618577",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3738180/521cb0508b1b7bb558b2b9730bacd53d93f6b190/capsule_184x69.jpg?t=1748618577",
     "website": "https://nekomatagames.com/",
     "developers": [
       "Nekomata Games LLC"
@@ -3444,7 +3444,20 @@
     "publishers": [
       "Nekomata Games LLC"
     ],
-    "package_groups": [],
+    "packages": [
+      1315856
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Data Rot",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3455,21 +3468,26 @@
       22,
       52,
       54,
-      62
+      62,
+      69,
+      70
     ],
     "genres": [
       1
     ],
+    "achievements": {
+      "total": 10
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "30 May, 2025"
     },
     "support_info": {
       "url": "https://nekomatagames.com/",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3738180?t=1747954485",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3738180/2c0df1787f605f5321a01c701e11493a2915b1f1/page_bg_raw.jpg?t=1747954485",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3738180?t=1748618577",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3738180/2c0df1787f605f5321a01c701e11493a2915b1f1/page_bg_raw.jpg?t=1748618577",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11705,6 +11723,81 @@
         "banned": "1",
         "use_age_gate": "0",
         "descriptors": "Sexuelle Inhalte\nSchimpfw\u00f6rte"
+      }
+    }
+  },
+  "3739960": {
+    "type": "game",
+    "name": "Retro Racing 2",
+    "steam_appid": 3739960,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "From the developer of Amiga classics Nitro and A.T.R. Retro Racing 2 is a frenetic top-down arcade racer with power-ups and wild tracks. Pure retro-speed! Race solo or in split-screen multiplayer, and relive classic retro racing with a modern twist!",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Portugal<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739960/093fd615ab47f2785c404c5d2da92a78ba57d662/header.jpg?t=1751473449",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739960/238c4f16c7fd221020f45b6dfbc0435fc2770b34/capsule_231x87.jpg?t=1751473449",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739960/238c4f16c7fd221020f45b6dfbc0435fc2770b34/capsule_184x69.jpg?t=1751473449",
+    "website": "https://www.mrqwak.com/games/retro-racing-2/",
+    "developers": [
+      "Mr Qwak"
+    ],
+    "publishers": [
+      "Mr Qwak"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      1,
+      2,
+      23,
+      24,
+      25,
+      28,
+      37,
+      49,
+      62,
+      74,
+      75
+    ],
+    "genres": [
+      9,
+      23
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "To be announced"
+    },
+    "support_info": {
+      "url": "https://www.mrqwak.com",
+      "email": "info@mrqwak.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3739960?t=1751473449",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739960/301e9e66b9efb9eb010b3e889cca85a47b543b2a/page_bg_raw.jpg?t=1751473449",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
       }
     }
   }

@@ -620,19 +620,19 @@
   },
   "3736850": {
     "type": "demo",
-    "name": "JUNK! Demo",
+    "name": "JUNK! A Demo About Robots",
     "steam_appid": 3736850,
     "required_age": 0,
     "is_free": true,
-    "short_description": "",
+    "short_description": "Do you have what it takes to be a Scrapper, or are you just another piece of JUNK? Battle with your friends, random opponents, or an AI trainer to unlock new robots, abilities, and customizations. JUNK! is a fast paced, arena 1v1 PVP brawler.",
     "fullgame": {
       "appid": "2178300",
       "name": "JUNK!"
     },
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736850/20f5970c4ff7abe996bb45ff63d2767458af3bcb/header.jpg?t=1747151785",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736850/3de6786720a1eaef0d1c6d8898b182d31a042b20/capsule_231x87.jpg?t=1747151785",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736850/3de6786720a1eaef0d1c6d8898b182d31a042b20/capsule_184x69.jpg?t=1747151785",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736850/20f5970c4ff7abe996bb45ff63d2767458af3bcb/header.jpg?t=1749491316",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736850/3de6786720a1eaef0d1c6d8898b182d31a042b20/capsule_231x87.jpg?t=1749491316",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736850/3de6786720a1eaef0d1c6d8898b182d31a042b20/capsule_184x69.jpg?t=1749491316",
     "website": "https://www.junk.game",
     "developers": [
       "301 LLC"
@@ -644,7 +644,7 @@
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       1,
@@ -654,16 +654,22 @@
       36,
       49
     ],
+    "genres": [
+      1,
+      4,
+      23,
+      25
+    ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "27 May, 2025"
     },
     "support_info": {
       "url": "https://www.threezero.one",
       "email": "hello@threezero.one"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736850?t=1747151785",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736850/83040c628902ad4379a784f095324ef2fa6a28a2/page_bg_raw.jpg?t=1747151785",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736850?t=1749491316",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736850/83040c628902ad4379a784f095324ef2fa6a28a2/page_bg_raw.jpg?t=1749491316",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -761,9 +767,9 @@
     "is_free": false,
     "short_description": "EPICROSS is a relaxing, colorful 2D picross puzzle game where players use numerical clues to fill in grids and reveal vibrant images. Solve increasingly challenging puzzles in a calm, no-time-pressure environment\u2014perfect for puzzle lovers of all ages.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737340/ba47a1d56615dbfb03556b8465ce4aecaab7f4df/header.jpg?t=1747184090",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737340/3bd80636d9d6bb34ba7c355c2a8aa6616b30536d/capsule_231x87.jpg?t=1747184090",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737340/3bd80636d9d6bb34ba7c355c2a8aa6616b30536d/capsule_184x69.jpg?t=1747184090",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737340/ba47a1d56615dbfb03556b8465ce4aecaab7f4df/header.jpg?t=1751167088",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737340/3bd80636d9d6bb34ba7c355c2a8aa6616b30536d/capsule_231x87.jpg?t=1751167088",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737340/3bd80636d9d6bb34ba7c355c2a8aa6616b30536d/capsule_184x69.jpg?t=1751167088",
     "website": null,
     "developers": [
       "Armando Rodarte"
@@ -771,7 +777,20 @@
     "publishers": [
       "Armando Rodarte"
     ],
-    "package_groups": [],
+    "packages": [
+      1315582
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy EPICross",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -785,15 +804,15 @@
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "May 2025"
+      "coming_soon": false,
+      "date": "28 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "armando-rodarte@hotmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3737340?t=1747184090",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737340/c6a15c0cbd73e6bf5f4cfebc2434d58ab88b9c6e/page_bg_raw.jpg?t=1747184090",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3737340?t=1751167088",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737340/c6a15c0cbd73e6bf5f4cfebc2434d58ab88b9c6e/page_bg_raw.jpg?t=1751167088",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -890,15 +909,16 @@
     "steam_appid": 3735390,
     "required_age": 0,
     "is_free": true,
+    "controller_support": "full",
     "short_description": "Wartheon is a fast-paced 2D roguelike adventure set in a world on the brink of elemental collapse. Take control of one of four unique champions to match your taste. Customize your build, master your skills, and adapt to ever-changing layouts and enemy patterns.",
     "fullgame": {
       "appid": "3214320",
       "name": "Wartheon"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735390/65acc009e772050b7c4eea01634f3672f9a07a71/header.jpg?t=1747155137",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735390/0d56df19996f4f25fdf1dd19a0687b85d02f8376/capsule_231x87.jpg?t=1747155137",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735390/0d56df19996f4f25fdf1dd19a0687b85d02f8376/capsule_184x69.jpg?t=1747155137",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735390/65acc009e772050b7c4eea01634f3672f9a07a71/header.jpg?t=1748529660",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735390/0d56df19996f4f25fdf1dd19a0687b85d02f8376/capsule_231x87.jpg?t=1748529660",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735390/0d56df19996f4f25fdf1dd19a0687b85d02f8376/capsule_184x69.jpg?t=1748529660",
     "website": null,
     "developers": [
       "Asilpena Games"
@@ -914,7 +934,10 @@
     },
     "categories": [
       2,
-      10
+      10,
+      28,
+      68,
+      74
     ],
     "genres": [
       1,
@@ -929,8 +952,8 @@
       "url": "",
       "email": "asilpenagames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3735390?t=1747155137",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3735390?t=1747155137",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3735390?t=1748529660",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3735390?t=1748529660",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3047,11 +3070,15 @@
     "steam_appid": 3737430,
     "required_age": 0,
     "is_free": true,
+    "dlc": [
+      3737440,
+      3748590
+    ],
     "short_description": "Gear Combination is a puzzle game where you combine gears of different sizes to reach a target rotation speed. Place gears freely and watch them spin together. Multiple quests can be played in any order and replayed. Simple yet strategic. Perfect for gear lovers.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Indonesian, Ukrainian, Dutch, Greek, Swedish, Spanish - Latin America, Thai, Czech, Danish, Turkish, Norwegian, Hungarian, Finnish, Bulgarian, Vietnamese, Portuguese - Brazil, Portuguese - Portugal, Polish, Romanian, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737430/2dea2033e63aa260e779c9e25a373f0373844ce8/header.jpg?t=1747955271",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737430/1ee209417ac8af3141576c191f3e7a019fb80339/capsule_231x87.jpg?t=1747955271",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737430/1ee209417ac8af3141576c191f3e7a019fb80339/capsule_184x69.jpg?t=1747955271",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737430/2dea2033e63aa260e779c9e25a373f0373844ce8/header.jpg?t=1751358662",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737430/1ee209417ac8af3141576c191f3e7a019fb80339/capsule_231x87.jpg?t=1751358662",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737430/1ee209417ac8af3141576c191f3e7a019fb80339/capsule_184x69.jpg?t=1751358662",
     "website": null,
     "developers": [
       "ao-system, Inc."
@@ -3067,22 +3094,23 @@
     },
     "categories": [
       2,
-      23
+      23,
+      74
     ],
     "genres": [
       4,
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "29 May, 2025"
     },
     "support_info": {
       "url": "https://www.aosystem.co.jp/",
       "email": "info@ao-system.net"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3737430?t=1747955271",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737430/b0885a79746b233d34b973292b267c8e4428c0ed/page_bg_raw.jpg?t=1747955271",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3737430?t=1751358662",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737430/b0885a79746b233d34b973292b267c8e4428c0ed/page_bg_raw.jpg?t=1751358662",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3752,9 +3780,9 @@
     "is_free": true,
     "short_description": "\u3016Humanity's Heart\u3017 is a free text-based romance game where you assume the protagonist's role. Within a school setting, you'll encounter numerous characters, gradually uncover panic-inducing anomalies lurking beneath mundane life, and find yourself forced to confront hidden truths.",
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736430/d37270be912ff2e559679d4cf3c050cbcb0bfde5/header.jpg?t=1747488951",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736430/1084f3b620e4b7cf2b35c576654befc5604ee390/capsule_231x87.jpg?t=1747488951",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736430/1084f3b620e4b7cf2b35c576654befc5604ee390/capsule_184x69.jpg?t=1747488951",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736430/d37270be912ff2e559679d4cf3c050cbcb0bfde5/header.jpg?t=1749453853",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736430/1084f3b620e4b7cf2b35c576654befc5604ee390/capsule_231x87.jpg?t=1749453853",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736430/1084f3b620e4b7cf2b35c576654befc5604ee390/capsule_184x69.jpg?t=1749453853",
     "website": null,
     "developers": [
       "\u5e7b\u65e5\u4e4b\u5f26"
@@ -3770,8 +3798,9 @@
     },
     "categories": [
       2,
-      13,
-      23
+      68,
+      74,
+      76
     ],
     "genres": [
       3,
@@ -3787,8 +3816,8 @@
       "url": "business@xianyumaomao.com",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736430?t=1747488951",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736430/625d33677e35c58a002479b7c2669e8918f7a639/page_bg_raw.jpg?t=1747488951",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3736430?t=1749453853",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736430/625d33677e35c58a002479b7c2669e8918f7a639/page_bg_raw.jpg?t=1749453853",
     "content_descriptors": {
       "ids": [],
       "notes": null
