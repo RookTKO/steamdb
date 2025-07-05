@@ -1417,11 +1417,14 @@
     "steam_appid": 3743430,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3743750
+    ],
     "short_description": "Descend into watery depths, unravel haunting secrets, and prove your worth as a legendary hunter. Danger lurks beneath every ripple!",
     "supported_languages": "English<strong>*</strong>, French, German, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743430/33d8b3f52266088e3571d85106c5e9a70e1aa996/header.jpg?t=1748359347",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743430/3c05a8efa8016dfbe70c180a84beba78f420a3ca/capsule_231x87.jpg?t=1748359347",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743430/3c05a8efa8016dfbe70c180a84beba78f420a3ca/capsule_184x69.jpg?t=1748359347",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743430/33d8b3f52266088e3571d85106c5e9a70e1aa996/header.jpg?t=1748943138",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743430/3c05a8efa8016dfbe70c180a84beba78f420a3ca/capsule_231x87.jpg?t=1748943138",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743430/3c05a8efa8016dfbe70c180a84beba78f420a3ca/capsule_184x69.jpg?t=1748943138",
     "website": null,
     "developers": [
       "Do Games Limited"
@@ -1429,7 +1432,26 @@
     "publishers": [
       "Do Games Limited"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3743740,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1317613
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hunter's Journey: Tears of the Lake Collector's Edition",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1438,22 +1460,29 @@
     "categories": [
       2,
       22,
-      62
+      62,
+      68,
+      74,
+      76,
+      78
     ],
     "genres": [
       4,
       25
     ],
+    "achievements": {
+      "total": 39
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "3 Jun, 2025"
     },
     "support_info": {
       "url": "https://dogameslimited.zohodesk.eu/",
       "email": "support@dominigames.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743430?t=1748359347",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743430?t=1748359347",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743430?t=1748943138",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743430?t=1748943138",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1621,10 +1650,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Shape a quiet settlement in a forgotten desert. Keep your people comfortable, manage scarce resources, and slowly expand your city.",
-    "supported_languages": "English, Turkish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742110/41ffa1e9b9674575fe4a2ce240bf3d6cd4024da4/header.jpg?t=1747842792",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742110/43198293dfefb8ea5463517fb1726ad51e1ab739/capsule_231x87.jpg?t=1747842792",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742110/43198293dfefb8ea5463517fb1726ad51e1ab739/capsule_184x69.jpg?t=1747842792",
+    "supported_languages": "English, Turkish, Simplified Chinese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742110/41ffa1e9b9674575fe4a2ce240bf3d6cd4024da4/header.jpg?t=1751507643",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742110/43198293dfefb8ea5463517fb1726ad51e1ab739/capsule_231x87.jpg?t=1751507643",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742110/43198293dfefb8ea5463517fb1726ad51e1ab739/capsule_184x69.jpg?t=1751507643",
     "website": "https://voxelbytes.com",
     "developers": [
       "Voxel Bytes"
@@ -1632,17 +1661,23 @@
     "publishers": [
       "Voxel Bytes"
     ],
+    "demos": [
+      {
+        "appid": 3745010,
+        "description": ""
+      }
+    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
-      22,
-      23,
-      62
+      62,
+      74,
+      79
     ],
     "genres": [
       2,
@@ -1657,8 +1692,8 @@
       "url": "https://voxelbytes.com",
       "email": "hasankilinc@voxelbytes.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742110?t=1747842792",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742110?t=1747842792",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742110?t=1751507643",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742110?t=1751507643",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3857,9 +3892,9 @@
       "name": "Naughty Waifu"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742220/2b059e478898217d9a9b1f37e807d8461f0cd621/header.jpg?t=1747775759",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742220/8d592ed2e685ca48abd7354158fd5b7ac0f1c1bf/capsule_231x87.jpg?t=1747775759",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742220/8d592ed2e685ca48abd7354158fd5b7ac0f1c1bf/capsule_184x69.jpg?t=1747775759",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742220/2b059e478898217d9a9b1f37e807d8461f0cd621/header.jpg?t=1748525782",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742220/8d592ed2e685ca48abd7354158fd5b7ac0f1c1bf/capsule_231x87.jpg?t=1748525782",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742220/8d592ed2e685ca48abd7354158fd5b7ac0f1c1bf/capsule_184x69.jpg?t=1748525782",
     "website": null,
     "developers": [
       "Reddiamondgames"
@@ -3867,7 +3902,20 @@
     "publishers": [
       "Reddiamondgames"
     ],
-    "package_groups": [],
+    "packages": [
+      1317229
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Naughty Waifu - Gothic DLC",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3883,15 +3931,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "May 2025"
+      "coming_soon": false,
+      "date": "29 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "rediamondgames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742220?t=1747775759",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742220?t=1747775759",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742220?t=1748525782",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742220?t=1748525782",
     "content_descriptors": {
       "ids": [
         1,
@@ -3930,9 +3978,9 @@
       "name": "Naughty Waifu"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742230/fa52559e048513496f734a86410851e7c0a06b6f/header.jpg?t=1747775767",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742230/5ef4afdf89778e4c8770fb44cae728176d28a207/capsule_231x87.jpg?t=1747775767",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742230/5ef4afdf89778e4c8770fb44cae728176d28a207/capsule_184x69.jpg?t=1747775767",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742230/fa52559e048513496f734a86410851e7c0a06b6f/header.jpg?t=1748525839",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742230/5ef4afdf89778e4c8770fb44cae728176d28a207/capsule_231x87.jpg?t=1748525839",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742230/5ef4afdf89778e4c8770fb44cae728176d28a207/capsule_184x69.jpg?t=1748525839",
     "website": null,
     "developers": [
       "Reddiamondgames"
@@ -3940,7 +3988,20 @@
     "publishers": [
       "Reddiamondgames"
     ],
-    "package_groups": [],
+    "packages": [
+      1317232
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Naughty Waifu - Gueisha DLC",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3956,15 +4017,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "May 2025"
+      "coming_soon": false,
+      "date": "29 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "rediamondgames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742230?t=1747775767",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742230?t=1747775767",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742230?t=1748525839",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742230?t=1748525839",
     "content_descriptors": {
       "ids": [
         1,
@@ -4003,9 +4064,9 @@
       "name": "Naughty Waifu"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742260/9f1ec35217e45a420fb7f414853f66e7aa5c7208/header.jpg?t=1747775718",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742260/0452d9e23479859c3f8ea023fec6f12e3780241f/capsule_231x87.jpg?t=1747775718",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742260/0452d9e23479859c3f8ea023fec6f12e3780241f/capsule_184x69.jpg?t=1747775718",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742260/9f1ec35217e45a420fb7f414853f66e7aa5c7208/header.jpg?t=1748525852",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742260/0452d9e23479859c3f8ea023fec6f12e3780241f/capsule_231x87.jpg?t=1748525852",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742260/0452d9e23479859c3f8ea023fec6f12e3780241f/capsule_184x69.jpg?t=1748525852",
     "website": null,
     "developers": [
       "Reddiamondgames"
@@ -4013,7 +4074,20 @@
     "publishers": [
       "Reddiamondgames"
     ],
-    "package_groups": [],
+    "packages": [
+      1317241
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Naughty Waifu - Magician DLC",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4029,15 +4103,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "May 2025"
+      "coming_soon": false,
+      "date": "29 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "rediamondgames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742260?t=1747775718",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742260?t=1747775718",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742260?t=1748525852",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742260?t=1748525852",
     "content_descriptors": {
       "ids": [
         1,
@@ -4076,9 +4150,9 @@
       "name": "Naughty Waifu"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742300/798bddb7791d3f5cb54d5491132fa991b2e8f630/header.jpg?t=1747775818",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742300/5bab5a0ee8f05565c4f8b9b2e456c6cf040f620d/capsule_231x87.jpg?t=1747775818",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742300/5bab5a0ee8f05565c4f8b9b2e456c6cf040f620d/capsule_184x69.jpg?t=1747775818",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742300/798bddb7791d3f5cb54d5491132fa991b2e8f630/header.jpg?t=1748525867",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742300/5bab5a0ee8f05565c4f8b9b2e456c6cf040f620d/capsule_231x87.jpg?t=1748525867",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742300/5bab5a0ee8f05565c4f8b9b2e456c6cf040f620d/capsule_184x69.jpg?t=1748525867",
     "website": null,
     "developers": [
       "Reddiamondgames"
@@ -4086,7 +4160,20 @@
     "publishers": [
       "Reddiamondgames"
     ],
-    "package_groups": [],
+    "packages": [
+      1317253
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Naughty Waifu - Secretary DLC",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4102,15 +4189,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "May 2025"
+      "coming_soon": false,
+      "date": "29 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "rediamondgames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742300?t=1747775818",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742300?t=1747775818",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742300?t=1748525867",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742300?t=1748525867",
     "content_descriptors": {
       "ids": [
         1,
@@ -7447,9 +7534,9 @@
     "controller_support": "full",
     "short_description": "Dire Echo is a psychological horror walking simulator that immerses players in the eerie and oppressive atmosphere of abandoned deep space.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743180/4964d098e1ac5c6ed4f8b3de33d6ca4689b6d268/header.jpg?t=1748329904",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743180/a77adb9b9404f236eec2a273e273373287400f1b/capsule_231x87.jpg?t=1748329904",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743180/a77adb9b9404f236eec2a273e273373287400f1b/capsule_184x69.jpg?t=1748329904",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743180/4964d098e1ac5c6ed4f8b3de33d6ca4689b6d268/header.jpg?t=1751631503",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743180/a77adb9b9404f236eec2a273e273373287400f1b/capsule_231x87.jpg?t=1751631503",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743180/a77adb9b9404f236eec2a273e273373287400f1b/capsule_184x69.jpg?t=1751631503",
     "website": null,
     "developers": [
       "TrueGames"
@@ -7466,7 +7553,10 @@
     "categories": [
       2,
       28,
-      62
+      62,
+      69,
+      70,
+      74
     ],
     "genres": [
       1,
@@ -7482,8 +7572,8 @@
       "url": "",
       "email": "truegamesinfo@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743180?t=1748329904",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743180?t=1748329904",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743180?t=1751631503",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743180?t=1751631503",
     "content_descriptors": {
       "ids": [
         5
@@ -7518,9 +7608,9 @@
     "controller_support": "full",
     "short_description": "Orms follows Sam, a boy lost in a surreal world shaped by his fears. Guided by Kira, he must restore a lighthouse to reconnect with his parents. The game is inspired by Machinarium, but crafted in 3D with expanded locations. It blends emotional storytelling with atmospheric exploration.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Finnish, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743150/d2928191d08c9fddcff23cae7edf2975b34118ef/header.jpg?t=1748327563",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743150/4d3632fa4196681e7773a766d56f56854781713e/capsule_231x87.jpg?t=1748327563",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743150/4d3632fa4196681e7773a766d56f56854781713e/capsule_184x69.jpg?t=1748327563",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743150/d5a3437f00180ee0ad61853f8962f3da0aa57250/header.jpg?t=1748594493",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743150/c4e0bb27de6d5d304c691d4885eac77f350859f8/capsule_231x87.jpg?t=1748594493",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743150/c4e0bb27de6d5d304c691d4885eac77f350859f8/capsule_184x69.jpg?t=1748594493",
     "website": "https://rhea.games/",
     "developers": [
       "Rhea Games"
@@ -7539,7 +7629,13 @@
       13,
       28,
       61,
-      62
+      62,
+      68,
+      69,
+      74,
+      75,
+      76,
+      79
     ],
     "genres": [
       23,
@@ -7553,8 +7649,8 @@
       "url": "rhea.games",
       "email": "rhea@rhea.games"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743150?t=1748327563",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743150/5c36ccd68008f80060021ac5839c7c06f57ee6d9/page_bg_raw.jpg?t=1748327563",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3743150?t=1748594493",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743150/5c36ccd68008f80060021ac5839c7c06f57ee6d9/page_bg_raw.jpg?t=1748594493",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7689,12 +7785,12 @@
     "short_description": "A deck-building RPG where you awaken in an ancient temple as an adventurer. Explore Reinhart Duchy's perilous lands, collect cards, forge unique combos, and make pivotal choices to uncover lost truths and redemption. Every decision shapes your path through chaos and danger.",
     "fullgame": {
       "appid": "3528190",
-      "name": "\u6708\u4e4b\u5195"
+      "name": "Moon Corona"
     },
-    "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742130/e4ab2716f0a0a24fbb2b570f7e634b8738e631f1/header.jpg?t=1748311795",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742130/a391a20786886ff59d50d8f79c76e270091b4248/capsule_231x87.jpg?t=1748311795",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742130/a391a20786886ff59d50d8f79c76e270091b4248/capsule_184x69.jpg?t=1748311795",
+    "supported_languages": "Simplified Chinese<strong>*</strong>, English, Japanese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742130/e4ab2716f0a0a24fbb2b570f7e634b8738e631f1/header.jpg?t=1748856094",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742130/a391a20786886ff59d50d8f79c76e270091b4248/capsule_231x87.jpg?t=1748856094",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742130/a391a20786886ff59d50d8f79c76e270091b4248/capsule_184x69.jpg?t=1748856094",
     "website": null,
     "developers": [
       "\u4e0d\u5012\u9f99\u5de5\u4f5c\u5ba4"
@@ -7711,18 +7807,22 @@
     "categories": [
       2,
       10,
-      22
+      22,
+      68,
+      69,
+      74,
+      79
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "1 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "tianlluo@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742130?t=1748311795",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742130/2efdd8e341691c9eeb21ea73f69ed3cf7ce57c90/page_bg_raw.jpg?t=1748311795",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742130?t=1748856094",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742130/2efdd8e341691c9eeb21ea73f69ed3cf7ce57c90/page_bg_raw.jpg?t=1748856094",
     "content_descriptors": {
       "ids": [
         5
@@ -7928,9 +8028,9 @@
     "is_free": false,
     "short_description": "One-room 2D platformer that combines arcade run-and-jump gameplay with roguelike progression. Roll the dice and challenge random missions to help Snogbert find his missing shards and get back home! Ready to roll?",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742030/4f2b8aecf99c58ac70bdf55b15066eba2594e182/header.jpg?t=1748358334",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742030/d9e2bef004d633d57734525fe82a5ce4a090646b/capsule_231x87.jpg?t=1748358334",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742030/d9e2bef004d633d57734525fe82a5ce4a090646b/capsule_184x69.jpg?t=1748358334",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742030/4f2b8aecf99c58ac70bdf55b15066eba2594e182/header.jpg?t=1750194402",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742030/d9e2bef004d633d57734525fe82a5ce4a090646b/capsule_231x87.jpg?t=1750194402",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742030/d9e2bef004d633d57734525fe82a5ce4a090646b/capsule_184x69.jpg?t=1750194402",
     "website": null,
     "developers": [
       "JT Alex"
@@ -7946,7 +8046,10 @@
     },
     "categories": [
       2,
-      62
+      62,
+      67,
+      69,
+      74
     ],
     "genres": [
       1
@@ -7959,8 +8062,8 @@
       "url": "",
       "email": "snogbertdevs@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742030?t=1748358334",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742030/aea3153cfba2bfb9216a89db85600c24c5770bb4/page_bg_raw.jpg?t=1748358334",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3742030?t=1750194402",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3742030/aea3153cfba2bfb9216a89db85600c24c5770bb4/page_bg_raw.jpg?t=1750194402",
     "content_descriptors": {
       "ids": [],
       "notes": null

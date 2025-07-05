@@ -4599,10 +4599,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Puzzle, artillery, casual puzzle video game with realistic physics.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3660810/bd6b8481a4271f236c544aa87145fc7143d99e78/header.jpg?t=1746109754",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3660810/1a5f10890353e14cda1b04f3edc298d4b972fd8e/capsule_231x87.jpg?t=1746109754",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3660810/1a5f10890353e14cda1b04f3edc298d4b972fd8e/capsule_184x69.jpg?t=1746109754",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3660810/bd6b8481a4271f236c544aa87145fc7143d99e78/header.jpg?t=1748017823",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3660810/1a5f10890353e14cda1b04f3edc298d4b972fd8e/capsule_231x87.jpg?t=1748017823",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3660810/1a5f10890353e14cda1b04f3edc298d4b972fd8e/capsule_184x69.jpg?t=1748017823",
     "website": null,
     "developers": [
       "Hede"
@@ -4610,11 +4610,25 @@
     "publishers": [
       "Hede"
     ],
-    "package_groups": [],
+    "packages": [
+      1289812,
+      1326198
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy ROOM FOOTBALL - Abandoned Factory",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
@@ -4633,16 +4647,19 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "14 May, 2025"
+      "coming_soon": false,
+      "date": "23 May, 2025"
     },
     "support_info": {
       "url": "http://hede.ru/",
       "email": "info@hede.ru"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3660810?t=1746109754",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3660810?t=1746109754",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3660810?t=1748017823",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3660810?t=1748017823",
     "content_descriptors": {
       "ids": [],
       "notes": null
