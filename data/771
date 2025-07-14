@@ -305,9 +305,9 @@
     "controller_support": "full",
     "short_description": "A uniquely stylised survival-horror adventure game. Explore a dying world, averting enemies, managing your resources, and solving puzzles.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313220/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313220/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313220/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313220/header.jpg?t=1724270600",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313220/capsule_231x87.jpg?t=1724270600",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313220/capsule_184x69.jpg?t=1724270600",
     "website": null,
     "developers": [
       "Cody Hodge"
@@ -315,13 +315,20 @@
     "publishers": [
       "Cody Hodge"
     ],
-    "demos": [
+    "packages": [
+      830465
+    ],
+    "package_groups": [
       {
-        "appid": 2480470,
-        "description": ""
+        "name": "default",
+        "title": "Buy Never Forgotten",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -329,7 +336,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -337,21 +345,42 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 3
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "21 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "neverforgottengame@outlook.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313220/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313220/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313220?t=1724270600",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313220?t=1724270600",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "Never Forgotten contains implications and depictions of self-harm, suicide, and depression. The game also depicts vague gory imagery."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nTemas sens\u00edveis\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2315330": {
@@ -1703,11 +1732,15 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
+    "dlc": [
+      3235900,
+      2865310
+    ],
     "short_description": "Hodgepodge Hunch is a who-done-it game where everyone chips in to make a hotpot dish. Collaborate with your buddies to collect ingredients in the dungeons and whip up a delicious feast. There's just one problem... A backstabber may be lurking among you who'll throw your dinner plans awry...",
-    "supported_languages": "Japanese, English, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313160/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313160/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313160/capsule_184x69.jpg",
+    "supported_languages": "Japanese, English, Korean, Italian, Portuguese - Brazil, Russian, French",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313160/header.jpg?t=1746242289",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313160/capsule_231x87.jpg?t=1746242289",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313160/capsule_184x69.jpg?t=1746242289",
     "website": "https://herowolf.web.app/",
     "developers": [
       "uracon"
@@ -1715,7 +1748,20 @@
     "publishers": [
       "Waku Waku Games"
     ],
-    "package_groups": [],
+    "packages": [
+      830442
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hodgepodge Hunch",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -1727,28 +1773,51 @@
       9,
       22,
       23,
+      27,
       28,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       4,
       28
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2023"
+      "coming_soon": false,
+      "date": "15 Nov, 2023"
     },
     "support_info": {
       "url": "https://www.wakuwakugames.com/",
       "email": "support@wakuwakugames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313160/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313160/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313160?t=1746242289",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313160?t=1746242289",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2315610": {
@@ -2321,9 +2390,9 @@
     "is_free": false,
     "short_description": "You are a spider who must capture insects for food, the goal of the game with your web that you weave and to bring the insects as close as possible to their respective colored web so that it is captured.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313210/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313210/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313210/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313210/header.jpg?t=1676971001",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313210/capsule_231x87.jpg?t=1676971001",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313210/capsule_184x69.jpg?t=1676971001",
     "website": null,
     "developers": [
       "Seebacher Norbert"
@@ -2351,7 +2420,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -2365,11 +2435,32 @@
       "url": "",
       "email": "norbertseebacher@aol.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313210/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313210/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313210?t=1676971001",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313210/page_bg_raw.jpg?t=1676971001",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "6"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2313260": {
@@ -5844,11 +5935,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Action Packed 2D Arcade Action Platformer featuring hand-drawn graphics. Armed with your fists (or a rolling pin) and a variety of bread-based boosts, fend of the the Alien Plants, and avenge the Bakery they destroyed.",
-    "supported_languages": "English, Japanese, Spanish - Latin America",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313180/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313180/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313180/capsule_184x69.jpg",
+    "short_description": "Action Packed 2D Arcade Action Platformer featuring hand-drawn graphics. Armed with your fists (or a rolling pin) and a variety of bread-based boosts, fend of the Alien Plants, and avenge the Bakery they destroyed.",
+    "supported_languages": "English, Japanese, Spanish - Latin America, Portuguese - Brazil, Turkish, Korean, Romanian, Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313180/header.jpg?t=1744766446",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313180/capsule_231x87.jpg?t=1744766446",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313180/capsule_184x69.jpg?t=1744766446",
     "website": null,
     "developers": [
       "Sketchy Ceviche"
@@ -5862,7 +5953,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      830450
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy El Panadero -The Baker-",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5872,28 +5976,44 @@
       1,
       2,
       9,
+      23,
       24,
       28,
       39,
-      44
+      44,
+      62
     ],
     "genres": [
       1,
       23
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "8 Dec, 2023"
     },
     "support_info": {
       "url": "",
-      "email": "sketchy.ceviche@gmail.com"
+      "email": "support@sketchyceviche.dev"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313180/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313180/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313180?t=1744766446",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313180?t=1744766446",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2315353": {
@@ -7397,11 +7517,14 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Find and discover 100 cute cats hidden across Italy in this hand-drawn hidden object game. Can you find them all?",
+    "dlc": [
+      2802100
+    ],
+    "short_description": "Find and discover 100 cute cats hidden across Italy in this hand-drawn hidden object game by Travellin Cats - the original viral hidden cats game creator! Can you find them all?",
     "supported_languages": "English, German, French, Italian, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Thai, Turkish, Traditional Chinese, Arabic, Portuguese - Portugal, Indonesian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313240/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313240/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313240/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313240/faa563916294251f36af0c82f7f6cebd68c9c3a8/header.jpg?t=1750321243",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313240/65bc0a2ffafea37939783bb9a8338c2cd6a868ef/capsule_231x87.jpg?t=1750321243",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313240/65bc0a2ffafea37939783bb9a8338c2cd6a868ef/capsule_184x69.jpg?t=1750321243",
     "website": null,
     "developers": [
       "Travellin Cats"
@@ -7433,7 +7556,12 @@
       22,
       23,
       28,
-      29
+      29,
+      62,
+      68,
+      76,
+      77,
+      79
     ],
     "genres": [
       4,
@@ -7450,11 +7578,29 @@
       "url": "",
       "email": "steam@travellincats.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313240/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313240/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313240?t=1750321243",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313240?t=1750321243",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2313850": {
@@ -7943,9 +8089,9 @@
     "controller_support": "full",
     "short_description": "A digital clashing platformer rumble battle between character based on their skill and techniques to see who is the strongest. There are various kinds of playable characters, each one has their own skill and techniques.",
     "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Indonesian, French, Italian, German, Spanish - Spain, Korean, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313170/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313170/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313170/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313170/header.jpg?t=1731320667",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313170/capsule_231x87.jpg?t=1731320667",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313170/capsule_184x69.jpg?t=1731320667",
     "website": "https://dandigitalgame.com/Clash-of-Digital-Rumble-Smash.html",
     "developers": [
       "Dan Digital Studio"
@@ -7978,17 +8124,55 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "https://dandigitalgame.com",
       "email": "admin@dandigitalgame.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313170/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313170/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313170?t=1731320667",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313170/page_bg_raw.jpg?t=1731320667",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "May be suitable for persons ages 13 and older. Titles in this category may contain minimal violent content and/or suggestive themes."
+      },
+      "pegi": {
+        "rating": "12",
+        "descriptors": "May be suitable for persons ages 13 and older. Titles in this category may contain minimal violent content and/or suggestive themes."
+      },
+      "bbfc": {
+        "rating": "12",
+        "descriptors": "May be suitable for persons ages 13 and older. Titles in this category may contain minimal violent content and/or suggestive themes."
+      },
+      "cero": {
+        "rating": "b",
+        "descriptors": "May be suitable for persons ages 13 and older. Titles in this category may contain minimal violent content and/or suggestive themes."
+      },
+      "kgrb": {
+        "rating": "12",
+        "descriptors": "May be suitable for persons ages 13 and older. Titles in this category may contain minimal violent content and/or suggestive themes."
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2314411": {
@@ -8114,13 +8298,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313190/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313190/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313190/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313190/header.jpg?t=1679939923",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313190/capsule_231x87.jpg?t=1679939923",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313190/capsule_184x69.jpg?t=1679939923",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -8135,12 +8316,13 @@
       "url": "",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313190/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313190/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313190?t=1679939923",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313190/page_bg_raw.jpg?t=1679939923",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2313230": {
     "type": "game",
@@ -8150,9 +8332,9 @@
     "is_free": false,
     "short_description": "Join MAVE, the virtual K-pop group, on their journey to stardom! Chat directly with TYRA and witness their rise to fame. Create your own performance video for &quot;PANDORA&quot; using the stage camera. Stay tuned for more updates and exciting new content with MAVE - The Virtual K-Pop Idol Experience.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313230/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313230/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313230/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313230/header.jpg?t=1684814077",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313230/capsule_231x87.jpg?t=1684814077",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313230/capsule_184x69.jpg?t=1684814077",
     "website": "https://www.instagram.com/maveus_official/",
     "developers": [
       "Metaverse Entertainment"
@@ -8180,7 +8362,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       28
@@ -8193,11 +8376,29 @@
       "url": "https://meta-ent.com/meta/",
       "email": "maveus_cs@meta-ent.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313230/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313230/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313230?t=1684814077",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313230/page_bg_raw.jpg?t=1684814077",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2315490": {
@@ -8617,15 +8818,15 @@
     "is_free": true,
     "short_description": "This game is a more casual strategy war game, it bid farewell to the endless confrontation between players in traditional strategy games! More emphasis on collaboration between players.",
     "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313130/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313130/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313130/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313130/header.jpg?t=1712593704",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313130/capsule_231x87.jpg?t=1712593704",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313130/capsule_184x69.jpg?t=1712593704",
     "website": "https://www.feiyufeidongman.com/",
     "developers": [
-      "FYF GAME"
+      "NCARD"
     ],
     "publishers": [
-      "FYF GAME"
+      "NCARD"
     ],
     "package_groups": [],
     "platforms": {
@@ -8662,15 +8863,16 @@
       "url": "http://www.feiyufeidongman.com/",
       "email": "2885406714@qq.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313130/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313130/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313130?t=1712593704",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313130?t=1712593704",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
       "notes": "Some heroes are exposed or naked"
-    }
+    },
+    "ratings": null
   },
   "2315920": {
     "type": "game",
@@ -9254,11 +9456,14 @@
     "steam_appid": 2313140,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      2998690
+    ],
     "short_description": "OPPAI Ero App Academy: Bigger, Better, Electric Boobaloo is a VISUAL NOVEL set in Toaru Academy, an all-girls academy where a bigger bust indicates higher exp! Shimojo Kazuma is the first male student at the school. Will he be able to win the hearts of these buxom beauties?",
     "supported_languages": "English, Japanese<strong>*</strong>, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313140/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313140/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313140/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313140/header.jpg?t=1742803916",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313140/capsule_231x87.jpg?t=1742803916",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313140/capsule_184x69.jpg?t=1742803916",
     "website": null,
     "developers": [
       "Milkfactory"
@@ -9287,7 +9492,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       4,
@@ -9301,8 +9507,8 @@
       "url": "",
       "email": "ask@frontwing.co.jp"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313140/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313140/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313140?t=1742803916",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313140/page_bg_raw.jpg?t=1742803916",
     "content_descriptors": {
       "ids": [
         1,
@@ -9311,6 +9517,24 @@
         5
       ],
       "notes": "You must be over 18 to play this game.\r\nThis game is an erotic visual novel for adults only whose contents are not appropriate for all ages, and are not appropriate for viewing at work because contains explicit and graphic sexual contents and scenes that some users may find sensitive and/or offensive. \r\nIt contains frequent nudity and revealing outfits, explicit references to sex or sexuality and BDSM, sexual scenes and stories, dialogue and situations involving suggestive, mature and adult themes and humor, fondling, kiss, adult humor, bathroom humor and situations.\r\nIn the game there are explicit and graphic depictions and descriptions of sexual acts (oral, vaginal, anal penetrative and non-penetrative acts) in a wide range of situations including: costume sex play, sex toys, mammary intercourse, sexual intercourse with pregnant characters, sexual intercourse with stepsister, threesomes (main character with heroine character and her mother), group orgies (one male with several female characters), sexual fetishism, piss play, lactating breast, male and female ejaculations, food play, erotic humiliation and sexual abuse.\r\nThere are scenes which explicitly depict sexual violence and non consensual intercourse between the characters of the game.\r\nReference to profanity and frequent use of explicit and bad language, kink-shaming.\r\nAll of the characters in this game are over 18 years old."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nConte\u00fado sexual\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Schimpfw\u00f6rte"
+      }
     }
   },
   "2315800": {
@@ -11076,9 +11300,9 @@
       "name": "Succubus\u2605Connect!"
     },
     "supported_languages": "Japanese<strong>*</strong>, English, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313150/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2313150/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2313150/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313150/header.jpg?t=1678684751",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313150/capsule_231x87.jpg?t=1678684751",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313150/capsule_184x69.jpg?t=1678684751",
     "website": null,
     "developers": [
       "capture1"
@@ -11095,7 +11319,8 @@
     "categories": [
       2,
       21,
-      28
+      28,
+      62
     ],
     "genres": [
       3
@@ -11108,8 +11333,8 @@
       "url": "",
       "email": "info@wasabi.sub.jp"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2313150/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2313150/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313150?t=1678684751",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2313150?t=1678684751",
     "content_descriptors": {
       "ids": [
         1,
@@ -11118,6 +11343,24 @@
         4
       ],
       "notes": "Please note that this game contains the following sexual content\r\n\r\n-Sexual activity without consent\r\n-Tentacle sex\r\n-Sexual acts by monsters\r\n\r\nAdult events will occur as the story progresses."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nConte\u00fado sexual\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Schimpfw\u00f6rte"
+      }
     }
   },
   "2315150": {
