@@ -651,11 +651,12 @@
     "steam_appid": 3682550,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "Birb Game is a multiplayer first racing game with unique perspective of being a bird. Customize your bird with the selection of hats and race against your friends in online multiplayer, or just fly alone and try to beat your best time.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682550/0cca14c2894375f8a1f1af97dadd7e1b8fecc52a/header.jpg?t=1746736913",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682550/650fc091f23a812bc75e256b6f1f648d07d76805/capsule_231x87.jpg?t=1746736913",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682550/650fc091f23a812bc75e256b6f1f648d07d76805/capsule_184x69.jpg?t=1746736913",
+    "supported_languages": "English<strong>*</strong>, Czech, Russian, Ukrainian<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682550/0cca14c2894375f8a1f1af97dadd7e1b8fecc52a/header.jpg?t=1752673824",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682550/650fc091f23a812bc75e256b6f1f648d07d76805/capsule_231x87.jpg?t=1752673824",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682550/650fc091f23a812bc75e256b6f1f648d07d76805/capsule_184x69.jpg?t=1752673824",
     "website": null,
     "developers": [
       "Gregstr"
@@ -679,13 +680,16 @@
       1,
       2,
       15,
-      18,
       22,
       25,
+      28,
       36,
       47,
       49,
-      62
+      62,
+      74,
+      75,
+      76
     ],
     "genres": [
       1,
@@ -697,14 +701,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "18 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@gregstr.eu"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3682550?t=1746736913",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682550/a6828f89685d18b92651840c270e645f41223502/page_bg_raw.jpg?t=1746736913",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3682550?t=1752673824",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682550/a6828f89685d18b92651840c270e645f41223502/page_bg_raw.jpg?t=1752673824",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5150,9 +5154,9 @@
     "is_free": false,
     "short_description": "Day X is an interactive graphic novel where you play as Jason Miller, a Navy SEAL fighting to survive a nuclear strike and a bioweapon outbreak. Your choices shape the story, leading to branching paths, alliances, and multiple endings. Choose wisely\u2014survive or perish.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681890/5c96b94c1b9343cf191a2e9cd701b85de4ead8ea/header.jpg?t=1745866914",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681890/f92d088c17e3c100e760c319b1d4eea472ec5155/capsule_231x87.jpg?t=1745866914",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681890/f92d088c17e3c100e760c319b1d4eea472ec5155/capsule_184x69.jpg?t=1745866914",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681890/5c96b94c1b9343cf191a2e9cd701b85de4ead8ea/header.jpg?t=1748510286",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681890/f92d088c17e3c100e760c319b1d4eea472ec5155/capsule_231x87.jpg?t=1748510286",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681890/f92d088c17e3c100e760c319b1d4eea472ec5155/capsule_184x69.jpg?t=1748510286",
     "website": null,
     "developers": [
       "Nexus Media"
@@ -5160,7 +5164,20 @@
     "publishers": [
       "Nexus Media"
     ],
-    "package_groups": [],
+    "packages": [
+      1296827
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Day X",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5175,15 +5192,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "29 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "nexusmail.info@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3681890?t=1745866914",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681890/c0d35d6f5cc916430f4521d75237c6f92597adb0/page_bg_raw.jpg?t=1745866914",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3681890?t=1748510286",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681890/c0d35d6f5cc916430f4521d75237c6f92597adb0/page_bg_raw.jpg?t=1748510286",
     "content_descriptors": {
       "ids": [
         5
@@ -5217,15 +5234,21 @@
     "is_free": false,
     "short_description": "Enter the terminal and jack into a retro-cyberpunk world. Hardwired is a hacker simulation where you explore networks, uncover secrets, and manipulate systems through command-line interfaces. Discover hidden logs, tap into surveillance feeds, and unravel story a set in a fractured dystopia.",
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682210/bcba8e184c3df8ce532decc573a8f6e4ece41800/header.jpg?t=1745867729",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682210/07cb8a9905f55061225259754a99713437d4b7cc/capsule_231x87.jpg?t=1745867729",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682210/07cb8a9905f55061225259754a99713437d4b7cc/capsule_184x69.jpg?t=1745867729",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682210/bcba8e184c3df8ce532decc573a8f6e4ece41800/header.jpg?t=1749485232",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682210/07cb8a9905f55061225259754a99713437d4b7cc/capsule_231x87.jpg?t=1749485232",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682210/07cb8a9905f55061225259754a99713437d4b7cc/capsule_184x69.jpg?t=1749485232",
     "website": null,
     "developers": [
       "Lostbyte"
     ],
     "publishers": [
       "Lostbyte"
+    ],
+    "demos": [
+      {
+        "appid": 3768520,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5250,8 +5273,8 @@
       "url": "",
       "email": "lostbyte.studios@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3682210?t=1745867729",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682210/5d80463253002706bb087208b4d759cc868a5fb3/page_bg_raw.jpg?t=1745867729",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3682210?t=1749485232",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682210/5d80463253002706bb087208b4d759cc868a5fb3/page_bg_raw.jpg?t=1749485232",
     "content_descriptors": {
       "ids": [
         5
