@@ -74,9 +74,9 @@
       "name": "DACHstudio Jigsaw Puzzle Box"
     },
     "supported_languages": "English, German",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051390/header.jpg?t=1719850172",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051390/capsule_231x87.jpg?t=1719850172",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051390/capsule_184x69.jpg?t=1719850172",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051390/header.jpg?t=1734540322",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051390/capsule_231x87.jpg?t=1734540322",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051390/capsule_184x69.jpg?t=1734540322",
     "website": "https://spielmannspiel.com/dachstudio-jigsaw-puzzle-box",
     "developers": [
       "SpielmannSpiel",
@@ -125,8 +125,8 @@
       "url": "",
       "email": "dachstudio-jigsaw-puzzle-box@spielmannspiel.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051390/page_bg_generated_v6b.jpg?t=1719850172",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051390/page.bg.jpg?t=1719850172",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3051390?t=1734540322",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051390/page_bg_raw.jpg?t=1734540322",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6136,12 +6136,11 @@
     "steam_appid": 3051480,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
-    "short_description": "Explore a stark office environment, subtly using memory to position items in a cryptic simulation. Master precise actions and ascend the leaderboard in this evolving strategic challenge.",
+    "short_description": "Disposition is an escape-room-inspired game about strategic memory placement. You go through a sequence of engaging tasks where you must detect anomalies and observe details, all while being timed.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051480/header.jpg?t=1718907604",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051480/capsule_231x87.jpg?t=1718907604",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051480/capsule_184x69.jpg?t=1718907604",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051480/header.jpg?t=1749073565",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051480/dca2b5948fc195b93d379493d3e9cf818dd6cba2/capsule_231x87.jpg?t=1749073565",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051480/dca2b5948fc195b93d379493d3e9cf818dd6cba2/capsule_184x69.jpg?t=1749073565",
     "website": "https://astrohoundstudios.com/",
     "developers": [
       "Astro Hound"
@@ -6149,16 +6148,28 @@
     "publishers": [
       "Astro Hound"
     ],
-    "package_groups": [],
+    "packages": [
+      1084559
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Disposition",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
       2,
-      25,
-      28
+      62
     ],
     "genres": [
       23,
@@ -6166,15 +6177,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 May, 2025"
     },
     "support_info": {
       "url": "https://astrohoundstudios.com/",
       "email": "info@astrohoundstudios.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051480/page_bg_generated_v6b.jpg?t=1718907604",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051480/page.bg.jpg?t=1718907604",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3051480?t=1749073565",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051480/page_bg_raw.jpg?t=1749073565",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6945,19 +6956,19 @@
   },
   "3052300": {
     "type": "demo",
-    "name": "\u5730\u7403\u52c7\u8005 Demo\uff08Knights of Earth Realm\uff09",
+    "name": "\u5730\u7403\u52c7\u8005 Demo\uff08Earth Fighter\uff09",
     "steam_appid": 3052300,
     "required_age": 0,
     "is_free": true,
     "short_description": "&quot;Knights of Earth Realm&quot; is a 2D platform shooter action light rogue game. Synthesize various homemade or advanced weapon equipment, lead your pet, and fight against human looters, out-of-control mech, evil insectoids, and other threats on the post-disaster wasteland.",
     "fullgame": {
       "appid": "3044450",
-      "name": "\u5730\u7403\u52c7\u8005 Knights of Earth Realm"
+      "name": "\u5730\u7403\u52c7\u8005 Earth Fighter"
     },
     "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052300/header.jpg?t=1719050856",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052300/capsule_231x87.jpg?t=1719050856",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052300/capsule_184x69.jpg?t=1719050856",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052300/header.jpg?t=1752648022",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052300/capsule_231x87.jpg?t=1752648022",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052300/capsule_184x69.jpg?t=1752648022",
     "website": "https://space.bilibili.com/71221989?spm_id_from=333.337.0.0",
     "developers": [
       "Bonfire Workshop"
@@ -6973,7 +6984,13 @@
     },
     "categories": [
       2,
-      10
+      10,
+      23
+    ],
+    "genres": [
+      1,
+      23,
+      25
     ],
     "release_date": {
       "coming_soon": false,
@@ -6983,8 +7000,8 @@
       "url": "",
       "email": "2648678288@qq.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3052300?t=1752648022",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3052300?t=1752648022",
     "content_descriptors": {
       "ids": [
         2,
@@ -7218,8 +7235,8 @@
       "url": "",
       "email": "support@mangopartygames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053700/page_bg_generated_v6b.jpg?t=1719367447",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053700/page_bg_generated.jpg?t=1719367447",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3053700?t=1719367447",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3053700?t=1719367447",
     "content_descriptors": {
       "ids": [
         1,
@@ -9236,14 +9253,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "July 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "cakefacegames+alexander.lystad@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3051880?t=1720547821",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3051880?t=1720547821",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9273,18 +9290,24 @@
     "steam_appid": 3053340,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Savage Gears is a violent, single-player FPS inspired by early 2000s objective-oriented action games. You play as Ero as you obliterate your foes in intense combat and dynamic environments.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053340/header.jpg?t=1720264353",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053340/capsule_231x87.jpg?t=1720264353",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053340/capsule_184x69.jpg?t=1720264353",
+    "short_description": "Savage Gears is a violent, single-player FPS inspired by the 2000s objective-oriented action games. Armed with an Iron Fist and an arsenal of devastating weaponry, you play as Ero Lei'Bourne, a fearless soldier, in the middle of a dangerous conspiracy.",
+    "supported_languages": "English, French, German, Spanish - Spain, Finnish, Japanese, Korean, Russian, Simplified Chinese, Swahili",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053340/header.jpg?t=1744510448",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053340/capsule_231x87.jpg?t=1744510448",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053340/capsule_184x69.jpg?t=1744510448",
     "website": "http://nyabingi.africa",
     "developers": [
-      "Nyabingi Studio",
+      "Edwin Nyaluogo",
       "Steven Mochengo"
     ],
     "publishers": [
       "Nyabingi Studio"
+    ],
+    "demos": [
+      {
+        "appid": 3219860,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -9294,24 +9317,23 @@
     },
     "categories": [
       2,
-      15,
-      18,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
-      23
+      25
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "2025"
     },
     "support_info": {
       "url": "http://nyabingi.africa",
       "email": "nyabingistudio@proton.me"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053340/page_bg_generated_v6b.jpg?t=1720264353",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053340/page.bg.jpg?t=1720264353",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3053340?t=1744510448",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053340/page_bg_raw.jpg?t=1744510448",
     "content_descriptors": {
       "ids": [
         2,
@@ -9344,11 +9366,11 @@
     "steam_appid": 3053750,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Want to learn how to read and type Japanese hiragana and katakana in a fun way? Well how about a typing tower defense game to master two of the three Japanese writing systems!",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053750/header.jpg?t=1719808385",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053750/capsule_231x87.jpg?t=1719808385",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053750/capsule_184x69.jpg?t=1719808385",
+    "short_description": "Quickly learn and improve your Japanese language skills with Kana Seito Defense, a typing defense game to learn the writing systems of Hiragana and Katakana, and to build proficiency in Kanji through fun, customizable game modes!",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053750/header.jpg?t=1743027605",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053750/0bc7f58f28d02b0195612b8da71fe86a00a252ac/capsule_231x87.jpg?t=1743027605",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053750/0bc7f58f28d02b0195612b8da71fe86a00a252ac/capsule_184x69.jpg?t=1743027605",
     "website": null,
     "developers": [
       "Tarn"
@@ -9356,30 +9378,50 @@
     "publishers": [
       "Tarn"
     ],
-    "package_groups": [],
+    "packages": [
+      1085355
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Kana Seito Defense",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      15,
+      22,
+      44,
+      62
     ],
     "genres": [
       2,
       4,
       23
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "2 Sep, 2024"
     },
     "support_info": {
       "url": "",
       "email": "torngamedev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053750/page_bg_generated_v6b.jpg?t=1719808385",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053750/page.bg.jpg?t=1719808385",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3053750?t=1743027605",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053750/page_bg_raw.jpg?t=1743027605",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9475,9 +9517,9 @@
     "is_free": false,
     "short_description": "Help Cinderella to find true love! It features a collection of colored puzzles solved by logic, while following the Cinderella Story. Are you ready to solve the puzzles as the story develops?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053330/header.jpg?t=1720214453",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053330/capsule_231x87.jpg?t=1720214453",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053330/capsule_184x69.jpg?t=1720214453",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053330/header.jpg?t=1722448768",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053330/capsule_231x87.jpg?t=1722448768",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053330/capsule_184x69.jpg?t=1722448768",
     "website": null,
     "developers": [
       "Seven Sails Games"
@@ -9485,28 +9527,42 @@
     "publishers": [
       "Seven Sails Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1085194
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Fables Mosaic: Cinderella",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "31 Jul, 2024"
     },
     "support_info": {
       "url": "https://sevensails.com.br/contact",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053330/page_bg_generated_v6b.jpg?t=1720214453",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053330/page_bg_generated.jpg?t=1720214453",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3053330?t=1722448768",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3053330?t=1722448768",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9538,9 +9594,9 @@
     "is_free": false,
     "short_description": "Can you complete the Prime Mosaic gallery? Play more than 140 beautifully hand crafted levels and unveil the gallery!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053400/header.jpg?t=1719852022",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053400/capsule_231x87.jpg?t=1719852022",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053400/capsule_184x69.jpg?t=1719852022",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053400/header.jpg?t=1723151098",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053400/capsule_231x87.jpg?t=1723151098",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053400/capsule_184x69.jpg?t=1723151098",
     "website": null,
     "developers": [
       "Seven Sails Games"
@@ -9548,28 +9604,42 @@
     "publishers": [
       "Seven Sails Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1085216
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Prime Mosaic",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "8 Aug, 2024"
     },
     "support_info": {
       "url": "https://sevensails.com.br/contact",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053400/page_bg_generated_v6b.jpg?t=1719852022",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053400/page_bg_generated.jpg?t=1719852022",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3053400?t=1723151098",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3053400?t=1723151098",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11210,22 +11280,28 @@
   },
   "3053520": {
     "type": "game",
-    "name": "Neo Ha_Bits",
+    "name": "Neo HaBits",
     "steam_appid": 3053520,
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
     "short_description": "Neo Ha_Bits plunges players into a chilling journey of psychological horror and mystery within a cyberpunk setting.",
     "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053520/header.jpg?t=1720703838",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053520/capsule_231x87.jpg?t=1720703838",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053520/capsule_184x69.jpg?t=1720703838",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053520/header.jpg?t=1736827497",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053520/capsule_231x87.jpg?t=1736827497",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053520/capsule_184x69.jpg?t=1736827497",
     "website": null,
     "developers": [
       "Dark Quixote Studio"
     ],
     "publishers": [
       "Dark Quixote Studio"
+    ],
+    "demos": [
+      {
+        "appid": 3053590,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -11235,7 +11311,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -11245,14 +11322,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q4 2024"
+      "date": "Q2 2026"
     },
     "support_info": {
       "url": "www.darkquixotestudio.com",
       "email": "hello@darkquixotestudio.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053520/page_bg_generated_v6b.jpg?t=1720703838",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053520/page.bg.jpg?t=1720703838",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3053520?t=1736827497",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053520/page_bg_raw.jpg?t=1736827497",
     "content_descriptors": {
       "ids": [
         5
