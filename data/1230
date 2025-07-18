@@ -1205,12 +1205,13 @@
     "steam_appid": 3690420,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A visual novel that quietly touches the heart, set in a small town where fantasy and reality intertwine. As the scenery changes, it becomes a journey to rediscover forgotten feelings\u2014 searching for something that once surely existed.",
+    "controller_support": "full",
+    "short_description": "Set in a small town where reality and daydreams softly blur, this visual novel invites you on a quiet, emotional journey. As the scenery slowly changes, you embark on a journey to face the feelings you once forgot\u2014 searching for something that surely existed, somewhere in the past.",
     "supported_languages": "English, Simplified Chinese, Traditional Chinese, Japanese<strong>*</strong>, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690420/f860ead7ec1a259b08ac6c9310a80d3b3e0e8d6b/header.jpg?t=1745971551",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690420/a310cce2ec461114297dabf79c0ba9e42ac1e0d3/capsule_231x87.jpg?t=1745971551",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690420/a310cce2ec461114297dabf79c0ba9e42ac1e0d3/capsule_184x69.jpg?t=1745971551",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690420/784efb29c477c9c88a949589f6c1a39e2513b10b/header.jpg?t=1751439153",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690420/a310cce2ec461114297dabf79c0ba9e42ac1e0d3/capsule_231x87.jpg?t=1751439153",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690420/a310cce2ec461114297dabf79c0ba9e42ac1e0d3/capsule_184x69.jpg?t=1751439153",
+    "website": "https://sakurairo.operahouse.co.jp/",
     "developers": [
       "OPERAHOUSE"
     ],
@@ -1226,7 +1227,13 @@
     "categories": [
       2,
       22,
-      62
+      23,
+      28,
+      62,
+      68,
+      74,
+      75,
+      79
     ],
     "genres": [
       25,
@@ -1240,8 +1247,8 @@
       "url": "",
       "email": "steam.info@operahouse.co.jp"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690420?t=1745971551",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690420?t=1745971551",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690420?t=1751439153",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690420?t=1751439153",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1273,9 +1280,9 @@
     "is_free": false,
     "short_description": "Follow orders. Press buttons. Nuke Mars. A darkly funny SPACEFORCE sim where obedience is optional.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692160/77550b4ac4bdcc37c0e7ad083adcee72f6660034/header.jpg?t=1745790554",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692160/33f96bceb6c9d106d1638be0376da98352c244fc/capsule_231x87.jpg?t=1745790554",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692160/33f96bceb6c9d106d1638be0376da98352c244fc/capsule_184x69.jpg?t=1745790554",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692160/77550b4ac4bdcc37c0e7ad083adcee72f6660034/header.jpg?t=1747951475",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692160/33f96bceb6c9d106d1638be0376da98352c244fc/capsule_231x87.jpg?t=1747951475",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692160/33f96bceb6c9d106d1638be0376da98352c244fc/capsule_184x69.jpg?t=1747951475",
     "website": "http://www.LetsNukeMars.com",
     "developers": [
       "Jeremy Benisek (CyberAxe)"
@@ -1283,7 +1290,20 @@
     "publishers": [
       "OutLandishly Crafted"
     ],
-    "package_groups": [],
+    "packages": [
+      1300187
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Lets Nuke Mars",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1299,15 +1319,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "13 May, 2025"
     },
     "support_info": {
       "url": "http://www.OutLandishlyCrafted.com",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692160?t=1745790554",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692160/504998d16160b0e1ae92280bede69401132d6ff4/page_bg_raw.jpg?t=1745790554",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692160?t=1747951475",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692160/504998d16160b0e1ae92280bede69401132d6ff4/page_bg_raw.jpg?t=1747951475",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1414,15 +1434,16 @@
     "is_free": false,
     "short_description": "Think you're good at spotting images and solving captchas? Join Doma, a curious little cat who's just started training to become a detective! Help Doma take on picture-matching challenges from his senior detectives and prove your skills!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690390/a58ff7621de3659d0118752e9e5afc0d75ead526/header.jpg?t=1745564672",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690390/deac41af57ecfb181b05202603d4100f1b9a4f61/capsule_231x87.jpg?t=1745564672",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690390/deac41af57ecfb181b05202603d4100f1b9a4f61/capsule_184x69.jpg?t=1745564672",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690390/8bd63e5517df3186e4f5c3985faf4e44262c4b93/header.jpg?t=1752567426",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690390/70da073716994860e3e0b773f28d9c0e5ce7d550/capsule_231x87.jpg?t=1752567426",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690390/70da073716994860e3e0b773f28d9c0e5ce7d550/capsule_184x69.jpg?t=1752567426",
     "website": "https://noobzilla.games/",
     "developers": [
       "Noobzilla"
     ],
     "publishers": [
-      "Noobzilla"
+      "Noobzilla",
+      "55.42."
     ],
     "package_groups": [],
     "platforms": {
@@ -1446,8 +1467,8 @@
       "url": "https://noobzilla.games/",
       "email": "ub@noobzilla.games"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690390?t=1745564672",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690390/304b7aa1f41dfa1c09a558c3ee8c1c8c8c230f00/page_bg_raw.jpg?t=1745564672",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690390?t=1752567426",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690390/304b7aa1f41dfa1c09a558c3ee8c1c8c8c230f00/page_bg_raw.jpg?t=1752567426",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1484,12 +1505,12 @@
       "name": "\u7ef4\u5179\u4e4b\u5203 Blade of Wiz"
     },
     "supported_languages": "English, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690520/459c72908923f55013aa1cf8efe9c98181b812f3/header.jpg?t=1745900445",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690520/6c794a49b50962904b1cecff7373b2b221838282/capsule_231x87.jpg?t=1745900445",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690520/6c794a49b50962904b1cecff7373b2b221838282/capsule_184x69.jpg?t=1745900445",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690520/459c72908923f55013aa1cf8efe9c98181b812f3/header.jpg?t=1752130647",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690520/6c794a49b50962904b1cecff7373b2b221838282/capsule_231x87.jpg?t=1752130647",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690520/6c794a49b50962904b1cecff7373b2b221838282/capsule_184x69.jpg?t=1752130647",
     "website": null,
     "developers": [
-      "Cube of Cube"
+      "Anotherindie"
     ],
     "publishers": [
       "Anotherindie"
@@ -1512,8 +1533,8 @@
       "url": "https://store.steampowered.com/app/3125540/_Blade_of_Wiz/?curator_clanid=45573489",
       "email": "yan@anotherindie.com.cn"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690520?t=1745900445",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690520?t=1745900445",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690520?t=1752130647",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690520?t=1752130647",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2773,18 +2794,23 @@
     "steam_appid": 3692070,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
-    "short_description": "Ever heard of the guy who lost his hard drive full of PitCoins worth $1 million? You ARE that guy\u2014now digging through a shady junkyard with a vacuum cleaner, hoping to find it. No timers. No pressure. Just you, the dirt\u2014and whatever\u2019s lurking in the dark.",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Traditional Chinese, Simplified Chinese, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Spanish - Latin America, Thai, Turkish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692070/5b1fed26056ea42700904ac35f284feb467f82a7/header.jpg?t=1746387824",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692070/2d2a05dbb9715be797d4c8c02aef88239533bf8e/capsule_231x87.jpg?t=1746387824",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692070/2d2a05dbb9715be797d4c8c02aef88239533bf8e/capsule_184x69.jpg?t=1746387824",
-    "website": null,
+    "short_description": "Vacuum your way through a massive junk pit in search of a lost hard drive worth millions. Suck, sell, upgrade, and uncover absurd items, pop culture relics, and unsettling secrets in this dangerously addictive, satirical dig-'em-up.",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Thai, Turkish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692070/e857d294069517d44470a18ec32fa63e0bba5562/header.jpg?t=1752345130",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692070/fd7f6054349116b60a579eab386915986d6a18cb/capsule_231x87.jpg?t=1752345130",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692070/fd7f6054349116b60a579eab386915986d6a18cb/capsule_184x69.jpg?t=1752345130",
+    "website": "https://drive.google.com/drive/u/0/folders/1jndjcL5ih6NuLLNa7jcL7MAlq3BZucYc",
     "developers": [
       "Jony Pazu Games"
     ],
     "publishers": [
       "Jony Pazu Games"
+    ],
+    "demos": [
+      {
+        "appid": 3722670,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -2794,7 +2820,7 @@
     },
     "categories": [
       2,
-      28,
+      22,
       62
     ],
     "genres": [
@@ -2804,14 +2830,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "23 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "jonypazu.games.contact@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692070?t=1746387824",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692070/d396fda15ba0ec4c6a88c402ee5b72bfce263402/page_bg_raw.jpg?t=1746387824",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692070?t=1752345130",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692070/d396fda15ba0ec4c6a88c402ee5b72bfce263402/page_bg_raw.jpg?t=1752345130",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2843,9 +2869,9 @@
     "is_free": false,
     "short_description": "Oblivion is a short, story-driven first-person horror game. Uncover the truth hidden within an abandoned school \u2014 but beware, some memories were never meant to return.",
     "supported_languages": "English, Turkish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692040/8faff3ec60dfdd361e72b5d4e596ccd50d11b4db/header.jpg?t=1746828238",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692040/868492fb7a5759b905096c0ba5731bb0d435a002/capsule_231x87.jpg?t=1746828238",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692040/868492fb7a5759b905096c0ba5731bb0d435a002/capsule_184x69.jpg?t=1746828238",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692040/8faff3ec60dfdd361e72b5d4e596ccd50d11b4db/header.jpg?t=1747830902",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692040/868492fb7a5759b905096c0ba5731bb0d435a002/capsule_231x87.jpg?t=1747830902",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692040/868492fb7a5759b905096c0ba5731bb0d435a002/capsule_184x69.jpg?t=1747830902",
     "website": null,
     "developers": [
       "Tomris Games"
@@ -2853,7 +2879,20 @@
     "publishers": [
       "Tomris Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1300142
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Oblivion",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2861,22 +2900,26 @@
     },
     "categories": [
       2,
+      22,
       62
     ],
     "genres": [
       23,
       25
     ],
+    "achievements": {
+      "total": 9
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 May, 2025"
     },
     "support_info": {
       "url": "https://www.instagram.com/tomrisgames/",
       "email": "tomrisgames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692040?t=1746828238",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692040?t=1746828238",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692040?t=1747830902",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692040?t=1747830902",
     "content_descriptors": {
       "ids": [
         5
@@ -7950,10 +7993,10 @@
       "appid": "3141720",
       "name": "Monster Battles"
     },
-    "supported_languages": "Simplified Chinese<strong>*</strong>, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Traditional Chinese<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692910/4d5687a5156299a5abbe482136bf0870ec965744/header.jpg?t=1746897160",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692910/fd5ef9cd16dbb84bb365aae0fe2b04060fc13fae/capsule_231x87.jpg?t=1746897160",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692910/fd5ef9cd16dbb84bb365aae0fe2b04060fc13fae/capsule_184x69.jpg?t=1746897160",
+    "supported_languages": "Simplified Chinese<strong>*</strong>, English, French, German, Spanish - Spain, Russian, Japanese<strong>*</strong>, Polish, Traditional Chinese<strong>*</strong>, Portuguese - Portugal, Korean<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692910/4d5687a5156299a5abbe482136bf0870ec965744/header.jpg?t=1747490118",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692910/fd5ef9cd16dbb84bb365aae0fe2b04060fc13fae/capsule_231x87.jpg?t=1747490118",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3692910/fd5ef9cd16dbb84bb365aae0fe2b04060fc13fae/capsule_184x69.jpg?t=1747490118",
     "website": null,
     "developers": [
       "Fourteen"
@@ -7961,7 +8004,20 @@
     "publishers": [
       "Fourteen"
     ],
-    "package_groups": [],
+    "packages": [
+      1300463
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Monster Battles - Summertime Collection",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7969,22 +8025,23 @@
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       2,
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "16 May, 2025"
+      "coming_soon": false,
+      "date": "15 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "brandon@gamersky.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692910?t=1746897160",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692910?t=1746897160",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692910?t=1747490118",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3692910?t=1747490118",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12941,6 +12998,83 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Gewalt\nSchimpfw\u00f6rte"
+      }
+    }
+  },
+  "3690620": {
+    "type": "game",
+    "name": "Who Is Real?",
+    "steam_appid": 3690620,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "You're in a dark medieval tavern. Some are real players, hiding among lifelike NPCs. Watch closely, blend in, and reveal them \u2014 before they reveal you.",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Arabic, Portuguese - Brazil, Russian, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690620/d8ff6025570633c6e358fb7aae8ed2d5c3754473/header.jpg?t=1752828258",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690620/bfefa31cfc413d2c6edc9889d31740042afbf553/capsule_231x87.jpg?t=1752828258",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690620/bfefa31cfc413d2c6edc9889d31740042afbf553/capsule_184x69.jpg?t=1752828258",
+    "website": null,
+    "developers": [
+      "Pilavyer Software"
+    ],
+    "publishers": [
+      "Pilavyer Software"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      1,
+      2,
+      9,
+      22,
+      23,
+      36,
+      38,
+      49,
+      62,
+      67,
+      69
+    ],
+    "genres": [
+      3,
+      23,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "https://pilavyersoftware.com/",
+      "email": "contact@pilavyersoftware.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3690620?t=1752828258",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690620/95b6292b1d1878266a41d0dee9f0cf03002a5084/page_bg_raw.jpg?t=1752828258",
+    "content_descriptors": {
+      "ids": [
+        5
+      ],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nAtos criminosos\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt\nAlkohol / Tabak\nDerbe Sprache"
       }
     }
   }
