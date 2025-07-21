@@ -8105,9 +8105,9 @@
     "is_free": false,
     "short_description": "The ultimate coffee shop simulator where you become a professional barista",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063420/header.jpg?t=1721062876",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063420/capsule_231x87.jpg?t=1721062876",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063420/capsule_184x69.jpg?t=1721062876",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063420/header.jpg?t=1730966164",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063420/capsule_231x87.jpg?t=1730966164",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063420/capsule_184x69.jpg?t=1730966164",
     "website": null,
     "developers": [
       "Keycap Games LLC"
@@ -8115,7 +8115,20 @@
     "publishers": [
       "Keycap Games LLC"
     ],
-    "package_groups": [],
+    "packages": [
+      1088668
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Coffee Quest VR",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8123,22 +8136,24 @@
     },
     "categories": [
       2,
-      22
+      52,
+      54,
+      62
     ],
     "genres": [
       23,
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "6 Nov, 2024"
     },
     "support_info": {
       "url": "keycapgames.net",
       "email": "admin@keycapgames.net"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063420/page_bg_generated_v6b.jpg?t=1721062876",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063420/page_bg_generated.jpg?t=1721062876",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3063420?t=1730966164",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3063420?t=1730966164",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8164,15 +8179,15 @@
   },
   "3063050": {
     "type": "game",
-    "name": "\u3042\u3046\u3093\u3061\u3083\u3093\u306e\u304a\u56f0\u308a\u3067\u3059\u3088\u306d!?\u970a\u5922\u3055\u3093!",
+    "name": "Reimu Needs Help!? Aunn-chan to the Rescue!",
     "steam_appid": 3063050,
     "required_age": 0,
     "is_free": false,
-    "short_description": "\u8a00\u8449\u304c\u6d41\u308c\u3066\u304f\u308b2\u3064\u306e\u30b9\u30ed\u30c3\u30c8\u3092\u4e0a\u624b\u306b\u6b62\u3081\u3066\u8a00\u8449\u3092\u7d44\u307f\u5408\u308f\u305b\u3066\u30a2\u30a4\u30c6\u30e0\u3092\u5b8c\u6210\u3055\u305b\u3001\u970a\u5922\u3055\u3093\u306e\u56f0\u308a\u3054\u3068\u3092\u30b9\u30d4\u30fc\u30c7\u30a3\u306b\u89e3\u6c7a\u306b\u5c0e\u3053\u3046\uff01",
-    "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063050/header.jpg?t=1721087738",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063050/capsule_231x87.jpg?t=1721087738",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063050/capsule_184x69.jpg?t=1721087738",
+    "short_description": "Speedily solve Reimu's problems by skillfully stopping slot reels to pick two words to create items to give to her!",
+    "supported_languages": "Japanese, English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063050/header.jpg?t=1722420126",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063050/capsule_231x87.jpg?t=1722420126",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063050/capsule_184x69.jpg?t=1722420126",
     "website": null,
     "developers": [
       "ISY"
@@ -8180,28 +8195,42 @@
     "publishers": [
       "ISY"
     ],
-    "package_groups": [],
+    "packages": [
+      1088549
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Reimu Needs Help!? Aunn-chan to the Rescue!",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       28
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "31 Jul, 2024"
     },
     "support_info": {
       "url": "http://mizusoba.blog.fc2.com/",
       "email": "mizusoba@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063050/page_bg_generated_v6b.jpg?t=1721087738",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063050/page_bg_generated.jpg?t=1721087738",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3063050?t=1722420126",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3063050?t=1722420126",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8233,24 +8262,38 @@
     "is_free": false,
     "short_description": "Oh my friend, are you one of the strongest typists in the world? Come and try this typing rouge shooting game, practice and become more stronger. Finally you will prove yourself.",
     "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063740/header.jpg?t=1721125453",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063740/capsule_231x87.jpg?t=1721125453",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063740/capsule_184x69.jpg?t=1721125453",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063740/header.jpg?t=1734683440",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063740/35913ed9389e41811a53d769b461946428778a4e/capsule_231x87.jpg?t=1734683440",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063740/35913ed9389e41811a53d769b461946428778a4e/capsule_184x69.jpg?t=1734683440",
     "website": null,
     "developers": [
-      "FluteGames"
+      "Flute Games"
     ],
     "publishers": [
-      "FluteGames"
+      "Flute Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1088789
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Keyboard Souls",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -8259,15 +8302,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "1 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "907886941@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063740/page_bg_generated_v6b.jpg?t=1721125453",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063740/page.bg.jpg?t=1721125453",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3063740?t=1734683440",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063740/page_bg_raw.jpg?t=1734683440",
     "content_descriptors": {
       "ids": [],
       "notes": null
