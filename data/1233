@@ -543,7 +543,12 @@
       2,
       22,
       23,
-      62
+      62,
+      67,
+      68,
+      69,
+      74,
+      76
     ],
     "genres": [
       4
@@ -3054,9 +3059,9 @@
     "is_free": false,
     "short_description": "'Sumin's Tower:Session No.5' is a first-person 3D platformer. Climb the tower under the guidance of Sumin, the developer who crafted the stage just for you, and help her create the perfect session.",
     "supported_languages": "English, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700170/f64b75ed7df6f8c768261bd49782fbe7d4843e30/header.jpg?t=1747014130",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700170/90de9493052d608bf8ef78934107f25c30dd2592/capsule_231x87.jpg?t=1747014130",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700170/90de9493052d608bf8ef78934107f25c30dd2592/capsule_184x69.jpg?t=1747014130",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700170/f64b75ed7df6f8c768261bd49782fbe7d4843e30/header.jpg?t=1747364515",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700170/90de9493052d608bf8ef78934107f25c30dd2592/capsule_231x87.jpg?t=1747364515",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700170/90de9493052d608bf8ef78934107f25c30dd2592/capsule_184x69.jpg?t=1747364515",
     "website": null,
     "developers": [
       "studio LIEFAC"
@@ -3064,7 +3069,20 @@
     "publishers": [
       "studio LIEFAC"
     ],
-    "package_groups": [],
+    "packages": [
+      1302887
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Sumin's Tower:Session No.5",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3079,16 +3097,19 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 16
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "15 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "egoista319@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700170?t=1747014130",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700170?t=1747014130",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700170?t=1747364515",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3700170?t=1747364515",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6468,11 +6489,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "A tactic reinterpretation of the match-3 genre. Order your chaotic army into perfect squads, boost their abilities, improve their weapons and form the deadliest attacks one line at a time!",
+    "short_description": "A tactic reinterpretation of the match-3 genre. Order your chaotic army into perfect squads, protect your ship, improve their weapons and form the deadliest attacks one line at a time to save the archipielago!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699510/c39057a98775058f1a10d1e88b8a77568acee5ad/header.jpg?t=1747309235",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699510/7d62bb2134ad2843bc1e75264fdf1caf468a39e1/capsule_231x87.jpg?t=1747309235",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699510/7d62bb2134ad2843bc1e75264fdf1caf468a39e1/capsule_184x69.jpg?t=1747309235",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699510/c39057a98775058f1a10d1e88b8a77568acee5ad/header.jpg?t=1752868517",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699510/7d62bb2134ad2843bc1e75264fdf1caf468a39e1/capsule_231x87.jpg?t=1752868517",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699510/7d62bb2134ad2843bc1e75264fdf1caf468a39e1/capsule_184x69.jpg?t=1752868517",
     "website": null,
     "developers": [
       "Le Slo",
@@ -6484,7 +6505,7 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
@@ -6504,8 +6525,8 @@
       "url": "",
       "email": "lucas.le.slo.games@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3699510?t=1747309235",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3699510?t=1747309235",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3699510?t=1752868517",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3699510?t=1752868517",
     "content_descriptors": {
       "ids": [],
       "notes": null
