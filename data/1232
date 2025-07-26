@@ -625,9 +625,9 @@
     "is_free": false,
     "short_description": "Module Miner is a minimalist retro inspired idle mining game. Hover over blocks to break them, collect resources, and buy upgrades.",
     "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697170/e3238c8f2fc358cae88b3f26d5a9684bc234b95e/header.jpg?t=1746064491",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697170/c9953763cf6c4c4733fcea5d6c2b5b8cfdedb7e9/capsule_231x87.jpg?t=1746064491",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697170/c9953763cf6c4c4733fcea5d6c2b5b8cfdedb7e9/capsule_184x69.jpg?t=1746064491",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697170/e3238c8f2fc358cae88b3f26d5a9684bc234b95e/header.jpg?t=1750373426",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697170/c9953763cf6c4c4733fcea5d6c2b5b8cfdedb7e9/capsule_231x87.jpg?t=1750373426",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697170/c9953763cf6c4c4733fcea5d6c2b5b8cfdedb7e9/capsule_184x69.jpg?t=1750373426",
     "website": "https://pixeldripgames.com.au/",
     "developers": [
       "Pixel Drip Games"
@@ -635,7 +635,20 @@
     "publishers": [
       "Pixel Drip Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1301903
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Module Miner",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -644,7 +657,9 @@
     "categories": [
       2,
       22,
-      62
+      62,
+      68,
+      74
     ],
     "genres": [
       2,
@@ -652,16 +667,19 @@
       23,
       28
     ],
+    "achievements": {
+      "total": 7
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "June 2025"
+      "coming_soon": false,
+      "date": "19 Jun, 2025"
     },
     "support_info": {
       "url": "pixeldripgames.com.au",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697170?t=1746064491",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697170/70eb0fab7a4c9c7eeaf1f669cb4239c24fef0ed1/page_bg_raw.jpg?t=1746064491",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697170?t=1750373426",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697170/70eb0fab7a4c9c7eeaf1f669cb4239c24fef0ed1/page_bg_raw.jpg?t=1750373426",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1199,15 +1217,21 @@
     "is_free": false,
     "short_description": "Dicey Heroes is a Monopoly-based roguelike deck-building casual game. Actions such as attack, reinforcement, and defense are determined according to the squares stopped by rolling dice. Units have only one parameter, a number. The objective of the game is to strengthen this number. Simple, isn't it?",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697180/e1d951f57b7966c6cb81547eae1f1187626ecb93/header.jpg?t=1746180322",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697180/6eb77fd8117059a85fa1e627e22c3d974dc391da/capsule_231x87.jpg?t=1746180322",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697180/6eb77fd8117059a85fa1e627e22c3d974dc391da/capsule_184x69.jpg?t=1746180322",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697180/e1d951f57b7966c6cb81547eae1f1187626ecb93/header.jpg?t=1749609981",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697180/6eb77fd8117059a85fa1e627e22c3d974dc391da/capsule_231x87.jpg?t=1749609981",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697180/6eb77fd8117059a85fa1e627e22c3d974dc391da/capsule_184x69.jpg?t=1749609981",
     "website": null,
     "developers": [
       "KAYAC Inc."
     ],
     "publishers": [
       "KAYAC Inc."
+    ],
+    "demos": [
+      {
+        "appid": 3718520,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -1231,8 +1255,8 @@
       "url": "",
       "email": "steam-info@kayac.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697180?t=1746180322",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697180?t=1746180322",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697180?t=1749609981",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697180?t=1749609981",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1336,9 +1360,9 @@
     "is_free": false,
     "short_description": "So you're stuck in a middle of a desert with a single flask of water... how do you escape? Do you stare at the sun long enough for it to stare at you back? Well, that might not be the worst idea. Try it out in Escape the Desert, a strand-type roguelike strategy game!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698240/65c903c198daeeb1b3278843c527a05395f0911d/header.jpg?t=1745943260",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698240/7c1457fd6998d68bb1ac84ea21811b19cabb55e4/capsule_231x87.jpg?t=1745943260",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698240/7c1457fd6998d68bb1ac84ea21811b19cabb55e4/capsule_184x69.jpg?t=1745943260",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698240/65c903c198daeeb1b3278843c527a05395f0911d/header.jpg?t=1748338990",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698240/7c1457fd6998d68bb1ac84ea21811b19cabb55e4/capsule_231x87.jpg?t=1748338990",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698240/7c1457fd6998d68bb1ac84ea21811b19cabb55e4/capsule_184x69.jpg?t=1748338990",
     "website": null,
     "developers": [
       "grassblooder"
@@ -1370,8 +1394,8 @@
       "url": "",
       "email": "contact@grassblooder.me"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698240?t=1745943260",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698240?t=1745943260",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698240?t=1748338990",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698240?t=1748338990",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1431,7 +1455,13 @@
       22,
       23,
       28,
-      62
+      62,
+      64,
+      66,
+      68,
+      75,
+      76,
+      78
     ],
     "genres": [
       3
@@ -1967,10 +1997,10 @@
       "appid": "3432110",
       "name": "\u6c5f\u6e56\u9ec4\u8001\u516d Lord of mythical beast"
     },
-    "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696690/718cd18d51a05be39c39ea81f8c140916a8b8385/header.jpg?t=1745979375",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696690/8277d80944fd99a01fc33e521285274f7740544a/capsule_231x87.jpg?t=1745979375",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696690/8277d80944fd99a01fc33e521285274f7740544a/capsule_184x69.jpg?t=1745979375",
+    "supported_languages": "Simplified Chinese, English, French, Italian, German, Spanish - Spain, Russian, Japanese, Traditional Chinese, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696690/718cd18d51a05be39c39ea81f8c140916a8b8385/header.jpg?t=1748914983",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696690/8277d80944fd99a01fc33e521285274f7740544a/capsule_231x87.jpg?t=1748914983",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696690/8277d80944fd99a01fc33e521285274f7740544a/capsule_184x69.jpg?t=1748914983",
     "website": null,
     "developers": [
       "DuDu Games"
@@ -1990,15 +2020,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "2 Jun, 2025"
     },
     "support_info": {
       "url": "nick@dudu-games.com",
       "email": "13611408607"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696690?t=1745979375",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696690?t=1745979375",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696690?t=1748914983",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696690?t=1748914983",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2126,7 +2156,9 @@
     "categories": [
       2,
       22,
-      62
+      62,
+      74,
+      75
     ],
     "genres": [
       23,
@@ -2171,17 +2203,24 @@
     "steam_appid": 3698050,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Visual novel of intrigue in which you will have to remember your dramatic past with Emily and decide what really happened during this strange romance.",
+    "controller_support": "full",
+    "short_description": "Relive Thomas\u2019s memories in this mystery-filled visual novel. What really happened to Emily? Make choices, explore different versions of events, and uncover two complementary endings that reveal the full truth.",
     "supported_languages": "English, Spanish - Spain, Spanish - Latin America",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698050/979bb19a381d0f0dbc46e5723c6f7cb4c92d1d58/header.jpg?t=1747161300",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698050/e895825f8c5431856b58f1a24927bd06965cfca8/capsule_231x87.jpg?t=1747161300",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698050/e895825f8c5431856b58f1a24927bd06965cfca8/capsule_184x69.jpg?t=1747161300",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698050/979bb19a381d0f0dbc46e5723c6f7cb4c92d1d58/header.jpg?t=1753464469",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698050/e895825f8c5431856b58f1a24927bd06965cfca8/capsule_231x87.jpg?t=1753464469",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698050/e895825f8c5431856b58f1a24927bd06965cfca8/capsule_184x69.jpg?t=1753464469",
     "website": null,
     "developers": [
       "Tortita Studio"
     ],
     "publishers": [
       "Tortita Studio"
+    ],
+    "demos": [
+      {
+        "appid": 3756920,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -2192,9 +2231,17 @@
     "categories": [
       2,
       13,
-      18,
       22,
-      62
+      23,
+      28,
+      43,
+      62,
+      68,
+      74,
+      75,
+      76,
+      77,
+      79
     ],
     "genres": [
       4,
@@ -2202,14 +2249,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q3 2025"
+      "date": "13 Aug, 2025"
     },
     "support_info": {
       "url": "",
       "email": "tortitastudio@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698050?t=1747161300",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698050/d6a5704abdbd7608443366c4fef7413935e47646/page_bg_raw.jpg?t=1747161300",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698050?t=1753464469",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698050/d6a5704abdbd7608443366c4fef7413935e47646/page_bg_raw.jpg?t=1753464469",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2245,9 +2292,9 @@
       "name": "Coloring Pixels"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698520/0f7e86708bb803f8af00ce6e7fbf1f8e6889e3ea/header.jpg?t=1746015563",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698520/67d491490f36d48ecef074c6a64a31a723584ef1/capsule_231x87.jpg?t=1746015563",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698520/67d491490f36d48ecef074c6a64a31a723584ef1/capsule_184x69.jpg?t=1746015563",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698520/0f7e86708bb803f8af00ce6e7fbf1f8e6889e3ea/header.jpg?t=1748026693",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698520/67d491490f36d48ecef074c6a64a31a723584ef1/capsule_231x87.jpg?t=1748026693",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698520/67d491490f36d48ecef074c6a64a31a723584ef1/capsule_184x69.jpg?t=1748026693",
     "website": "https://www.toastielabs.co.uk/coloring-pixels",
     "developers": [
       "ToastieLabs"
@@ -2255,7 +2302,20 @@
     "publishers": [
       "ToastieLabs"
     ],
-    "package_groups": [],
+    "packages": [
+      1302320
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Coloring Pixels - Celebration XL Pack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -2273,15 +2333,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "23 May, 2025"
     },
     "support_info": {
       "url": "https://www.toastielabs.co.uk/",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698520?t=1746015563",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698520?t=1746015563",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698520?t=1748026693",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698520?t=1748026693",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2732,11 +2792,11 @@
     "steam_appid": 3698510,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A nostalgic multiplayer action game inspired by children's outdoors game, kick the can.",
+    "short_description": "A fast-paced multiplayer experience based on 'kick the can' but this time with abilities!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698510/b9f9e55dde81406a946257b5d8823e5fa1cfdc0c/header.jpg?t=1746533585",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698510/7d6c47a4134bfd37cfa2d008c24848b3669da2c7/capsule_231x87.jpg?t=1746533585",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698510/7d6c47a4134bfd37cfa2d008c24848b3669da2c7/capsule_184x69.jpg?t=1746533585",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698510/b9f9e55dde81406a946257b5d8823e5fa1cfdc0c/header.jpg?t=1752666356",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698510/7d6c47a4134bfd37cfa2d008c24848b3669da2c7/capsule_231x87.jpg?t=1752666356",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698510/7d6c47a4134bfd37cfa2d008c24848b3669da2c7/capsule_184x69.jpg?t=1752666356",
     "website": null,
     "developers": [
       "Stolen Heater"
@@ -2754,21 +2814,24 @@
       1,
       36,
       49,
-      62
+      62,
+      69,
+      74
     ],
     "genres": [
-      1
+      1,
+      4
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "To be announced"
+      "date": "2025"
     },
     "support_info": {
       "url": "https://stolenheater.games/",
       "email": "support@stolenheater.games"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698510?t=1746533585",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698510/57003e2b4b92c81d28d86c6b1564f9c581292847/page_bg_raw.jpg?t=1746533585",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3698510?t=1752666356",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698510/57003e2b4b92c81d28d86c6b1564f9c581292847/page_bg_raw.jpg?t=1752666356",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2948,15 +3011,21 @@
     "is_free": true,
     "short_description": "Congratulations! You are selected to work in the Media Regulation Branch to safeguard NewMerican values. Dive into this dystopian puzzle game; censor newspapers, discover secrets, and ban those who oppose NewMerica.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696710/3a09237c9754802ba7a5d5c0e6c298506a81c99d/header.jpg?t=1747203683",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696710/cc542c1accb257dc31fb438c8a79bf526e3ff22d/capsule_231x87.jpg?t=1747203683",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696710/cc542c1accb257dc31fb438c8a79bf526e3ff22d/capsule_184x69.jpg?t=1747203683",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696710/3a09237c9754802ba7a5d5c0e6c298506a81c99d/header.jpg?t=1749599884",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696710/cc542c1accb257dc31fb438c8a79bf526e3ff22d/capsule_231x87.jpg?t=1749599884",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696710/cc542c1accb257dc31fb438c8a79bf526e3ff22d/capsule_184x69.jpg?t=1749599884",
     "website": null,
     "developers": [
       "Big Bros"
     ],
     "publishers": [
       "Big Bros"
+    ],
+    "demos": [
+      {
+        "appid": 3797210,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -2965,7 +3034,13 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      65,
+      66,
+      68,
+      74,
+      76,
+      79
     ],
     "genres": [
       4,
@@ -2974,14 +3049,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "June 2025"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "bigbros2025@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696710?t=1747203683",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696710?t=1747203683",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696710?t=1749599884",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696710?t=1749599884",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3013,9 +3088,9 @@
     "is_free": false,
     "short_description": "Colorful 3D Team Adventure! Leap through challenges, crack puzzles and scale peaks together! Enjoy dynamic platforming, hilarious tests and eye-popping visuals!",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697860/3c62e98442937e61072c39cfe944ce19bbf1e7f6/header.jpg?t=1746205731",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697860/8ecc4069ea97ff61ab5ec159b34706d1ad5b32f4/capsule_231x87.jpg?t=1746205731",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697860/8ecc4069ea97ff61ab5ec159b34706d1ad5b32f4/capsule_184x69.jpg?t=1746205731",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697860/3c62e98442937e61072c39cfe944ce19bbf1e7f6/header.jpg?t=1752918600",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697860/8ecc4069ea97ff61ab5ec159b34706d1ad5b32f4/capsule_231x87.jpg?t=1752918600",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697860/8ecc4069ea97ff61ab5ec159b34706d1ad5b32f4/capsule_184x69.jpg?t=1752918600",
     "website": null,
     "developers": [
       "Strogolis"
@@ -3023,7 +3098,20 @@
     "publishers": [
       "Strogolis"
     ],
-    "package_groups": [],
+    "packages": [
+      1302118
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cheliki",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3031,25 +3119,29 @@
     },
     "categories": [
       1,
-      2,
       9,
       38,
-      62
+      62,
+      68,
+      69,
+      70,
+      74,
+      79
     ],
     "genres": [
       25,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "May 2025"
+      "coming_soon": false,
+      "date": "20 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "pufffoxor@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697860?t=1746205731",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697860?t=1746205731",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697860?t=1752918600",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3697860?t=1752918600",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3081,9 +3173,9 @@
     "is_free": false,
     "short_description": "This isn\u2019t a game. It\u2019s a vertical meltdown disguised as one. Climb as a gripless goblin in the most unforgiving platformer of the decade.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696160/835ae24f49f53ffd8b0d5c1fd13fe0d1d63d37ff/header.jpg?t=1747579818",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696160/c4cd88e0d01d82a05d133cfd47e3a4fa0ac44850/capsule_231x87.jpg?t=1747579818",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696160/c4cd88e0d01d82a05d133cfd47e3a4fa0ac44850/capsule_184x69.jpg?t=1747579818",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696160/835ae24f49f53ffd8b0d5c1fd13fe0d1d63d37ff/header.jpg?t=1748039810",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696160/c4cd88e0d01d82a05d133cfd47e3a4fa0ac44850/capsule_231x87.jpg?t=1748039810",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696160/c4cd88e0d01d82a05d133cfd47e3a4fa0ac44850/capsule_184x69.jpg?t=1748039810",
     "website": null,
     "developers": [
       "HALKO Digital"
@@ -3091,29 +3183,51 @@
     "publishers": [
       "HALKO Digital"
     ],
-    "package_groups": [],
+    "packages": [
+      1301566
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Goblin Game",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      62
+      62,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      74,
+      78,
+      79
     ],
     "genres": [
       25,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "2025"
+      "coming_soon": false,
+      "date": "23 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "olsoftware.shared@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696160?t=1747579818",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696160?t=1747579818",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696160?t=1748039810",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696160?t=1748039810",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3142,12 +3256,12 @@
     "name": "Sub Terra",
     "steam_appid": 3696090,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
     "short_description": "Sub Terra is a first person psychological horror game set deep underground. As a maintenance worker, your job is to fix a broken water line at the end of tunnel 04-R. Enter the tunnel, repair the pipe, and get out.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696090/6888ab48b12a28b4958b242c2717649b17f3aede/header.jpg?t=1746243326",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696090/615f44d58fb1cde0d7d04f77bb52889b451679ce/capsule_231x87.jpg?t=1746243326",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696090/615f44d58fb1cde0d7d04f77bb52889b451679ce/capsule_184x69.jpg?t=1746243326",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696090/6888ab48b12a28b4958b242c2717649b17f3aede/header.jpg?t=1752360871",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696090/615f44d58fb1cde0d7d04f77bb52889b451679ce/capsule_231x87.jpg?t=1752360871",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696090/615f44d58fb1cde0d7d04f77bb52889b451679ce/capsule_184x69.jpg?t=1752360871",
     "website": null,
     "developers": [
       "artescape"
@@ -3163,12 +3277,15 @@
     },
     "categories": [
       2,
-      62
+      68,
+      69,
+      74
     ],
     "genres": [
       4,
       23,
-      28
+      28,
+      37
     ],
     "release_date": {
       "coming_soon": true,
@@ -3178,8 +3295,8 @@
       "url": "https://www.cameronslaboda.com/",
       "email": "cameronslabodadesign@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696090?t=1746243326",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696090/95b6c09337bc6c03611094ad84063533c7716064/page_bg_raw.jpg?t=1746243326",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3696090?t=1752360871",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3696090/95b6c09337bc6c03611094ad84063533c7716064/page_bg_raw.jpg?t=1752360871",
     "content_descriptors": {
       "ids": [
         5
