@@ -8689,7 +8689,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       28
@@ -8702,8 +8703,8 @@
       "url": "https://midnight.games/",
       "email": "support@midnight.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3073440/page_bg_generated_v6b.jpg?t=1721723158",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3073440/page.bg.jpg?t=1721723158",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3073440?t=1721723158",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3073440/page_bg_raw.jpg?t=1721723158",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8735,9 +8736,9 @@
     "is_free": false,
     "short_description": "\u307f\u3093\u306a\u3067\u904e\u3054\u3059\u3053\u3068\u304c\u3067\u304d\u308b\u6700\u5f8c\u306e\u590f\u3002 \u300e\u3053\u306e\u590f\u3092\u5fd8\u308c\u306a\u3044\u601d\u3044\u51fa\u306b\u3057\u3088\u3046\u3002\u300f \u3060\u308c\u304b\u304c\u8a00\u3063\u305f\u305d\u306e\u8a00\u8449\u304b\u3089\u59cb\u307e\u308b\u3001\u8339\u3060\u308b\u3088\u3046\u306b\u6691\u3044\u3001\u9bae\u660e\u306a\u590f\u306e\u65e5\u3002 \u5927\u4e08\u592b\u3002\u304d\u3063\u3068\u5fd8\u308c\u306a\u3044\u3002 \u305f\u3068\u3048\u3001\u76ee\u306b\u898b\u3048\u308b\u3082\u306e\u304c\u507d\u7269\u3060\u3068\u3057\u3066\u3082\u3002",
     "supported_languages": "Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074860/header.jpg?t=1721739994",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074860/capsule_231x87.jpg?t=1721739994",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074860/capsule_184x69.jpg?t=1721739994",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074860/header.jpg?t=1732755555",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074860/capsule_231x87.jpg?t=1732755555",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074860/capsule_184x69.jpg?t=1732755555",
     "website": "https://studioaila.com/amatsusora/",
     "developers": [
       "studio aila"
@@ -8745,51 +8746,71 @@
     "publishers": [
       "studio aila"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3251400,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1092564
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u3042\u307e\u3064\u305d\u3089\u306b\u54b2\u304f",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "November 2024"
+      "coming_soon": false,
+      "date": "27 Nov, 2024"
     },
     "support_info": {
       "url": "https://studioaila.com/amatsusora/",
       "email": "contact@studioaila.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074860/page_bg_generated_v6b.jpg?t=1721739994",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074860/page_bg_generated.jpg?t=1721739994",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3074860?t=1732755555",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3074860?t=1732755555",
     "content_descriptors": {
-      "ids": [],
-      "notes": null
+      "ids": [
+        1,
+        5
+      ],
+      "notes": "Swimsuit"
     },
     "ratings": {
-      "cero": {
-        "rating": "rp"
-      },
       "dejus": {
         "rating_generated": "1",
-        "rating": "l",
-        "required_age": "0",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": ""
+        "descriptors": "Conte\u00fado sexual"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "0",
-        "required_age": "0",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": ""
+        "descriptors": "Sexuelle Andeutungen"
       }
     }
   },
@@ -8802,7 +8823,7 @@
     "short_description": "&quot; Fear Effects Adapted from this 11 page product (plus cover and product page) presents a quick, easy, and flexible system for incorporating the effects of extreme fear (aka Horror or Insanity) into your modern game. The Horror check is an important mechanic in any horror roleplaying game.",
     "fullgame": {
       "appid": "1196310",
-      "name": "Fantasy Grounds Unity"
+      "name": "Fantasy Grounds VTT"
     },
     "supported_languages": "English",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074220/header.jpg?t=1721744853",
@@ -8811,9 +8832,6 @@
     "website": null,
     "developers": [
       "SmiteWorks USA, LLC"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       1092357
@@ -8859,8 +8877,8 @@
       "url": "support.fantasygrounds.com",
       "email": "support@fantasygrounds.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074220/page_bg_generated_v6b.jpg?t=1721744853",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074220/page_bg_generated.jpg?t=1721744853",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3074220?t=1721744853",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3074220?t=1721744853",
     "content_descriptors": {
       "ids": [],
       "notes": null

@@ -1478,9 +1478,9 @@
     "is_free": false,
     "short_description": "Welcome to the survival horror sokoban! Make your way through the maze of puzzles and try to save the chicken's life.",
     "supported_languages": "English, Russian, Portuguese - Brazil, Simplified Chinese, Korean, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066660/header.jpg?t=1721187869",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066660/capsule_231x87.jpg?t=1721187869",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066660/capsule_184x69.jpg?t=1721187869",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066660/header.jpg?t=1751638728",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066660/capsule_231x87.jpg?t=1751638728",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066660/capsule_184x69.jpg?t=1751638728",
     "website": null,
     "developers": [
       "Ells&Pills"
@@ -1488,7 +1488,20 @@
     "publishers": [
       "Ells&Pills"
     ],
-    "package_groups": [],
+    "packages": [
+      1089803
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ells Tales: Chicken",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1497,21 +1510,25 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       28
     ],
+    "achievements": {
+      "total": 7
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "26 Jul, 2024"
     },
     "support_info": {
       "url": "",
       "email": "ellsnpills@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066660/page_bg_generated_v6b.jpg?t=1721187869",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066660/page_bg_generated.jpg?t=1721187869",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3066660?t=1751638728",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3066660?t=1751638728",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1609,21 +1626,20 @@
     "steam_appid": 3067660,
     "required_age": 0,
     "is_free": true,
-    "short_description": "My God... it's full of Cheese! Pick up interplanetary hitchhikers and make odd trades in an action-simulation of a near-future Solar System.",
+    "controller_support": "full",
+    "short_description": "This demo focuses on the Earth-Moon system, exploring the possibilities of using gravity for gameplay. Heavy cheese pulls you down, and requires fuel to launch with. A simple economy allows you to upgrade your ship a bit. These are the fundamentals.",
     "fullgame": {
       "appid": "1870590",
       "name": "Gravity Break"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067660/header.jpg?t=1719519449",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067660/capsule_231x87.jpg?t=1719519449",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067660/capsule_184x69.jpg?t=1719519449",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067660/header.jpg?t=1743090855",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067660/cc2ec5c21e7b4212ddf86be9e3dc519f52776587/capsule_231x87.jpg?t=1743090855",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067660/cc2ec5c21e7b4212ddf86be9e3dc519f52776587/capsule_184x69.jpg?t=1743090855",
     "website": null,
     "developers": [
       "Kristian Bak",
-      "Tonni Tinggaard",
-      "Daniel Clifton",
-      "Lars Johannsen"
+      "Daniel Clifton"
     ],
     "publishers": [
       "bakspace interactive"
@@ -1632,13 +1648,21 @@
     "platforms": {
       "windows": true,
       "mac": true,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
       10,
-      18
+      28
     ],
+    "genres": [
+      1,
+      2,
+      28
+    ],
+    "achievements": {
+      "total": 4
+    },
     "release_date": {
       "coming_soon": false,
       "date": "26 Jun, 2024"
@@ -1647,8 +1671,8 @@
       "url": "bakspace.dk",
       "email": "support@bakspace.dk"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067660?t=1743090855",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067660?t=1743090855",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1720,8 +1744,8 @@
       "url": "",
       "email": "kottaloflotenspieler@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066700/page_bg_generated_v6b.jpg?t=1720774158",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066700/page_bg_generated.jpg?t=1720774158",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3066700?t=1720774158",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3066700?t=1720774158",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1757,15 +1781,15 @@
       "name": "Criminal Archives: City on Fire Collector's Edition"
     },
     "supported_languages": "English<strong>*</strong>, French, German, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067320/header.jpg?t=1719469597",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067320/capsule_231x87.jpg?t=1719469597",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067320/capsule_184x69.jpg?t=1719469597",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067320/header.jpg?t=1735298549",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067320/capsule_231x87.jpg?t=1735298549",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067320/capsule_184x69.jpg?t=1735298549",
     "website": null,
     "developers": [
-      "DominiGames"
+      "Do Games Limited"
     ],
     "publishers": [
-      "DominiGames"
+      "Do Games Limited"
     ],
     "package_groups": [],
     "platforms": {
@@ -1782,11 +1806,11 @@
       "date": "26 Jun, 2024"
     },
     "support_info": {
-      "url": "https://dominigames.com/contact/",
+      "url": "https://dogameslimited.zohodesk.eu/",
       "email": "support@dominigames.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067320?t=1735298549",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067320?t=1735298549",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1850,8 +1874,8 @@
       "url": "",
       "email": "zwei0406@qq.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3068280?t=1719473242",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3068280?t=1719473242",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1918,8 +1942,8 @@
       "url": "https://discord.gg/Wbq8mrkAZ7",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067770/page_bg_generated_v6b.jpg?t=1721091137",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067770/page_bg_generated.jpg?t=1721091137",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067770?t=1721091137",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067770?t=1721091137",
     "content_descriptors": {
       "ids": [
         1,
@@ -1989,8 +2013,8 @@
       "url": "",
       "email": "Bean@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066830/page_bg_generated_v6b.jpg?t=1720644404",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066830/page_bg_generated.jpg?t=1720644404",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3066830?t=1720644404",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3066830?t=1720644404",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2215,8 +2239,8 @@
       "url": "",
       "email": "gameplaymiddle@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3068660/page_bg_generated_v6b.jpg?t=1720681224",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3068660/page_bg_generated.jpg?t=1720681224",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3068660?t=1720681224",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3068660?t=1720681224",
     "content_descriptors": {
       "ids": [
         1,
@@ -4447,29 +4471,29 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067980/header.jpg?t=1719697192",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067980/capsule_231x87.jpg?t=1719697192",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067980/capsule_184x69.jpg?t=1719697192",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067980/header.jpg?t=1737423347",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067980/capsule_231x87.jpg?t=1737423347",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067980/capsule_184x69.jpg?t=1737423347",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
       "coming_soon": false,
-      "date": "29 Jun, 2024"
+      "date": "20 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067980/page_bg_generated_v6b.jpg?t=1719697192",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067980/page.bg.jpg?t=1719697192",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067980?t=1737423347",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067980/page_bg_raw.jpg?t=1737423347",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4598,8 +4622,8 @@
       "url": "",
       "email": "nadgamessupinfo@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067070/page_bg_generated_v6b.jpg?t=1721159870",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067070/page_bg_generated.jpg?t=1721159870",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067070?t=1721159870",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067070?t=1721159870",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4631,9 +4655,9 @@
     "is_free": true,
     "short_description": "How do you like them apples? Because we have them all! Have time in the game or click the apple to get your favorite apple.",
     "supported_languages": "English, German, Russian, Simplified Chinese, Turkish, French, Italian, Spanish - Spain, Portuguese - Brazil, Spanish - Latin America, Portuguese - Portugal, Japanese, Korean, Indonesian, Thai, Vietnamese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066470/header.jpg?t=1721659504",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066470/capsule_231x87.jpg?t=1721659504",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066470/capsule_184x69.jpg?t=1721659504",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066470/header.jpg?t=1729162252",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066470/capsule_231x87.jpg?t=1729162252",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066470/capsule_184x69.jpg?t=1729162252",
     "website": null,
     "developers": [
       "Chair Studios"
@@ -4658,7 +4682,7 @@
       37
     ],
     "achievements": {
-      "total": 8
+      "total": 7
     },
     "release_date": {
       "coming_soon": false,
@@ -4668,8 +4692,8 @@
       "url": "",
       "email": "applesthegame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066470/page_bg_generated_v6b.jpg?t=1721659504",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066470/page.bg.jpg?t=1721659504",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3066470?t=1729162252",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066470/page_bg_raw.jpg?t=1729162252",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8703,9 +8727,9 @@
       "name": "Neon Runner"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067690/header.jpg?t=1721678985",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067690/capsule_231x87.jpg?t=1721678985",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067690/capsule_184x69.jpg?t=1721678985",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067690/header.jpg?t=1721842930",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067690/capsule_231x87.jpg?t=1721842930",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067690/capsule_184x69.jpg?t=1721842930",
     "website": "https://www.irlgames.net/",
     "developers": [
       "iRL Games"
@@ -8724,15 +8748,15 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "24 Jul, 2024"
     },
     "support_info": {
       "url": "www.irlgames.net/",
       "email": "irlgamesltd@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067690/page_bg_generated_v6b.jpg?t=1721678985",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067690/page.bg.jpg?t=1721678985",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3067690?t=1721842930",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067690/page_bg_raw.jpg?t=1721842930",
     "content_descriptors": {
       "ids": [],
       "notes": null
