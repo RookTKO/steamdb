@@ -4475,11 +4475,11 @@
     "steam_appid": 3088550,
     "required_age": 0,
     "is_free": false,
-    "short_description": "This is a classic puzzle game In the game interface, a chessboard will be presented. Move the icons on the chessboard and connect at least three identical elements into a straight line to eliminate them. Unlock sweet interactions with fantasy female characters by actively clearing levels!",
+    "short_description": "This is a classic elimination game. A chessboard full of various playful and cute elements will be presented in the game interface. You need to connect at least three identical elements in a straight line to eliminate them by moving the icons on the chessboard.",
     "supported_languages": "English, Simplified Chinese, Russian, Japanese<strong>*</strong>, Traditional Chinese, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088550/header.jpg?t=1721295376",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088550/capsule_231x87.jpg?t=1721295376",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088550/capsule_184x69.jpg?t=1721295376",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088550/header.jpg?t=1749542067",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088550/5c194f8cae8bc75ace31a79d3dbb8c4e792fc552/capsule_231x87.jpg?t=1749542067",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088550/5c194f8cae8bc75ace31a79d3dbb8c4e792fc552/capsule_184x69.jpg?t=1749542067",
     "website": null,
     "developers": [
       "Lovely Games"
@@ -4487,35 +4487,55 @@
     "publishers": [
       "Lovely Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1097141
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hot And Lovely XXII",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      62
     ],
     "genres": [
+      3,
       4,
       23
     ],
+    "achievements": {
+      "total": 26
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "1 Oct, 2024"
+      "coming_soon": false,
+      "date": "15 Nov, 2024"
     },
     "support_info": {
       "url": "",
       "email": "lovelygames888@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088550/page_bg_generated_v6b.jpg?t=1721295376",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088550/page.bg.jpg?t=1721295376",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3088550?t=1749542067",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088550/page_bg_raw.jpg?t=1749542067",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
-      "notes": "This game may contain content not suitable for all ages, or may not be suitable for viewing at work: nudity or sexual content, general adult content. All characters involved in sexual content are over the age of 18."
+      "notes": "This game contains common adult content such as slightly revealing clothing and provocative poses"
     },
     "ratings": {
       "dejus": {
@@ -4544,19 +4564,34 @@
     "is_free": false,
     "short_description": "Rollin' Along is an endless marble shooter game about an armadillo's journey! Play as Arma the Armadillo on her quest to save her cactus friends. See how far you can last through multiple in-game nights while using different power-ups and strategies!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087820/header.jpg?t=1721077773",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087820/capsule_231x87.jpg?t=1721077773",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087820/capsule_184x69.jpg?t=1721077773",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087820/header.jpg?t=1724801587",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087820/capsule_231x87.jpg?t=1724801587",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087820/capsule_184x69.jpg?t=1724801587",
     "website": "https://antbonzani.art/projects/zP8kw6?album_id=5584369",
     "developers": [
       "Victoria Bonzani",
       "Ronald Harvey",
-      "Jackie \"Schwa\" Van Horn"
+      "Jackie \"Schwa\" Van Horn",
+      "Emily Garman",
+      "Alice Quintanilla"
     ],
     "publishers": [
       "AntTheRabbit"
     ],
-    "package_groups": [],
+    "packages": [
+      1096897
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Rollin' Along",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4564,23 +4599,24 @@
     },
     "categories": [
       2,
-      22
+      62
     ],
     "genres": [
       4,
       23,
+      28,
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "23 Aug, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "antbonzani@gmail.com"
+      "email": "rollinalonggame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087820/page_bg_generated_v6b.jpg?t=1721077773",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087820/page_bg_generated.jpg?t=1721077773",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3087820?t=1724801587",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3087820?t=1724801587",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4612,9 +4648,9 @@
     "is_free": true,
     "short_description": "Welcome back to the RACING BROS World! Are you ready to get own4d by the Mafia in this physic based piece of chaos?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089850/header.jpg?t=1721071344",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089850/capsule_231x87.jpg?t=1721071344",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089850/capsule_184x69.jpg?t=1721071344",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089850/header.jpg?t=1736356140",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089850/capsule_231x87.jpg?t=1736356140",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089850/capsule_184x69.jpg?t=1736356140",
     "website": "https://4gladiators.no/",
     "developers": [
       "4 Gladiators Studio"
@@ -4645,23 +4681,20 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "5 Nov, 2024"
     },
     "support_info": {
       "url": "4gladiators.no",
       "email": "info@4gladiators.no"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089850/page_bg_generated_v6b.jpg?t=1721071344",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089850/page_bg_generated.jpg?t=1721071344",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3089850?t=1736356140",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3089850?t=1736356140",
     "content_descriptors": {
       "ids": [],
       "notes": null
     },
     "ratings": {
-      "esrb": {
-        "rating": "e"
-      },
       "pegi": {
         "rating": "3"
       },

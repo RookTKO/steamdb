@@ -4741,11 +4741,15 @@
     "steam_appid": 3084260,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
+    "dlc": [
+      3844250
+    ],
     "short_description": "Ink Reverie is a casual city-building game set in a fictional historical era with art inspired by the Tang and Song dynasties. As a diligent manager, you'll guide hardworking villagers to transform a remote village into a prosperous home through exploration, construction, production, and trade.",
     "supported_languages": "Simplified Chinese, English, Japanese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/header.jpg?t=1721116599",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/capsule_231x87.jpg?t=1721116599",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/capsule_184x69.jpg?t=1721116599",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/a13b46e78046e2ca5aeebfb713275a70179bb6f2/header.jpg?t=1752667551",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/capsule_231x87.jpg?t=1752667551",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/capsule_184x69.jpg?t=1752667551",
     "website": null,
     "developers": [
       "Rolling Cat Studio"
@@ -4753,30 +4757,50 @@
     "publishers": [
       "indienova"
     ],
-    "package_groups": [],
+    "packages": [
+      1095768
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Ink Reverie",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       4,
       23,
       28
     ],
+    "achievements": {
+      "total": 84
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "16 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "mrup@indienova.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/page_bg_generated_v6b.jpg?t=1721116599",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/page.bg.jpg?t=1721116599",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3084260?t=1752667551",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/page_bg_raw.jpg?t=1752667551",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4802,52 +4826,61 @@
   },
   "3084560": {
     "type": "game",
-    "name": "Rudrac Game: TWIN FLAMES",
+    "name": "TWIN FLAMES",
     "steam_appid": 3084560,
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Embark on a mystical journey as Savitri and Satyavan, two characters destined to become Twin Flames. In this enthralling turn-based puzzle adventure, you'll guide them through a beautifully stylized low poly world, navigating a hex grid filled with obstacles and challenges.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/header.jpg?t=1721102512",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/capsule_231x87.jpg?t=1721102512",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/capsule_184x69.jpg?t=1721102512",
+    "short_description": "Team up in TWIN FLAMES, a co-op puzzle adventure! Guide Savitri &amp; Satyavan through hex-grid challenges and a romantic tale in vibrant low poly worlds. Play solo or in local co-op. Wishlist now!",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Telugu",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/9a271b4a5ca1b34ca98c59b1b5592b6e8ba4f05a/header.jpg?t=1752123072",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/b9ae5eac3b862b25f4ba67b85f66af556da31f6d/capsule_231x87.jpg?t=1752123072",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/b9ae5eac3b862b25f4ba67b85f66af556da31f6d/capsule_184x69.jpg?t=1752123072",
     "website": "https://www.rudrac.games/games/twin-flames",
     "developers": [
-      "Rudrac"
+      "Rudrac Games"
     ],
     "publishers": [
-      "Rudrac"
+      "Rudrac Games"
+    ],
+    "demos": [
+      {
+        "appid": 3657400,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       1,
       2,
       9,
+      22,
+      23,
       24,
       28,
       39,
-      44
+      62
     ],
     "genres": [
       2,
-      23
+      23,
+      25
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "venkatesh@rudrac.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/page_bg_generated_v6b.jpg?t=1721102512",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/page.bg.jpg?t=1721102512",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3084560?t=1752123072",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/page_bg_raw.jpg?t=1752123072",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4877,11 +4910,11 @@
     "steam_appid": 3084150,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Packit List is an organizing puzzle game that follows the wonderful adventures of Hana, a high school girl who travels across multiple worlds to organize various themed objects in a limited space.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084150/header.jpg?t=1721562721",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084150/capsule_231x87.jpg?t=1721562721",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084150/capsule_184x69.jpg?t=1721562721",
+    "short_description": "&quot;Packit List&quot; is a short, 3D organizing puzzle game that takes about an hour to complete. You will follow the wonderful adventures of Hana, a high school girl who travels across multiple worlds to organize various themed objects in a limited space",
+    "supported_languages": "English, Korean, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084150/header.jpg?t=1725466763",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084150/capsule_231x87.jpg?t=1725466763",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084150/capsule_184x69.jpg?t=1725466763",
     "website": null,
     "developers": [
       "Bottari"
@@ -4889,30 +4922,48 @@
     "publishers": [
       "STUDIOS NooY"
     ],
-    "package_groups": [],
+    "packages": [
+      1095733
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Packit List",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       4,
       23,
       28
     ],
+    "achievements": {
+      "total": 19
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "2 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "studios.nooy@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084150/page_bg_generated_v6b.jpg?t=1721562721",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084150/page.bg.jpg?t=1721562721",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3084150?t=1725466763",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084150/page_bg_raw.jpg?t=1725466763",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4942,11 +4993,11 @@
     "steam_appid": 3084180,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Brothel Tycoon is a simulation game where you have to help Yvonne, in any way possible, including sex if necessary, to develop her business from a small cafe to a luxury entertainment place for adults.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084180/header.jpg?t=1721219341",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084180/capsule_231x87.jpg?t=1721219341",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084180/capsule_184x69.jpg?t=1721219341",
+    "short_description": "Brothel Tycoon is a simulation game where you are in the role of Yvonne, a young entrepreneur who wants to turn a small cafe into a luxurious place for adult entertainment.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084180/header.jpg?t=1740668071",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084180/capsule_231x87.jpg?t=1740668071",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084180/capsule_184x69.jpg?t=1740668071",
     "website": null,
     "developers": [
       "DMA Games"
@@ -4954,7 +5005,20 @@
     "publishers": [
       "DMA Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1095742
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Brothel Tycoon",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4962,24 +5026,30 @@
     },
     "categories": [
       2,
+      15,
       22,
-      23
+      23,
+      29,
+      62
     ],
     "genres": [
       2,
       25,
       28
     ],
+    "achievements": {
+      "total": 25
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "14 Nov, 2024"
     },
     "support_info": {
       "url": "https://valdea.com/dmamods/viewforum.php?f=28",
       "email": "brothel.tycoon@valdea.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084180/page_bg_generated_v6b.jpg?t=1721219341",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084180/page.bg.jpg?t=1721219341",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3084180?t=1740668071",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084180/page_bg_raw.jpg?t=1740668071",
     "content_descriptors": {
       "ids": [
         1,
