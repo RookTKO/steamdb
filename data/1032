@@ -599,9 +599,9 @@
     "is_free": false,
     "short_description": "You\u2019re stuck on the island of hunger, and you need to find all the food to escape. However, you come to realize that you\u2019re not the only one who\u2019s hungry\u2026",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097090/header.jpg?t=1720975651",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097090/capsule_231x87.jpg?t=1720975651",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097090/capsule_184x69.jpg?t=1720975651",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097090/header.jpg?t=1737044313",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097090/capsule_231x87.jpg?t=1737044313",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097090/capsule_184x69.jpg?t=1737044313",
     "website": "https://dadhungry.wordpress.com/",
     "developers": [
       "SolidRise Games"
@@ -609,29 +609,43 @@
     "publishers": [
       "SolidRise Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1100164
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Dad Hungry!",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "16 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "solidrisegames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097090/page_bg_generated_v6b.jpg?t=1720975651",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097090/page_bg_generated.jpg?t=1720975651",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097090?t=1737044313",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097090?t=1737044313",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -737,21 +751,28 @@
   },
   "3096350": {
     "type": "game",
-    "name": "Spherebuddie",
+    "name": "Spherebuddie 64",
     "steam_appid": 3096350,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Embark on an adventure through vibrant 3D environments crafted with nostalgic pixel art, blending classic aesthetics with modern gameplay mechanics. Maneuver your spherical hero equipped with an antenna atop its head through challenging platforming with precise jumps and dash.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096350/header.jpg?t=1720966445",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096350/capsule_231x87.jpg?t=1720966445",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096350/capsule_184x69.jpg?t=1720966445",
+    "controller_support": "full",
+    "short_description": "A 64-bit 3D collectathon platformer where you play as a spiky sphere-shaped boi through nostalgic 5th gen console inspired 3D environments. Maneuver your spherical hero through challenging worlds with precise jumps, dash, spin attacks and fight monster creatures in each world.",
+    "supported_languages": "English, German, Japanese, Portuguese - Portugal, Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096350/header.jpg?t=1751123819",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096350/d900e11b601fc8012c7dee950ffe33804ab7bfa0/capsule_231x87.jpg?t=1751123819",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096350/d900e11b601fc8012c7dee950ffe33804ab7bfa0/capsule_184x69.jpg?t=1751123819",
     "website": null,
     "developers": [
       "kargames05"
     ],
     "publishers": [
       "kargames05"
+    ],
+    "demos": [
+      {
+        "appid": 3275490,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -760,10 +781,13 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      28,
+      62
     ],
     "genres": [
-      1
+      1,
+      25
     ],
     "release_date": {
       "coming_soon": true,
@@ -773,8 +797,8 @@
       "url": "",
       "email": "kargames05@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096350/page_bg_generated_v6b.jpg?t=1720966445",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096350/page_bg_generated.jpg?t=1720966445",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3096350?t=1751123819",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3096350?t=1751123819",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -851,8 +875,8 @@
       "url": "",
       "email": "TeresitaPetrilli972@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097200/page_bg_generated_v6b.jpg?t=1721804667",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097200/page_bg_generated.jpg?t=1721804667",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097200?t=1721804667",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097200?t=1721804667",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -878,15 +902,15 @@
   },
   "3097040": {
     "type": "game",
-    "name": "derutacommons",
+    "name": "\u30c7\u30eb\u30bf\u30b3\u30e2\u30f3\u30ba",
     "steam_appid": 3097040,
     "required_age": 0,
     "is_free": false,
     "short_description": "\u30ab\u30fc\u30c9\u30b2\u30fc\u30e0\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u304c\u52d5\u304d\u3060\u3059\uff01 \u30aa\u30f3\u30e9\u30a4\u30f3\u5bfe\u6226\u30ab\u30fc\u30c9\u30b2\u30fc\u30e0\uff0b\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc japaneseOnly",
     "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097040/header.jpg?t=1720658274",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097040/capsule_231x87.jpg?t=1720658274",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097040/capsule_184x69.jpg?t=1720658274",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097040/header.jpg?t=1724331604",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097040/capsule_231x87.jpg?t=1724331604",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097040/capsule_184x69.jpg?t=1724331604",
     "website": null,
     "developers": [
       "deruta"
@@ -894,7 +918,20 @@
     "publishers": [
       "deruta"
     ],
-    "package_groups": [],
+    "packages": [
+      1100148
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u30c7\u30eb\u30bf\u30b3\u30e2\u30f3\u30ba",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -903,22 +940,23 @@
     "categories": [
       1,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2,
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "8 Aug, 2024"
     },
     "support_info": {
       "url": "https://x.com/drcmnewac",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097040/page_bg_generated_v6b.jpg?t=1720658274",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097040/page_bg_generated.jpg?t=1720658274",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097040?t=1724331604",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097040?t=1724331604",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1026,9 +1064,9 @@
       "name": "Silver Daze"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097590/header.jpg?t=1721624138",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097590/capsule_231x87.jpg?t=1721624138",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097590/capsule_184x69.jpg?t=1721624138",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097590/header.jpg?t=1738225526",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097590/capsule_231x87.jpg?t=1738225526",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097590/capsule_184x69.jpg?t=1738225526",
     "website": null,
     "developers": [
       "Sawyer Friend"
@@ -1050,16 +1088,23 @@
       23,
       28
     ],
+    "genres": [
+      3,
+      25
+    ],
+    "achievements": {
+      "total": 8
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "9 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "sawyerfriend@gem-games.net"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097590?t=1738225526",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097590?t=1738225526",
     "content_descriptors": {
       "ids": [
         5
@@ -1093,10 +1138,10 @@
     "is_free": false,
     "short_description": "Solve riddles from ancient tomes \u2014 Two friends gather at a summoning circle, embracing the supernatural in an attempt to achieve the impossible. Unravel mystic poems to discover the correct combination of symbols to draw, and summon demons that can aid these friends in their dark quest.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096800/header.jpg?t=1720684393",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096800/capsule_231x87.jpg?t=1720684393",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096800/capsule_184x69.jpg?t=1720684393",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096800/header.jpg?t=1726518548",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096800/3fda6dd9abb95aa8f62b5c7590ea332dcb7de380/capsule_231x87.jpg?t=1726518548",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096800/3fda6dd9abb95aa8f62b5c7590ea332dcb7de380/capsule_184x69.jpg?t=1726518548",
+    "website": "https://tobringherback.com/",
     "developers": [
       "Voskip"
     ],
@@ -1111,21 +1156,22 @@
     },
     "categories": [
       2,
-      17
+      17,
+      62
     ],
     "genres": [
       23
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q3 2024"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "support@voskip.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096800/page_bg_generated_v6b.jpg?t=1720684393",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096800/page_bg_generated.jpg?t=1720684393",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3096800?t=1726518548",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3096800?t=1726518548",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1220,13 +1266,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097520/header.jpg?t=1720631560",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097520/capsule_231x87.jpg?t=1720631560",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097520/capsule_184x69.jpg?t=1720631560",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097520/header.jpg?t=1729068786",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097520/e0e4bc318d43c3acfc65f0c122cb3780ad226eab/capsule_231x87.jpg?t=1729068786",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097520/e0e4bc318d43c3acfc65f0c122cb3780ad226eab/capsule_184x69.jpg?t=1729068786",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -1241,8 +1284,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097520?t=1729068786",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097520?t=1729068786",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3405,17 +3448,17 @@
     "steam_appid": 3096020,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Edge of the Wild is a survival adventure game where you play as Sara Avalon, a nature photographer stranded on an Alaskan island. Tasked to document the island's wildlife, Sara must navigate and survive the harsh environment, and uncover the island's hidden secrets.",
+    "short_description": "Edge of the Wild is a survival adventure game where you play as Sara Avalon, a nature photographer left on a remote Alaskan island. Tasked to photograph the island's wildlife, Sara must navigate and survive the harsh environment, and uncover the island's hidden secrets.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096020/header.jpg?t=1720892127",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096020/capsule_231x87.jpg?t=1720892127",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096020/capsule_184x69.jpg?t=1720892127",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096020/header.jpg?t=1751570660",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096020/capsule_231x87.jpg?t=1751570660",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096020/capsule_184x69.jpg?t=1751570660",
     "website": null,
     "developers": [
-      "Avalon Studios"
+      "Avalon Studios, llc"
     ],
     "publishers": [
-      "Avalon Studios"
+      "Avalon Studios, llc"
     ],
     "package_groups": [],
     "platforms": {
@@ -3424,7 +3467,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -3438,8 +3482,8 @@
       "url": "",
       "email": "support@avalonstudios.org"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096020/page_bg_generated_v6b.jpg?t=1720892127",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096020/page.bg.jpg?t=1720892127",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3096020?t=1751570660",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096020/page_bg_raw.jpg?t=1751570660",
     "content_descriptors": {
       "ids": [
         1,
@@ -7751,9 +7795,9 @@
     "is_free": false,
     "short_description": "Best Gun is a light-hearted arcade flight action game featuring both single-player and multiplayer content. Fly (or walk) and take part in fights, mini-games, races, and more.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097740/header.jpg?t=1721845386",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097740/capsule_231x87.jpg?t=1721845386",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097740/capsule_184x69.jpg?t=1721845386",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097740/header.jpg?t=1723651216",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097740/capsule_231x87.jpg?t=1723651216",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097740/capsule_184x69.jpg?t=1723651216",
     "website": null,
     "developers": [
       "Rmonak"
@@ -7761,7 +7805,20 @@
     "publishers": [
       "Rmonak"
     ],
-    "package_groups": [],
+    "packages": [
+      1100369
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Best Gun",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7770,25 +7827,29 @@
     "categories": [
       1,
       2,
-      18,
+      22,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
       23,
       28
     ],
+    "achievements": {
+      "total": 13
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "14 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "slimesuppo@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097740/page_bg_generated_v6b.jpg?t=1721845386",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097740/page_bg_generated.jpg?t=1721845386",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097740?t=1723651216",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097740?t=1723651216",
     "content_descriptors": {
       "ids": [],
       "notes": null
