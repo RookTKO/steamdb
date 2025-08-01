@@ -8785,9 +8785,9 @@
     "is_free": false,
     "short_description": "MATCH is a minimalist, arcade-style score-attack game that puts the focus on player skill. Memorize, flip, and match cards as you progress through levels, each with a shorter time limit. Compare your high-scores with friends' in the variety of game modes to see who is the MATCH Master!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083620/header.jpg?t=1721999343",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083620/capsule_231x87.jpg?t=1721999343",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083620/capsule_184x69.jpg?t=1721999343",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083620/header.jpg?t=1723812542",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083620/capsule_231x87.jpg?t=1723812542",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083620/capsule_184x69.jpg?t=1723812542",
     "website": null,
     "developers": [
       "Vibrato Game Studio"
@@ -8795,7 +8795,20 @@
     "publishers": [
       "Vibrato Game Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1095559
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy MATCH",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8804,22 +8817,26 @@
     "categories": [
       2,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "15 Aug, 2024"
+      "coming_soon": false,
+      "date": "16 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "vibrato.gamestudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083620/page_bg_generated_v6b.jpg?t=1721999343",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083620/page.bg.jpg?t=1721999343",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3083620?t=1723812542",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083620/page_bg_raw.jpg?t=1723812542",
     "content_descriptors": {
       "ids": [],
       "notes": null
