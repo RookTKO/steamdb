@@ -371,9 +371,9 @@
       "name": "Nowhere"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098610/header.jpg?t=1722344042",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098610/capsule_231x87.jpg?t=1722344042",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098610/capsule_184x69.jpg?t=1722344042",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098610/header.jpg?t=1723738509",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098610/capsule_231x87.jpg?t=1723738509",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098610/capsule_184x69.jpg?t=1723738509",
     "website": null,
     "developers": [
       "Midnight Forge LTD"
@@ -392,15 +392,15 @@
       10
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q3 2024"
+      "coming_soon": false,
+      "date": "15 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "midnightforgeltd@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098610?t=1723738509",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098610?t=1723738509",
     "content_descriptors": {
       "ids": [
         5
@@ -2158,8 +2158,8 @@
       "url": "http://store.steampowered.com/search/?publisher=Archor%20Games",
       "email": "archor@archor.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098250/page_bg_generated_v6b.jpg?t=1721984220",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098250/page.bg.jpg?t=1721984220",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098250?t=1721984220",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098250/page_bg_raw.jpg?t=1721984220",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3449,9 +3449,9 @@
     "is_free": false,
     "short_description": "The main character finds himself in a dark abyss where darkness and light merge, creating a world of mysteries and dangers. In this intermediate dimension, he encounters demons, angels, and creatures that belong to neither world.",
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098390/header.jpg?t=1722247154",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098390/capsule_231x87.jpg?t=1722247154",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098390/capsule_184x69.jpg?t=1722247154",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098390/ffcb7aef5c0fe5713c223c3478874ce467a332f2/header.jpg?t=1745589901",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098390/0619c1d06ea51afbdc1e88e246c6f4e54242f2a0/capsule_231x87.jpg?t=1745589901",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098390/0619c1d06ea51afbdc1e88e246c6f4e54242f2a0/capsule_184x69.jpg?t=1745589901",
     "website": null,
     "developers": [
       "TexFrendza"
@@ -3459,29 +3459,46 @@
     "publishers": [
       "TexFrendza"
     ],
-    "package_groups": [],
+    "packages": [
+      1100581
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Whisper of the Abyss: Echo of Eden",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
       70
     ],
+    "achievements": {
+      "total": 4
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "31 Jul, 2024"
     },
     "support_info": {
       "url": "",
       "email": "texfrendza@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098390/page_bg_generated_v6b.jpg?t=1722247154",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098390/page_bg_generated.jpg?t=1722247154",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098390?t=1745589901",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098390?t=1745589901",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7446,17 +7463,23 @@
     "steam_appid": 3098140,
     "required_age": 0,
     "is_free": false,
-    "short_description": "An open-world adventure RPG game. Choose your favorite character, train your elite legion step by step, and crash all enemies on the battlefield. Strengthen yourself, establish a powerful family, create a great dynasty, and become the dominator of this fantasy world.",
+    "short_description": "An open-world adventure RPG. Choose your favorite character, train your elite legion step by step, and crash all enemies on the battlefield. Strengthen yourself, establish a powerful family, create a great dynasty, and become the dominator of this fantasy world.",
     "supported_languages": "Simplified Chinese, Traditional Chinese, English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098140/header.jpg?t=1722257100",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098140/capsule_231x87.jpg?t=1722257100",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098140/capsule_184x69.jpg?t=1722257100",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098140/3d7ac21eccfc016e45a9fce90ffa1b62ee858da4/header.jpg?t=1751943550",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098140/d912c272734c1f0cf90c58f54a9df41d666f0b08/capsule_231x87.jpg?t=1751943550",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098140/d912c272734c1f0cf90c58f54a9df41d666f0b08/capsule_184x69.jpg?t=1751943550",
+    "website": "https://ca.luckycalf.com/",
     "developers": [
       "C3D Games"
     ],
     "publishers": [
       "Luckycalf"
+    ],
+    "demos": [
+      {
+        "appid": 3391050,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7465,11 +7488,12 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
+      2,
       3,
-      23,
       25
     ],
     "release_date": {
@@ -7480,8 +7504,8 @@
       "url": "",
       "email": "c3dgames@luckycalf.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098140/page_bg_generated_v6b.jpg?t=1722257100",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098140/page_bg_generated.jpg?t=1722257100",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098140?t=1751943550",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098140?t=1751943550",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7657,9 +7681,9 @@
       "appid": "2825070",
       "name": "Zombie Police: Christmas Dancing with Police Zombies"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098190/header.jpg?t=1721717502",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098190/capsule_231x87.jpg?t=1721717502",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098190/capsule_184x69.jpg?t=1721717502",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098190/header.jpg?t=1723829338",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098190/0ca0736b70efcf452e4ed43ce53702af24d5bcf3/capsule_231x87.jpg?t=1723829338",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098190/0ca0736b70efcf452e4ed43ce53702af24d5bcf3/capsule_184x69.jpg?t=1723829338",
     "website": null,
     "developers": [
       "ALTERCIWS",
@@ -7669,7 +7693,20 @@
       "ALTERCIWS",
       "Lobstudio"
     ],
-    "package_groups": [],
+    "packages": [
+      1100518
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Soundtrack - Zombie Police: Christmas Dancing with Police Zombies",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -7679,15 +7716,15 @@
       50
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "7 Aug, 2024"
     },
     "support_info": {
       "url": "https://lobstudio.studio.site/",
       "email": "zombiepolice@lobstudio.biz"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098190/page_bg_generated_v6b.jpg?t=1721717502",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098190/page_bg_generated.jpg?t=1721717502",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098190?t=1723829338",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098190?t=1723829338",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8477,15 +8514,21 @@
     "is_free": false,
     "short_description": "Backseat is a horror game where you play as a taxi driver forced to transport sinister passengers and survive the ride. An unknown man has kidnapped your wife and demands you gather information on each passenger. Can you survive the night and uncover the mystery behind your wife's kidnapping?",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Simplified Chinese, Portuguese - Brazil, Japanese, Korean, Spanish - Latin America, Polish, Portuguese - Portugal, Russian, Turkish, Ukrainian, Hindi<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098050/header.jpg?t=1722349403",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098050/capsule_231x87.jpg?t=1722349403",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098050/capsule_184x69.jpg?t=1722349403",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098050/header.jpg?t=1751314669",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098050/capsule_231x87.jpg?t=1751314669",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098050/capsule_184x69.jpg?t=1751314669",
     "website": null,
     "developers": [
       "HOGO Games"
     ],
     "publishers": [
       "HOGO Games"
+    ],
+    "demos": [
+      {
+        "appid": 3838190,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -8495,7 +8538,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       2,
@@ -8510,8 +8554,8 @@
       "url": "",
       "email": "support@hogogames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098050/page_bg_generated_v6b.jpg?t=1722349403",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098050/page_bg_generated.jpg?t=1722349403",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098050?t=1751314669",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098050?t=1751314669",
     "content_descriptors": {
       "ids": [
         5
@@ -8545,9 +8589,9 @@
     "is_free": false,
     "short_description": "Cinema Simulator 2025 is a simulation game where you will manage your own movie theater and test your strategy and management skills. Starting from a small movie theater, try to become a giant in the movie industry.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Turkish, Ukrainian, Hindi<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098070/header.jpg?t=1722349531",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098070/capsule_231x87.jpg?t=1722349531",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098070/capsule_184x69.jpg?t=1722349531",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098070/header.jpg?t=1754337808",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098070/capsule_231x87.jpg?t=1754337808",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098070/capsule_184x69.jpg?t=1754337808",
     "website": null,
     "developers": [
       "HOGO Games"
@@ -8555,7 +8599,20 @@
     "publishers": [
       "HOGO Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1100473
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cinema Simulator 2025",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8563,22 +8620,27 @@
     },
     "categories": [
       2,
-      22
+      15,
+      22,
+      62
     ],
     "genres": [
       28,
       70
     ],
+    "achievements": {
+      "total": 16
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "17 Feb, 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@hogogames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098070/page_bg_generated_v6b.jpg?t=1722349531",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098070/page.bg.jpg?t=1722349531",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098070?t=1754337808",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098070/page_bg_raw.jpg?t=1754337808",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8604,15 +8666,15 @@
   },
   "3098060": {
     "type": "game",
-    "name": "Business Odyssey",
+    "name": "Business Simulator 2025",
     "steam_appid": 3098060,
     "required_age": 0,
     "is_free": false,
-    "short_description": "In this game, you start with a small capital and aim to build a business empire in the city by deciding which business to set up in which shop and deciding the prices. Business Odyssey is a business simulation that will test your business acumen and strategic planning skills.",
+    "short_description": "In Business Simulator 2025, you start with a small capital and aim to build a business empire in the city by deciding which business to start in which shop and deciding the prices. Business Simulator 2025 is a business simulation that will test your business acumen and strategic planning skills.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Turkish, Hindi, Ukrainian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/header.jpg?t=1722349486",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/capsule_231x87.jpg?t=1722349486",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/capsule_184x69.jpg?t=1722349486",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/efab88ded5dea442b0abb98d1327b042f9fa80f7/header.jpg?t=1752567945",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/66d9f22fc15ea449181feb339c34529a382bf13a/capsule_231x87.jpg?t=1752567945",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/66d9f22fc15ea449181feb339c34529a382bf13a/capsule_184x69.jpg?t=1752567945",
     "website": null,
     "developers": [
       "HOGO Games"
@@ -8627,24 +8689,26 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
       4,
       23,
-      28
+      28,
+      70
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "Q3 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@hogogames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/page_bg_generated_v6b.jpg?t=1722349486",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/page.bg.jpg?t=1722349486",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3098060?t=1752567945",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/5ffe3f8bb4e53f9a6143cb2c77c96fe55027e952/page_bg_raw.jpg?t=1752567945",
     "content_descriptors": {
       "ids": [],
       "notes": null

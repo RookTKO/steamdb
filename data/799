@@ -754,9 +754,9 @@
       "name": "Cardfight!! Vanguard Dear Days"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399403/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399403/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399403/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399403/header.jpg?t=1697422514",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399403/capsule_231x87.jpg?t=1697422514",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399403/capsule_184x69.jpg?t=1697422514",
     "website": "https://vgdd.cf-vanguard.com",
     "developers": [
       "FURYU Corporation",
@@ -792,7 +792,8 @@
       22,
       23,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -805,11 +806,27 @@
       "url": "https://vgdd.cf-vanguard.com",
       "email": "vgdd_support@bushiroadgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399403/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399403/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399403?t=1697422514",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399403?t=1697422514",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2398500": {
@@ -1560,11 +1577,11 @@
     "steam_appid": 2399930,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Imprisoned hyperion 2 is an imersive sim, first-person rpg. Explore the dark and dangerous dungeon. Survive by finding safe resting places and cooking food. Help different creatures and learn the dark history of this world.",
-    "supported_languages": "English, Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399930/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399930/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399930/capsule_184x69.jpg",
+    "short_description": "Imprisoned hyperion 2 is a dark fantasy first-person rpg with immersive sim. elements. Explore the dark and dangerous dungeons, survive and fight to learn the secrets of this dark world.",
+    "supported_languages": "English, Russian, French, German, Spanish - Spain, Portuguese - Brazil, Polish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399930/header.jpg?t=1726762013",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399930/capsule_231x87.jpg?t=1726762013",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399930/capsule_184x69.jpg?t=1726762013",
     "website": null,
     "developers": [
       "Arbatskii Anatolii"
@@ -1572,13 +1589,20 @@
     "publishers": [
       " Arbatskii Anatolii"
     ],
-    "demos": [
+    "packages": [
+      863407
+    ],
+    "package_groups": [
       {
-        "appid": 2463410,
-        "description": ""
+        "name": "default",
+        "title": "Buy Imprisoned Hyperion 2",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1586,7 +1610,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
@@ -1594,21 +1619,40 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "15 Apr, 2024"
     },
     "support_info": {
       "url": "https://steamcommunity.com/id/Hvor/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399930/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399930/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399930?t=1726762013",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399930?t=1726762013",
     "content_descriptors": {
-      "ids": [
-        5
-      ],
+      "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nTemas sens\u00edveis\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Selbstmord"
+      }
     }
   },
   "2397910": {
@@ -2007,11 +2051,14 @@
     "steam_appid": 2399910,
     "required_age": 0,
     "is_free": true,
+    "dlc": [
+      3763530
+    ],
     "short_description": "\u201cI\u00a0should\u00a0have...died...\u201dOpened eyes again, he found himself in a bustling museum!Players\u00a0need\u00a0to take on the role of a\u00a0raven\u00a0specimen\u00a0boy\u00a0&quot;Gregorio&quot;\u00a0to\u00a0explore\u00a0the\u00a0Byakuya Museum.\u00a0Your\u00a0mission\u00a0is\u00a0to\u00a0plumb\u00a0the\u00a0secrets\u00a0of\u00a0Time\u00a0Town,\u00a0uncover\u00a0\u00a0your\u00a0own\u00a0past,\u00a0and\u00a0escape\u00a0from\u00a0the\u00a0museum.",
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399910/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399910/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399910/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399910/header.jpg?t=1749954726",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399910/capsule_231x87.jpg?t=1749954726",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399910/capsule_184x69.jpg?t=1749954726",
     "website": "https://www.gcores.com/games/105223",
     "developers": [
       "\u58a8\u67d3_Aifeimo"
@@ -2044,11 +2091,29 @@
       "url": "",
       "email": "862066148@qq.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399910/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399910/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399910?t=1749954726",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399910/page_bg_raw.jpg?t=1749954726",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2399110": {
@@ -2754,9 +2819,9 @@
       "name": "Cardfight!! Vanguard Dear Days"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399400/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399400/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399400/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399400/header.jpg?t=1695178392",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399400/capsule_231x87.jpg?t=1695178392",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399400/capsule_184x69.jpg?t=1695178392",
     "website": "https://vgdd.cf-vanguard.com",
     "developers": [
       "FURYU Corporation",
@@ -2792,7 +2857,8 @@
       22,
       23,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -2805,11 +2871,27 @@
       "url": "https://vgdd.cf-vanguard.com",
       "email": "vgdd_support@bushiroadgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399400/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399400/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399400?t=1695178392",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399400?t=1695178392",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2398830": {
@@ -4023,9 +4105,9 @@
       "name": "Forbidden Magic"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399990/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399990/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399990/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399990/header.jpg?t=1734034964",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399990/capsule_231x87.jpg?t=1734034964",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399990/capsule_184x69.jpg?t=1734034964",
     "website": "https://www.heartschoice.com",
     "developers": [
       "Heart's Choice"
@@ -4052,11 +4134,29 @@
       "url": "https://www.heartschoice.com/contact-us/",
       "email": "support-forbiddenmagic-steam@heartschoice.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399990/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399990/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399990?t=1734034964",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399990?t=1734034964",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Conte\u00fado sexual\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2398590": {
@@ -5563,9 +5663,9 @@
       "name": "Story in the Dream World 3 -Sinister Island's Mysterious Mist-"
     },
     "supported_languages": "Japanese, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399800/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399800/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399800/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399800/header.jpg?t=1681993575",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399800/capsule_231x87.jpg?t=1681993575",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399800/capsule_184x69.jpg?t=1681993575",
     "website": null,
     "developers": [
       "Nuriverse"
@@ -5591,11 +5691,29 @@
       "url": "https://twitter.com/ghktnqnsl",
       "email": "tmstar123@naver.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399800?t=1681993575",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399800?t=1681993575",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2399190": {
@@ -6111,16 +6229,13 @@
       "name": "DCS World Steam Edition"
     },
     "supported_languages": "English<strong>*</strong>, German, Spanish - Spain, Russian<strong>*</strong>, Czech, French, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399880/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399880/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399880/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399880/header.jpg?t=1683034706",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399880/capsule_231x87.jpg?t=1683034706",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399880/capsule_184x69.jpg?t=1683034706",
     "website": "https://steamcommunity.com/app/223750/discussions/",
     "developers": [
       "Eagle Dynamics SA",
       "Ugra Media"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       863389
@@ -6167,11 +6282,27 @@
       "url": "https://steamcommunity.com/app/223750/discussions/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399880/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399880/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399880?t=1683034706",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399880?t=1683034706",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "10",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "10"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2399760": {
@@ -6502,9 +6633,9 @@
       "name": "Outlanders"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish, Portuguese - Portugal, Spanish - Latin America",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399870/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399870/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399870/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399870/header.jpg?t=1691155025",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399870/capsule_231x87.jpg?t=1691155025",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399870/capsule_184x69.jpg?t=1691155025",
     "website": "https://www.pomelogames.com/outlanders/",
     "developers": [
       "Pomelo Games"
@@ -6536,7 +6667,8 @@
       21,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       2,
@@ -6550,11 +6682,24 @@
       "url": "https://www.pomelogames.com/",
       "email": "support@pomelogames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399870/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399870/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399870?t=1691155025",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399870?t=1691155025",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2398480": {
@@ -8396,9 +8541,9 @@
     "is_free": false,
     "short_description": "Cut anime girls into pieces and steal their underwear to protect the old mansion! Crazy and ridiculous action RPG game for your pleasure and satisfaction. Release your deepest and the most perverted fantasies!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399840/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399840/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399840/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399840/header.jpg?t=1683900011",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399840/capsule_231x87.jpg?t=1683900011",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399840/capsule_184x69.jpg?t=1683900011",
     "website": null,
     "developers": [
       "PaulArt"
@@ -8429,7 +8574,8 @@
       2,
       15,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       1,
@@ -8448,8 +8594,8 @@
       "url": "",
       "email": "paulartcc@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399840/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399840/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399840?t=1683900011",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399840?t=1683900011",
     "content_descriptors": {
       "ids": [
         1,
@@ -8459,6 +8605,24 @@
         5
       ],
       "notes": "Contains demonstration of beating and forced undressing of anime women"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa\nConte\u00fado sexual"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2399391": {
@@ -8473,9 +8637,9 @@
       "name": "Cardfight!! Vanguard Dear Days"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399391/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399391/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399391/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399391/header.jpg?t=1698208873",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399391/capsule_231x87.jpg?t=1698208873",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399391/capsule_184x69.jpg?t=1698208873",
     "website": "https://vgdd.cf-vanguard.com",
     "developers": [
       "FURYU Corporation",
@@ -8511,7 +8675,8 @@
       22,
       23,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -8524,11 +8689,27 @@
       "url": "https://vgdd.cf-vanguard.com",
       "email": "vgdd_support@bushiroadgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399391/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399391/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399391?t=1698208873",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399391?t=1698208873",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2397980": {
@@ -8681,9 +8862,9 @@
       "name": "Cardfight!! Vanguard Dear Days"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399407/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399407/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399407/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399407/header.jpg?t=1690383755",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399407/capsule_231x87.jpg?t=1690383755",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399407/capsule_184x69.jpg?t=1690383755",
     "website": "https://vgdd.cf-vanguard.com",
     "developers": [
       "FURYU Corporation",
@@ -8719,7 +8900,8 @@
       22,
       23,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -8732,11 +8914,27 @@
       "url": "https://vgdd.cf-vanguard.com",
       "email": "vgdd_support@bushiroadgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399407/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399407/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399407?t=1690383755",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399407?t=1690383755",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2399810": {
@@ -8744,25 +8942,19 @@
     "name": "Skoory Rush",
     "steam_appid": 2399810,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
     "controller_support": "full",
-    "short_description": "Platformer meets slot machine. Collect items, chain together combos, and enjoy the colorful graphics &amp; energetic sounds.",
+    "short_description": "Arcadey arena platformer. Collect items, chain together combos, and enjoy the colorful graphics &amp; energetic sounds.",
     "supported_languages": "English, Japanese, Korean, Russian, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399810/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399810/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399810/capsule_184x69.jpg",
-    "website": "https://talktogetherlondon.org/",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399810/header.jpg?t=1729930623",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399810/capsule_231x87.jpg?t=1729930623",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399810/capsule_184x69.jpg?t=1729930623",
+    "website": "https://store.steampowered.com/developer/TTLCIC",
     "developers": [
       "TTLCIC"
     ],
     "publishers": [
       "TTLCIC"
-    ],
-    "demos": [
-      {
-        "appid": 2437260,
-        "description": ""
-      }
     ],
     "package_groups": [],
     "platforms": {
@@ -8779,21 +8971,43 @@
     "genres": [
       1,
       4,
-      23
+      23,
+      37
     ],
+    "achievements": {
+      "total": 15
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "22 Dec, 2023"
     },
     "support_info": {
       "url": "",
       "email": "SquirrelsrgNUTS@protonmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399810/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399810/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399810?t=1729930623",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399810/page_bg_raw.jpg?t=1729930623",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2399320": {
@@ -10989,9 +11203,9 @@
       "name": "Cardfight!! Vanguard Dear Days"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399402/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399402/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399402/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399402/header.jpg?t=1697422538",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399402/capsule_231x87.jpg?t=1697422538",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399402/capsule_184x69.jpg?t=1697422538",
     "website": "https://vgdd.cf-vanguard.com",
     "developers": [
       "FURYU Corporation",
@@ -11027,7 +11241,8 @@
       22,
       23,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -11040,11 +11255,27 @@
       "url": "https://vgdd.cf-vanguard.com",
       "email": "vgdd_support@bushiroadgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399402/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399402/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399402?t=1697422538",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399402?t=1697422538",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2398960": {
@@ -12981,9 +13212,9 @@
       "name": "Cardfight!! Vanguard Dear Days"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399401/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399401/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399401/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399401/header.jpg?t=1697422574",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399401/capsule_231x87.jpg?t=1697422574",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399401/capsule_184x69.jpg?t=1697422574",
     "website": "https://vgdd.cf-vanguard.com",
     "developers": [
       "FURYU Corporation",
@@ -13019,7 +13250,8 @@
       22,
       23,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -13032,11 +13264,27 @@
       "url": "https://vgdd.cf-vanguard.com",
       "email": "vgdd_support@bushiroadgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399401/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399401/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399401?t=1697422574",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399401?t=1697422574",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2397640": {
@@ -13115,13 +13363,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399960/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399960/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399960/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399960/header.jpg?t=1684776986",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399960/capsule_231x87.jpg?t=1684776986",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399960/capsule_184x69.jpg?t=1684776986",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -13136,12 +13381,13 @@
       "url": "",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399960/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399960/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399960?t=1684776986",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399960?t=1684776986",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2399340": {
     "type": "game",
@@ -13695,9 +13941,9 @@
     "is_free": false,
     "short_description": "The Realm of Insight Compass is a turn-based tactical chess game that features a rotating board and a unique terrain system, adding more challenge and strategic depth to the gameplay.Formations are like chessboards, and chessboards are like life.",
     "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese, Korean",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399860/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399860/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399860/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399860/header.jpg?t=1698402706",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399860/capsule_231x87.jpg?t=1698402706",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399860/capsule_184x69.jpg?t=1698402706",
     "website": null,
     "developers": [
       "Caco"
@@ -13720,7 +13966,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
@@ -13735,11 +13982,29 @@
       "url": "",
       "email": "2939120449@qq.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399860/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399860/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399860?t=1698402706",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399860/page_bg_raw.jpg?t=1698402706",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2397510": {
@@ -14468,9 +14733,9 @@
       "name": "Cardfight!! Vanguard Dear Days"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399390/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399390/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399390/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399390/header.jpg?t=1690385546",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399390/capsule_231x87.jpg?t=1690385546",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399390/capsule_184x69.jpg?t=1690385546",
     "website": "https://vgdd.cf-vanguard.com",
     "developers": [
       "FURYU Corporation",
@@ -14506,7 +14771,8 @@
       22,
       23,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -14519,11 +14785,27 @@
       "url": "https://vgdd.cf-vanguard.com",
       "email": "vgdd_support@bushiroadgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399390/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399390/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399390?t=1690385546",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399390?t=1690385546",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "12",
+        "descriptors": "Conte\u00fado sexual",
+        "use_age_gate": "true",
+        "required_age": "12"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2399510": {
@@ -14911,9 +15193,9 @@
       "name": "Warhammer 40,000: Gladius - Relics of War"
     },
     "supported_languages": "English<strong>*</strong>, German, Spanish - Spain, Russian, Simplified Chinese, French<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399890/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399890/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2399890/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399890/header.jpg?t=1726826578",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399890/capsule_231x87.jpg?t=1726826578",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399890/capsule_184x69.jpg?t=1726826578",
     "website": "http://www.slitherine.com/gladius",
     "developers": [
       "Proxy Studios"
@@ -14959,7 +15241,8 @@
       44,
       47,
       48,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -14972,11 +15255,29 @@
       "url": "www.slitherine.com",
       "email": "support@slitherine.co.uk"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2399890/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2399890/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399890?t=1726826578",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399890/page_bg_raw.jpg?t=1726826578",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2399170": {
