@@ -415,9 +415,9 @@
       "name": "MotoGP\u212215"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374800/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374800/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374800/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374800/header.jpg?t=1447375481",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374800/capsule_231x87.jpg?t=1447375481",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374800/capsule_184x69.jpg?t=1447375481",
     "website": "http://motogpvideogame.com/",
     "developers": [
       "Milestone S.r.l."
@@ -438,7 +438,8 @@
       21,
       22,
       23,
-      24
+      24,
+      62
     ],
     "genres": [
       9,
@@ -453,11 +454,29 @@
       "url": "http://milestone.it/contacts/support/?lang=en",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374800/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374800/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374800?t=1447375481",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374800?t=1447375481",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "374780": {
@@ -466,12 +485,11 @@
     "steam_appid": 374780,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
-    "short_description": "Positron is a fast paced arcade racing game inspired by the classic arcade games of the 80's. Battle against opponents in the Arena, navigate your way out of of the Maze, and collect power-ups while avoiding your own trail in Snake.",
+    "short_description": "Positron is a fast paced arcade style game inspired by the classic arcade games of the 80's. Battle against opponents in the Arena, navigate your way out of the Maze, and collect power-ups while avoiding your own trail in Snake.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374780/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374780/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374780/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/header.jpg?t=1753881162",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/capsule_231x87.jpg?t=1753881162",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/capsule_184x69.jpg?t=1753881162",
     "website": "http://positrongame.com",
     "developers": [
       "Retroburn"
@@ -479,45 +497,74 @@
     "publishers": [
       "Retroburn"
     ],
-    "package_groups": [],
+    "packages": [
+      69180
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Positron",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      1,
       2,
-      17,
+      18,
       22,
       23,
-      24,
       25,
-      28,
-      29,
-      37,
-      44,
-      49
+      62
     ],
     "genres": [
       1,
       4,
       9,
-      23
+      23,
+      70
     ],
+    "achievements": {
+      "total": 1
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Nov, 2024"
     },
     "support_info": {
       "url": "http://retroburngames.com/support",
       "email": "support@retroburngames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374780/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374780/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374780?t=1753881162",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/page_bg_raw.jpg?t=1753881162",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "373330": {
@@ -1730,15 +1777,15 @@
       "name": "LOTUS-Simulator"
     },
     "supported_languages": "English, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374871/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374871/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374871/capsule_184x69.jpg",
-    "website": "http://www.viewapp.com",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374871/header.jpg?t=1725053998",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374871/capsule_231x87.jpg?t=1725053998",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374871/capsule_184x69.jpg?t=1725053998",
+    "website": "https://steamcommunity.com/groups/LODLMUE",
     "developers": [
-      "ViewApp GmbH"
+      "TigerChris"
     ],
     "publishers": [
-      "ViewApp GmbH"
+      "TigerChris"
     ],
     "packages": [
       69213
@@ -1764,7 +1811,8 @@
       2,
       18,
       21,
-      31
+      31,
+      62
     ],
     "genres": [
       23,
@@ -1775,15 +1823,16 @@
       "date": "29 Mar, 2019"
     },
     "support_info": {
-      "url": "http://www.viewapp.com/",
-      "email": "support@viewapp.com"
+      "url": "https://steamcommunity.com/groups/LODLMUE",
+      "email": "fautchr@googlemail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374871/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374871/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374871?t=1725053998",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374871/page_bg_raw.jpg?t=1725053998",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "372112": {
     "type": "dlc",
@@ -2976,9 +3025,9 @@
       "name": "LOTUS-Simulator"
     },
     "supported_languages": "English, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374770/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374770/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374770/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374770/header.jpg?t=1753613485",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374770/capsule_231x87.jpg?t=1753613485",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374770/capsule_184x69.jpg?t=1753613485",
     "website": "https://www.lotus-simulator.de/",
     "developers": [
       "Tram D\u00fcsseldorf"
@@ -3012,7 +3061,8 @@
       18,
       21,
       30,
-      38
+      38,
+      62
     ],
     "genres": [
       4,
@@ -3027,11 +3077,16 @@
       "url": "https://www.lotus-simulator.de/forum/index.php?board/43-feedback-diskussionen-support/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374770/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374770/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374770?t=1753613485",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374770?t=1753613485",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      }
     }
   },
   "374950": {
@@ -3045,9 +3100,9 @@
     ],
     "short_description": "The shuffle button has been hit. All the objects and characters have been mixed up! Randomness threatens to overrun the kingdom, and nothing is what it appears to be! It is up to you to defeat the fire-breathing [kitten], save your beloved [toilet], and find the [potato] of legend!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374950/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374950/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374950/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374950/header.jpg?t=1563045252",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374950/capsule_231x87.jpg?t=1563045252",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374950/capsule_184x69.jpg?t=1563045252",
     "website": "http://adventurelib.com/",
     "developers": [
       "Fancy Fish Games"
@@ -3079,7 +3134,8 @@
       18,
       22,
       29,
-      30
+      30,
+      62
     ],
     "genres": [
       23,
@@ -3096,11 +3152,29 @@
       "url": "http://fancyfishgames.com/forums/",
       "email": "david.m@fancyfishgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374950/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374950/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374950?t=1563045252",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374950?t=1563045252",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "372360": {
@@ -3212,9 +3286,9 @@
       "name": "LOTUS-Simulator"
     },
     "supported_languages": "English, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374760/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374760/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374760/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374760/header.jpg?t=1753610863",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374760/capsule_231x87.jpg?t=1753610863",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374760/capsule_184x69.jpg?t=1753610863",
     "website": "http://www.lotus-simulator.de",
     "developers": [
       "Tram D\u00fcsseldorf"
@@ -3248,7 +3322,8 @@
       18,
       21,
       30,
-      38
+      38,
+      62
     ],
     "genres": [
       4,
@@ -3263,11 +3338,16 @@
       "url": "https://www.lotus-simulator.de/forum/index.php?thread/5943-fragen-antworten-und-gedanken-zum-add-on-dresden-2000/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374760/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374760/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374760?t=1753610863",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374760?t=1753610863",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      }
     }
   },
   "372340": {
@@ -6852,15 +6932,12 @@
       "name": "Star Horizon"
     },
     "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374820/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374820/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374820/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374820/header.jpg?t=1447375483",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374820/capsule_231x87.jpg?t=1447375483",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374820/capsule_184x69.jpg?t=1447375483",
     "website": "https://www.facebook.com/StarHorizonGame",
     "developers": [
       "Tabasco Interactive"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       69198
@@ -6886,7 +6963,8 @@
       21,
       22,
       23,
-      29
+      29,
+      62
     ],
     "genres": [
       1
@@ -6899,18 +6977,19 @@
       "url": "http://tabascointeractive.com/support/",
       "email": "contact@tabascointeractive.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374820/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374820/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374820?t=1447375483",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374820?t=1447375483",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "374880": {
     "type": "dlc",
     "name": "Tokyo School Life - Original Soundtrack",
     "steam_appid": 374880,
-    "required_age": "13",
+    "required_age": 0,
     "is_free": false,
     "short_description": "This is the official soundtrack for &quot;Tokyo School Life&quot;. A fun-filled and emotional fusion of R&amp;B slow jam ballads, new jack swing beats, patriotic school-age recorders, new-age ambience... even enka!",
     "fullgame": {
@@ -6918,9 +6997,9 @@
       "name": "Tokyo School Life"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374880/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374880/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374880/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374880/header.jpg?t=1618393191",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374880/capsule_231x87.jpg?t=1618393191",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374880/capsule_184x69.jpg?t=1618393191",
     "website": "https://www.d3p.co.jp/dogenzaka-lab/",
     "developers": [
       "M2 Co.,LTD"
@@ -6949,7 +7028,8 @@
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       25
@@ -6962,14 +7042,68 @@
       "url": "",
       "email": "steam_support@d3p.co.jp"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374880/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374880/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374880?t=1618393191",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374880/page_bg_raw.jpg?t=1618393191",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "pegi": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "bbfc": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "usk": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "oflc": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "nzoflc": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "cero": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "kgrb": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "dejus": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "mda": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "fpb": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "csrr": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      },
+      "crl": {
+        "required_age": "13",
+        "use_age_gate": "true"
+      }
     }
   },
   "372560": {
@@ -7654,9 +7788,9 @@
       "name": "MotoGP\u212215"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374810/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374810/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374810/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374810/header.jpg?t=1489747301",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374810/capsule_231x87.jpg?t=1489747301",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374810/capsule_184x69.jpg?t=1489747301",
     "website": "http://motogpvideogame.com/",
     "developers": [
       "Milestone S.r.l."
@@ -7690,7 +7824,8 @@
       21,
       22,
       23,
-      24
+      24,
+      62
     ],
     "genres": [
       9,
@@ -7705,11 +7840,29 @@
       "url": "http://milestone.it/contacts/support/?lang=en",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374810/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374810/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374810?t=1489747301",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374810/page_bg_raw.jpg?t=1489747301",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "374750": {
@@ -7724,9 +7877,9 @@
       "name": "ROOMS: The Toymaker's Mansion"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374750/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374750/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374750/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374750/header.jpg?t=1560476443",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374750/capsule_231x87.jpg?t=1560476443",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374750/capsule_184x69.jpg?t=1560476443",
     "website": "http://www.handmadegame.net/#!gamerooms2/cm3i",
     "developers": [
       "HandMade Game"
@@ -7755,7 +7908,8 @@
       "linux": true
     },
     "categories": [
-      21
+      21,
+      62
     ],
     "genres": [
       4,
@@ -7770,11 +7924,16 @@
       "url": "http://www.handmadegame.net",
       "email": "jkim@handmadegame.net"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374750/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374750/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374750?t=1560476443",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374750?t=1560476443",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "kgrb": {
+        "rating": "all"
+      }
     }
   },
   "374540": {
@@ -8066,9 +8225,9 @@
       "name": "Farming Simulator 15"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Hungarian, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Traditional Chinese, Turkish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374850/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374850/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374850/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374850/header.jpg?t=1532439560",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374850/capsule_231x87.jpg?t=1532439560",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374850/capsule_184x69.jpg?t=1532439560",
     "website": "http://www.farming-simulator.com",
     "developers": [
       "Giants Software"
@@ -8104,7 +8263,8 @@
       22,
       23,
       27,
-      29
+      29,
+      62
     ],
     "genres": [
       28
@@ -8117,12 +8277,13 @@
       "url": "www.farming-simulator.com/support.php",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374850/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374850/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374850?t=1532439560",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374850?t=1532439560",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "374410": {
     "type": "game",
@@ -10473,9 +10634,9 @@
       "name": "Parcel"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374890/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374890/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374890/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374890/header.jpg?t=1447375502",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374890/capsule_231x87.jpg?t=1447375502",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374890/capsule_184x69.jpg?t=1447375502",
     "website": "http://www.parcelthegame.com",
     "developers": [
       "Polar Bunny Ltd"
@@ -10513,12 +10674,13 @@
       "url": "http://www.polarbunny.net",
       "email": "parcelsupport@polarbunny.net"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374890/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374890/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374890?t=1447375502",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374890?t=1447375502",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "373960": {
     "type": "demo",
@@ -10590,9 +10752,9 @@
       "name": "Drift Stage"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374920/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374920/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374920/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374920/header.jpg?t=1673727778",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374920/capsule_231x87.jpg?t=1673727778",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374920/capsule_184x69.jpg?t=1673727778",
     "website": null,
     "developers": [
       "Super Systems Softworks"
@@ -10632,11 +10794,24 @@
       "url": "",
       "email": "support@supersystems.computer"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374920/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374920/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374920?t=1673727778",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374920?t=1673727778",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "nzoflc": {
+        "use_age_gate": "english"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "374450": {
@@ -11122,9 +11297,9 @@
     "is_free": false,
     "short_description": "Defend the Highlands combines the genres of Tower Defence, Real Time Strategy, and Scotland. The player will have to build defences, recruit Scotsmen and manage their porridge stockpile as they fight off the British invasion of Scotland.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374830/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374830/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374830/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374830/header.jpg?t=1469130977",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374830/capsule_231x87.jpg?t=1469130977",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374830/capsule_184x69.jpg?t=1469130977",
     "website": "http://kiltedcamel.com/defend-the-highlands/",
     "developers": [
       "Kilted Camel"
@@ -11156,7 +11331,8 @@
       15,
       22,
       23,
-      29
+      29,
+      62
     ],
     "genres": [
       2,
@@ -11173,12 +11349,13 @@
       "url": "http://kiltedcamel.com/contact/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374830/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374830/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374830?t=1469130977",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374830?t=1469130977",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "372390": {
     "type": "game",
@@ -12724,9 +12901,9 @@
       "name": "Farming Simulator 15"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Hungarian, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Traditional Chinese, Turkish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374851/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374851/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374851/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374851/header.jpg?t=1532439567",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374851/capsule_231x87.jpg?t=1532439567",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374851/capsule_184x69.jpg?t=1532439567",
     "website": "http://www.farming-simulator.com",
     "developers": [
       "Giants Software"
@@ -12763,7 +12940,8 @@
       22,
       23,
       27,
-      29
+      29,
+      62
     ],
     "genres": [
       28
@@ -12776,12 +12954,13 @@
       "url": "http://www.farming-simulator.com/support.php",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374851/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374851/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374851?t=1532439567",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374851/page_bg_raw.jpg?t=1532439567",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "374400": {
     "type": "game",
@@ -13107,9 +13286,9 @@
       "name": "The Last Dogma - Wilder Wein Edition"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374840/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374840/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374840/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374840/header.jpg?t=1489125117",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374840/capsule_231x87.jpg?t=1489125117",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374840/capsule_184x69.jpg?t=1489125117",
     "website": "http://lastdisbeliever.com",
     "developers": [
       "Sasha Darko"
@@ -13138,7 +13317,8 @@
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       4
@@ -13151,15 +13331,16 @@
       "url": "http://lastdisbeliever.com",
       "email": "sashadarko@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374840/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374840/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374840?t=1489125117",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374840?t=1489125117",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "372720": {
     "type": "game",
@@ -14299,10 +14480,10 @@
     "is_free": false,
     "short_description": "Land your troops on the beaches of northern France, lay bridges to cross flooded enemy defences, avoid tanktraps, clear the area of dangerous minefields, overcome the enemy and claim the beachhead for the Allies!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374940/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374940/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374940/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374940/header.jpg?t=1730480013",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374940/capsule_231x87.jpg?t=1730480013",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374940/capsule_184x69.jpg?t=1730480013",
+    "website": "https://www.huntedcow.com",
     "developers": [
       "HexWar Games"
     ],
@@ -14325,11 +14506,12 @@
     ],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2
@@ -14345,11 +14527,29 @@
       "url": "https://support.huntedcow.com",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374940/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374940/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374940?t=1730480013",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374940?t=1730480013",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "374900": {
@@ -14361,13 +14561,12 @@
     "controller_support": "full",
     "short_description": "The ABC Murders is an adventure and investigation game adapted from the classic Agatha Christie novel. You are the famous private detective Hercule Poirot and, once again, you find yourself up against a mysterious serial killer who goes by the name of &quot;ABC&quot;.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Polish, Russian, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374900/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/374900/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/374900/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374900/header.jpg?t=1743171947",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374900/capsule_231x87.jpg?t=1743171947",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374900/capsule_184x69.jpg?t=1743171947",
     "website": "http://www.agathachristie.microids.com",
     "developers": [
-      "Artefacts Studio",
-      "Tower Five"
+      "Artefacts Studio"
     ],
     "publishers": [
       "Microids"
@@ -14401,7 +14600,8 @@
       2,
       22,
       28,
-      29
+      29,
+      62
     ],
     "genres": [
       25
@@ -14417,11 +14617,36 @@
       "url": "",
       "email": "support@microids.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/374900/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/374900/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374900?t=1743171947",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/374900?t=1743171947",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "12"
+      },
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Blood\r\nUse of Alcohol\r\nUse of Tobacco\r\nViolence"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa\nAtos criminosos"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   }
 }
