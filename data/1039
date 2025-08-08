@@ -1758,10 +1758,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "An intense blend of match-3 puzzle action and combat in Match Kill Survive. Your mission: survive relentless waves of zombies by matching tiles to generate ammunition for your squad. Each color you match powers up a specific squad member, allowing them to unleash devastating attacks on the undead.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119020/header.jpg?t=1721799719",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119020/capsule_231x87.jpg?t=1721799719",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119020/capsule_184x69.jpg?t=1721799719",
+    "supported_languages": "English, Portuguese - Brazil, Dutch, Thai, Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119020/header.jpg?t=1726375986",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119020/capsule_231x87.jpg?t=1726375986",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119020/capsule_184x69.jpg?t=1726375986",
     "website": null,
     "developers": [
       "Mr. Barrel Software"
@@ -1769,29 +1769,49 @@
     "publishers": [
       "Mr. Barrel Software"
     ],
-    "package_groups": [],
+    "packages": [
+      1107609
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Match Kill Survive",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": true
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      25,
+      62
     ],
     "genres": [
       1,
       70
     ],
+    "achievements": {
+      "total": 29
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "1 Sep, 2024"
     },
     "support_info": {
       "url": "https://discord.gg/ff4NNaXfZk",
       "email": "mrbarrelsoftware@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119020/page_bg_generated_v6b.jpg?t=1721799719",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119020/page_bg_generated.jpg?t=1721799719",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3119020?t=1726375986",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3119020?t=1726375986",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1799,19 +1819,19 @@
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "l",
-        "required_age": "0",
+        "rating": "10",
+        "required_age": "10",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Viol\u00eancia fantasiosa"
+        "descriptors": "Viol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "6",
-        "required_age": "6",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Fantasy-Gewalt"
+        "descriptors": "Gewalt"
       }
     }
   },
@@ -1930,11 +1950,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "1983, Alaska... During the Salmon Run, a deadly figure known as The Grizzly Man terrorizes a group of tourists led by Bob, an amnesiac former Man in Black. Survive the journey or become the catch of the day!",
+    "short_description": "1983, Alaska... During the Salmon Run, a deadly figure known as The Grizzly Man terrorizes a group of tourists led by Bob, an amnesiac former Man in Black. Survive the journey or become the catch of the day in this breathtaking pixel-art interactive fiction with heart-pounding pace!",
     "supported_languages": "English, Spanish - Latin America",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118010/header.jpg?t=1721812430",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118010/capsule_231x87.jpg?t=1721812430",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118010/capsule_184x69.jpg?t=1721812430",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118010/4d003d291b01f62881de481360de5d6f797fbde0/header.jpg?t=1750959926",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118010/df8c5f3228027093ac5452be972b872471d06135/capsule_231x87.jpg?t=1750959926",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118010/df8c5f3228027093ac5452be972b872471d06135/capsule_184x69.jpg?t=1750959926",
     "website": null,
     "developers": [
       "LCB Game Studio"
@@ -1942,7 +1962,20 @@
     "publishers": [
       "LCB Game Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1107268
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Grizzly Man",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1950,22 +1983,28 @@
     },
     "categories": [
       2,
-      28
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       23,
       25
     ],
+    "achievements": {
+      "total": 24
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "12 Dec, 2024"
     },
     "support_info": {
       "url": "http://www.lcbgame.studio/",
-      "email": ""
+      "email": "hi@lcbgame.studio"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118010/page_bg_generated_v6b.jpg?t=1721812430",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118010/page.bg.jpg?t=1721812430",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3118010?t=1750959926",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118010/page_bg_raw.jpg?t=1750959926",
     "content_descriptors": {
       "ids": [
         1,
@@ -1999,26 +2038,46 @@
     "steam_appid": 3118270,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Play as Dr. Alan Miles, a parasite investigator, in a survival horror quest inside a critically ill alien. Use wits to battle biological horrors, uncover sinister truths, and survive.",
+    "short_description": "Play as a scientist in this short sci-fi horror adventure, tasked with eradicating a mutating parasite within a human body. Navigate eerie corridors, solve complex puzzles, and survive the lurking horrors inside.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118270/header.jpg?t=1721824982",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118270/capsule_231x87.jpg?t=1721824982",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118270/capsule_184x69.jpg?t=1721824982",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118270/header.jpg?t=1730082729",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118270/d57eb6cf827bb52a1ed72a66cbf6cb8cf76c1865/capsule_231x87.jpg?t=1730082729",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118270/d57eb6cf827bb52a1ed72a66cbf6cb8cf76c1865/capsule_184x69.jpg?t=1730082729",
+    "website": "https://www.sketchyneurons.com",
     "developers": [
       "Marion Surgical Inc."
     ],
     "publishers": [
       "Sketchy Neurons"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3257290,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1107353
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy INNERSCAPE",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -2026,21 +2085,21 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Oct, 2024"
     },
     "support_info": {
       "url": "www.sketchyneurons.com",
       "email": "ben@marionsurgical.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118270/page_bg_generated_v6b.jpg?t=1721824982",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118270/page_bg_generated.jpg?t=1721824982",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3118270?t=1730082729",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3118270?t=1730082729",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
-      "notes": null
+      "notes": "The game contains mature themes, including graphic depictions of body horror, grotesque environments and creatures, violent imagery, such as dead bodies, blood, and a dark, tense atmosphere that may be uncomfortable for sensitive players."
     },
     "ratings": {
       "dejus": {
@@ -2067,18 +2126,17 @@
     "steam_appid": 3119050,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
-    "short_description": "Obfuscation is a first-person horror game - experience gripping fear and confusion within an atmospheric setting. Explore your surroundings, interact with the environment, solve problems, and reveal the truth.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119050/header.jpg?t=1721834252",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119050/capsule_231x87.jpg?t=1721834252",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119050/capsule_184x69.jpg?t=1721834252",
+    "short_description": "Obfuscation is a first-person indie horror game set entirely within a mysterious house. You don\u2019t know how you got here - or why. Explore the house, overcome the challenges, and uncover the truth.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119050/d4f8ce709edd5653fd0564697f01a1a76c44c040/header.jpg?t=1754645137",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119050/23a4e10e0d1aa178e9de916c6092956a4f96fc17/capsule_231x87.jpg?t=1754645137",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119050/23a4e10e0d1aa178e9de916c6092956a4f96fc17/capsule_184x69.jpg?t=1754645137",
     "website": null,
     "developers": [
-      "Hieumid Games"
+      "mid1224"
     ],
     "publishers": [
-      "Hieumid Games"
+      "mid1224"
     ],
     "package_groups": [],
     "platforms": {
@@ -2088,13 +2146,16 @@
     },
     "categories": [
       2,
-      28
+      22,
+      62,
+      68,
+      69,
+      74,
+      79
     ],
     "genres": [
-      1,
       23,
-      25,
-      28
+      25
     ],
     "release_date": {
       "coming_soon": true,
@@ -2104,8 +2165,8 @@
       "url": "",
       "email": "midytb1224@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119050/page_bg_generated_v6b.jpg?t=1721834252",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119050/page.bg.jpg?t=1721834252",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3119050?t=1754645137",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119050/page_bg_raw.jpg?t=1754645137",
     "content_descriptors": {
       "ids": [
         5
