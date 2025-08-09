@@ -6227,18 +6227,31 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Zort is an action, adventure, and horror game that can be played with up to 4 people. Explore maps with your friends and have fun while escaping from various creatures. Experience a realistic horror experience with in-game voice chat with your friends!",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Arabic, Simplified Chinese, Japanese, Korean, Russian, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/header.jpg?t=1722447453",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/capsule_231x87.jpg?t=1722447453",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/capsule_184x69.jpg?t=1722447453",
-    "website": null,
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Arabic, Simplified Chinese, Japanese, Korean, Russian, Turkish, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/header.jpg?t=1741804510",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/capsule_231x87.jpg?t=1741804510",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/capsule_184x69.jpg?t=1741804510",
+    "website": "https://www.londersoftware.net",
     "developers": [
       "Londer Software"
     ],
     "publishers": [
       "Londer Software"
     ],
-    "package_groups": [],
+    "packages": [
+      1108411
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Zort",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6248,10 +6261,12 @@
       1,
       2,
       9,
-      13,
-      18,
       22,
-      38
+      23,
+      38,
+      48,
+      62,
+      63
     ],
     "genres": [
       1,
@@ -6259,16 +6274,19 @@
       25,
       70
     ],
+    "achievements": {
+      "total": 11
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Dec, 2024"
     },
     "support_info": {
-      "url": "",
+      "url": "www.londersoftware.net",
       "email": "londersoftware@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/page_bg_generated_v6b.jpg?t=1722447453",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/page.bg.jpg?t=1722447453",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3121110?t=1741804510",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/page_bg_raw.jpg?t=1741804510",
     "content_descriptors": {
       "ids": [
         2,
@@ -6301,17 +6319,23 @@
     "steam_appid": 3121810,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Boomershooter meets Metroidvania. Fight like hell and defeat the evil king. Explore a giant castle full of secrets.",
+    "short_description": "May your wrath conquer the cursed beings and save the land. Fight like hell and avenge your father. Explore a giant castle filled with monsters and get stronger to withstand the forces of hell in this boomershooter, metroidvania adventure.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121810/header.jpg?t=1722453505",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121810/capsule_231x87.jpg?t=1722453505",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121810/capsule_184x69.jpg?t=1722453505",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121810/header.jpg?t=1751524405",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121810/890876258429bebdd4fe9891becd27ce8543591b/capsule_231x87.jpg?t=1751524405",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121810/890876258429bebdd4fe9891becd27ce8543591b/capsule_184x69.jpg?t=1751524405",
     "website": null,
     "developers": [
       "Dominik Grigoras"
     ],
     "publishers": [
       "Grigoras Games"
+    ],
+    "demos": [
+      {
+        "appid": 3122280,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -6321,7 +6345,8 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       1,
@@ -6331,14 +6356,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "Q3 2025"
     },
     "support_info": {
       "url": "",
       "email": "Dimonamik@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121810/page_bg_generated_v6b.jpg?t=1722453505",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121810/page.bg.jpg?t=1722453505",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3121810?t=1751524405",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121810/page_bg_raw.jpg?t=1751524405",
     "content_descriptors": {
       "ids": [
         2,
@@ -6374,15 +6399,21 @@
     "controller_support": "full",
     "short_description": "Take to the asteroid belt and fly as a rookie mining ship pilot, exploring space and mining asteroids, earning money to save your community on Mars in this story-driven space action game. Your choices and actions will shape the unfolding story, changing the fate of all those you meet.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120200/header.jpg?t=1722516744",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120200/capsule_231x87.jpg?t=1722516744",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120200/capsule_184x69.jpg?t=1722516744",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120200/header.jpg?t=1751467210",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120200/capsule_231x87.jpg?t=1751467210",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120200/capsule_184x69.jpg?t=1751467210",
     "website": null,
     "developers": [
       "El Crabo Grande Games"
     ],
     "publishers": [
       "El Crabo Grande Games"
+    ],
+    "demos": [
+      {
+        "appid": 3208650,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -6393,21 +6424,24 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
-      23
+      1,
+      23,
+      25
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q1 2025"
+      "date": "2025"
     },
     "support_info": {
-      "url": "",
-      "email": "elcrabo@elcrabogrande.com"
+      "url": "https://discord.com/invite/bxkgn3nTVP",
+      "email": "elcrabo@elcrabogrande.co.uk"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120200/page_bg_generated_v6b.jpg?t=1722516744",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120200/page_bg_generated.jpg?t=1722516744",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3120200?t=1751467210",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3120200?t=1751467210",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6415,19 +6449,19 @@
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "14",
-        "required_age": "14",
+        "rating": "l",
+        "required_age": "0",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Linguagem impr\u00f3pria\nAtos criminosos"
+        "descriptors": ""
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "6",
-        "required_age": "6",
+        "rating": "0",
+        "required_age": "0",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Derbe Sprache"
+        "descriptors": ""
       }
     }
   },
