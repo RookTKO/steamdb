@@ -5801,9 +5801,6 @@
     "developers": [
       "IndieCain"
     ],
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -5812,21 +5809,22 @@
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       23
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "August 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "https://indienova.com/u/indiecain",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123280/page_bg_generated_v6b.jpg?t=1722524554",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123280/page_bg_generated.jpg?t=1722524554",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123280?t=1722524554",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123280?t=1722524554",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5915,8 +5913,8 @@
       "url": "https://support.txchainsawgame.com/",
       "email": "Support@fearthegun.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124350/page_bg_generated_v6b.jpg?t=1722513136",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124350/page_bg_generated.jpg?t=1722513136",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3124350?t=1722513136",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3124350?t=1722513136",
     "content_descriptors": {
       "ids": [
         2,
@@ -5950,9 +5948,9 @@
     "controller_support": "full",
     "short_description": "Hunger speaks louder! Help our rodent hero find his way to the cheese in a maze full of challenges",
     "supported_languages": "English, Spanish - Spain, Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123170/header.jpg?t=1722524506",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123170/capsule_231x87.jpg?t=1722524506",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123170/capsule_184x69.jpg?t=1722524506",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123170/header.jpg?t=1729531521",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123170/capsule_231x87.jpg?t=1729531521",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123170/capsule_184x69.jpg?t=1729531521",
     "website": null,
     "developers": [
       "Dudeeki"
@@ -5960,7 +5958,20 @@
     "publishers": [
       "Dudeeki"
     ],
-    "package_groups": [],
+    "packages": [
+      1109092
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Say Cheese",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5968,25 +5979,28 @@
     },
     "categories": [
       2,
-      13,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       2,
       4,
       23
     ],
+    "achievements": {
+      "total": 8
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Oct, 2024"
     },
     "support_info": {
       "url": "",
       "email": "gleidson10.deek1n@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123170/page_bg_generated_v6b.jpg?t=1722524506",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123170/page_bg_generated.jpg?t=1722524506",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123170?t=1729531521",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123170?t=1729531521",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -13518,5 +13532,38 @@
         "descriptors": "Alkohol / Tabak\nFantasy-Gewalt"
       }
     }
+  },
+  "3123440": {
+    "type": "game",
+    "name": "Spacewander-Navigator Program Playtest",
+    "steam_appid": 3123440,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123440/bb3a13595d5a746f581287c9420703248b1fc13f/header.jpg?t=1754820253",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123440/73fc5bb3a85510d735301f34b187952dff2f052a/capsule_231x87.jpg?t=1754820253",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123440/73fc5bb3a85510d735301f34b187952dff2f052a/capsule_184x69.jpg?t=1754820253",
+    "website": null,
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "10 Aug, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123440?t=1754820253",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123440?t=1754820253",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": null
   }
 }
