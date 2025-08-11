@@ -1324,10 +1324,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "&quot;Madness Inside&quot;&quot; immerses you in the dark depths of an abandoned psychiatric hospital, where horrifying experiments were once conducted. Police Lieutenant Vic Voight, in pursuit of a dangerous criminal, unexpectedly finds himself trapped in this nightmarish place.",
-    "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102000/header.jpg?t=1721100511",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102000/capsule_231x87.jpg?t=1721100511",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102000/capsule_184x69.jpg?t=1721100511",
+    "supported_languages": "English, Russian<strong>*</strong>, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102000/header.jpg?t=1738043320",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102000/capsule_231x87.jpg?t=1738043320",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102000/capsule_184x69.jpg?t=1738043320",
     "website": "https://zvgames.taplink.ws/",
     "developers": [
       "ZV GAMES"
@@ -1335,7 +1335,26 @@
     "publishers": [
       "ZV GAMES"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3184370,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1101824
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Madness inside",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1343,23 +1362,26 @@
     },
     "categories": [
       2,
-      22
+      62
     ],
     "genres": [
       23,
       25,
       28
     ],
+    "achievements": {
+      "total": 21
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "4 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "zvgames@mail.ru"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102000/page_bg_generated_v6b.jpg?t=1721100511",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102000/page_bg_generated.jpg?t=1721100511",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3102000?t=1738043320",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3102000?t=1738043320",
     "content_descriptors": {
       "ids": [
         2,
@@ -1842,11 +1864,14 @@
     "steam_appid": 3104030,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A short story companion to vai5000's EP, oath",
+    "dlc": [
+      3146480
+    ],
+    "short_description": "don't break your oath",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104030/header.jpg?t=1722494330",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104030/capsule_231x87.jpg?t=1722494330",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104030/capsule_184x69.jpg?t=1722494330",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104030/header.jpg?t=1752064392",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104030/04ea86728985515bc725184778b3446308805342/capsule_231x87.jpg?t=1752064392",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104030/04ea86728985515bc725184778b3446308805342/capsule_184x69.jpg?t=1752064392",
     "website": "https://soundcloud.com/vai5000/sets/oath",
     "developers": [
       "vai5000"
@@ -1854,29 +1879,61 @@
     "publishers": [
       "vai5000"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3173150,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1102603
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy oath",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
     "categories": [
-      2
+      2,
+      18,
+      22,
+      23,
+      62,
+      68,
+      69,
+      71,
+      75,
+      79
     ],
     "genres": [
+      3,
       4,
       23
     ],
+    "achievements": {
+      "total": 48
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "September 2024"
+      "coming_soon": false,
+      "date": "2 Sep, 2024"
     },
     "support_info": {
       "url": "",
       "email": "mgmt.vai5000@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104030/page_bg_generated_v6b.jpg?t=1722494330",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104030/page.bg.jpg?t=1722494330",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3104030?t=1752064392",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104030/page_bg_raw.jpg?t=1752064392",
     "content_descriptors": {
       "ids": [
         5
@@ -1908,11 +1965,12 @@
     "steam_appid": 3102020,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "Prepare for an intergalactic adventure in Flappy Alien! Navigate your UFO through space, dodge obstacles, and aim for the highest score.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102020/header.jpg?t=1722341465",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102020/capsule_231x87.jpg?t=1722341465",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102020/capsule_184x69.jpg?t=1722341465",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102020/header.jpg?t=1736735111",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102020/capsule_231x87.jpg?t=1736735111",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102020/capsule_184x69.jpg?t=1736735111",
     "website": null,
     "developers": [
       "Maros"
@@ -1936,20 +1994,19 @@
     ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
+      28,
+      43,
       62
     ],
     "genres": [
       4,
       23
     ],
-    "achievements": {
-      "total": 0
-    },
     "release_date": {
       "coming_soon": false,
       "date": "30 Jul, 2024"
@@ -1958,8 +2015,8 @@
       "url": "",
       "email": "flappyaliensteam@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102020/page_bg_generated_v6b.jpg?t=1722341465",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102020/page.bg.jpg?t=1722341465",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3102020?t=1736735111",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102020/page_bg_raw.jpg?t=1736735111",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1991,9 +2048,9 @@
     "is_free": false,
     "short_description": "A casual space simulation game where you perform orbital manoeuvres on satellites to change their orbit and complete missions.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102180/header.jpg?t=1721334244",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102180/capsule_231x87.jpg?t=1721334244",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102180/capsule_184x69.jpg?t=1721334244",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102180/header.jpg?t=1732142611",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102180/capsule_231x87.jpg?t=1732142611",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102180/capsule_184x69.jpg?t=1732142611",
     "website": null,
     "developers": [
       "Insert Developer Name"
@@ -2008,7 +2065,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -2016,14 +2074,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q3 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "greatnorthgorilla@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102180/page_bg_generated_v6b.jpg?t=1721334244",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102180/page_bg_generated.jpg?t=1721334244",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3102180?t=1732142611",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3102180?t=1732142611",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2058,9 +2116,6 @@
     "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104770/capsule_231x87.jpg?t=1721146384",
     "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104770/capsule_184x69.jpg?t=1721146384",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -2075,8 +2130,8 @@
       "url": "",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104770/page_bg_generated_v6b.jpg?t=1721146384",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104770/page_bg_generated.jpg?t=1721146384",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3104770?t=1721146384",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3104770?t=1721146384",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5557,8 +5612,8 @@
       "url": "https://medievalfarm.com.br",
       "email": "contato@medievalfarm.com.br"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102730/page_bg_generated_v6b.jpg?t=1721787698",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102730/page_bg_generated.jpg?t=1721787698",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3102730?t=1721787698",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3102730?t=1721787698",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5807,9 +5862,9 @@
       "name": "Bloxolotl"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102390/header.jpg?t=1721755965",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102390/capsule_231x87.jpg?t=1721755965",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102390/capsule_184x69.jpg?t=1721755965",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102390/header.jpg?t=1738507568",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102390/035e2e6b5b176de6a336d2590ab3b0e3515e2a36/capsule_231x87.jpg?t=1738507568",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102390/035e2e6b5b176de6a336d2590ab3b0e3515e2a36/capsule_184x69.jpg?t=1738507568",
     "website": null,
     "developers": [
       "MGandi"
@@ -5835,8 +5890,8 @@
       "url": "https://michael-gantner.de/",
       "email": "contact-gantner@online.de"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3102390?t=1738507568",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102390/page_bg_raw.jpg?t=1738507568",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5868,15 +5923,21 @@
     "is_free": false,
     "short_description": "Tungsten Moon is a first-person, immersive spaceflight simulator set on a fictional moon, somewhere in the universe. Stay alive by exploring over 1 million square kilometers of open-world terrain, while at the controls of your personal SkyDart spacecraft.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104900/header.jpg?t=1721764721",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104900/capsule_231x87.jpg?t=1721764721",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104900/capsule_184x69.jpg?t=1721764721",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104900/header.jpg?t=1749518893",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104900/capsule_231x87.jpg?t=1749518893",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104900/capsule_184x69.jpg?t=1749518893",
     "website": "https://tungstenmoon.com/",
     "developers": [
       "Eccentric Anomalies LLC"
     ],
     "publishers": [
       "Eccentric Anomalies LLC"
+    ],
+    "demos": [
+      {
+        "appid": 3118640,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5888,7 +5949,9 @@
       2,
       18,
       23,
-      53
+      52,
+      53,
+      62
     ],
     "genres": [
       23,
@@ -5897,14 +5960,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "support@tungstenmoon.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104900/page_bg_generated_v6b.jpg?t=1721764721",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104900/page_bg_generated.jpg?t=1721764721",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3104900?t=1749518893",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3104900?t=1749518893",
     "content_descriptors": {
       "ids": [],
       "notes": null

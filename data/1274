@@ -4688,13 +4688,13 @@
     "name": "Strange island",
     "steam_appid": 3822240,
     "required_age": 0,
-    "is_free": true,
+    "is_free": false,
     "short_description": "A first-person psychological horror focused on atmosphere, exploration, and a slow descent into mystery. You wake up on a remote island with no memory and no answers \u2014 who you are or how you got there. But with every answer you find, more questions begin to surface",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822240/166415ff0797f97cdb3ffb0d4ce4f21f95786213/header.jpg?t=1751047547",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822240/a82ad3a3fdb589b6be31f31f7bc2a58ca18c808e/capsule_231x87.jpg?t=1751047547",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822240/a82ad3a3fdb589b6be31f31f7bc2a58ca18c808e/capsule_184x69.jpg?t=1751047547",
-    "website": "https://ko-fi.com/blackbearstudio",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822240/d93fe6555bb94fa32eaa9c8b07d7b01b8983b8c1/header.jpg?t=1752945249",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822240/bfd60b6a6385c2ffc37d008f48fca31811809569/capsule_231x87.jpg?t=1752945249",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822240/bfd60b6a6385c2ffc37d008f48fca31811809569/capsule_184x69.jpg?t=1752945249",
+    "website": "https://discord.gg/Mbmkp9jJcq",
     "developers": [
       "Black Bear Studio"
     ],
@@ -4708,24 +4708,24 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
       23,
-      25,
-      37
+      25
     ],
     "release_date": {
       "coming_soon": true,
       "date": "Coming soon"
     },
     "support_info": {
-      "url": "https://discord.gg/zHP6JWRN",
+      "url": "https://discord.gg/Mbmkp9jJcq",
       "email": "valmonthh1264@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3822240?t=1751047547",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3822240?t=1751047547",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3822240?t=1752945249",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3822240?t=1752945249",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11503,6 +11503,87 @@
     },
     "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3824590?t=1754514922",
     "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3824590?t=1754514922",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
+    }
+  },
+  "3822070": {
+    "type": "demo",
+    "name": "ROGOLF Demo",
+    "steam_appid": 3822070,
+    "required_age": 0,
+    "is_free": true,
+    "controller_support": "full",
+    "short_description": "Play mini-golf, buy equipment and score enough points to reach the top. Each level has its own rules and each run is different. Enough with rogue-lites ? Play with friends in the multiplayer modes !",
+    "fullgame": {
+      "appid": "3810020",
+      "name": "ROGOLF"
+    },
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Dutch, Portuguese - Portugal, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822070/4e624fd9c147670445ef0a95b5ab82b8ebf4abaf/header.jpg?t=1754897817",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822070/e5f621e6d743b2ee66f923b479ccaae3a0edbd66/capsule_231x87.jpg?t=1754897817",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822070/e5f621e6d743b2ee66f923b479ccaae3a0edbd66/capsule_184x69.jpg?t=1754897817",
+    "website": null,
+    "developers": [
+      "Seabird Interactive"
+    ],
+    "publishers": [
+      "Seabird Interactive"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "categories": [
+      1,
+      2,
+      10,
+      24,
+      28,
+      37,
+      44,
+      49,
+      68,
+      69,
+      76,
+      77,
+      79
+    ],
+    "genres": [
+      1,
+      23
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "10 Aug, 2025"
+    },
+    "support_info": {
+      "url": "",
+      "email": "contact@seabird-interactive.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3822070?t=1754897817",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3822070?t=1754897817",
     "content_descriptors": {
       "ids": [],
       "notes": null
