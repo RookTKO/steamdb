@@ -42,8 +42,8 @@
       "url": "https://x.com/metaphor0150",
       "email": "goldgame0704@naver.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123640/page_bg_generated_v6b.jpg?t=1722355685",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123640/page_bg_generated.jpg?t=1722355685",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123640?t=1722355685",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123640?t=1722355685",
     "content_descriptors": {
       "ids": [
         5
@@ -76,10 +76,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "The Harmony Stone shatters, scattering its fragments across the sky and plunging the city into chaos. Form a team of up to four players, navigate the parkour courses in the city, collect the stone fragments, and restore peace.",
-    "supported_languages": "English<strong>*</strong>, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123610/header.jpg?t=1721830401",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123610/capsule_231x87.jpg?t=1721830401",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123610/capsule_184x69.jpg?t=1721830401",
+    "supported_languages": "English<strong>*</strong>, Turkish, French, German, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123610/header.jpg?t=1753467572",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123610/5e425b97ebd0ecbb65875298f822bef555cba6cc/capsule_231x87.jpg?t=1753467572",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123610/5e425b97ebd0ecbb65875298f822bef555cba6cc/capsule_184x69.jpg?t=1753467572",
     "website": null,
     "developers": [
       "Thornwood Games"
@@ -100,7 +100,8 @@
       15,
       22,
       25,
-      38
+      38,
+      62
     ],
     "genres": [
       23,
@@ -114,8 +115,8 @@
       "url": "",
       "email": "info@thornwoodgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123610/page_bg_generated_v6b.jpg?t=1721830401",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123610/page_bg_generated.jpg?t=1721830401",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123610?t=1753467572",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123610?t=1753467572",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -431,11 +432,12 @@
     "steam_appid": 3125500,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Reality Core is a dungeon-crawling, loot-gathering bullet hell with extraction shooter elements. Travel through the multiverse to collect scattered Reality Shards and repair your ship. Face diverse and dangerous enemies, and wield over 100 imaginative weapons.",
+    "controller_support": "full",
+    "short_description": "Blast through chaotic dungeons and unleash powerful weapons as you journey through the multiverse in search of a way home. Dodge, loot, and survive against deadly foes, extracting hard-won treasures to repair your ship and make it back!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125500/header.jpg?t=1722101034",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125500/capsule_231x87.jpg?t=1722101034",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125500/capsule_184x69.jpg?t=1722101034",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125500/header.jpg?t=1733953124",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125500/e283807fb9ea8d60b693c141e37972da5f1d40d9/capsule_231x87.jpg?t=1733953124",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125500/e283807fb9ea8d60b693c141e37972da5f1d40d9/capsule_184x69.jpg?t=1733953124",
     "website": null,
     "developers": [
       "WubsGames"
@@ -443,35 +445,49 @@
     "publishers": [
       "WubsGames"
     ],
-    "demos": [
+    "packages": [
+      1109910
+    ],
+    "package_groups": [
       {
-        "appid": 3128140,
-        "description": ""
+        "name": "default",
+        "title": "Buy Reality Core",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      28,
+      62
     ],
     "genres": [
       1,
-      23
+      23,
+      25
     ],
+    "achievements": {
+      "total": 5
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "5 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "wubsgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125500/page_bg_generated_v6b.jpg?t=1722101034",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125500/page.bg.jpg?t=1722101034",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3125500?t=1733953124",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125500/page_bg_raw.jpg?t=1733953124",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -567,23 +583,33 @@
     "steam_appid": 3125240,
     "required_age": 0,
     "is_free": false,
-    "short_description": "\u6b64DLC\u5c06\u4e3a\u60a8\u89e3\u9501\u8ffd\u52a0\u7ae0\u8282\uff1a\u4fa6\u63a2\u6e38\u620f\u3002 \u5728\u8be5DLC\u4e2d\uff0c\u60a8\u5c06\u4f53\u9a8c\u6b22\u4e50\u7684\u201c\u4fa6\u63a2\u201d\u65e5\u5e38\u2026\u2026",
+    "short_description": "\u6b64DLC\u5c06\u4e3a\u60a8\u89e3\u9501\u8ffd\u52a0\u7ae0\u8282\uff1a\u4fa6\u63a2\u6e38\u620f\u3002 \u5728\u8be5DLC\u4e2d\uff0c\u60a8\u5c06\u4f53\u9a8c\u5230\u4e09\u4e2a\u63a8\u7406\u6545\u4e8b\uff0c\u4ee5\u53ca\u5c11\u5973\u4eec\u6109\u5feb\u7684\u767e\u5408\u65e5\u5e38\uff01",
     "fullgame": {
       "appid": "2619180",
       "name": "\u5c0f\u591c\u602a\u5947\u7269\u8bed"
     },
     "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125240/header.jpg?t=1721809605",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125240/capsule_231x87.jpg?t=1721809605",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125240/capsule_184x69.jpg?t=1721809605",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125240/header.jpg?t=1740068749",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125240/c0c535d3821f7dfdf34f35e55926b5586198d542/capsule_231x87.jpg?t=1740068749",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125240/c0c535d3821f7dfdf34f35e55926b5586198d542/capsule_184x69.jpg?t=1740068749",
     "website": null,
     "developers": [
       "\u6f20\u7136\u65c5\u8005"
     ],
-    "publishers": [
-      ""
+    "packages": [
+      1109824
     ],
-    "package_groups": [],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy \u5c0f\u591c\u602a\u5947\u7269\u8bed\u8ffd\u52a0\u7ae0\u8282\uff1a\u4fa6\u63a2\u6e38\u620f",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -591,22 +617,23 @@
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       23,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "26 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "1227368531@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125240/page_bg_generated_v6b.jpg?t=1721809605",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125240/page_bg_generated.jpg?t=1721809605",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3125240?t=1740068749",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3125240?t=1740068749",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -841,9 +868,9 @@
     "is_free": false,
     "short_description": "Catch monsters, swing your sword, and become stronger. The more you train, the stronger you will be.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123090/header.jpg?t=1722560030",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123090/capsule_231x87.jpg?t=1722560030",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123090/capsule_184x69.jpg?t=1722560030",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123090/header.jpg?t=1722929781",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123090/capsule_231x87.jpg?t=1722929781",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123090/capsule_184x69.jpg?t=1722929781",
     "website": null,
     "developers": [
       "doggottengame"
@@ -851,14 +878,28 @@
     "publishers": [
       "doggottengame"
     ],
-    "package_groups": [],
+    "packages": [
+      1109063
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Naelyeojjiggi",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -866,15 +907,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "6 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "doggottengame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123090/page_bg_generated_v6b.jpg?t=1722560030",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123090/page_bg_generated.jpg?t=1722560030",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123090?t=1722929781",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123090?t=1722929781",
     "content_descriptors": {
       "ids": [
         2,
@@ -976,9 +1017,9 @@
     "is_free": false,
     "short_description": "Greenhaven Realms is a fantasy medieval Idle RPG where players embark on epic adventures. Engage in thrilling combats, craft powerful items, gather resources, mine for treasures, trade goods, and explore vast lands. Build your kingdom and shape your destiny in the enchanting world of Greenhaven.",
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123700/header.jpg?t=1722715665",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123700/capsule_231x87.jpg?t=1722715665",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123700/capsule_184x69.jpg?t=1722715665",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123700/header.jpg?t=1727864474",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123700/fe85a4c95ea1ea09e4ec8b81417fc2793bec35a2/capsule_231x87.jpg?t=1727864474",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123700/fe85a4c95ea1ea09e4ec8b81417fc2793bec35a2/capsule_184x69.jpg?t=1727864474",
     "website": null,
     "developers": [
       "Egor Magurin",
@@ -994,7 +1035,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       3,
@@ -1004,14 +1046,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q4 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "indoversstudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123700/page_bg_generated_v6b.jpg?t=1722715665",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123700/page_bg_generated.jpg?t=1722715665",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123700?t=1727864474",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123700?t=1727864474",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1047,9 +1089,9 @@
     ],
     "short_description": "Join a lonely square on it's journey to renew itself along the route to the top of the mountain. Chip off parts off the square to slowly turn it into a new self. Embark on a slow and soft journey through seven beautiful, visually distinct areas.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125820/header.jpg?t=1722207187",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125820/capsule_231x87.jpg?t=1722207187",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125820/capsule_184x69.jpg?t=1722207187",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125820/header.jpg?t=1742654469",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125820/capsule_231x87.jpg?t=1742654469",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125820/capsule_184x69.jpg?t=1742654469",
     "website": null,
     "developers": [
       "Lucas Ljunggren"
@@ -1057,7 +1099,26 @@
     "publishers": [
       "Lucas Ljunggren"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3212830,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1110025
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy SISYPHE",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1066,23 +1127,27 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       4,
       23,
       25
     ],
+    "achievements": {
+      "total": 7
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "21 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "SISYPHEgame@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125820/page_bg_generated_v6b.jpg?t=1722207187",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125820/page.bg.jpg?t=1722207187",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3125820?t=1742654469",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125820/page_bg_raw.jpg?t=1742654469",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1114,9 +1179,9 @@
     "is_free": false,
     "short_description": "This is a 2D pixel action game where the protagonists defeat bosses. Players can switch between four different characters, each with multiple skills, to experience the thrill of combo attacks and the excitement of combat.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/header.jpg?t=1722135860",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/capsule_231x87.jpg?t=1722135860",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/capsule_184x69.jpg?t=1722135860",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/header.jpg?t=1723014884",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/capsule_231x87.jpg?t=1723014884",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/capsule_184x69.jpg?t=1723014884",
     "website": null,
     "developers": [
       "Gesilolo"
@@ -1124,29 +1189,43 @@
     "publishers": [
       "Gesilolo"
     ],
-    "package_groups": [],
+    "packages": [
+      1109391
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Photo Playhouse",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "6 Aug, 2024"
+      "coming_soon": false,
+      "date": "7 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "616185299@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/page_bg_generated_v6b.jpg?t=1722135860",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/page.bg.jpg?t=1722135860",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3124050?t=1723014884",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/page_bg_raw.jpg?t=1723014884",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1456,15 +1535,15 @@
       "appid": "2424710",
       "name": "Mayhems World"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123300/header.jpg?t=1722670176",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123300/capsule_231x87.jpg?t=1722670176",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123300/capsule_184x69.jpg?t=1722670176",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123300/header.jpg?t=1730759188",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123300/capsule_231x87.jpg?t=1730759188",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123300/capsule_184x69.jpg?t=1730759188",
     "website": "http://music.teamexist.com",
     "developers": [
       "Dylan Ward"
     ],
     "publishers": [
-      "Exist Studios"
+      "Dylan Ward Studios"
     ],
     "package_groups": [],
     "platforms": {
@@ -1479,15 +1558,15 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Aug, 2024"
     },
     "support_info": {
       "url": "http://teamexist.com",
       "email": "existeam@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123300/page_bg_generated_v6b.jpg?t=1722670176",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123300/page_bg_generated.jpg?t=1722670176",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123300?t=1730759188",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123300?t=1730759188",
     "content_descriptors": {
       "ids": [
         5
@@ -1714,11 +1793,12 @@
     "steam_appid": 3123080,
     "required_age": 0,
     "is_free": false,
-    "short_description": "The Alien Weapon Test Grounds (AWTG) is an artificial domain where you can test guns created by other civilizations and sharpen your shooting skills.",
+    "controller_support": "full",
+    "short_description": "Alien weapons with unique physics await in this fast-paced FPS. Battle waves of enemies across diverse landscapes, lighting, and weather. Beware the unstable space-time continuum.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123080/header.jpg?t=1722776365",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123080/capsule_231x87.jpg?t=1722776365",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123080/capsule_184x69.jpg?t=1722776365",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123080/header.jpg?t=1739244545",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123080/437ec1d9928d4cfcc99ba02bcb974a76a7288cb6/capsule_231x87.jpg?t=1739244545",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123080/437ec1d9928d4cfcc99ba02bcb974a76a7288cb6/capsule_184x69.jpg?t=1739244545",
     "website": null,
     "developers": [
       "emagnetic"
@@ -1726,30 +1806,49 @@
     "publishers": [
       "emagnetic"
     ],
-    "package_groups": [],
+    "packages": [
+      1109059
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Alien Weapon Test Grounds",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      28,
+      62
     ],
     "genres": [
       1,
       23,
       70
     ],
+    "achievements": {
+      "total": 8
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "7 Aug, 2024"
     },
     "support_info": {
       "url": "",
       "email": "emagnetic.photo@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123080/page_bg_generated_v6b.jpg?t=1722776365",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123080/page_bg_generated.jpg?t=1722776365",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123080?t=1739244545",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123080?t=1739244545",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1856,9 +1955,9 @@
       "appid": "3088370",
       "name": ".Decluster & .Decluster Zero"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123660/header.jpg?t=1721894662",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123660/capsule_231x87.jpg?t=1721894662",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123660/capsule_184x69.jpg?t=1721894662",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123660/header.jpg?t=1723078982",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123660/f5f9b027c699259bc8393adeb7e6f90da1d19d1b/capsule_231x87.jpg?t=1723078982",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123660/f5f9b027c699259bc8393adeb7e6f90da1d19d1b/capsule_184x69.jpg?t=1723078982",
     "website": null,
     "developers": [
       "Masayuki Ito"
@@ -1866,7 +1965,20 @@
     "publishers": [
       "Masayuki Ito"
     ],
-    "package_groups": [],
+    "packages": [
+      1109251
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy .Decluster & .Decluster Zero OST",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1876,15 +1988,15 @@
       50
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Aug, 2024"
     },
     "support_info": {
       "url": "https://twitter.com/dot_decluster",
       "email": "infodeltainthe+dd0-1s@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123660/page_bg_generated_v6b.jpg?t=1721894662",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123660/page_bg_generated.jpg?t=1721894662",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123660?t=1723078982",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123660?t=1723078982",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2823,15 +2935,16 @@
     "steam_appid": 3123370,
     "required_age": 0,
     "is_free": true,
-    "short_description": "",
+    "controller_support": "full",
+    "short_description": "VARYZNEX demo The demo version is a version under development, so there may be some differences from the product version",
     "fullgame": {
       "appid": "2976800",
       "name": "VARYZNEX"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123370/header.jpg?t=1722168863",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123370/capsule_231x87.jpg?t=1722168863",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123370/capsule_184x69.jpg?t=1722168863",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123370/header.jpg?t=1738236518",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123370/capsule_231x87.jpg?t=1738236518",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123370/capsule_184x69.jpg?t=1738236518",
     "website": null,
     "developers": [
       "zakichi"
@@ -2847,7 +2960,8 @@
     },
     "categories": [
       2,
-      10
+      10,
+      28
     ],
     "release_date": {
       "coming_soon": false,
@@ -2857,8 +2971,8 @@
       "url": "",
       "email": "zakichi@hotmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123370?t=1738236518",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123370?t=1738236518",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3134,8 +3248,8 @@
       "url": "",
       "email": "clionelimacina2022@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125520/page_bg_generated_v6b.jpg?t=1722018127",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125520/page.bg.jpg?t=1722018127",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3125520?t=1722018127",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125520/page_bg_raw.jpg?t=1722018127",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3230,11 +3344,14 @@
     "steam_appid": 3124080,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3429600
+    ],
     "short_description": "Explore, collect, and build sweet decks. Cardaire is a single-player collectible card RPG. Adventure awaits in the Duelist Frontier, so crack some packs and bring your best deck to take on the challenge.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124080/header.jpg?t=1722730729",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124080/capsule_231x87.jpg?t=1722730729",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124080/capsule_184x69.jpg?t=1722730729",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124080/header.jpg?t=1742409590",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124080/capsule_231x87.jpg?t=1742409590",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124080/capsule_184x69.jpg?t=1742409590",
     "website": null,
     "developers": [
       "aeiou"
@@ -3242,28 +3359,47 @@
     "publishers": [
       "aeiou"
     ],
-    "package_groups": [],
+    "packages": [
+      1109400
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Cardaire",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      62
     ],
     "genres": [
       3
     ],
+    "achievements": {
+      "total": 21
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "22 Nov, 2024"
     },
     "support_info": {
       "url": "",
       "email": "cardairegame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124080/page_bg_generated_v6b.jpg?t=1722730729",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124080/page_bg_generated.jpg?t=1722730729",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3124080?t=1742409590",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3124080?t=1742409590",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3271,19 +3407,19 @@
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "l",
-        "required_age": "0",
+        "rating": "10",
+        "required_age": "10",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Viol\u00eancia fantasiosa"
+        "descriptors": "Viol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "6",
-        "required_age": "6",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Fantasy-Gewalt"
+        "descriptors": "Gewalt"
       }
     }
   },
@@ -3926,9 +4062,6 @@
       "Propulsive Games",
       "LupusMechanicus"
     ],
-    "publishers": [
-      ""
-    ],
     "packages": [
       1109282
     ],
@@ -3956,8 +4089,8 @@
       "url": "",
       "email": "propulsivegames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123710/page_bg_generated_v6b.jpg?t=1722438852",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123710/page_bg_generated.jpg?t=1722438852",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123710?t=1722438852",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3123710?t=1722438852",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4197,18 +4330,15 @@
   },
   "3124090": {
     "type": "game",
-    "name": "QUARC - Quando as Ruas Chamam Playtest",
+    "name": "On this side Playtest",
     "steam_appid": 3124090,
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124090/header.jpg?t=1722254079",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124090/capsule_231x87.jpg?t=1722254079",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124090/capsule_184x69.jpg?t=1722254079",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124090/header.jpg?t=1725746499",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124090/capsule_231x87.jpg?t=1725746499",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124090/capsule_184x69.jpg?t=1725746499",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -4223,8 +4353,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3124090?t=1725746499",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3124090?t=1725746499",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6467,11 +6597,11 @@
     "steam_appid": 3125830,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Oak City terrorized by a deadly predator. Navigate through dark offices, sequential rooms, and hidden passages, solving intricate puzzles to survive. Uncover the horrifying truth behind the terror and face a shocking conclusion, the fate of Oak City is in your hands.",
+    "short_description": "Navigate Oak City\u2019s eerie nights, solving puzzles and escaping chained rooms to survive. Uncover the dark plan of the relentless predator in this immersive adventure. Each step tests your wits and courage. Can you escape, or will you become the next victim?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125830/header.jpg?t=1722827903",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125830/capsule_231x87.jpg?t=1722827903",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125830/capsule_184x69.jpg?t=1722827903",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125830/header.jpg?t=1735547163",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125830/capsule_231x87.jpg?t=1735547163",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125830/capsule_184x69.jpg?t=1735547163",
     "website": "https://yahaha.com/horror-template",
     "developers": [
       "Ning"
@@ -6479,29 +6609,43 @@
     "publishers": [
       "Yahaha Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1110028
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Killer",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       23,
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Aug, 2024"
     },
     "support_info": {
       "url": "https://yahaha.com/",
       "email": "steam@yahaha.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125830/page_bg_generated_v6b.jpg?t=1722827903",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125830/page.bg.jpg?t=1722827903",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3125830?t=1735547163",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125830/page_bg_raw.jpg?t=1735547163",
     "content_descriptors": {
       "ids": [
         2,
