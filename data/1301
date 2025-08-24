@@ -2731,9 +2731,9 @@
     "controller_support": "full",
     "short_description": "Bigflo, Oli, and McFly &amp; Carlito must find a mysterious jar of chestnut cream in a crazy 2D platform game! Switch heroes at each level, face mini-bosses, and embark on a speedrun!",
     "supported_languages": "French",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905680/9a5f8adf7fe6405135febbd41efd91c97e55108f/header.jpg?t=1754477343",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905680/b4fe6f00179c59c9cd0a4e1cacbc7491fcb6b715/capsule_231x87.jpg?t=1754477343",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905680/b4fe6f00179c59c9cd0a4e1cacbc7491fcb6b715/capsule_184x69.jpg?t=1754477343",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905680/9a5f8adf7fe6405135febbd41efd91c97e55108f/header.jpg?t=1755168777",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905680/b4fe6f00179c59c9cd0a4e1cacbc7491fcb6b715/capsule_231x87.jpg?t=1755168777",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905680/b4fe6f00179c59c9cd0a4e1cacbc7491fcb6b715/capsule_184x69.jpg?t=1755168777",
     "website": "https://melimelo-odyssee.com/the-game",
     "developers": [
       "Gaming Campus"
@@ -2762,16 +2762,19 @@
       23,
       37
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "12 Aug, 2025"
+      "coming_soon": false,
+      "date": "14 Aug, 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@melimelo-odyssee.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3905680?t=1754477343",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3905680?t=1754477343",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3905680?t=1755168777",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3905680?t=1755168777",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10053,6 +10056,78 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Gewalt"
+      }
+    }
+  },
+  "3903550": {
+    "type": "dlc",
+    "name": "X-Magnifier Premium",
+    "steam_appid": 3903550,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "X-Magnifier Premium provides masks to highlight and enhance the appearance of zoom areas.",
+    "fullgame": {
+      "appid": "3634180",
+      "name": "X-Magnifier"
+    },
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903550/0ea7bc1d38c60685ad8f3a7bbb351419f80260e3/header.jpg?t=1756049259",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903550/6787f16ea4a2c118e958e768e1c6d3044d93caba/capsule_231x87.jpg?t=1756049259",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903550/6787f16ea4a2c118e958e768e1c6d3044d93caba/capsule_184x69.jpg?t=1756049259",
+    "website": null,
+    "developers": [
+      "Eduard Kozadaev"
+    ],
+    "publishers": [
+      "Eduard Kozadaev"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      21
+    ],
+    "genres": [
+      1,
+      2,
+      37,
+      56,
+      57,
+      58
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "https://discord.gg/FPXM3Ckruj",
+      "email": ""
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3903550?t=1756049259",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3903550?t=1756049259",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
       }
     }
   }

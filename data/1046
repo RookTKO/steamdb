@@ -4442,9 +4442,9 @@
     "controller_support": "full",
     "short_description": "Bundle of Joy is a lighthearted, story-rich, minigame romp about becoming a parent during the pandemic. Complete all your child-rearing tasks, manage your stress, find time to rest, survive the day, wake up, and do it all over again. It won't be perfect, but that's ok. You're doing your best.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138370/header.jpg?t=1731082794",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138370/fbf19e2c5512251d5e80deedd7f6fec894734927/capsule_231x87.jpg?t=1731082794",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138370/fbf19e2c5512251d5e80deedd7f6fec894734927/capsule_184x69.jpg?t=1731082794",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138370/header.jpg?t=1748089769",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138370/fbf19e2c5512251d5e80deedd7f6fec894734927/capsule_231x87.jpg?t=1748089769",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138370/fbf19e2c5512251d5e80deedd7f6fec894734927/capsule_184x69.jpg?t=1748089769",
     "website": "https://essay-games.com/",
     "developers": [
       "Essay Games"
@@ -4458,31 +4458,48 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1114229
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Bundle of Joy",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       23,
       28
     ],
+    "achievements": {
+      "total": 23
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "25 Mar, 2025"
     },
     "support_info": {
       "url": "https://essay-games.com/",
       "email": "nicholas@essay-games.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138370/page_bg_generated_v6b.jpg?t=1731082794",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138370/page_bg_generated.jpg?t=1731082794",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3138370?t=1748089769",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3138370?t=1748089769",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4512,19 +4529,39 @@
     "steam_appid": 3138780,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A Doctor Simulator with a Lovecraftian twist. Use archaic medical procedures to diagnose and treat patients, but beware\u2014nightmarish entities haunt your every step, causing hallucinations, deception, and deadly consequences. Survive 30 days of perilous decisions.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Turkish, Portuguese - Brazil, Indonesian, Polish, Portuguese - Portugal, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138780/header.jpg?t=1729272680",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138780/482e944e64b2baa5050968f7e1adc42d5af968cd/capsule_231x87.jpg?t=1729272680",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138780/482e944e64b2baa5050968f7e1adc42d5af968cd/capsule_184x69.jpg?t=1729272680",
+    "short_description": "Lovecraftian Doctor Simulator. Diagnose patients by analyzing unsettling symptoms and treat them using your Book of Medicine. Make moral choices \u2014 decide who to save or kill, discover whom to trust, and unlock multiple endings! Can you endure 30 days of perilous decisions?",
+    "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Korean, Russian, Simplified Chinese, Turkish, Portuguese - Brazil, Polish, Traditional Chinese, Japanese, Portuguese - Portugal<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138780/header.jpg?t=1754773421",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138780/bed74d87b87708250641c61868460e01d3e2f9b5/capsule_231x87.jpg?t=1754773421",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138780/bed74d87b87708250641c61868460e01d3e2f9b5/capsule_184x69.jpg?t=1754773421",
     "website": null,
     "developers": [
       "Darts Games"
     ],
     "publishers": [
-      "Darts Games"
+      "Darts Games",
+      "Hawthorn Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3468320,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1114359
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Do No Harm",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4532,21 +4569,26 @@
     },
     "categories": [
       2,
-      22
+      22,
+      23,
+      62
     ],
     "genres": [
       28
     ],
+    "achievements": {
+      "total": 43
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "March 2025"
+      "coming_soon": false,
+      "date": "6 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "novruzj@darts-games.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138780/page_bg_generated_v6b.jpg?t=1729272680",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138780/page_bg_generated.jpg?t=1729272680",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3138780?t=1754773421",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3138780?t=1754773421",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4622,8 +4664,8 @@
       "url": "https://inorganicgames.com/",
       "email": "inorganicgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139080/page_bg_generated_v6b.jpg?t=1724267244",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139080/page.bg.jpg?t=1724267244",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139080?t=1724267244",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139080/page_bg_raw.jpg?t=1724267244",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4709,8 +4751,8 @@
       "url": "https://x.com/eyes_trash",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139140/page_bg_generated_v6b.jpg?t=1724883791",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139140/page_bg_generated.jpg?t=1724883791",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139140?t=1724883791",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139140?t=1724883791",
     "content_descriptors": {
       "ids": [
         1,
@@ -4751,10 +4793,10 @@
       "name": "Shujinkou"
     },
     "supported_languages": "English, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139400/header.jpg?t=1730896815",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139400/cc1e5e0a26c699c7a1c2be15a42303425d35716f/capsule_231x87.jpg?t=1730896815",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139400/cc1e5e0a26c699c7a1c2be15a42303425d35716f/capsule_184x69.jpg?t=1730896815",
-    "website": "https://shujinkou.com/",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139400/header.jpg?t=1754984646",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139400/cc1e5e0a26c699c7a1c2be15a42303425d35716f/capsule_231x87.jpg?t=1754984646",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139400/cc1e5e0a26c699c7a1c2be15a42303425d35716f/capsule_184x69.jpg?t=1754984646",
+    "website": "https://www.ricegames.net/shujinkou",
     "developers": [
       "Rice Games Inc"
     ],
@@ -4781,11 +4823,11 @@
       "date": "1 Nov, 2024"
     },
     "support_info": {
-      "url": "",
+      "url": "http://ricegames.net/contact",
       "email": "contact@ricegames.net"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139400/page_bg_generated_v6b.jpg?t=1730896815",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139400/page.bg.jpg?t=1730896815",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139400?t=1754984646",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139400/page_bg_raw.jpg?t=1754984646",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4818,9 +4860,9 @@
     "controller_support": "full",
     "short_description": "Race through haunted tracks in Monster House Racing! Choose spooky characters, wield power-ups, and outmaneuver friends or AI in this thrilling VR kart racer. Available on PSVR2, Quest, and PCVR, experience the eerie excitement of Grindstone Manor this Halloween!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139430/header.jpg?t=1730782505",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139430/21d8c348671ee9ed419ac4df9cefa55785ab02b8/capsule_231x87.jpg?t=1730782505",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139430/21d8c348671ee9ed419ac4df9cefa55785ab02b8/capsule_184x69.jpg?t=1730782505",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139430/header.jpg?t=1731690213",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139430/21d8c348671ee9ed419ac4df9cefa55785ab02b8/capsule_231x87.jpg?t=1731690213",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139430/21d8c348671ee9ed419ac4df9cefa55785ab02b8/capsule_184x69.jpg?t=1731690213",
     "website": "https://www.framelabsxr.com/projects/monster-house-racing/",
     "developers": [
       "Frame Labs"
@@ -4828,7 +4870,20 @@
     "publishers": [
       "Frame Labs"
     ],
-    "package_groups": [],
+    "packages": [
+      1114571
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Monster House Racing",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4842,7 +4897,8 @@
       37,
       49,
       52,
-      53
+      53,
+      62
     ],
     "genres": [
       1,
@@ -4850,16 +4906,19 @@
       9,
       70
     ],
+    "achievements": {
+      "total": 19
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "15 Nov, 2024"
     },
     "support_info": {
       "url": "https://www.framelabsxr.com/contact-us/",
       "email": "support@framelabs.com.au"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139430/page_bg_generated_v6b.jpg?t=1730782505",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139430/page.bg.jpg?t=1730782505",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139430?t=1731690213",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139430/page_bg_raw.jpg?t=1731690213",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4891,9 +4950,9 @@
     "is_free": true,
     "short_description": "ALTERNATIVE ACTION - GunZ: The Duel",
     "supported_languages": "Korean, English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139440/header.jpg?t=1731056918",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139440/cc8fdb61513086adc509964b49da1c0ded392c87/capsule_231x87.jpg?t=1731056918",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139440/cc8fdb61513086adc509964b49da1c0ded392c87/capsule_184x69.jpg?t=1731056918",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139440/header.jpg?t=1751520242",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139440/cc8fdb61513086adc509964b49da1c0ded392c87/capsule_231x87.jpg?t=1751520242",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139440/cc8fdb61513086adc509964b49da1c0ded392c87/capsule_184x69.jpg?t=1751520242",
     "website": "https://gz.masanggames.com/",
     "developers": [
       "Masangsoft"
@@ -4928,8 +4987,8 @@
       "url": "",
       "email": "cs@masangsoft.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139440/page_bg_generated_v6b.jpg?t=1731056918",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139440/page.bg.jpg?t=1731056918",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139440?t=1751520242",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139440/page_bg_raw.jpg?t=1751520242",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4958,13 +5017,12 @@
     "name": "The Wungo Dungo Surprise",
     "steam_appid": 3139510,
     "required_age": 0,
-    "is_free": false,
-    "controller_support": "full",
+    "is_free": true,
     "short_description": "The Wungo Dungo Surprise is a physics based local 1v1 fighting game, with no combos or roster, just 1 simple enemy to beat repeatedly. The main moves are punching, kicking and dodging, and some extra tools, a few weapons and powers.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139510/header.jpg?t=1725829703",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139510/77f26793d8c2dfc8d68cff862d9e63d474a873ca/capsule_231x87.jpg?t=1725829703",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139510/77f26793d8c2dfc8d68cff862d9e63d474a873ca/capsule_184x69.jpg?t=1725829703",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139510/header.jpg?t=1740674930",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139510/77f26793d8c2dfc8d68cff862d9e63d474a873ca/capsule_231x87.jpg?t=1740674930",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139510/77f26793d8c2dfc8d68cff862d9e63d474a873ca/capsule_184x69.jpg?t=1740674930",
     "website": null,
     "developers": [
       "Ruffy McRuffson"
@@ -4981,8 +5039,8 @@
     "categories": [
       1,
       2,
+      18,
       24,
-      28,
       37,
       44,
       49
@@ -4990,18 +5048,19 @@
     "genres": [
       1,
       4,
-      23
+      23,
+      37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "9 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "supportmail.untimed754@passinbox.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139510/page_bg_generated_v6b.jpg?t=1725829703",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139510/page_bg_generated.jpg?t=1725829703",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139510?t=1740674930",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139510?t=1740674930",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5032,11 +5091,15 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Play Meow Mission and solve a variety of puzzles to rescue cats trapped in an alien dimension! The rescued cats will be brought to the Tomcat House, where you can make memories with their unique personalities. Let's go rescue these adorable kitties!",
+    "dlc": [
+      3461700,
+      3483380
+    ],
+    "short_description": "Solve diverse Sokoban puzzles to rescue cats trapped in alien dimensions in Meow Mission! Decorate your home with furniture for the rescued cats, and create lasting memories with their unique and charming personalities!",
     "supported_languages": "English, Japanese, Korean, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139640/header.jpg?t=1730703149",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139640/a008e014b4dddbd504527ab5ad739a6261d2cf9c/capsule_231x87.jpg?t=1730703149",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139640/a008e014b4dddbd504527ab5ad739a6261d2cf9c/capsule_184x69.jpg?t=1730703149",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139640/header.jpg?t=1739331531",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139640/5c3d620a36708a29eb31b48b5cc302e2e7a96aa6/capsule_231x87.jpg?t=1739331531",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139640/5c3d620a36708a29eb31b48b5cc302e2e7a96aa6/capsule_184x69.jpg?t=1739331531",
     "website": "https://steamcommunity.com/groups/accelix",
     "developers": [
       "Accelix"
@@ -5050,32 +5113,50 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1114638
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Meow Mission",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
+      2,
       4,
       23
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "21 Nov, 2024"
     },
     "support_info": {
       "url": "http://digital-touch.co.kr/",
       "email": "master@digital-touch.co.kr"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139640/page_bg_generated_v6b.jpg?t=1730703149",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139640/page_bg_generated.jpg?t=1730703149",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139640?t=1739331531",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139640?t=1739331531",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5106,10 +5187,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "VTuber Battle: It\u2019s Not About Subscribers! It\u2019s All About Power! is a card game combined with auto-battle mechanics! You can use over 100 VTubers as protagonists. Make your favorite VTuber the hero! Win battles, acquire even stronger cards, and aim to become the strongest!",
-    "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139930/header.jpg?t=1730086673",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139930/a71badb9ffc03375808b6182315c3eddfa794411/capsule_231x87.jpg?t=1730086673",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139930/a71badb9ffc03375808b6182315c3eddfa794411/capsule_184x69.jpg?t=1730086673",
+    "supported_languages": "Japanese, English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139930/header.jpg?t=1754811622",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139930/a71badb9ffc03375808b6182315c3eddfa794411/capsule_231x87.jpg?t=1754811622",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139930/a71badb9ffc03375808b6182315c3eddfa794411/capsule_184x69.jpg?t=1754811622",
     "website": null,
     "developers": [
       "Wataritama"
@@ -5138,24 +5219,27 @@
     },
     "categories": [
       2,
+      22,
       62
     ],
     "genres": [
       3,
       4,
-      23,
-      70
+      23
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
       "coming_soon": false,
-      "date": "26 Oct, 2024"
+      "date": "18 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "grimlockun@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139930/page_bg_generated_v6b.jpg?t=1730086673",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139930/page_bg_generated.jpg?t=1730086673",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139930?t=1754811622",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3139930?t=1754811622",
     "content_descriptors": {
       "ids": [
         1,
@@ -5195,9 +5279,9 @@
     "is_free": false,
     "short_description": "There's this old 90s virtual pet game at a yard sale. It's called 'Babette'. Now you can play with Babette the cat from the comfort of your bedroom. Just you and her! Keep Babette happy by playing with her, feeding her, and more! Except... Babette's more than just a cat. And she's coming for you.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140110/header.jpg?t=1730922766",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140110/e8bd239eeb94b40ce8b2e8b0cdbde329c739d8c2/capsule_231x87.jpg?t=1730922766",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140110/e8bd239eeb94b40ce8b2e8b0cdbde329c739d8c2/capsule_184x69.jpg?t=1730922766",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140110/header.jpg?t=1744026242",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140110/e8bd239eeb94b40ce8b2e8b0cdbde329c739d8c2/capsule_231x87.jpg?t=1744026242",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140110/e8bd239eeb94b40ce8b2e8b0cdbde329c739d8c2/capsule_184x69.jpg?t=1744026242",
     "website": "https://www.roaringluck.games/",
     "developers": [
       "RoaringLuck"
@@ -5252,8 +5336,8 @@
       "url": "",
       "email": "roaringluck@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140110/page_bg_generated_v6b.jpg?t=1730922766",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140110/page.bg.jpg?t=1730922766",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140110?t=1744026242",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140110/page_bg_raw.jpg?t=1744026242",
     "content_descriptors": {
       "ids": [
         5
@@ -5285,41 +5369,76 @@
     "steam_appid": 3140120,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Discover Wordatro!, a simple and easy-to-get-into single-player roguelite. Form words to accumulate points and unlock bonuses. With over 50 bonuses and challenges to refresh each game, Wordatro! is perfect for fans of word games and strategy.",
-    "supported_languages": "English, French",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140120/header.jpg?t=1730901163",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140120/c3b29261778a6c9c12ca749e5a50cfb36ae47dc4/capsule_231x87.jpg?t=1730901163",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140120/c3b29261778a6c9c12ca749e5a50cfb36ae47dc4/capsule_184x69.jpg?t=1730901163",
+    "dlc": [
+      3819390
+    ],
+    "short_description": "Wordatro! fuses addictive word game with thrilling roguelite strategy! Spell high-scoring words, chain massive combos, and unlock game-changing bonuses. With 50+ unique upgrades and daily challenges, endless linguistic adventures await!",
+    "supported_languages": "English, French, Spanish - Spain, Simplified Chinese, Italian, German, Portuguese - Brazil, Dutch, Russian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140120/header.jpg?t=1755278003",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140120/c3b29261778a6c9c12ca749e5a50cfb36ae47dc4/capsule_231x87.jpg?t=1755278003",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140120/c3b29261778a6c9c12ca749e5a50cfb36ae47dc4/capsule_184x69.jpg?t=1755278003",
     "website": null,
     "developers": [
       "Le Poulet"
     ],
     "publishers": [
-      "Le Poulet"
+      "Abiding Bridge"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3478820,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1114789
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Wordatro!",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62,
+      66,
+      67,
+      68,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
     ],
     "genres": [
       2,
       23
     ],
+    "achievements": {
+      "total": 50
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "23 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "le.poulet.gamedev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140120/page_bg_generated_v6b.jpg?t=1730901163",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140120/page_bg_generated.jpg?t=1730901163",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140120?t=1755278003",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140120?t=1755278003",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5349,11 +5468,14 @@
     "steam_appid": 3140130,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3141760
+    ],
     "short_description": "One 4 All, All 4 One, This is a game that checks your ability to be considerate to make the world a little more peaceful.",
     "supported_languages": "Japanese, English, Simplified Chinese, Traditional Chinese, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140130/header.jpg?t=1730941746",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140130/a16a4eeb7dc460de879fe6d5eb01cc9939463cd3/capsule_231x87.jpg?t=1730941746",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140130/a16a4eeb7dc460de879fe6d5eb01cc9939463cd3/capsule_184x69.jpg?t=1730941746",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140130/header.jpg?t=1750155692",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140130/a16a4eeb7dc460de879fe6d5eb01cc9939463cd3/capsule_231x87.jpg?t=1750155692",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140130/a16a4eeb7dc460de879fe6d5eb01cc9939463cd3/capsule_184x69.jpg?t=1750155692",
     "website": null,
     "developers": [
       "G-MODE"
@@ -5361,7 +5483,20 @@
     "publishers": [
       "G-MODE"
     ],
-    "package_groups": [],
+    "packages": [
+      1114792
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy KUUKIYOMI 4: Consider It",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5371,27 +5506,32 @@
       1,
       2,
       9,
+      18,
       22,
       23,
       24,
       39,
-      44
+      44,
+      62
     ],
     "genres": [
       4,
       23,
       28
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "18 Nov, 2024"
     },
     "support_info": {
       "url": "",
       "email": "steam-develop@gmodecorp.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140130/page_bg_generated_v6b.jpg?t=1730941746",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140130/page.bg.jpg?t=1730941746",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140130?t=1750155692",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140130/page_bg_raw.jpg?t=1750155692",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5423,9 +5563,9 @@
     "is_free": false,
     "short_description": "THYSIASTERY is a dungeon crawler RPG featuring traditional roguelike and turn-based gameplay. Command a party of bearers of the Brand, drawn into a vast Labyrinth. Recruit while exploring the Labyrinth in hope of finding a way out, and its secrets will be revealed as you delve deeper.",
     "supported_languages": "English, Japanese, Korean, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140180/header.jpg?t=1730826894",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140180/65a912f22e1cbe45d0dc885bfd5816e0c9e7d893/capsule_231x87.jpg?t=1730826894",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140180/65a912f22e1cbe45d0dc885bfd5816e0c9e7d893/capsule_184x69.jpg?t=1730826894",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140180/header.jpg?t=1755174152",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140180/1f5d15a631af1236b04c51049bad59a3ebb71b98/capsule_231x87.jpg?t=1755174152",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140180/1f5d15a631af1236b04c51049bad59a3ebb71b98/capsule_184x69.jpg?t=1755174152",
     "website": "https://www.thysiastery.com",
     "developers": [
       "DIRGA"
@@ -5433,17 +5573,24 @@
     "publishers": [
       "DIRGA"
     ],
+    "demos": [
+      {
+        "appid": 3492680,
+        "description": ""
+      }
+    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
       13,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       3,
@@ -5451,14 +5598,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q2 2025"
+      "date": "2025"
     },
     "support_info": {
-      "url": "",
+      "url": "https://thysiastery.com/",
       "email": "support@thysiastery.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140180/page_bg_generated_v6b.jpg?t=1730826894",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140180/page.bg.jpg?t=1730826894",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140180?t=1755174152",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140180/page_bg_raw.jpg?t=1755174152",
     "content_descriptors": {
       "ids": [
         5
@@ -5492,9 +5639,9 @@
     "is_free": false,
     "short_description": "Strive to survive in this endless side scroller as your drunken driver tries to see how far they can go. Avoid crashing into the other drivers in your way and avoid capture by the police using powerups and upgrades collected throughout your run to enhance your experience.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140230/header.jpg?t=1730873900",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140230/capsule_231x87.jpg?t=1730873900",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140230/capsule_184x69.jpg?t=1730873900",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140230/header.jpg?t=1740418356",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140230/capsule_231x87.jpg?t=1740418356",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140230/capsule_184x69.jpg?t=1740418356",
     "website": null,
     "developers": [
       "a stick"
@@ -5511,7 +5658,8 @@
     "categories": [
       2,
       18,
-      22
+      22,
+      62
     ],
     "genres": [
       4,
@@ -5526,8 +5674,8 @@
       "url": "",
       "email": "drunkassistance1@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140230/page_bg_generated_v6b.jpg?t=1730873900",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140230/page_bg_generated.jpg?t=1730873900",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140230?t=1740418356",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140230?t=1740418356",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5558,10 +5706,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "PiMon are virtual pets that live right on your PC! Take care of your PiMon while you do your daily tasks. Train them, update them into new forms, raise PiMon together or battle with your friends. Or do none of that and raise your PiMon your way! Welcome Admin, what kind of PiMon will you raise?",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Portugal, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140340/header.jpg?t=1730663484",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140340/621981a70d81b475c0e6be03deb5e85d2e39f312/capsule_231x87.jpg?t=1730663484",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140340/621981a70d81b475c0e6be03deb5e85d2e39f312/capsule_184x69.jpg?t=1730663484",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140340/header.jpg?t=1736510270",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140340/621981a70d81b475c0e6be03deb5e85d2e39f312/capsule_231x87.jpg?t=1736510270",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140340/621981a70d81b475c0e6be03deb5e85d2e39f312/capsule_184x69.jpg?t=1736510270",
     "website": "https://hatcatgames.wixsite.com/hatcatgames",
     "developers": [
       "HatCatGames"
@@ -5569,7 +5717,26 @@
     "publishers": [
       "HatCatGames"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3352410,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1114860
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy PiMon",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5584,7 +5751,8 @@
       24,
       37,
       44,
-      49
+      49,
+      62
     ],
     "genres": [
       3,
@@ -5592,16 +5760,19 @@
       23,
       28
     ],
+    "achievements": {
+      "total": 27
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "10 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "hatcatgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140340/page_bg_generated_v6b.jpg?t=1730663484",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140340/page.bg.jpg?t=1730663484",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140340?t=1736510270",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140340/page_bg_raw.jpg?t=1736510270",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5627,15 +5798,15 @@
   },
   "3140620": {
     "type": "game",
-    "name": "C.A.S.T.",
+    "name": "C.A.S.T. (CHERNOZEM ANOMALY STRIKE TEAM)",
     "steam_appid": 3140620,
     "required_age": 0,
     "is_free": false,
-    "short_description": "C.A.S.T is a third-person shooter game. Choose your character and gear. Navigate through a mix of handcrafted and procedural levels. Either play alone or with other players, your goal is to defeat anomalies and ensure the survival of CHERNOZEM.",
-    "supported_languages": "English<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140620/header.jpg?t=1730834797",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140620/ede9c45a93909adc7cd9dc802bacb520fb60eeeb/capsule_231x87.jpg?t=1730834797",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140620/ede9c45a93909adc7cd9dc802bacb520fb60eeeb/capsule_184x69.jpg?t=1730834797",
+    "short_description": "C.A.S.T is a third-person PvE extraction shooter playable solo or in co-op. Select your character and loadout to battle enemy hordes, evade anomalies, and complete objectives across handcrafted maps with dynamic procedural elements.",
+    "supported_languages": "English<strong>*</strong>, Russian, Simplified Chinese, German<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140620/55db28c57a15f1ddc77454d9f1fe2a11217a1dd6/header_alt_assets_4.jpg?t=1752481894",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140620/c27a5125c3daa7b0b2f52486db5282586392edfd/capsule_231x87_alt_assets_4.jpg?t=1752481894",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140620/c27a5125c3daa7b0b2f52486db5282586392edfd/capsule_184x69_alt_assets_4.jpg?t=1752481894",
     "website": null,
     "developers": [
       "Ascension Studio"
@@ -5643,7 +5814,20 @@
     "publishers": [
       "Ascension Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1114945
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy C.A.S.T. (CHERNOZEM ANOMALY STRIKE TEAM)",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5654,24 +5838,29 @@
       2,
       9,
       22,
-      38
+      23,
+      29,
+      38,
+      62
     ],
     "genres": [
       1,
       23,
-      29,
-      70
+      29
     ],
+    "achievements": {
+      "total": 69
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "14 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "indraayy322@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140620/page_bg_generated_v6b.jpg?t=1730834797",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140620/page.bg.jpg?t=1730834797",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140620?t=1752481894",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140620/page_bg_raw.jpg?t=1752481894",
     "content_descriptors": {
       "ids": [
         5
@@ -5846,11 +6035,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "High Score is a thrilling top-down arena shooter where you face off against relentless waves of numerical enemies. Rack up points and earn medals to unlock a variety of unique classes and powerful items. Dive into the action, enhance your arsenal, and aim for the highest score!",
+    "short_description": "High Score is a top-down arena shooter where you face off against relentless waves of numerical enemies. Rack up points and earn medals to unlock a variety of unique classes and powerful items. Dive into the action, enhance your arsenal, and aim for the highest score!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138210/header.jpg?t=1727818945",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138210/capsule_231x87.jpg?t=1727818945",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138210/capsule_184x69.jpg?t=1727818945",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138210/header.jpg?t=1754586686",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138210/4ff575c9afa0deb60f7417f08ed191307f284bc5/capsule_231x87.jpg?t=1754586686",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138210/4ff575c9afa0deb60f7417f08ed191307f284bc5/capsule_184x69.jpg?t=1754586686",
     "website": null,
     "developers": [
       "NaKoGames"
@@ -5864,7 +6053,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1114178
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy High Score",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5874,21 +6076,25 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1
     ],
+    "achievements": {
+      "total": 89
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "nakodev01@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138210/page_bg_generated_v6b.jpg?t=1727818945",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138210/page_bg_generated.jpg?t=1727818945",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3138210?t=1754586686",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3138210?t=1754586686",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5920,9 +6126,9 @@
     "is_free": false,
     "short_description": "A Cookie Clicker-style hentai game where the protagonist ends up with a wolf-girl as his roommate. As you gather clicks and resources, you unlock increasingly intimate interactions and special moments with her, deepening your bond and uncovering her true nature.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138460/header.jpg?t=1729215417",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138460/3ab6afbbb773da12fccf2ce12f315d22e2af837e/capsule_231x87.jpg?t=1729215417",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138460/3ab6afbbb773da12fccf2ce12f315d22e2af837e/capsule_184x69.jpg?t=1729215417",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138460/header.jpg?t=1731192827",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138460/3ab6afbbb773da12fccf2ce12f315d22e2af837e/capsule_231x87.jpg?t=1731192827",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138460/3ab6afbbb773da12fccf2ce12f315d22e2af837e/capsule_184x69.jpg?t=1731192827",
     "website": null,
     "developers": [
       "NyakuGames"
@@ -5930,7 +6136,20 @@
     "publishers": [
       "NyakuGames"
     ],
-    "package_groups": [],
+    "packages": [
+      1114257
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy WolfGirl RoomMate",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5938,21 +6157,25 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       23
     ],
+    "achievements": {
+      "total": 34
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "9 Nov, 2024"
     },
     "support_info": {
       "url": "",
       "email": "nyakugames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138460/page_bg_generated_v6b.jpg?t=1729215417",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138460/page_bg_generated.jpg?t=1729215417",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3138460?t=1731192827",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3138460?t=1731192827",
     "content_descriptors": {
       "ids": [
         1,
@@ -5987,11 +6210,12 @@
     "steam_appid": 3138940,
     "required_age": 0,
     "is_free": true,
+    "controller_support": "full",
     "short_description": "Take a walk thru our store and checkout some of the highest quality real-world crossbows on the market. Take them for a test in our practice range and find your favorite before heading out into the woods. Hunt bear, deer and fox from the ground or up in a treestand.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138940/header.jpg?t=1731085426",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138940/1ef990daf62fe53d552447fc87ef815076f89e6a/capsule_231x87.jpg?t=1731085426",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138940/1ef990daf62fe53d552447fc87ef815076f89e6a/capsule_184x69.jpg?t=1731085426",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138940/header.jpg?t=1733944529",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138940/1ef990daf62fe53d552447fc87ef815076f89e6a/capsule_231x87.jpg?t=1733944529",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138940/1ef990daf62fe53d552447fc87ef815076f89e6a/capsule_184x69.jpg?t=1733944529",
     "website": null,
     "developers": [
       "Verumbit"
@@ -6006,7 +6230,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      28
     ],
     "genres": [
       18,
@@ -6022,8 +6247,8 @@
       "url": "https://wyverncreationscrossbowhunter.godaddysites.com/",
       "email": "wyverncreations@comcast.net"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138940/page_bg_generated_v6b.jpg?t=1731085426",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138940/page.bg.jpg?t=1731085426",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3138940?t=1733944529",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138940/page_bg_raw.jpg?t=1733944529",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6095,8 +6320,8 @@
       "url": "https://caravansandwitch.com/",
       "email": "thewitch@caravansandwitch.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140220/page_bg_generated_v6b.jpg?t=1726153228",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140220/page_bg_generated.jpg?t=1726153228",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140220?t=1726153228",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3140220?t=1726153228",
     "content_descriptors": {
       "ids": [],
       "notes": null
