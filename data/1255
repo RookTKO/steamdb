@@ -9584,13 +9584,12 @@
     "is_free": false,
     "short_description": "Refuel your bike, deliver orders, manage your stock and grow your tiny market into a local legend. A cozy yet chaotic multiplayer courier simulator where every second counts!",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Dutch, Japanese, Korean, Portuguese - Portugal, Russian, Turkish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765300/985ac1e6d6e1abfaa173f53c6287c2d99b5575fb/header.jpg?t=1749786284",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765300/85aba7c749aa01ecd392d532b58d245b7654796b/capsule_231x87.jpg?t=1749786284",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765300/85aba7c749aa01ecd392d532b58d245b7654796b/capsule_184x69.jpg?t=1749786284",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765300/985ac1e6d6e1abfaa173f53c6287c2d99b5575fb/header.jpg?t=1755657257",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765300/85aba7c749aa01ecd392d532b58d245b7654796b/capsule_231x87.jpg?t=1755657257",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765300/85aba7c749aa01ecd392d532b58d245b7654796b/capsule_184x69.jpg?t=1755657257",
     "website": null,
     "developers": [
-      "Ali Tokba\u015f",
-      "Talha K\u00fc\u00e7\u00fck\u00f6ner"
+      "Crixel Games"
     ],
     "publishers": [
       "Crixel Games"
@@ -9606,7 +9605,10 @@
       2,
       9,
       38,
-      62
+      62,
+      69,
+      74,
+      79
     ],
     "genres": [
       4,
@@ -9619,11 +9621,11 @@
       "date": "Coming soon"
     },
     "support_info": {
-      "url": "",
+      "url": "https://www.crixelgames.com/",
       "email": "info@crixelgames.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765300?t=1749786284",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765300/c8c8fadf72c8f24cd4cfd873652b24681e682d59/page_bg_raw.jpg?t=1749786284",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3765300?t=1755657257",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765300/c8c8fadf72c8f24cd4cfd873652b24681e682d59/page_bg_raw.jpg?t=1755657257",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9653,11 +9655,11 @@
     "steam_appid": 3766900,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Learn English passively \u2014 even while gaming or working! An overlay displays the words you\u2019re learning right on top of games or any other apps, allowing you to study the language even during matches, quests, or work. Go through interactive flashcards, improve your vocabulary, and track your progress.",
-    "supported_languages": "Russian, English, Turkish, Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766900/59e998c4a616311ea1f9a4b8c4d0ad6618084033/header.jpg?t=1749755807",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766900/4d758c833046f82a109166723877186a7fa34b52/capsule_231x87.jpg?t=1749755807",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766900/4d758c833046f82a109166723877186a7fa34b52/capsule_184x69.jpg?t=1749755807",
+    "short_description": "Learn English passively \u2014 while gaming, working, or studying! A smart overlay shows words on top of any application \u2014 whether it's a match, a quest, or a work task. Just glance at the words and memorize them without breaking your focus.",
+    "supported_languages": "Russian, English, Turkish, Portuguese - Brazil, Spanish - Latin America",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766900/59e998c4a616311ea1f9a4b8c4d0ad6618084033/header.jpg?t=1753454145",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766900/4d758c833046f82a109166723877186a7fa34b52/capsule_231x87.jpg?t=1753454145",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766900/4d758c833046f82a109166723877186a7fa34b52/capsule_184x69.jpg?t=1753454145",
     "website": null,
     "developers": [
       "EasyDev"
@@ -9665,26 +9667,46 @@
     "publishers": [
       "EasyDev"
     ],
-    "package_groups": [],
+    "packages": [
+      1325455
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy English Boost",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
+    "categories": [
+      17,
+      22
+    ],
     "genres": [
       23,
       54
     ],
+    "achievements": {
+      "total": 17
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "June 2025"
+      "coming_soon": false,
+      "date": "25 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "ssvv7215@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3766900?t=1749755807",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3766900?t=1749755807",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3766900?t=1753454145",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3766900?t=1753454145",
     "content_descriptors": {
       "ids": [],
       "notes": null

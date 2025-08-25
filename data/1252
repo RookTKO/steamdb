@@ -5386,7 +5386,11 @@
     },
     "categories": [
       2,
-      10
+      10,
+      68,
+      69,
+      74,
+      76
     ],
     "release_date": {
       "coming_soon": false,
@@ -5429,17 +5433,30 @@
     "is_free": false,
     "short_description": "Penguin Rocketeer is a fun, frantic flying game in which you help the penguin reach the moon, bouncing on clouds to propel you into the skies, and collecting as many coins, diamonds and other collectables as you can along the way!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757920/4fc739f8e4e9fab784c2a8caa9daac9f7e413554/header.jpg?t=1748416055",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757920/80f2449d4ea7e3c3a8a8c253a9bcaf5b4a5cd641/capsule_231x87.jpg?t=1748416055",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757920/80f2449d4ea7e3c3a8a8c253a9bcaf5b4a5cd641/capsule_184x69.jpg?t=1748416055",
-    "website": "https://x.com/keyjoker_com",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757920/4fc739f8e4e9fab784c2a8caa9daac9f7e413554/header.jpg?t=1751041440",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757920/80f2449d4ea7e3c3a8a8c253a9bcaf5b4a5cd641/capsule_231x87.jpg?t=1751041440",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757920/80f2449d4ea7e3c3a8a8c253a9bcaf5b4a5cd641/capsule_184x69.jpg?t=1751041440",
+    "website": "https://x.com/KeyjokerGames",
     "developers": [
       "Keyjoker Games"
     ],
     "publishers": [
       "Keyjoker Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1322438
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Penguin Rocketeer",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5455,15 +5472,15 @@
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Q2 2025"
+      "coming_soon": false,
+      "date": "27 Jun, 2025"
     },
     "support_info": {
-      "url": "https://x.com/keyjoker_com",
+      "url": "https://x.com/KeyjokerGames",
       "email": "support@keyjoker.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3757920?t=1748416055",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3757920?t=1748416055",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3757920?t=1751041440",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3757920?t=1751041440",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5573,17 +5590,23 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Global Championship Ignites! Rise from unknown rookie to racing star. Master extreme drifts and nitro boosts on iconic tracks worldwide. Experience refreshing driving systems, multi-mode races, and rich main/sub storylines. Uncover tournament conspiracies and battle with overdrive AI!",
+    "short_description": "Global Championship Ignites! Rise from unknown rookie to racing star. Master extreme drifts and nitro boosts on iconic tracks worldwide. Experience refreshing driving systems, multi-mode races, and rich main/sub storylines. Uncover tournament conspiracies and battle with overdrive super AI!",
     "supported_languages": "English<strong>*</strong>, Simplified Chinese, Russian, Japanese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756020/b28e58478f4455663fa80ed5a2aef33bb7b9f913/header.jpg?t=1748532197",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756020/538ea502d07cedef679f88213916a3fa2a83bb77/capsule_231x87.jpg?t=1748532197",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756020/538ea502d07cedef679f88213916a3fa2a83bb77/capsule_184x69.jpg?t=1748532197",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756020/012f569bbd7f321b5416bacd91177eef0665f7b9/header.jpg?t=1754903871",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756020/90f540277ebe5766ff5a76b9b3dfa3cfc0422b39/capsule_231x87.jpg?t=1754903871",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756020/90f540277ebe5766ff5a76b9b3dfa3cfc0422b39/capsule_184x69.jpg?t=1754903871",
     "website": null,
     "developers": [
-      "Integer games"
+      "IntActive"
     ],
     "publishers": [
       "\u4e0a\u6d77\u671d\u7f8a\u79d1\u6280\u6709\u9650\u516c\u53f8"
+    ],
+    "demos": [
+      {
+        "appid": 3899240,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5593,6 +5616,8 @@
     },
     "categories": [
       2,
+      15,
+      22,
       28,
       62,
       67,
@@ -5602,7 +5627,10 @@
       75
     ],
     "genres": [
-      9
+      1,
+      3,
+      9,
+      25
     ],
     "release_date": {
       "coming_soon": true,
@@ -5612,8 +5640,8 @@
       "url": "",
       "email": "licao_2007@163.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3756020?t=1748532197",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756020/21e157874caa55e9d01f5f852f0c027945593991/page_bg_raw.jpg?t=1748532197",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3756020?t=1754903871",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756020/c3a9f32aef0843c7b4f5010d2e7dc0bc8c9d0656/page_bg_raw.jpg?t=1754903871",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5827,9 +5855,9 @@
     "controller_support": "full",
     "short_description": "A dark power is rising. Defeat the necromancer and his generals before they conquer the kingdom. In this old school dark fantasy RPG, explore cursed dungeons, battle monstrous foes, master forbidden magic, and gather powerful loot in a world teetering on the edge of ruin.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Thai, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758090/dab1d58fb062b55bfe0a010c0037d1081de3db0f/header.jpg?t=1748447058",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758090/f4d52bb72f6d3d4e838aa9cfae5b337de7f2b905/capsule_231x87.jpg?t=1748447058",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758090/f4d52bb72f6d3d4e838aa9cfae5b337de7f2b905/capsule_184x69.jpg?t=1748447058",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758090/dab1d58fb062b55bfe0a010c0037d1081de3db0f/header.jpg?t=1753999076",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758090/f4d52bb72f6d3d4e838aa9cfae5b337de7f2b905/capsule_231x87.jpg?t=1753999076",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758090/f4d52bb72f6d3d4e838aa9cfae5b337de7f2b905/capsule_184x69.jpg?t=1753999076",
     "website": "https://linktr.ee/necrofane",
     "developers": [
       "Millennium Bound"
@@ -5877,8 +5905,8 @@
       "url": "",
       "email": "support@necrofane.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3758090?t=1748447058",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3758090?t=1748447058",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3758090?t=1753999076",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3758090?t=1753999076",
     "content_descriptors": {
       "ids": [
         2,
@@ -5933,7 +5961,8 @@
       "linux": false
     },
     "categories": [
-      10
+      10,
+      75
     ],
     "achievements": {
       "total": 9
@@ -6331,10 +6360,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "&quot;Your job is to write the death certificate.&quot; Investigate a mysterious death in a grand British manor, 1959. Explore eerie scenes and complete forensic documents like death certificates and medical reports. Stylish 1960s detective comic art. Perfect for fans of vintage whodunits.",
-    "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/73da3401274b260e1b03856f8fdc3fd07e810f6d/header.jpg?t=1748793044",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/1e1b877a31671be0266f963b2a632f7d6576c24d/capsule_231x87.jpg?t=1748793044",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/1e1b877a31671be0266f963b2a632f7d6576c24d/capsule_184x69.jpg?t=1748793044",
+    "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese, Korean, French, Italian, German, Spanish - Spain, Portuguese - Portugal",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/970cfebcd31dd65dfebc595b843ae6dcfcadcd8b/header.jpg?t=1755593921",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/1a74f86bf5700657e1af1c959c2b696cf4b1b1ca/capsule_231x87.jpg?t=1755593921",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/1a74f86bf5700657e1af1c959c2b696cf4b1b1ca/capsule_184x69.jpg?t=1755593921",
     "website": "https://www.superthumb.net/flemingmanor",
     "developers": [
       "SUPERTHUMb"
@@ -6365,13 +6394,13 @@
       "url": "https://www.superthumb.net/flemingmanor",
       "email": "superthumbgames@hotmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3758950?t=1748793044",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/12279127772f553967393545878000f475515ba0/page_bg_raw.jpg?t=1748793044",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3758950?t=1755593921",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/12279127772f553967393545878000f475515ba0/page_bg_raw.jpg?t=1755593921",
     "content_descriptors": {
       "ids": [
         5
       ],
-      "notes": "The game showcases murder crime scenes captured in freeze frames, illustrated with a vintage comic book aesthetic.\r\nThe game includes visual and textual mentions of alcohol and tobacco use.\r\n"
+      "notes": "The game showcases murder crime scenes captured in freeze frames, illustrated with a vintage comic book aesthetic. The game includes visual and textual mentions of alcohol and tobacco.\r\n"
     },
     "ratings": {
       "dejus": {
@@ -6464,15 +6493,15 @@
   },
   "3756160": {
     "type": "game",
-    "name": "\u8fd9\u5bb6\u5f53\u94fa\u6709\u5927\u95ee\u9898",
+    "name": "KONO Pawn",
     "steam_appid": 3756160,
     "required_age": 0,
     "is_free": false,
-    "short_description": "\u5173\u4e8e\u6211\u7684\u5f53\u94fa\u603b\u6536\u5230\u79bb\u8c31\u7269\u54c1\u8fd9\u4ef6\u4e8b\uff1f\uff01\u8521\u865a\u5764\u4f7f\u7528\u4e24\u5e74\u534a\u7684\u7bee\u7403\uff1f\u65fa\u5927\u4e1c\u7684\u9f99\u7eb9\u9ccc\uff1f\u8fd8\u6709\u738b\u9ebb\u5b50\u7684\u9b42\u5e61\uff1fWhat\uff01\u7ba1\u4ed6\u5462\uff01\u4e0d\u7ba1\u4ec0\u4e48\u7269\u54c1\uff0c\u7edf\u7edf\u4f4e\u4ef7\u56de\u6536\uff0c\u9ad8\u4ef7\u5356\u51fa\uff01\u6ca1\u65f6\u95f4\u89e3\u91ca\u4e86\uff0c\u73b0\u5728\u5c31\u5f00\u59cb\u4ea4\u6613\u5427\uff01",
-    "supported_languages": "Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756160/1ee7acde6ac1c7335f54fdb28713fdab0d50c2b1/header.jpg?t=1749648408",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756160/0ddce7921cd745b498e8bc40d8ed5741bc18af1d/capsule_231x87.jpg?t=1749648408",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756160/0ddce7921cd745b498e8bc40d8ed5741bc18af1d/capsule_184x69.jpg?t=1749648408",
+    "short_description": "Dragon Balls? Death Note? Excalibur? Are you serious? But for an anime lover, I am in! Hey\uff0cYou, Bring that thing\uff01",
+    "supported_languages": "Simplified Chinese, English, Traditional Chinese, Japanese, Korean, Russian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756160/e48126501241bdd1e3c565f95f3ce854f28cf06e/header.jpg?t=1755584645",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756160/d0a7ba64de34e0d0d1238567ed68e0d30f7efbbe/capsule_231x87.jpg?t=1755584645",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756160/d0a7ba64de34e0d0d1238567ed68e0d30f7efbbe/capsule_184x69.jpg?t=1755584645",
     "website": null,
     "developers": [
       "Croc to the moon"
@@ -6488,6 +6517,7 @@
     },
     "categories": [
       2,
+      13,
       62,
       68,
       74,
@@ -6496,19 +6526,18 @@
     ],
     "genres": [
       4,
-      23,
       28
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q3 2025"
+      "date": "Q4 2025"
     },
     "support_info": {
       "url": "",
       "email": "elias980815@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3756160?t=1749648408",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3756160?t=1749648408",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3756160?t=1755584645",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3756160?t=1755584645",
     "content_descriptors": {
       "ids": [],
       "notes": null
