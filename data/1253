@@ -2005,9 +2005,9 @@
     "is_free": true,
     "short_description": "In this unique game, you get to see what a two-dimensional world composed of multicolored lines looks like from the perspective of the main character, Linus. Whereas you and I see our 3D world as a series of 2D images, Linus sees his 2D world in one dimension: as a single vertical line!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760780/f9aa5723f334a9e375355c29523138014fd1f488/header.jpg?t=1749840188",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760780/49f587ac6af4ba28a0f3e20e2567d16f67048f75/capsule_231x87.jpg?t=1749840188",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760780/49f587ac6af4ba28a0f3e20e2567d16f67048f75/capsule_184x69.jpg?t=1749840188",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760780/f9aa5723f334a9e375355c29523138014fd1f488/header.jpg?t=1750265471",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760780/49f587ac6af4ba28a0f3e20e2567d16f67048f75/capsule_231x87.jpg?t=1750265471",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760780/49f587ac6af4ba28a0f3e20e2567d16f67048f75/capsule_184x69.jpg?t=1750265471",
     "website": null,
     "developers": [
       "Jacob Chmielecki"
@@ -2018,8 +2018,8 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
@@ -2036,8 +2036,8 @@
       "url": "",
       "email": "jacobc3988@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3760780?t=1749840188",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3760780?t=1749840188",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3760780?t=1750265471",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3760780?t=1750265471",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5787,11 +5787,11 @@
     "steam_appid": 3759840,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A dystopian detective thriller about justice, identity, and the limits of loyalty. As Major Reiko Kurosawa, you\u2019ve always followed the law \u2014 until a murder forces you to question if order is the same as justice. In a city ruled by synthetic peace, how far will you go to uncover the truth?",
+    "short_description": "A dark retro-style Souls-like where defeating bosses brings more than victory \u2014 uncover hidden pleasures along the way. Fight deadly foes, explore a crumbling kingdom, and unlock explicit, animated NSFW scenes \u2014 all by choice.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759840/32d42c6194ec6fe664008cff1162c5cdc4d0c3a8/header.jpg?t=1749779799",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759840/3a7b4b6668abd3cf2d6fca4bfcfc0850ba59ddc4/capsule_231x87.jpg?t=1749779799",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759840/3a7b4b6668abd3cf2d6fca4bfcfc0850ba59ddc4/capsule_184x69.jpg?t=1749779799",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759840/7d08769434ce1af5c7aef4d6218af190d2dfb7ad/header.jpg?t=1755889348",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759840/110341343a5e9baf670a1f72d01c4bce5b92912a/capsule_231x87.jpg?t=1755889348",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759840/110341343a5e9baf670a1f72d01c4bce5b92912a/capsule_184x69.jpg?t=1755889348",
     "website": null,
     "developers": [
       "Artsiom Tsiareshka"
@@ -5799,7 +5799,20 @@
     "publishers": [
       "Artsiom Tsiareshka"
     ],
-    "package_groups": [],
+    "packages": [
+      1323087
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Obnulenie",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5807,30 +5820,36 @@
     },
     "categories": [
       2,
+      22,
       62
     ],
     "genres": [
+      1,
       23,
       25
     ],
+    "achievements": {
+      "total": 22
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "June 2025"
+      "coming_soon": false,
+      "date": "22 Aug, 2025"
     },
     "support_info": {
       "url": "",
       "email": "watdugs@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3759840?t=1749779799",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3759840?t=1749779799",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3759840?t=1755889348",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3759840?t=1755889348",
     "content_descriptors": {
       "ids": [
         1,
+        2,
         3,
         4,
         5
       ],
-      "notes": "Mature Content Description\r\nThis game contains content not appropriate for all ages, players may encounter scenes that include, explicit sexual content and nudity, strong language, themes of coercion, and disturbing imagery, depictions of violence, including murder and assault, investigative material related to sexual crimes, psychological distress, manipulation, and morally ambiguous choices. Sexual assault is only presented through non-interactive evidence scenes \u2014 such as video logs \u2014 as part of the criminal investigation. These moments are not playable or controllable."
+      "notes": "Contains nudity, sexual themes, and adult content \u2014 all optional, consensual, and tied to player-driven decisions."
     },
     "ratings": {
       "dejus": {
@@ -5839,7 +5858,7 @@
         "required_age": "18",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Nudez\nViol\u00eancia\nTemas sens\u00edveis"
+        "descriptors": "Nudez\nViol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -5847,7 +5866,7 @@
         "required_age": "2147483647",
         "banned": "1",
         "use_age_gate": "0",
-        "descriptors": "Sexualisierte Gewalt / Sexual violence\nDrastische Gewalt\nAlkohol / Tabak"
+        "descriptors": "Sexuelle Inhalte\nDrastische Gewalt"
       }
     }
   },
@@ -13279,5 +13298,77 @@
       "notes": null
     },
     "ratings": null
+  },
+  "3761560": {
+    "type": "game",
+    "name": "Rising Odds",
+    "steam_appid": 3761560,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Participate in the Death Game &quot;Rising Odds&quot;, a psychological horror visual novel, with dark and gore themes. Your choices will decide how this story ends!",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3761560/0346ed17b62ed72c993acba1ea80b04f70795573/header.jpg?t=1756298964",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3761560/eb199e1912be932081c02a6f7e964fac3106fa7a/capsule_231x87.jpg?t=1756298964",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3761560/eb199e1912be932081c02a6f7e964fac3106fa7a/capsule_184x69.jpg?t=1756298964",
+    "website": null,
+    "developers": [
+      "Lone Fox Studio"
+    ],
+    "publishers": [
+      "Lone Fox Studio"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      62,
+      74,
+      75,
+      76,
+      79
+    ],
+    "genres": [
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "",
+      "email": "lonefoxstudio.dev@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3761560?t=1756298964",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3761560?t=1756298964",
+    "content_descriptors": {
+      "ids": [
+        2,
+        5
+      ],
+      "notes": "Contains intense violence, death, blood and gore."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nTemas sens\u00edveis\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt\nDerbe Sprache"
+      }
+    }
   }
 }
