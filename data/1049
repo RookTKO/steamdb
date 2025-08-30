@@ -11355,8 +11355,8 @@
       "url": "https://alephone.lhowon.org",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149760/page_bg_generated_v6b.jpg?t=1724340539",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149760/page_bg_generated.jpg?t=1724340539",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149760?t=1724340539",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149760?t=1724340539",
     "content_descriptors": {
       "ids": [
         2,
@@ -11429,7 +11429,7 @@
       4
     ],
     "achievements": {
-      "total": 37
+      "total": 32
     },
     "release_date": {
       "coming_soon": false,
@@ -11439,8 +11439,8 @@
       "url": "",
       "email": "2641108514@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149800/page_bg_generated_v6b.jpg?t=1728893083",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149800/page.bg.jpg?t=1728893083",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149800?t=1728893083",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149800/page_bg_raw.jpg?t=1728893083",
     "content_descriptors": {
       "ids": [
         1,
@@ -11476,9 +11476,9 @@
     "is_free": false,
     "short_description": "Eliminate monsters, receive rewards, improve abilities. Use party skills. Unique skills and 4 random passive skills. Form parties regardless of class.",
     "supported_languages": "Korean, English, Japanese, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149810/header.jpg?t=1725435819",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149810/63994b57859b9881187e5d5feb2ee490a6d57fa4/capsule_231x87.jpg?t=1725435819",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149810/63994b57859b9881187e5d5feb2ee490a6d57fa4/capsule_184x69.jpg?t=1725435819",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149810/header.jpg?t=1736502788",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149810/3687d76defd117cf3943b7c376f740a15ab246a9/capsule_231x87.jpg?t=1736502788",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149810/3687d76defd117cf3943b7c376f740a15ab246a9/capsule_184x69.jpg?t=1736502788",
     "website": null,
     "developers": [
       "BIGXL"
@@ -11507,6 +11507,7 @@
     },
     "categories": [
       2,
+      23,
       62
     ],
     "genres": [
@@ -11522,8 +11523,8 @@
       "url": "",
       "email": "youl@bigxl.net"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149810/page_bg_generated_v6b.jpg?t=1725435819",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149810/page.bg.jpg?t=1725435819",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149810?t=1736502788",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149810/page_bg_raw.jpg?t=1736502788",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11555,9 +11556,9 @@
     "is_free": false,
     "short_description": "&quot;My Aquarium&quot; runs at the bottom of the screen while you are doing other things, making it an idle aquarium simulator you can enjoy comfortably.",
     "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese, Korean, French, Italian, German, Spanish - Spain, Russian, Portuguese - Brazil",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149820/header.jpg?t=1731412210",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149820/capsule_231x87.jpg?t=1731412210",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149820/capsule_184x69.jpg?t=1731412210",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149820/header.jpg?t=1735056187",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149820/capsule_231x87.jpg?t=1735056187",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149820/capsule_184x69.jpg?t=1735056187",
     "website": null,
     "developers": [
       "Golden Pick Games"
@@ -11565,7 +11566,20 @@
     "publishers": [
       "Golden Pick Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1118093
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy My Aquarium",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -11574,24 +11588,26 @@
     "categories": [
       2,
       22,
-      23,
-      30
+      62
     ],
     "genres": [
       4,
       23,
       28
     ],
+    "achievements": {
+      "total": 25
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "22 Dec, 2024"
+      "coming_soon": false,
+      "date": "23 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "contact@goldenpickgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149820/page_bg_generated_v6b.jpg?t=1731412210",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149820/page.bg.jpg?t=1731412210",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149820?t=1735056187",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149820/page_bg_raw.jpg?t=1735056187",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11643,7 +11659,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -11658,8 +11675,8 @@
       "url": "",
       "email": "kerblerusstudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149830/page_bg_generated_v6b.jpg?t=1727361332",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149830/page_bg_generated.jpg?t=1727361332",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149830?t=1727361332",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149830?t=1727361332",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11691,9 +11708,9 @@
     "is_free": false,
     "short_description": "\u0420\u044b\u0431\u0430\u043b\u043a\u0430 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0431\u044b\u043b\u0430 \u0441\u043a\u0443\u0447\u043d\u044b\u043c \u0437\u0430\u043d\u044f\u0442\u0438\u0435\u043c \u0438 \u043e\u043d\u0430 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0431\u044b\u043b\u0430 \u043d\u0430 \u0441\u0442\u043e\u043b\u044c\u043a\u043e \u0432\u0435\u0441\u0451\u043b\u043e\u0439 \u0438 \u0438\u043c\u043c\u0435\u0440\u0441\u0438\u0432\u043d\u043e\u0439! \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0441\u044f \u043a \u0440\u044f\u0434\u0430\u043c \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0445 \u0441\u043a\u0443\u0444\u043e\u0432, \u043b\u043e\u0432\u0438 \u0440\u044b\u0431\u0443 \u0438 \u0432\u0435\u0441\u0435\u043b\u0438\u0441\u044c",
     "supported_languages": "Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149840/header.jpg?t=1729039744",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149840/794b6f7f6fbac5bf8a87730573e846078d4d8eaf/capsule_231x87.jpg?t=1729039744",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149840/794b6f7f6fbac5bf8a87730573e846078d4d8eaf/capsule_184x69.jpg?t=1729039744",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149840/header.jpg?t=1744256779",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149840/794b6f7f6fbac5bf8a87730573e846078d4d8eaf/capsule_231x87.jpg?t=1744256779",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149840/794b6f7f6fbac5bf8a87730573e846078d4d8eaf/capsule_184x69.jpg?t=1744256779",
     "website": null,
     "developers": [
       "KickedMesh"
@@ -11722,27 +11739,27 @@
     },
     "categories": [
       2,
+      22,
       62
     ],
     "genres": [
       23,
       25,
-      28,
-      70
+      28
     ],
     "achievements": {
-      "total": 1
+      "total": 9
     },
     "release_date": {
       "coming_soon": false,
-      "date": "15 Oct, 2024"
+      "date": "9 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "KickedMeshStudio@yandex.ru"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149840/page_bg_generated_v6b.jpg?t=1729039744",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149840/page_bg_generated.jpg?t=1729039744",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149840?t=1744256779",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149840?t=1744256779",
     "content_descriptors": {
       "ids": [
         1,
@@ -11777,9 +11794,9 @@
     "is_free": false,
     "short_description": "This is a Pixel Tactical Self-Propelled RPG Games The battle system adopts a semi-turn-based design, Quick Battle or Enter the Battlefield? It's time to decide! In this journey full of magic, you will also meet a variety of characters, who may become your allies, or your partners...",
     "supported_languages": "Simplified Chinese<strong>*</strong>, English<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149850/header.jpg?t=1730532629",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149850/7691165803b4b199fd2cdbfd7d59141026d6e36f/capsule_231x87.jpg?t=1730532629",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149850/7691165803b4b199fd2cdbfd7d59141026d6e36f/capsule_184x69.jpg?t=1730532629",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149850/header.jpg?t=1748915352",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149850/ccd326438abe32399a52949739d9361ead698188/capsule_231x87.jpg?t=1748915352",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149850/ccd326438abe32399a52949739d9361ead698188/capsule_184x69.jpg?t=1748915352",
     "website": null,
     "developers": [
       "Alxmo"
@@ -11793,7 +11810,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1118103
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Fated Land",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -11802,7 +11832,8 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       2,
@@ -11812,15 +11843,15 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "28 May, 2025"
     },
     "support_info": {
       "url": "https://www.leyogame.cn/#/",
       "email": "leyogamespc@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149850/page_bg_generated_v6b.jpg?t=1730532629",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149850/page_bg_generated.jpg?t=1730532629",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149850?t=1748915352",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149850?t=1748915352",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11852,15 +11883,21 @@
     "is_free": false,
     "short_description": "In Green Village, a series of unexplained disappearances has plagued the town for months. With no clues or connections between the victims, fear grips the village. A red-haired girl becomes the key to unraveling the mystery. What does Rose know?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149860/header.jpg?t=1727120265",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149860/d4d61e9b929735633d4ff442d0404ded31554015/capsule_231x87.jpg?t=1727120265",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149860/d4d61e9b929735633d4ff442d0404ded31554015/capsule_184x69.jpg?t=1727120265",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149860/header.jpg?t=1740068832",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149860/d4d61e9b929735633d4ff442d0404ded31554015/capsule_231x87.jpg?t=1740068832",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149860/d4d61e9b929735633d4ff442d0404ded31554015/capsule_184x69.jpg?t=1740068832",
     "website": null,
     "developers": [
       "Cerberus Productions"
     ],
     "publishers": [
       "Cerberus Productions"
+    ],
+    "demos": [
+      {
+        "appid": 3252580,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -11869,7 +11906,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -11885,8 +11923,8 @@
       "url": "http://cerberusproductionsdev.com",
       "email": "cerberusproductionsdev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149860/page_bg_generated_v6b.jpg?t=1727120265",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149860/page_bg_generated.jpg?t=1727120265",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149860?t=1740068832",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149860?t=1740068832",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11967,8 +12005,8 @@
       "url": "",
       "email": "Doky.Doky@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149870/page_bg_generated_v6b.jpg?t=1724772377",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149870/page_bg_generated.jpg?t=1724772377",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149870?t=1724772377",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149870?t=1724772377",
     "content_descriptors": {
       "ids": [
         1,
@@ -12022,8 +12060,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149880?t=1727549714",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149880?t=1727549714",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12077,8 +12115,8 @@
       "url": "",
       "email": "xm_hailiyou@163.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149920/page_bg_generated_v6b.jpg?t=1723790414",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149920/page_bg_generated.jpg?t=1723790414",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149920?t=1723790414",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149920?t=1723790414",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12127,7 +12165,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -12141,8 +12180,8 @@
       "url": "",
       "email": "potatohead489@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149950/page_bg_generated_v6b.jpg?t=1723487862",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149950/page_bg_generated.jpg?t=1723487862",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149950?t=1723487862",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149950?t=1723487862",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12226,8 +12265,8 @@
       "url": "",
       "email": "flagmanjeremy@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149960/page_bg_generated_v6b.jpg?t=1724416238",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149960/page_bg_generated.jpg?t=1724416238",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149960?t=1724416238",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149960?t=1724416238",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12310,8 +12349,8 @@
       "url": "http://x.com/hotaru_bii",
       "email": "hotarubii0731@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149970/page_bg_generated_v6b.jpg?t=1724991044",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149970/page_bg_generated.jpg?t=1724991044",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149970?t=1724991044",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149970?t=1724991044",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12341,19 +12380,36 @@
     "steam_appid": 3149980,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3183690
+    ],
     "short_description": "Love n Life: Happy Student, a unique dating sim, incorporates inventory management for the first time. As a top-scoring third-year student, you are chosen to join the most prestigious college, where you\u2019ll meet gorgeous ladies. Discover intriguing personalities and the school\u2019s mysteries.",
-    "supported_languages": "English, Korean, Russian, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149980/header.jpg?t=1730859471",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149980/cccd3bc1b8a8aec2e297c6496615b1162f775057/capsule_231x87.jpg?t=1730859471",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149980/cccd3bc1b8a8aec2e297c6496615b1162f775057/capsule_184x69.jpg?t=1730859471",
+    "supported_languages": "English, Korean, Simplified Chinese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149980/d92a4165f1011c2877ef80fa1da5baf61682d4d7/header.jpg?t=1756119615",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149980/c797fae4a3be37f8cd3c4467cc7987e695a9bd6e/capsule_231x87.jpg?t=1756119615",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149980/c797fae4a3be37f8cd3c4467cc7987e695a9bd6e/capsule_184x69.jpg?t=1756119615",
     "website": null,
     "developers": [
       "Reborn Entertainment"
     ],
     "publishers": [
-      "Reborn Entertainment"
+      "Reborn Entertainment",
+      " Secret Labo"
     ],
-    "package_groups": [],
+    "packages": [
+      1118144
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Love n Life: Happy Student",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -12363,22 +12419,32 @@
       2,
       22,
       23,
-      44
+      44,
+      62,
+      68,
+      71,
+      74,
+      76,
+      78,
+      79
     ],
     "genres": [
       3,
       28
     ],
+    "achievements": {
+      "total": 29
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "18 Jul, 2025"
     },
     "support_info": {
       "url": "https://steamcommunity.com/groups/RBART",
       "email": "rebornentertainment19@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149980/page_bg_generated_v6b.jpg?t=1730859471",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149980/page.bg.jpg?t=1730859471",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3149980?t=1756119615",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149980/page_bg_raw.jpg?t=1756119615",
     "content_descriptors": {
       "ids": [],
       "notes": null
