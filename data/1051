@@ -1593,8 +1593,8 @@
       "url": "https://www.lucid11.com/",
       "email": "atahan@lucid11.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153010/page_bg_generated_v6b.jpg?t=1724172616",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153010/page_bg_generated.jpg?t=1724172616",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3153010?t=1724172616",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3153010?t=1724172616",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1624,11 +1624,11 @@
     "steam_appid": 3153020,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Skatehouse is a small idle game where you manage a skate shop. Manufacture pieces, combine parts, and sell boards.",
+    "short_description": "Skatehouse is a small shop simulator where you manage a skate shop. Manufacture pieces, combine parts, and sell boards.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153020/header.jpg?t=1730843171",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153020/b9cebbb8a89f01d76534ea06f36300f5b0bec7d7/capsule_231x87.jpg?t=1730843171",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153020/b9cebbb8a89f01d76534ea06f36300f5b0bec7d7/capsule_184x69.jpg?t=1730843171",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153020/06978c7ccb62021c78fd97d1d7e7de5dd20713bb/header.jpg?t=1755592509",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153020/19e395b79a0d1ff8200a3a54f3ac86e259c9010e/capsule_231x87.jpg?t=1755592509",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153020/19e395b79a0d1ff8200a3a54f3ac86e259c9010e/capsule_184x69.jpg?t=1755592509",
     "website": null,
     "developers": [
       "Tyler Ray Games"
@@ -1636,7 +1636,20 @@
     "publishers": [
       "Mister Morris Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1119159
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Skatehouse",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1645,21 +1658,29 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62,
+      67,
+      68,
+      74,
+      79
     ],
     "genres": [
       28
     ],
+    "achievements": {
+      "total": 30
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "11 Aug, 2025"
     },
     "support_info": {
       "url": "https://mistermorris.games/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153020/page_bg_generated_v6b.jpg?t=1730843171",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153020/page_bg_generated.jpg?t=1730843171",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3153020?t=1755592509",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3153020?t=1755592509",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1712,7 +1733,8 @@
       2,
       9,
       22,
-      38
+      38,
+      62
     ],
     "genres": [
       23,
@@ -1726,8 +1748,8 @@
       "url": "https://www.triplecalavera.com/",
       "email": "oshears@triplecalavera.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153030/page_bg_generated_v6b.jpg?t=1726610059",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153030/page.bg.jpg?t=1726610059",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3153030?t=1726610059",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153030/page_bg_raw.jpg?t=1726610059",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1764,14 +1786,27 @@
       "name": "CarX Street"
     },
     "supported_languages": "English, Russian, French, German",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153040/header.jpg?t=1728030797",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153040/94027c772c92277aa013c8a441990e34a91c1548/capsule_231x87.jpg?t=1728030797",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153040/94027c772c92277aa013c8a441990e34a91c1548/capsule_184x69.jpg?t=1728030797",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153040/header.jpg?t=1732294180",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153040/94027c772c92277aa013c8a441990e34a91c1548/capsule_231x87.jpg?t=1732294180",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153040/94027c772c92277aa013c8a441990e34a91c1548/capsule_184x69.jpg?t=1732294180",
     "website": "http://carx-online.com",
     "developers": [
       "CarX Technologies, LLC"
     ],
-    "package_groups": [],
+    "packages": [
+      1119165
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy CarX Street - DLC Sunset Speedway",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1785,7 +1820,8 @@
       28,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       9,
@@ -1794,15 +1830,15 @@
       29
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "22 Nov, 2024"
     },
     "support_info": {
       "url": "http://carx-online.com",
       "email": "support@carx-tech.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153040/page_bg_generated_v6b.jpg?t=1728030797",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153040/page_bg_generated.jpg?t=1728030797",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3153040?t=1732294180",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3153040?t=1732294180",
     "content_descriptors": {
       "ids": [],
       "notes": null
