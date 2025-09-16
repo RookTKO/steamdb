@@ -10705,7 +10705,7 @@
     "type": "dlc",
     "name": "Dungeon Munchies Japanese Voice Pack",
     "steam_appid": 3185730,
-    "required_age": "17",
+    "required_age": 0,
     "is_free": false,
     "controller_support": "full",
     "short_description": "Together with the Japanese voiceover agency BraveHearts, we at maJAJa are proud to present the Japanese Voice Pack for Dungeon Munchies! We're also super thrilled to reveal that Simmer is voiced by Ami Koshimizu, and Grill by Shizuka Ito!",
@@ -10714,9 +10714,9 @@
       "name": "Dungeon Munchies"
     },
     "supported_languages": "Japanese<strong>*</strong>, English, German, Spanish - Spain, Turkish, Simplified Chinese, Traditional Chinese, Vietnamese, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185730/header.jpg?t=1726198251",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185730/408a35086e27a175ffb68cbc6c442af2cb8d04b3/capsule_231x87.jpg?t=1726198251",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185730/408a35086e27a175ffb68cbc6c442af2cb8d04b3/capsule_184x69.jpg?t=1726198251",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185730/header.jpg?t=1736702704",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185730/408a35086e27a175ffb68cbc6c442af2cb8d04b3/capsule_231x87.jpg?t=1736702704",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185730/408a35086e27a175ffb68cbc6c442af2cb8d04b3/capsule_184x69.jpg?t=1736702704",
     "website": "https://majaja.tw",
     "developers": [
       "maJAJa",
@@ -10726,7 +10726,20 @@
       "maJAJa",
       "ConnectHearts"
     ],
-    "package_groups": [],
+    "packages": [
+      1130055
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Dungeon Munchies Japanese Voice Pack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -10737,7 +10750,8 @@
       21,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -10746,15 +10760,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Dec, 2024"
     },
     "support_info": {
       "url": "http://majaja.tw/",
       "email": "ian@majaja.tw"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185730/page_bg_generated_v6b.jpg?t=1726198251",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185730/page_bg_generated.jpg?t=1726198251",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185730?t=1736702704",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185730?t=1736702704",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10771,12 +10785,6 @@
         "descriptors": "\u5361\u901a\u66b4\u529b\r\n\u90e8\u5206\u4e0d\u96c5\u8a9e\u8a00",
         "use_age_gate": "true",
         "required_age": "12"
-      },
-      "esrb": {
-        "rating": "m",
-        "descriptors": "Blood\r\nFantasy Violence\r\nStrong Language",
-        "use_age_gate": "true",
-        "required_age": "17"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -10796,9 +10804,9 @@
     "is_free": false,
     "short_description": "Defend against the ongoing lizard problem in this dynamic tower defense where procedural, level-deforming earthquakes expand the available play area each wave. React to nature's forces and adapt to the changing terrain in order to survive.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185750/header.jpg?t=1726005531",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185750/dea0266fd47aa533fbdf448b3a8c9247fe812957/capsule_231x87.jpg?t=1726005531",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185750/dea0266fd47aa533fbdf448b3a8c9247fe812957/capsule_184x69.jpg?t=1726005531",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185750/header.jpg?t=1754317851",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185750/dea0266fd47aa533fbdf448b3a8c9247fe812957/capsule_231x87.jpg?t=1754317851",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185750/dea0266fd47aa533fbdf448b3a8c9247fe812957/capsule_184x69.jpg?t=1754317851",
     "website": "https://thelizardproblem.com/",
     "developers": [
       "NitramiuZ"
@@ -10813,21 +10821,22 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "support@thelizardproblem.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185750/page_bg_generated_v6b.jpg?t=1726005531",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185750/page.bg.jpg?t=1726005531",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185750?t=1754317851",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185750/page_bg_raw.jpg?t=1754317851",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10863,9 +10872,9 @@
       "name": "Tinkerlands"
     },
     "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185760/header.jpg?t=1729154624",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185760/4c8e3331bb04571123096df8a9ce6283ef81f3cc/capsule_231x87.jpg?t=1729154624",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185760/4c8e3331bb04571123096df8a9ce6283ef81f3cc/capsule_184x69.jpg?t=1729154624",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185760/header.jpg?t=1746550303",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185760/4c8e3331bb04571123096df8a9ce6283ef81f3cc/capsule_231x87.jpg?t=1746550303",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185760/4c8e3331bb04571123096df8a9ce6283ef81f3cc/capsule_184x69.jpg?t=1746550303",
     "website": null,
     "developers": [
       "CodeManu",
@@ -10898,7 +10907,7 @@
       25
     ],
     "achievements": {
-      "total": 13
+      "total": 6
     },
     "release_date": {
       "coming_soon": false,
@@ -10908,8 +10917,8 @@
       "url": "",
       "email": "codemanupro@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185760/page_bg_generated_v6b.jpg?t=1729154624",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185760/page.bg.jpg?t=1729154624",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185760?t=1746550303",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185760/page_bg_raw.jpg?t=1746550303",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10939,17 +10948,17 @@
     "steam_appid": 3185780,
     "required_age": 0,
     "is_free": false,
-    "short_description": "You are a wolfman hunter on a critical mission: to uncover the truth and prove that the werewolf is not just a legend, but a real and deadly threat. Your journey will bring you face to face with the beast, as you seek to end the nightmare once and for all.",
+    "short_description": "You are a wolfman hunter on a critical mission: to uncover the truth and prove that the wolfman is not just a legend, but a real and deadly threat. Your journey will bring you face to face with the beast, as you seek to end the nightmare once and for all.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Simplified Chinese, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Turkish, Ukrainian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185780/header.jpg?t=1730134336",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185780/d88843e921573be9743885607885952a0bb5b43c/capsule_231x87.jpg?t=1730134336",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185780/d88843e921573be9743885607885952a0bb5b43c/capsule_184x69.jpg?t=1730134336",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185780/a36df83f35b0cf028e0aaf6483d39cdf1bfba142/header.jpg?t=1747090253",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185780/9f65c4a221238ce54a0073f05031ace00b84ff7a/capsule_231x87.jpg?t=1747090253",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185780/9f65c4a221238ce54a0073f05031ace00b84ff7a/capsule_184x69.jpg?t=1747090253",
+    "website": "https://lithium-studios.com",
     "developers": [
       "LithiumStudios"
     ],
     "publishers": [
-      " LithiumStudios"
+      "LithiumStudios"
     ],
     "package_groups": [],
     "platforms": {
@@ -10963,7 +10972,8 @@
       9,
       22,
       23,
-      38
+      38,
+      62
     ],
     "genres": [
       1,
@@ -10971,14 +10981,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q4 2024"
+      "date": "Coming soon"
     },
     "support_info": {
-      "url": "",
-      "email": "lithiumstudiossup@hotmail.com"
+      "url": "https://lithium-studios.com/",
+      "email": "support@lithium-studios.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185780/page_bg_generated_v6b.jpg?t=1730134336",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185780/page_bg_generated.jpg?t=1730134336",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185780?t=1747090253",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185780?t=1747090253",
     "content_descriptors": {
       "ids": [
         2,
@@ -11013,9 +11023,9 @@
     "is_free": false,
     "short_description": "Shape your fate and live your life. Can you survive in this fantasy world? Can you use the power in your blood? Will luck smile on you? There is one way to learn!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185790/header.jpg?t=1729182946",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185790/4a14080ee76741c38a0d6d51953236959cd33ae3/capsule_231x87.jpg?t=1729182946",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185790/4a14080ee76741c38a0d6d51953236959cd33ae3/capsule_184x69.jpg?t=1729182946",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185790/header.jpg?t=1737020894",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185790/4a14080ee76741c38a0d6d51953236959cd33ae3/capsule_231x87.jpg?t=1737020894",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185790/4a14080ee76741c38a0d6d51953236959cd33ae3/capsule_184x69.jpg?t=1737020894",
     "website": null,
     "developers": [
       "Team Sermath"
@@ -11036,7 +11046,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       4,
@@ -11052,8 +11063,8 @@
       "url": "",
       "email": "teamsermath@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185790/page_bg_generated_v6b.jpg?t=1729182946",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185790/page_bg_generated.jpg?t=1729182946",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185790?t=1737020894",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185790?t=1737020894",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11083,11 +11094,11 @@
     "steam_appid": 3185820,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Buried Horrors is a 1-4 player co-op survival horror game set at the peak of the archaeological era in the early 1900s. You and your team are set on finding the ancient treasures of the world before anyone else. Find clues, solve puzzles, avoid deadly traps and survive the horrors that lurk within.",
+    "short_description": "Survive ancient monsters together with 1-4 of your friends while stealing the treasures they guard. Use tools from the early 1900s to navigate tombs and fight back against the horrors within. Find clues, solve puzzles, avoid deadly traps and get to the treasure and back out.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185820/header.jpg?t=1728302744",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185820/79284bf3a6b27de7ec981b03a49b56c0a8f6fb40/capsule_231x87.jpg?t=1728302744",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185820/79284bf3a6b27de7ec981b03a49b56c0a8f6fb40/capsule_184x69.jpg?t=1728302744",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185820/header.jpg?t=1745699973",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185820/cdd1922c9fb48261b1a9c698971af968012e832d/capsule_231x87.jpg?t=1745699973",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185820/cdd1922c9fb48261b1a9c698971af968012e832d/capsule_184x69.jpg?t=1745699973",
     "website": null,
     "developers": [
       "Jens"
@@ -11105,7 +11116,8 @@
       1,
       2,
       9,
-      38
+      38,
+      62
     ],
     "genres": [
       1,
@@ -11120,8 +11132,8 @@
       "url": "",
       "email": "jensvendev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185820/page_bg_generated_v6b.jpg?t=1728302744",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185820/page_bg_generated.jpg?t=1728302744",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185820?t=1745699973",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185820?t=1745699973",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11189,8 +11201,8 @@
       "url": "https://elirainsberry.com",
       "email": "elirainsberry@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185830/page_bg_generated_v6b.jpg?t=1730718173",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185830/page_bg_generated.jpg?t=1730718173",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185830?t=1730718173",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185830?t=1730718173",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11267,8 +11279,8 @@
       "url": "",
       "email": "731364471@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185840/page_bg_generated_v6b.jpg?t=1727101347",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185840/page_bg_generated.jpg?t=1727101347",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185840?t=1727101347",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185840?t=1727101347",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11300,9 +11312,9 @@
     "is_free": false,
     "short_description": "An unforgiving shooter about the forgiveness of God.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185860/header.jpg?t=1728715068",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185860/3d0e0aa19b1ab41e47f8e368e4fa5cadac2af552/capsule_231x87.jpg?t=1728715068",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185860/3d0e0aa19b1ab41e47f8e368e4fa5cadac2af552/capsule_184x69.jpg?t=1728715068",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185860/header.jpg?t=1745957379",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185860/3d0e0aa19b1ab41e47f8e368e4fa5cadac2af552/capsule_231x87.jpg?t=1745957379",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185860/3d0e0aa19b1ab41e47f8e368e4fa5cadac2af552/capsule_184x69.jpg?t=1745957379",
     "website": null,
     "developers": [
       "SSamBBas"
@@ -11347,8 +11359,8 @@
       "url": "https://x.com/SSamBBas",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185860/page_bg_generated_v6b.jpg?t=1728715068",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185860/page.bg.jpg?t=1728715068",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185860?t=1745957379",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185860/page_bg_raw.jpg?t=1745957379",
     "content_descriptors": {
       "ids": [
         2,
@@ -11416,8 +11428,8 @@
       "url": "",
       "email": "gamoraloe@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185870?t=1729239688",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185870?t=1729239688",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11597,9 +11609,9 @@
     "controller_support": "full",
     "short_description": "&quot;Wish of Hers&quot; is a roguelike action game set in a shifting dreamworld, where players uncover hidden truths while battling through surreal landscapes.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185880/header.jpg?t=1725423110",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185880/142c95bbb5f356585cf31ddd4e542f7269499700/capsule_231x87.jpg?t=1725423110",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185880/142c95bbb5f356585cf31ddd4e542f7269499700/capsule_184x69.jpg?t=1725423110",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185880/16990ff57a09ec80a2060d48e25051a4fc189325/header.jpg?t=1756649391",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185880/8804098dbdd67cff4dc28ddcebaa0dabe4e7232d/capsule_231x87.jpg?t=1756649391",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185880/8804098dbdd67cff4dc28ddcebaa0dabe4e7232d/capsule_184x69.jpg?t=1756649391",
     "website": null,
     "developers": [
       "CrystalCrown Studios"
@@ -11614,17 +11626,11 @@
       "linux": false
     },
     "categories": [
-      1,
       2,
-      9,
-      15,
       22,
       23,
-      24,
-      25,
       28,
-      39,
-      44
+      62
     ],
     "genres": [
       1,
@@ -11633,14 +11639,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "2026"
     },
     "support_info": {
       "url": "",
       "email": "crystalcrownstudios@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185880/page_bg_generated_v6b.jpg?t=1725423110",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185880/page_bg_generated.jpg?t=1725423110",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185880?t=1756649391",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185880?t=1756649391",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11672,13 +11678,12 @@
     "is_free": true,
     "short_description": "Collect quadrillion of coins, hatch pets to mine for you, and unlock 100 unique hand-crafted areas! An incremental clicker/idle creatures-collection adventure. Dopamine heaven has arrived! First Steps version includes the early areas from the full game.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Thai, Vietnamese, Turkish, Czech, Ukrainian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185900/header.jpg?t=1730663085",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185900/a1c016a4bd87a313a503648343921b7852a78a56/capsule_231x87.jpg?t=1730663085",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185900/a1c016a4bd87a313a503648343921b7852a78a56/capsule_184x69.jpg?t=1730663085",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185900/header.jpg?t=1740847756",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185900/a1c016a4bd87a313a503648343921b7852a78a56/capsule_231x87.jpg?t=1740847756",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185900/a1c016a4bd87a313a503648343921b7852a78a56/capsule_184x69.jpg?t=1740847756",
     "website": "https://tbjbu2.com",
     "developers": [
-      "Tbjbu2",
-      "Adria Martinez Exposito"
+      "Tbjbu2 Originals"
     ],
     "package_groups": [],
     "platforms": {
@@ -11706,8 +11711,8 @@
       "url": "",
       "email": "petlandssteam@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185900/page_bg_generated_v6b.jpg?t=1730663085",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185900/page.bg.jpg?t=1730663085",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185900?t=1740847756",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185900/page_bg_raw.jpg?t=1740847756",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11769,8 +11774,8 @@
       "url": "",
       "email": "dafunnyj@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185910/page_bg_generated_v6b.jpg?t=1725261171",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185910/page_bg_generated.jpg?t=1725261171",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185910?t=1725261171",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185910?t=1725261171",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11806,9 +11811,9 @@
       "name": "AI-VJ"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185950/header.jpg?t=1727832450",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185950/af1e36e577d30aa197a4d909b9101dcf10387211/capsule_231x87.jpg?t=1727832450",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185950/af1e36e577d30aa197a4d909b9101dcf10387211/capsule_184x69.jpg?t=1727832450",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185950/header.jpg?t=1733682024",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185950/136a09f5f9788ac4690f5f7a869e80d97fa8af69/capsule_231x87.jpg?t=1733682024",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185950/136a09f5f9788ac4690f5f7a869e80d97fa8af69/capsule_184x69.jpg?t=1733682024",
     "website": "https://ai-vj.com",
     "developers": [
       "Intuition Technology"
@@ -11852,8 +11857,8 @@
       "url": "https://ai-vj.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185950/page_bg_generated_v6b.jpg?t=1727832450",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185950/page_bg_generated.jpg?t=1727832450",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185950?t=1733682024",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185950?t=1733682024",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11889,9 +11894,9 @@
       "name": "AI-VJ"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185960/header.jpg?t=1727860556",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185960/b0ded6c601a736208b74b3f93bb429c487cff035/capsule_231x87.jpg?t=1727860556",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185960/b0ded6c601a736208b74b3f93bb429c487cff035/capsule_184x69.jpg?t=1727860556",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185960/header.jpg?t=1733668235",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185960/5b7b2e8cad0a6634cb03307ef20f1d1531346e7a/capsule_231x87.jpg?t=1733668235",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185960/5b7b2e8cad0a6634cb03307ef20f1d1531346e7a/capsule_184x69.jpg?t=1733668235",
     "website": "https://ai-vj.com",
     "developers": [
       "Intuition Technology"
@@ -11935,8 +11940,8 @@
       "url": "https://ai-vj.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185960/page_bg_generated_v6b.jpg?t=1727860556",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185960/page_bg_generated.jpg?t=1727860556",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185960?t=1733668235",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185960?t=1733668235",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11972,9 +11977,9 @@
       "name": "AI-VJ"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185970/header.jpg?t=1727860600",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185970/3268bfe53e396a2801ce13c2f2b43d029c0ae6ce/capsule_231x87.jpg?t=1727860600",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185970/3268bfe53e396a2801ce13c2f2b43d029c0ae6ce/capsule_184x69.jpg?t=1727860600",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185970/header.jpg?t=1733681847",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185970/7e06172acb90a5f4449768090c738a9bc8d17d35/capsule_231x87.jpg?t=1733681847",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185970/7e06172acb90a5f4449768090c738a9bc8d17d35/capsule_184x69.jpg?t=1733681847",
     "website": "https://ai-vj.com",
     "developers": [
       "Intuition Technology"
@@ -12018,8 +12023,8 @@
       "url": "https://ai-vj.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185970/page_bg_generated_v6b.jpg?t=1727860600",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185970/page_bg_generated.jpg?t=1727860600",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185970?t=1733681847",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185970?t=1733681847",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12055,9 +12060,9 @@
       "name": "AI-VJ"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185980/header.jpg?t=1728666661",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185980/b7076fe1c75ca9529e484ac97cb0fb75ff7e3f18/capsule_231x87.jpg?t=1728666661",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185980/b7076fe1c75ca9529e484ac97cb0fb75ff7e3f18/capsule_184x69.jpg?t=1728666661",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185980/header.jpg?t=1733682533",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185980/c3f6b05ddda9e8647cb5eea12d526d10a111a8f6/capsule_231x87.jpg?t=1733682533",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185980/c3f6b05ddda9e8647cb5eea12d526d10a111a8f6/capsule_184x69.jpg?t=1733682533",
     "website": "https://ai-vj.com",
     "developers": [
       "Intuition Technology"
@@ -12101,8 +12106,8 @@
       "url": "https://ai-vj.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185980/page_bg_generated_v6b.jpg?t=1728666661",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185980/page_bg_generated.jpg?t=1728666661",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185980?t=1733682533",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185980?t=1733682533",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12166,8 +12171,8 @@
       "url": "",
       "email": "krayno.studios@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185990?t=1725333228",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3185990?t=1725333228",
     "content_descriptors": {
       "ids": [],
       "notes": null

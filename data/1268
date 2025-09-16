@@ -3775,9 +3775,9 @@
     "is_free": false,
     "short_description": "Survival in a closed room. Every hour you get $1000. Stay as long as you want. The main thing is not to go crazy. Be careful in the room besides you there is someone else. Maintain your mental health and create items that will help you survive.",
     "supported_languages": "English<strong>*</strong>, French, German, Simplified Chinese, Russian, Japanese, Portuguese - Brazil, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806370/d07b608f4ea54bb2d2cd7f42a19a9a68f53d1af4/header.jpg?t=1750591473",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806370/297a179c17f166879a491237e5a8a19c828326d3/capsule_231x87.jpg?t=1750591473",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806370/297a179c17f166879a491237e5a8a19c828326d3/capsule_184x69.jpg?t=1750591473",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806370/d07b608f4ea54bb2d2cd7f42a19a9a68f53d1af4/header.jpg?t=1752928290",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806370/297a179c17f166879a491237e5a8a19c828326d3/capsule_231x87.jpg?t=1752928290",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806370/297a179c17f166879a491237e5a8a19c828326d3/capsule_184x69.jpg?t=1752928290",
     "website": null,
     "developers": [
       "Vorh Games"
@@ -3791,7 +3791,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1338820
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Nasubi Room",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3799,6 +3812,7 @@
     },
     "categories": [
       2,
+      22,
       62,
       68,
       74
@@ -3807,16 +3821,19 @@
       23,
       28
     ],
+    "achievements": {
+      "total": 5
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2025"
+      "coming_soon": false,
+      "date": "19 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "lenvonder12vorh@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3806370?t=1750591473",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3806370?t=1750591473",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3806370?t=1752928290",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3806370?t=1752928290",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3842,15 +3859,15 @@
   },
   "3806520": {
     "type": "game",
-    "name": "\u7dda\u9999",
+    "name": "SENKOU",
     "steam_appid": 3806520,
     "required_age": 0,
     "is_free": false,
     "short_description": "You must not extinguish any of the incense sticks. This is the only rule in this game. You can continue playing for longer by controlling the wind direction and timing when to add new incense sticks. When all the incense sticks are extinguished, the game ends.",
     "supported_languages": "Japanese, English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806520/a26c379cee5198bb330a68fcbaea884ef7bc2f22/header.jpg?t=1751983076",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806520/6b9b3c7cd43127c6ac5afb85b821fb8a361a435c/capsule_231x87.jpg?t=1751983076",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806520/6b9b3c7cd43127c6ac5afb85b821fb8a361a435c/capsule_184x69.jpg?t=1751983076",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806520/a26c379cee5198bb330a68fcbaea884ef7bc2f22/header.jpg?t=1756351253",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806520/6b9b3c7cd43127c6ac5afb85b821fb8a361a435c/capsule_231x87.jpg?t=1756351253",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806520/6b9b3c7cd43127c6ac5afb85b821fb8a361a435c/capsule_184x69.jpg?t=1756351253",
     "website": null,
     "developers": [
       "\u3042\u3081\u3056\u3044\u304f"
@@ -3858,7 +3875,20 @@
     "publishers": [
       "\u3042\u3081\u3056\u3044\u304f"
     ],
-    "package_groups": [],
+    "packages": [
+      1338871
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy SENKOU",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3876,15 +3906,15 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Aug, 2025"
     },
     "support_info": {
       "url": "",
       "email": "amezaiku.work@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3806520?t=1751983076",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3806520?t=1751983076",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3806520?t=1756351253",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3806520?t=1756351253",
     "content_descriptors": {
       "ids": [],
       "notes": null
