@@ -2932,18 +2932,32 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "A first-person parody horror. College goofballs are partying hard in the great outdoors - booze, boobs, and bad decisions. What's gonna kill 'em first? Cheap vodka, ancient memes, dirty jokes\u2026 or a bloodthirsty Yeti from the woods?",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823130/5034f81bb7bf74d03e770b4308c105a0da3d3715/header.jpg?t=1751030462",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823130/2e4aba5377d4e9173e438a02c2e9ce679e80faab/capsule_231x87.jpg?t=1751030462",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823130/2e4aba5377d4e9173e438a02c2e9ce679e80faab/capsule_184x69.jpg?t=1751030462",
+    "supported_languages": "English, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823130/5034f81bb7bf74d03e770b4308c105a0da3d3715/header.jpg?t=1757308493",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823130/2e4aba5377d4e9173e438a02c2e9ce679e80faab/capsule_231x87.jpg?t=1757308493",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823130/2e4aba5377d4e9173e438a02c2e9ce679e80faab/capsule_184x69.jpg?t=1757308493",
     "website": null,
     "developers": [
-      "REVVALUTION Studio"
+      "MR_REVVA GAMES"
     ],
     "publishers": [
+      "MR_REVVA GAMES",
       "REVVALUTION Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1344625
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy YetiParty",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2952,22 +2966,26 @@
     "categories": [
       2,
       18,
+      22,
       62
     ],
     "genres": [
       23,
       28
     ],
+    "achievements": {
+      "total": 10
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "21 Aug, 2025"
     },
     "support_info": {
       "url": "",
       "email": "revvalutionstudio@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3823130?t=1751030462",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823130/ab3b1be44f47a3942509f735109dea4a3e28c47d/page_bg_raw.jpg?t=1751030462",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3823130?t=1757308493",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823130/ab3b1be44f47a3942509f735109dea4a3e28c47d/page_bg_raw.jpg?t=1757308493",
     "content_descriptors": {
       "ids": [
         5
@@ -2981,7 +2999,7 @@
         "required_age": "14",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia"
+        "descriptors": "Linguagem impr\u00f3pria\nNudez\nViol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -2989,7 +3007,7 @@
         "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Gewalt\nDerbe Sprache"
+        "descriptors": "Gewalt\nSexuelle Andeutungen\nAlkohol / Tabak"
       }
     }
   },
