@@ -7439,10 +7439,10 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Embark yourself on an adventure through the Marble Palace and uncover the plentiful secrets it hides! Explore magnificent views and fight through the hostile halls of the palace, all while making use of the innovative plane change mechanics!",
-    "supported_languages": "English, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3831760/602f93e9ecf953e05c29b4eda2de3470e5fbc5e7/header.jpg?t=1752648216",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3831760/0fea558b0c262b9474c990821e41301ad4e5aa6a/capsule_231x87.jpg?t=1752648216",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3831760/0fea558b0c262b9474c990821e41301ad4e5aa6a/capsule_184x69.jpg?t=1752648216",
+    "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3831760/602f93e9ecf953e05c29b4eda2de3470e5fbc5e7/header.jpg?t=1757597627",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3831760/0fea558b0c262b9474c990821e41301ad4e5aa6a/capsule_231x87.jpg?t=1757597627",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3831760/0fea558b0c262b9474c990821e41301ad4e5aa6a/capsule_184x69.jpg?t=1757597627",
     "website": null,
     "developers": [
       "Eric R\u00edos Hamilton",
@@ -7450,6 +7450,12 @@
     ],
     "publishers": [
       "Eric R\u00edos Hamilton"
+    ],
+    "demos": [
+      {
+        "appid": 4000890,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7470,14 +7476,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "September 2025"
+      "date": "2025"
     },
     "support_info": {
       "url": "",
       "email": "vinculothegame@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3831760?t=1752648216",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3831760?t=1752648216",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3831760?t=1757597627",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3831760?t=1757597627",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -12373,6 +12379,76 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Gewalt"
+      }
+    }
+  },
+  "3832140": {
+    "type": "music",
+    "name": "A Gentlemen's Dispute Soundtrack",
+    "steam_appid": 3832140,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "This is the official soundtrack for the sophisticated party brawler A Gentlemen's Dispute!",
+    "fullgame": {
+      "appid": "2820700",
+      "name": "A Gentlemen's Dispute"
+    },
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832140/9b315b9648010fbb2e86fc598a20fdd2b09a82c6/header.jpg?t=1758643274",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832140/8eaf5ebf3c0fd9f046942d2f57bbdf1187adda52/capsule_231x87.jpg?t=1758643274",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832140/8eaf5ebf3c0fd9f046942d2f57bbdf1187adda52/capsule_184x69.jpg?t=1758643274",
+    "website": null,
+    "developers": [
+      "Blast Furnace Games"
+    ],
+    "packages": [
+      1347674
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy A Gentlemen's Dispute Soundtrack",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "23 Sep, 2025"
+    },
+    "support_info": {
+      "url": "https://blastfurnacegames.com",
+      "email": "support@blastfurnacegames.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3832140?t=1758643274",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3832140?t=1758643274",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
       }
     }
   }
