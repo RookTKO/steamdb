@@ -256,9 +256,9 @@
       "name": "No Time to Explain"
     },
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227280/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227280/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227280/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227280/header.jpg?t=1447357136",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227280/capsule_231x87.jpg?t=1447357136",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227280/capsule_184x69.jpg?t=1447357136",
     "website": "http://tinyBuild.com",
     "developers": [
       "tinyBuild"
@@ -282,7 +282,8 @@
       22,
       23,
       29,
-      30
+      30,
+      62
     ],
     "genres": [
       1,
@@ -301,12 +302,13 @@
       "url": "http://tinyBuild.com",
       "email": "contact@tinybuildgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227280/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227280/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227280?t=1447357136",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227280?t=1447357136",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "225200": {
     "type": "dlc",
@@ -581,9 +583,9 @@
     "is_free": false,
     "short_description": "Haven't heard of Dragon's Lair?! Well, you play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Originally released in the summer of 1983, Dragon's Lair has solidified itself as a cultural icon in gaming.",
     "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227380/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227380/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227380/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227380/header.jpg?t=1709672143",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227380/capsule_231x87.jpg?t=1709672143",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227380/capsule_184x69.jpg?t=1709672143",
     "website": "http://www.digitalleisure.com",
     "developers": [
       "Digital Leisure Inc."
@@ -607,13 +609,14 @@
     ],
     "platforms": {
       "windows": true,
-      "mac": true,
+      "mac": false,
       "linux": true
     },
     "categories": [
       2,
       18,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
@@ -631,11 +634,46 @@
       "url": "http://www.digitalleisure.com",
       "email": "techsupport@digitalleisure.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227380/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227380/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227380?t=1709672143",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227380?t=1709672143",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "e10",
+        "descriptors": "Animated Blood, Fantasy Violence, Mild Suggestive Themes"
+      },
+      "pegi": {
+        "rating": "3",
+        "descriptors": "Violence"
+      },
+      "usk": {
+        "rating": "6"
+      },
+      "oflc": {
+        "rating": "pg",
+        "descriptors": "Low Level Animated Violence"
+      },
+      "dejus": {
+        "rating": "10"
+      },
+      "csrr": {
+        "rating": "C12",
+        "descriptors": "Sexual, Violence"
+      },
+      "crl": {
+        "rating": "6"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "225430": {
@@ -822,7 +860,7 @@
     "type": "dlc",
     "name": "Scourge: Outbreak Fan Pack",
     "steam_appid": 227563,
-    "required_age": "16",
+    "required_age": "17",
     "is_free": false,
     "controller_support": "full",
     "short_description": "Includes a downloadable Digital Art Book containing high-quality concepts and artwork from the development of \u201cScourge: Outbreak\u201d, as well as the downloadable Digital Original Soundtrack featuring the emotive, immersive music from the game.",
@@ -831,15 +869,12 @@
       "name": "Scourge: Outbreak"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227563/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227563/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227563/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227563/header.jpg?t=1447360894",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227563/capsule_231x87.jpg?t=1447360894",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227563/capsule_184x69.jpg?t=1447360894",
     "website": "www.scourgeoutbreak.com",
     "developers": [
       "Tragnarion Studios"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       40053
@@ -870,7 +905,8 @@
       25,
       27,
       28,
-      29
+      29,
+      62
     ],
     "genres": [
       1,
@@ -884,11 +920,47 @@
       "url": "http://forums.tragnarion.com/forum.php",
       "email": "support@tragnarion.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227563/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227563/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227563?t=1447360894",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227563?t=1447360894",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood\r\nStrong Language\r\nViolence",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "usk": {
+        "rating": "16",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "use_age_gate": "true",
+        "required_age": "15",
+        "descriptors": "Strong Science Fiction violence\r\nGaming experience may chage online"
+      },
+      "nzoflc": {
+        "rating": "ma15",
+        "use_age_gate": "true",
+        "required_age": "15"
+      },
+      "cero": {
+        "rating": "c",
+        "descriptors": "Violence\r\nCrime\r\nLanguage",
+        "use_age_gate": "true",
+        "required_age": "15"
+      }
     }
   },
   "225700": {
@@ -2629,15 +2701,12 @@
     ],
     "short_description": "Kingdom Wars is a free to play 3D MMORTS with real-time siege combat, without the pay to win element so common in the genre. Kingdom Wars offers beautiful 3D online world, where players construct strongholds, direct citizens, complete quests and eventually manage a global empire.",
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227180/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227180/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227180/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227180/header.jpg?t=1506091554",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227180/capsule_231x87.jpg?t=1506091554",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227180/capsule_184x69.jpg?t=1506091554",
     "website": "http://kingdomwars.ca",
     "developers": [
       "Reverie World Studios"
-    ],
-    "publishers": [
-      ""
     ],
     "package_groups": [],
     "platforms": {
@@ -2673,11 +2742,38 @@
       "url": "http://kingdomwars.ca",
       "email": "support@reverieworld.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227180/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227180/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227180?t=1506091554",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227180?t=1506091554",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Blood\r\n\r\nViolence\r\n\r\nSuggestive Themes",
+        "display_online_notice": "true"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence\r\n\r\nOnline"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "225829": {
@@ -3902,9 +3998,9 @@
     "is_free": false,
     "short_description": "Kinetic Void is a 3D space adventure with a focus on customization and enjoyable space simulation. The shipyard allows players to construct their ship piece by piece. Ships can be as simplistic as a cockpit, a hull, a engine and a gun, or as complex as a player wants.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227160/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227160/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227160/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227160/header.jpg?t=1447357131",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227160/capsule_231x87.jpg?t=1447357131",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227160/capsule_184x69.jpg?t=1447357131",
     "website": "http://www.BadlandStudio.com/Kinetic-Void",
     "developers": [
       "Badland Studio"
@@ -3934,7 +4030,8 @@
     "categories": [
       2,
       29,
-      30
+      30,
+      62
     ],
     "genres": [
       1,
@@ -3952,12 +4049,13 @@
       "url": "http://badlandstudio.com/team/contact-us/",
       "email": "Sean@badlandstudio.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227160/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227160/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227160?t=1447357131",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227160?t=1447357131",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "226191": {
     "type": "dlc",
@@ -4053,9 +4151,9 @@
     "is_free": false,
     "short_description": "10000000: The Dungeon Crawling Matching Game",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227580/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227580/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227580/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227580/header.jpg?t=1572970613",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227580/capsule_231x87.jpg?t=1572970613",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227580/capsule_184x69.jpg?t=1572970613",
     "website": "http://www.eightyeightgames.com",
     "developers": [
       "EightyEightGames"
@@ -4089,7 +4187,8 @@
     "categories": [
       2,
       22,
-      29
+      29,
+      62
     ],
     "genres": [
       1,
@@ -4108,11 +4207,29 @@
       "url": "http://www.eightyeightgames.com",
       "email": "luca@eightyeightgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227580/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227580/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227580?t=1572970613",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227580?t=1572970613",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "227020": {
@@ -4563,9 +4680,9 @@
       "name": "EverQuest"
     },
     "supported_languages": "English, German, French, Italian, Spanish - Spain",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227440/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227440/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227440/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227440/header.jpg?t=1623780683",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227440/capsule_231x87.jpg?t=1623780683",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227440/capsule_184x69.jpg?t=1623780683",
     "website": "http://www.everquest.com/",
     "developers": [
       "Daybreak Game Company"
@@ -4596,11 +4713,25 @@
       "url": "http://help.soe.com",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227440/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227440/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227440?t=1623780683",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227440?t=1623780683",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "suggestive themes\r\n\r\nuse of Alcohol\r\n\r\nviolence\r\n\r\nBlood &amp; gore",
+        "display_online_notice": "true"
+      },
+      "pegi": {
+        "rating": "12",
+        "descriptors": "violence\r\n\r\nBad language"
+      },
+      "usk": {
+        "rating": "12"
+      }
     }
   },
   "225429": {
@@ -4979,9 +5110,9 @@
     "controller_support": "full",
     "short_description": "Mickey Mouse returns to star in Castle of Illusion, a fantastical reimagining of the Sega Genesis classic.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227600/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227600/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227600/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227600/header.jpg?t=1625781778",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227600/capsule_231x87.jpg?t=1625781778",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227600/capsule_184x69.jpg?t=1625781778",
     "website": "http://www.sega.co.uk/castle-of-illusion/",
     "developers": [
       "SEGA Studios Australia"
@@ -5012,7 +5143,8 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       4,
@@ -5029,11 +5161,25 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227600/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227600/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227600?t=1625781778",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227600?t=1625781778",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "e"
+      },
+      "usk": {
+        "rating": "6"
+      },
+      "oflc": {
+        "rating": "g"
+      },
+      "nzoflc": {
+        "rating": "g"
+      }
     }
   },
   "225432": {
@@ -5191,9 +5337,9 @@
     "is_free": false,
     "short_description": "DisplayFusion will make your multi-monitor life much easier! With powerful features like Multi-Monitor Taskbars, TitleBar Buttons, Monitor Fading, and fully customizable HotKeys, DisplayFusion will make managing your multiple monitors easy.",
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Korean<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Polish<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Norwegian<strong>*</strong>, Swedish<strong>*</strong>, Hungarian<strong>*</strong>, Czech<strong>*</strong>, Romanian<strong>*</strong>, Turkish<strong>*</strong>, Arabic<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Bulgarian<strong>*</strong>, Greek<strong>*</strong>, Thai<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227260/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227260/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227260/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227260/header.jpg?t=1683646404",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227260/capsule_231x87.jpg?t=1683646404",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227260/capsule_184x69.jpg?t=1683646404",
     "website": "https://www.displayfusion.com",
     "developers": [
       "Binary Fortress Software"
@@ -5232,12 +5378,13 @@
       "url": "https://www.displayfusion.com/Support/",
       "email": "support@displayfusion.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227260/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227260/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227260?t=1683646404",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227260/page_bg_raw.jpg?t=1683646404",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "226860": {
     "type": "game",
@@ -6835,9 +6982,9 @@
     "is_free": true,
     "short_description": "Combining action and strategy in a unique way, Sang-Froid: Tales of Werewolves transports you into an epic folktale co-written with best-selling Canadian author Bryan Perro (Amos Daragon, Wariwulf), in which two feuding brothers will have to put aside their differences to save their sister, who is pursued by the Devil himself!",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227220/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227220/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227220/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227220/header.jpg?t=1726588248",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227220/capsule_231x87.jpg?t=1726588248",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227220/capsule_184x69.jpg?t=1726588248",
     "website": "http://www.sangfroidgame.com",
     "developers": [
       "Artifice Studio"
@@ -6878,11 +7025,33 @@
       "url": "http://www.sangfroidgame.com",
       "email": "support@artificestudio.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227220/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227220/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227220?t=1726588248",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227220?t=1726588248",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp",
+        "descriptors": "Cartoon Violence\r\n\r\nAlcohol Reference"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas l\u00edcitas\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Alkohol / Tabak"
+      }
     }
   },
   "225830": {
@@ -7250,9 +7419,9 @@
       "name": "Giana Sisters: Twisted Dreams"
     },
     "supported_languages": "English, German, French, Italian, Spanish - Spain",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227420/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227420/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227420/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227420/header.jpg?t=1592558166",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227420/capsule_231x87.jpg?t=1592558166",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227420/capsule_184x69.jpg?t=1592558166",
     "website": null,
     "developers": [
       "Black Forest Games"
@@ -7294,12 +7463,13 @@
       "url": "",
       "email": "support@bfgames.biz"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227420?t=1592558166",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227420?t=1592558166",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "227060": {
     "type": "game",
@@ -8112,7 +8282,7 @@
     "type": "game",
     "name": "Scourge: Outbreak",
     "steam_appid": 227560,
-    "required_age": "16",
+    "required_age": "17",
     "is_free": false,
     "controller_support": "full",
     "dlc": [
@@ -8121,9 +8291,9 @@
     ],
     "short_description": "Blast your way through Nogari Island as Echo Squad. Utilize a devastating array of weapons and special abilities to crush everything that stands in your way. Features a fully Co-op enabled Campaign for up to 4 Players, as well as a variety of 8 Player Versus multiplayer modes!",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Russian, Hungarian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227560/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227560/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227560/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227560/header.jpg?t=1478162856",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227560/capsule_231x87.jpg?t=1478162856",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227560/capsule_184x69.jpg?t=1478162856",
     "website": "www.scourgeoutbreak.com",
     "developers": [
       "Tragnarion Studios"
@@ -8168,7 +8338,8 @@
       27,
       28,
       29,
-      43
+      43,
+      62
     ],
     "genres": [
       1,
@@ -8185,11 +8356,47 @@
       "url": "http://forums.tragnarion.com/forum.php",
       "email": "support@tragnarion.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227560/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227560/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227560?t=1478162856",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227560?t=1478162856",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood\r\nStrong Language\r\nViolence",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "usk": {
+        "rating": "16",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "use_age_gate": "true",
+        "required_age": "15",
+        "descriptors": "Strong Science Fiction violence\r\nGaming experience may chage online"
+      },
+      "nzoflc": {
+        "rating": "ma15",
+        "use_age_gate": "true",
+        "required_age": "15"
+      },
+      "cero": {
+        "rating": "c",
+        "descriptors": "Violence\r\nCrime\r\nLanguage",
+        "use_age_gate": "true",
+        "required_age": "15"
+      }
     }
   },
   "225431": {
@@ -8454,9 +8661,9 @@
     "is_free": false,
     "short_description": "With a cult following the world round, You Need A Budget (YNAB), helps you take total control of your money. The results are life-changing and include breaking the paycheck-to-paycheck cycle, paying down debt, and saving more money faster \u2013 not to mention a good night\u2019s sleep.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227320/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227320/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227320/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227320/header.jpg?t=1484672273",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227320/capsule_231x87.jpg?t=1484672273",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227320/capsule_184x69.jpg?t=1484672273",
     "website": "http://steamcommunity.com/app/227320",
     "developers": [
       "YouNeedABudget.com"
@@ -8481,12 +8688,13 @@
       "url": "http://www.youneedabudget.com/support",
       "email": "support@youneedabudget.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227320/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227320/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227320?t=1484672273",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227320?t=1484672273",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "227090": {
     "type": "dlc",
@@ -8574,15 +8782,15 @@
     "steam_appid": 227310,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Going East! add-on expands the original Euro Truck Simulator 2 map with new destinations for cargo delivery across Poland, Czech Republic, Slovakia, and Hungary.Key Features:Over 20 hours of driving to explore all the new areas in the game world13 new cities including Warsaw, Krakow, Ostrava, Budapest, Kosice and more Many kilometers of...",
+    "short_description": "Going East! add-on expands the original Euro Truck Simulator 2 map with new destinations for cargo delivery across Poland, Czech Republic, Slovakia, and Hungary.Key Features:Over 20 hours of driving to explore all the new areas in the game world15 new cities including Warsaw, Krakow, Ostrava, Budapest, Kosice and more Many kilometers of...",
     "fullgame": {
       "appid": "227300",
       "name": "Euro Truck Simulator 2"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Turkish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227310/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227310/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227310/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227310/ff67a1defadae8f710e3439d90a16dc5f8ae42f5/header.jpg?t=1754032656",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227310/53540274540f99bf9edebe01f98be2f3e10b1434/capsule_231x87.jpg?t=1754032656",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227310/53540274540f99bf9edebe01f98be2f3e10b1434/capsule_184x69.jpg?t=1754032656",
     "website": "http://eurotrucksimulator2.com/",
     "developers": [
       "SCS Software"
@@ -8616,7 +8824,8 @@
       21,
       22,
       29,
-      31
+      31,
+      62
     ],
     "genres": [
       23,
@@ -8630,11 +8839,35 @@
       "url": "http://eurotrucksimulator2.com/support.php",
       "email": "support@eurotrucksimulator2.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227310/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227310/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227310?t=1754032656",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227310?t=1754032656",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "3"
+      },
+      "usk": {
+        "rating": "0"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "225822": {
@@ -8858,9 +9091,9 @@
     ],
     "short_description": "In 2097, life is discovered on Mars. When your mission of first contact becomes trapped by a cave-in, you must master the alien ecosystem to survive. Soon you stumble upon more than anyone expected, and with time running out, you will make a decision that determines the fate of a lost planet.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227200/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/227200/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/227200/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227200/header.jpg?t=1447357132",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227200/capsule_231x87.jpg?t=1447357132",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227200/capsule_184x69.jpg?t=1447357132",
     "website": "http://www.wakingmars.com",
     "developers": [
       "Tiger Style"
@@ -8895,7 +9128,8 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -8913,11 +9147,29 @@
       "url": "http://www.tigerstylegames.com/wakingmars/support",
       "email": "support@tigerstylegames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/227200/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/227200/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227200?t=1447357132",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/227200?t=1447357132",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "226668": {
