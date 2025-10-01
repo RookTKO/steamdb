@@ -3357,8 +3357,8 @@
       "url": "https://discord.gg/S8TGMjpP",
       "email": "studiozdev@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234740/page_bg_generated_v6b.jpg?t=1728872568",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234740/page.bg.jpg?t=1728872568",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234740?t=1728872568",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234740/page_bg_raw.jpg?t=1728872568",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3435,8 +3435,8 @@
       "url": "",
       "email": "einelitschi07@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234750/page_bg_generated_v6b.jpg?t=1728043939",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234750/page_bg_generated.jpg?t=1728043939",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234750?t=1728043939",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234750?t=1728043939",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3498,8 +3498,8 @@
       "url": "www.trashfiregames.com",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234790?t=1727108839",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234790?t=1727108839",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3529,11 +3529,11 @@
     "steam_appid": 3234800,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Dare &amp; Scare is a 4 player online co-op horror game. You are a contestant on DARE &amp; SCARE a game show about exploring haunted locations and completing dares and challenges to discover their sinister truths. Use your wits and courage to complete your tasks and just maybe you'll make it out alive.",
+    "short_description": "Spookie time",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234800/header.jpg?t=1731301771",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234800/473e136fa55f609a1506a3f8d3dcd29cc5993942/capsule_231x87.jpg?t=1731301771",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234800/473e136fa55f609a1506a3f8d3dcd29cc5993942/capsule_184x69.jpg?t=1731301771",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234800/ef31bf84336ae14d0b3e654b4098cca9b16a1fdf/header.jpg?t=1750128511",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234800/473e136fa55f609a1506a3f8d3dcd29cc5993942/capsule_231x87.jpg?t=1750128511",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234800/473e136fa55f609a1506a3f8d3dcd29cc5993942/capsule_184x69.jpg?t=1750128511",
     "website": null,
     "developers": [
       "Chibinomicon Games"
@@ -3548,7 +3548,8 @@
       "linux": false
     },
     "categories": [
-      1
+      2,
+      62
     ],
     "genres": [
       1,
@@ -3562,30 +3563,31 @@
       "url": "",
       "email": "ChibinomiconGames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234800/page_bg_generated_v6b.jpg?t=1731301771",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234800/page_bg_generated.jpg?t=1731301771",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234800?t=1750128511",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234800/f8815dbf00d45892d717980502dadc212170c2b0/page_bg_raw.jpg?t=1750128511",
     "content_descriptors": {
       "ids": [
+        1,
         5
       ],
-      "notes": "Pixelated non realistic violence including decapitation and other forms of lethal assault. "
+      "notes": "Innuendo and sexual language but nothing shown. "
     },
     "ratings": {
       "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nConte\u00fado sexual"
+      },
+      "steam_germany": {
         "rating_generated": "1",
         "rating": "12",
         "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia"
-      },
-      "steam_germany": {
-        "rating_generated": "1",
-        "rating": "16",
-        "required_age": "16",
-        "banned": "0",
-        "use_age_gate": "0",
-        "descriptors": "Gewalt\nSchimpfw\u00f6rte"
+        "descriptors": "Sexuelle Andeutungen\nDerbe Sprache"
       }
     }
   },
@@ -3596,11 +3598,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "After a storm, your boat breaks down, but relax ! The friendly and quirky inhabitants of Zitifono will help you to return home. Embark on an uplifting adventure, swim, jump and discover all the secrets of this tiny cozy world at your own pace. Enjoy your stay !",
+    "short_description": "Zitifono is an adventure game, go boating on the ocean, swim in peaceful coves, find treasures in secret caves and talk with the funny inhabitants of the archipelago to solve the mystery of these colorful islands!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234820/header.jpg?t=1731920296",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234820/0b1cad8b17b3e690326a4795db59be3f9bf24504/capsule_231x87.jpg?t=1731920296",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234820/0b1cad8b17b3e690326a4795db59be3f9bf24504/capsule_184x69.jpg?t=1731920296",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234820/4df10193cd1a5db9a33b32d7bdc7c4e42eaa6fd7/header.jpg?t=1758354237",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234820/a0f97f006e28f96ec6629801b07ba6002a2b5361/capsule_231x87.jpg?t=1758354237",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234820/a0f97f006e28f96ec6629801b07ba6002a2b5361/capsule_184x69.jpg?t=1758354237",
     "website": null,
     "developers": [
       "Loekni"
@@ -3616,7 +3618,10 @@
     },
     "categories": [
       2,
-      28
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       1,
@@ -3626,14 +3631,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q1 2025"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "contact@loekni.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234820/page_bg_generated_v6b.jpg?t=1731920296",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234820/page.bg.jpg?t=1731920296",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234820?t=1758354237",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234820/page_bg_raw.jpg?t=1758354237",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3641,19 +3646,19 @@
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "l",
-        "required_age": "0",
+        "rating": "10",
+        "required_age": "10",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": ""
+        "descriptors": "Viol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "0",
-        "required_age": "0",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": ""
+        "descriptors": "Gewalt"
       }
     }
   },
@@ -3731,9 +3736,9 @@
     "controller_support": "full",
     "short_description": "Pilot a ship with a charger hanging. Explore an ever-changing space an plug to recharge your energy while surviving the enemy breach in this cable-like space shooter with roguelike elements and plugged resource management.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/header.jpg?t=1732220416",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/b29697b68d7471f87f936753d841cacb1b34fa71/capsule_231x87.jpg?t=1732220416",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/b29697b68d7471f87f936753d841cacb1b34fa71/capsule_184x69.jpg?t=1732220416",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/header.jpg?t=1746792222",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/b29697b68d7471f87f936753d841cacb1b34fa71/capsule_231x87.jpg?t=1746792222",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/b29697b68d7471f87f936753d841cacb1b34fa71/capsule_184x69.jpg?t=1746792222",
     "website": null,
     "developers": [
       "SIDRALGAMES"
@@ -3749,7 +3754,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -3763,8 +3769,8 @@
       "url": "https://sidralgames.itch.io/",
       "email": "sidralgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/page_bg_generated_v6b.jpg?t=1732220416",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/page.bg.jpg?t=1732220416",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234850?t=1746792222",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/page_bg_raw.jpg?t=1746792222",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3833,8 +3839,8 @@
       "url": "https://astralseal.com",
       "email": "astralseal2023@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234860?t=1728734361",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234860?t=1728734361",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3890,7 +3896,8 @@
       24,
       28,
       39,
-      44
+      44,
+      62
     ],
     "genres": [
       1,
@@ -3906,8 +3913,8 @@
       "url": "https://superpewter.com/",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234870/page_bg_generated_v6b.jpg?t=1728986752",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234870/page.bg.jpg?t=1728986752",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234870?t=1728986752",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234870/page_bg_raw.jpg?t=1728986752",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3989,8 +3996,8 @@
       "url": "",
       "email": "aluk7bo5@anonaddy.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234890/page_bg_generated_v6b.jpg?t=1728657879",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234890/page.bg.jpg?t=1728657879",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234890?t=1728657879",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234890/page_bg_raw.jpg?t=1728657879",
     "content_descriptors": {
       "ids": [
         1,
@@ -4061,8 +4068,8 @@
       "url": "",
       "email": "akseli.siili@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234900/page_bg_generated_v6b.jpg?t=1727647615",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234900/page_bg_generated.jpg?t=1727647615",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234900?t=1727647615",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234900?t=1727647615",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4172,9 +4179,9 @@
       "name": "Epic Trains 4"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234960/header.jpg?t=1726878932",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234960/b9c379167721e88f09d94aad8f66183342334a6e/capsule_231x87.jpg?t=1726878932",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234960/b9c379167721e88f09d94aad8f66183342334a6e/capsule_184x69.jpg?t=1726878932",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234960/header.jpg?t=1758155951",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234960/b9c379167721e88f09d94aad8f66183342334a6e/capsule_231x87.jpg?t=1758155951",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234960/b9c379167721e88f09d94aad8f66183342334a6e/capsule_184x69.jpg?t=1758155951",
     "website": null,
     "developers": [
       "Andrew Rowe"
@@ -4206,8 +4213,8 @@
       "url": "",
       "email": "Andrewrowe0@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234960/page_bg_generated_v6b.jpg?t=1726878932",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234960/page_bg_generated.jpg?t=1726878932",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234960?t=1758155951",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234960?t=1758155951",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4237,11 +4244,11 @@
     "steam_appid": 3234970,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Welcome to the horror card game! Try to defeat a strange couple and find out how this mad story ends!",
+    "short_description": "***",
     "supported_languages": "English, Simplified Chinese, Korean, Russian, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234970/header.jpg?t=1732121214",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234970/4786dabfa359a164db516d3ebaf3d1956bc2568c/capsule_231x87.jpg?t=1732121214",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234970/4786dabfa359a164db516d3ebaf3d1956bc2568c/capsule_184x69.jpg?t=1732121214",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234970/header.jpg?t=1759054915",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234970/4786dabfa359a164db516d3ebaf3d1956bc2568c/capsule_231x87.jpg?t=1759054915",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234970/4786dabfa359a164db516d3ebaf3d1956bc2568c/capsule_184x69.jpg?t=1759054915",
     "website": null,
     "developers": [
       "Ells&Pills"
@@ -4258,21 +4265,22 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       28
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "ellsnpills@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234970/page_bg_generated_v6b.jpg?t=1732121214",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234970/page_bg_generated.jpg?t=1732121214",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234970?t=1759054915",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234970?t=1759054915",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4304,9 +4312,9 @@
     "is_free": false,
     "short_description": "Use your special ops units to construct base facilities and towers to protect them from the ever-increasing threat of alien invaders in this Tower Defense game with a city-building element! Research their weaknesses and develop defenses before mankind runs out of time.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234980/header.jpg?t=1731046503",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234980/3345c0d0da8351eaa6913804427af1df203db1ae/capsule_231x87.jpg?t=1731046503",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234980/3345c0d0da8351eaa6913804427af1df203db1ae/capsule_184x69.jpg?t=1731046503",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234980/header.jpg?t=1736862173",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234980/3345c0d0da8351eaa6913804427af1df203db1ae/capsule_231x87.jpg?t=1736862173",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234980/3345c0d0da8351eaa6913804427af1df203db1ae/capsule_184x69.jpg?t=1736862173",
     "website": "https://goldencharacterdesign.com/dads",
     "developers": [
       "Golden Character Design"
@@ -4321,7 +4329,8 @@
       "linux": true
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -4329,14 +4338,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "27 Dec, 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "https://goldencharacterdesign.com/dads",
       "email": "Support@GoldenCharacterDesign.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234980/page_bg_generated_v6b.jpg?t=1731046503",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234980/page.bg.jpg?t=1731046503",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3234980?t=1736862173",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234980/page_bg_raw.jpg?t=1736862173",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4423,8 +4432,8 @@
       "url": "https://victorgamestudio.com",
       "email": "polyplaza@victorgamestudio.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235010/page_bg_generated_v6b.jpg?t=1727288848",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235010/page_bg_generated.jpg?t=1727288848",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235010?t=1727288848",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235010?t=1727288848",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4460,9 +4469,9 @@
       "name": "Affordable Healthcare"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235020/header.jpg?t=1729024216",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235020/0aa2d3c5bc1ee1a498269cd0d341a85daf4f7a87/capsule_231x87.jpg?t=1729024216",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235020/0aa2d3c5bc1ee1a498269cd0d341a85daf4f7a87/capsule_184x69.jpg?t=1729024216",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235020/e7ef83d324b83673efdcc88264427d657c74b18d/header.jpg?t=1746691842",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235020/bc70aae1876baa20887634042de227d5c534bdeb/capsule_231x87.jpg?t=1746691842",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235020/bc70aae1876baa20887634042de227d5c534bdeb/capsule_184x69.jpg?t=1746691842",
     "website": null,
     "developers": [
       "Gheedu"
@@ -4478,7 +4487,8 @@
     },
     "categories": [
       2,
-      10
+      10,
+      23
     ],
     "genres": [
       1,
@@ -4493,8 +4503,8 @@
       "url": "",
       "email": "gheedu@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235020/page_bg_generated_v6b.jpg?t=1729024216",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235020/page_bg_generated.jpg?t=1729024216",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235020?t=1746691842",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235020?t=1746691842",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4527,9 +4537,9 @@
     "controller_support": "full",
     "short_description": "Your girlfriend has been kidnapped by ninjas! Fight your enemies in the street using skills inspired by a number of martial art disciplines including karate, boxing, kung fu, wrestling and muay thai in this roguelike action title. Your girl is counting on you!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235030/header.jpg?t=1728385281",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235030/b66e80f3422ebb9c0b8f51e947507a4ea3c86781/capsule_231x87.jpg?t=1728385281",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235030/b66e80f3422ebb9c0b8f51e947507a4ea3c86781/capsule_184x69.jpg?t=1728385281",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235030/header.jpg?t=1747693192",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235030/b66e80f3422ebb9c0b8f51e947507a4ea3c86781/capsule_231x87.jpg?t=1747693192",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235030/b66e80f3422ebb9c0b8f51e947507a4ea3c86781/capsule_184x69.jpg?t=1747693192",
     "website": null,
     "developers": [
       "Kang"
@@ -4545,7 +4555,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -4553,14 +4564,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
       "email": "vinhkhanghuynh@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235030/page_bg_generated_v6b.jpg?t=1728385281",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235030/page.bg.jpg?t=1728385281",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235030?t=1747693192",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235030/page_bg_raw.jpg?t=1747693192",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4591,9 +4602,9 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235050/header.jpg?t=1727794024",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235050/8d3dff6abf9fedefc4867a1d45e337ce675b2901/capsule_231x87.jpg?t=1727794024",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235050/8d3dff6abf9fedefc4867a1d45e337ce675b2901/capsule_184x69.jpg?t=1727794024",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235050/header.jpg?t=1745700460",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235050/13c874260140d1ff91d105e23e3a30404c8cdedb/capsule_231x87.jpg?t=1745700460",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235050/13c874260140d1ff91d105e23e3a30404c8cdedb/capsule_184x69.jpg?t=1745700460",
     "website": null,
     "package_groups": [],
     "platforms": {
@@ -4603,14 +4614,14 @@
     },
     "release_date": {
       "coming_soon": false,
-      "date": "1 Oct, 2024"
+      "date": "26 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235050?t=1745700460",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235050?t=1745700460",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4726,8 +4737,8 @@
       "url": "",
       "email": "mgmt.vai5000@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235100/page_bg_generated_v6b.jpg?t=1726777026",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235100/page_bg_generated.jpg?t=1726777026",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235100?t=1726777026",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235100?t=1726777026",
     "content_descriptors": {
       "ids": [
         5
@@ -4761,9 +4772,9 @@
     "is_free": false,
     "short_description": "Somniora is a horror-puzzle game. Get ready to delve into the adventure of our character, who is trapped amidst strange dreams, while searching for answers to the questions lurking in their subconscious.",
     "supported_languages": "English<strong>*</strong>, Turkish<strong>*</strong>, French, German, Japanese, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235130/header.jpg?t=1730311330",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235130/cffc7bdeee1659b00c7d4ccffd8d1592f7e884e3/capsule_231x87.jpg?t=1730311330",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235130/cffc7bdeee1659b00c7d4ccffd8d1592f7e884e3/capsule_184x69.jpg?t=1730311330",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235130/header.jpg?t=1756054887",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235130/db563c62c0fa53a08d6a04f4c1b7b6fb6c785990/capsule_231x87.jpg?t=1756054887",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235130/db563c62c0fa53a08d6a04f4c1b7b6fb6c785990/capsule_184x69.jpg?t=1756054887",
     "website": "https://www.glaskowstudios.com",
     "developers": [
       "Glaskow Studios"
@@ -4779,7 +4790,8 @@
     },
     "categories": [
       2,
-      14
+      14,
+      62
     ],
     "genres": [
       1,
@@ -4788,14 +4800,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "February 2025"
+      "date": "2025"
     },
     "support_info": {
       "url": "https://www.glaskowstudios.com/contact-us",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235130/page_bg_generated_v6b.jpg?t=1730311330",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235130/page.bg.jpg?t=1730311330",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235130?t=1756054887",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235130/5b06fb2897cc5408f14b278714adc721e4225a41/page_bg_raw.jpg?t=1756054887",
     "content_descriptors": {
       "ids": [
         2,
@@ -4829,10 +4841,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Team up with friends in a heart-pounding sci-fi shooter, where every run through dark, procedurally generated bunkers is a fight for survival. Face nightmarish creatures, gather crucial loot, and navigate deadly choices\u2014because in this world, death is permanent.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235150/header.jpg?t=1729545863",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235150/b5223b358771ff9c96faa0f16619bed1e970d545/capsule_231x87.jpg?t=1729545863",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235150/b5223b358771ff9c96faa0f16619bed1e970d545/capsule_184x69.jpg?t=1729545863",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235150/22ae5a084164418504f7e5451a0e5280a0c35b2f/header.jpg?t=1759167099",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235150/b5223b358771ff9c96faa0f16619bed1e970d545/capsule_231x87.jpg?t=1759167099",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235150/b5223b358771ff9c96faa0f16619bed1e970d545/capsule_184x69.jpg?t=1759167099",
     "website": null,
     "developers": [
       "TopVR"
@@ -4851,7 +4863,8 @@
       2,
       9,
       22,
-      38
+      38,
+      62
     ],
     "genres": [
       1
@@ -4864,8 +4877,8 @@
       "url": "",
       "email": "ringenbergmatt@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235150/page_bg_generated_v6b.jpg?t=1729545863",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235150/page.bg.jpg?t=1729545863",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235150?t=1759167099",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235150?t=1759167099",
     "content_descriptors": {
       "ids": [
         2,
@@ -4898,17 +4911,23 @@
     "steam_appid": 3235170,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Islets Defense is a turn-based tower defense game where you build a small village to earn resources and defend your castle.",
-    "supported_languages": "English, Portuguese - Brazil, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/header.jpg?t=1732214501",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/ec9cee4119794d2b5e345937319f5f4964fc0518/capsule_231x87.jpg?t=1732214501",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/ec9cee4119794d2b5e345937319f5f4964fc0518/capsule_184x69.jpg?t=1732214501",
+    "controller_support": "full",
+    "dlc": [
+      3886470
+    ],
+    "short_description": "Islets Defense is a turn-based tower defense game in which you build a small village to gather resources and defend your castle. Carefully plan your actions, as each move brings the enemy waves closer! Strategize building placements and play your cards wisely, as timing and order are key.",
+    "supported_languages": "English, Portuguese - Brazil, Simplified Chinese, German, Spanish - Latin America, French, Japanese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/44a45dbb30a567a10c0fd753d18a038bc4869ab3/header.jpg?t=1758199515",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/1ebb2e071ab3184e408f009edda9d9ba40a81a28/capsule_231x87.jpg?t=1758199515",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/1ebb2e071ab3184e408f009edda9d9ba40a81a28/capsule_184x69.jpg?t=1758199515",
     "website": null,
     "developers": [
       "MiniGoof"
     ],
     "publishers": [
-      "MiniGoof"
+      "Nuntius Games",
+      "MiniGoof",
+      "Vsoo Games"
     ],
     "demos": [
       {
@@ -4916,7 +4935,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1146783
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Islets Defense",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4924,21 +4956,35 @@
     },
     "categories": [
       2,
-      22
+      22,
+      23,
+      25,
+      28,
+      29,
+      62,
+      67,
+      68,
+      69,
+      74,
+      76,
+      77
     ],
     "genres": [
       2
     ],
+    "achievements": {
+      "total": 43
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2025"
+      "coming_soon": false,
+      "date": "18 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "minigoofstudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/page_bg_generated_v6b.jpg?t=1732214501",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/page_bg_generated.jpg?t=1732214501",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235170?t=1758199515",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235170?t=1758199515",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5004,8 +5050,8 @@
       "url": "",
       "email": "admin@bypuziki.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235200?t=1731099437",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235200?t=1731099437",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5037,15 +5083,21 @@
     "is_free": false,
     "short_description": "Take part in an historic mission that could finally turn the tides of war in favor of humanity. As a prisoner, you are forced to work in the bowels of the Behemoth-class Assault Walker, the Iron Roland, take care of the machinery, discover what brought you here, and, most importantly, follow orders.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235230/header.jpg?t=1727212889",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235230/390e366f3070fa950497781a262870ceaa3381a2/capsule_231x87.jpg?t=1727212889",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235230/390e366f3070fa950497781a262870ceaa3381a2/capsule_184x69.jpg?t=1727212889",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235230/header.jpg?t=1749453075",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235230/390e366f3070fa950497781a262870ceaa3381a2/capsule_231x87.jpg?t=1749453075",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235230/390e366f3070fa950497781a262870ceaa3381a2/capsule_184x69.jpg?t=1749453075",
     "website": null,
     "developers": [
       "Umberto F."
     ],
     "publishers": [
       "Umberto F."
+    ],
+    "demos": [
+      {
+        "appid": 3547200,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5055,7 +5107,8 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       23,
@@ -5063,14 +5116,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q1 2025"
+      "date": "2025"
     },
     "support_info": {
       "url": "",
       "email": "umbertof.games@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235230/page_bg_generated_v6b.jpg?t=1727212889",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235230/page_bg_generated.jpg?t=1727212889",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235230?t=1749453075",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235230?t=1749453075",
     "content_descriptors": {
       "ids": [
         5
@@ -5136,8 +5189,8 @@
       "url": "",
       "email": "reggieboles@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235250/page_bg_generated_v6b.jpg?t=1728513182",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235250/page_bg_generated.jpg?t=1728513182",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235250?t=1728513182",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3235250?t=1728513182",
     "content_descriptors": {
       "ids": [],
       "notes": null
