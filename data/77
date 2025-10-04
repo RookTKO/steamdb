@@ -699,7 +699,7 @@
     "type": "dlc",
     "name": "CoH 2 - Soviet Commander: Conscript Support Tactics",
     "steam_appid": 231460,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "SOVIET COMMANDER: CONSCRIPTS SUPPORT TACTICS; Better weapons, training, the ability to repair armor, and rapid replacement of losses improve conscripts.INCENDIARY ARTILLERY BARRAGEAreas of the map can be bombarded with incendiary rounds to burn infantry and deny access.",
     "fullgame": {
@@ -707,9 +707,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Czech, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231460/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231460/header.jpg?t=1573213382",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231460/capsule_231x87.jpg?t=1573213382",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231460/capsule_184x69.jpg?t=1573213382",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -747,7 +747,8 @@
       15,
       21,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       2
@@ -760,11 +761,21 @@
       "url": "http://www.sega.co.uk/support",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231460/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231460?t=1573213382",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231460?t=1573213382",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "231350": {
@@ -773,15 +784,15 @@
     "steam_appid": 231350,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Test your PC with the world's most popular benchmarking app. The 3DMark demo includes the Time Spy, Fire Strike, and Sky Diver benchmarks. Test your PC then compare scores with your friends on Steam.",
+    "short_description": "Test your PC with the world's most popular benchmarking app. The 3DMark demo includes the Steel Nomad, Steel Nomad Light, Time Spy, and Fire Strike benchmarks. Test your PC then compare scores with your friends on Steam.",
     "fullgame": {
       "appid": "223850",
       "name": "3DMark"
     },
     "supported_languages": "English, German, Simplified Chinese, Russian, Spanish - Spain, Japanese, Korean, Traditional Chinese, Polish, Portuguese - Brazil",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231350/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231350/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231350/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231350/e499441ece83883376ae5e8c1e6934f3c06e7c32/header.jpg?t=1756110416",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231350/a759dd4110ed54411715bdb8cb6f5e917d20a9a9/capsule_231x87.jpg?t=1756110416",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231350/a759dd4110ed54411715bdb8cb6f5e917d20a9a9/capsule_184x69.jpg?t=1756110416",
     "website": "https://benchmarks.ul.com/3dmark",
     "developers": [
       "UL"
@@ -792,7 +803,7 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
@@ -811,11 +822,29 @@
       "url": "https://benchmarks.ul.com/support",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231350?t=1756110416",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231350?t=1756110416",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "232790": {
@@ -969,7 +998,7 @@
     "type": "dlc",
     "name": "COH 2 - German Skin: (L) Late War Factory Pattern",
     "steam_appid": 231457,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "GERMAN SKIN: (L) LATE WAR FACTORY PATTERNLate in the war, many German vehicles were delivered from the factory with yellow-brown sprayed in stripes over the raw red-brown primer in basic attempt at camouflage.This DLC is already included in the Digital Collector\u2019s Edition.This skin is used only for the light weight class.",
     "fullgame": {
@@ -977,9 +1006,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "Czech, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian, Polish<strong>*</strong>, Russian<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231457/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231457/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231457/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231457/header.jpg?t=1521805494",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231457/capsule_231x87.jpg?t=1521805494",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231457/capsule_184x69.jpg?t=1521805494",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -1017,7 +1046,8 @@
       15,
       21,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       2
@@ -1030,11 +1060,21 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231457/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231457/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231457?t=1521805494",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231457?t=1521805494",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "233860": {
@@ -1189,7 +1229,7 @@
     "type": "dlc",
     "name": "CoH 2 - Soviet Commander: Armored Assault Tactics",
     "steam_appid": 231456,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "SOVIET COMMANDER: ARMORED ASSAULT TACTICS; Heavy and medium armor is supported by IL-2 attack aircraft. Enemy forces identified through radio intercepts.Il-2 STURMOVIK ATTACKSIL-2 Sturmovik will loiter over the battlefield, strafing targets of opportunity with its powerful 23mm cannons.",
     "fullgame": {
@@ -1197,9 +1237,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Czech, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231456/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231456/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231456/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231456/header.jpg?t=1573213952",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231456/capsule_231x87.jpg?t=1573213952",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231456/capsule_184x69.jpg?t=1573213952",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -1233,7 +1273,8 @@
     "categories": [
       1,
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       2
@@ -1246,11 +1287,21 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231456/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231456/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231456?t=1573213952",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231456?t=1573213952",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "233510": {
@@ -1551,17 +1602,20 @@
     "type": "game",
     "name": "Company of Heroes 2",
     "steam_appid": 231430,
-    "required_age": 0,
+    "required_age": "17",
     "is_free": false,
     "dlc": [
       691120,
-      691110
+      691110,
+      260290,
+      231480,
+      231479
     ],
     "short_description": "Experience the ultimate WWII RTS platform with COH2 and its standalone expansions. This package includes the base game, which you can then upgrade by purchasing The Western Front Armies, Ardennes Assault and/or The British Forces. More info in the &quot;About This Game&quot; section below.",
     "supported_languages": "Czech, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian, Polish<strong>*</strong>, Russian<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231430/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231430/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231430/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231430/header.jpg?t=1750947634",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231430/capsule_231x87.jpg?t=1750947634",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231430/capsule_184x69.jpg?t=1750947634",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -1569,11 +1623,27 @@
       "Feral Interactive (Linux)"
     ],
     "publishers": [
-      "SEGA",
+      "Relic Entertainment",
       "Feral Interactive (Mac)",
       "Feral Interactive (Linux)"
     ],
-    "package_groups": [],
+    "packages": [
+      28773,
+      76411,
+      40569,
+      48941
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Company of Heroes 2",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -1594,7 +1664,8 @@
       30,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       2
@@ -1607,14 +1678,42 @@
       "date": "25 Jun, 2013"
     },
     "support_info": {
-      "url": "https://support.sega.co.uk/hc/en-us/categories/200798539-Company-of-Heroes-Support",
+      "url": "help.relic.com",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231430/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231430/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231430?t=1750947634",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231430?t=1750947634",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "required_age": "17",
+        "descriptors": "Blood and Gore\r\nStrong Language\r\nIntense Violence",
+        "use_age_gate": "true"
+      },
+      "pegi": {
+        "rating": "18",
+        "required_age": "18",
+        "use_age_gate": "true"
+      },
+      "usk": {
+        "rating": "16",
+        "required_age": "16",
+        "use_age_gate": "true"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "required_age": "15",
+        "use_age_gate": "true"
+      },
+      "nzoflc": {
+        "rating": "ma15",
+        "required_age": "15",
+        "use_age_gate": "true"
+      }
     }
   },
   "232010": {
@@ -2208,9 +2307,9 @@
     "is_free": false,
     "short_description": "Deadfall Adventures is an action-driven first-person shooter, spiced up with elements from action-adventure games. Become an adventurer, hunt for treasures, explore unknown regions of the world and rescue the damsel in distress from the clutches of enemies, both earthly and not-so-earthly.",
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Polish, French, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231330/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231330/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231330/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231330/header.jpg?t=1744351771",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231330/capsule_231x87.jpg?t=1744351771",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231330/capsule_184x69.jpg?t=1744351771",
     "website": "http://www.deadfall-game.com/",
     "developers": [
       "The Farm 51"
@@ -2250,7 +2349,8 @@
       22,
       23,
       25,
-      29
+      29,
+      62
     ],
     "genres": [
       1,
@@ -2267,11 +2367,24 @@
       "url": "",
       "email": "support@quanticlab.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231330/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231330/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231330?t=1744351771",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231330?t=1744351771",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood, Violence, Language"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence, Online"
+      },
+      "usk": {
+        "rating": "16"
+      }
     }
   },
   "232890": {
@@ -2436,7 +2549,7 @@
     "type": "dlc",
     "name": "CoH 2 - Soviet Commander: Anti-Infantry Tactics",
     "steam_appid": 231462,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "SOVIET COMMANDER: ANTI-INFANTRY TACTICS; Kill or drive off your enemy\u2019s infantry forces with short-range shock troops, artillery and flamethrower tanks.FEAR PROPAGANDA ARTILLERYAirburst propaganda leaflets make targeted soldiers question the morality of their actions.",
     "fullgame": {
@@ -2444,9 +2557,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Czech, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231462/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231462/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231462/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231462/header.jpg?t=1573214211",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231462/capsule_231x87.jpg?t=1573214211",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231462/capsule_184x69.jpg?t=1573214211",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -2484,7 +2597,8 @@
       15,
       21,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       2
@@ -2497,11 +2611,21 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231462/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231462/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231462?t=1573214211",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231462?t=1573214211",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "233800": {
@@ -2910,9 +3034,9 @@
     "controller_support": "full",
     "short_description": "KENTUCKY ROUTE ZERO is a magical realist adventure game about a secret highway running through the caves beneath Kentucky, and the mysterious folks who travel it.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian, Spanish - Latin America, Japanese, Arabic, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231200/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231200/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231200/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231200/header.jpg?t=1692292539",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231200/capsule_231x87.jpg?t=1692292539",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231200/capsule_184x69.jpg?t=1692292539",
     "website": "http://kentuckyroutezero.com",
     "developers": [
       "Cardboard Computer"
@@ -2949,7 +3073,8 @@
       22,
       23,
       28,
-      43
+      43,
+      62
     ],
     "genres": [
       23,
@@ -2966,11 +3091,37 @@
       "url": "",
       "email": "cardboardcomputer@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231200/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231200/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231200?t=1692292539",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231200/page_bg_raw.jpg?t=1692292539",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "t",
+        "descriptors": "Language\r\nUse of Drugs"
+      },
+      "pegi": {
+        "rating": "12",
+        "descriptors": "Bad Language"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas l\u00edcitas\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Alkohol / Tabak\nSchimpfw\u00f6rte"
+      }
     }
   },
   "233550": {
@@ -3796,9 +3947,9 @@
     "is_free": false,
     "short_description": "MirrorMoon EP is a game about mystery and exploration set in outer space. These space travels begin on a red planet and its unique moon and extend across galaxies. The single player part of MirrorMoon EP blends adventure and exploration with navigation-based puzzle solving.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231310/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231310/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231310/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231310/header.jpg?t=1727787684",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231310/capsule_231x87.jpg?t=1727787684",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231310/capsule_184x69.jpg?t=1727787684",
     "website": "http://www.mirrormoongame.com/",
     "developers": [
       "Santa Ragione"
@@ -3830,12 +3981,14 @@
       "url": "https://www.metacritic.com/game/pc/mirrormoon-ep?ftag=MCD-06-10aaa1f"
     },
     "categories": [
+      1,
       2,
       9,
       18,
       22,
       27,
-      29
+      29,
+      62
     ],
     "genres": [
       23,
@@ -3852,11 +4005,29 @@
       "url": "http://www.santaragione.com/",
       "email": "info@santaragione.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231310/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231310/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231310?t=1727787684",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231310?t=1727787684",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "232450": {
@@ -4054,7 +4225,7 @@
     "type": "dlc",
     "name": "COH 2 - German Skin: (H) Three Color Ambush Pattern",
     "steam_appid": 231453,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "GERMAN SKIN: (H) THREE COLOR AMBUSH PATTERNAlso called Hinterhalt-tarnung, the ambush patter hid vehicles in the dappled light under trees.This DLC is already included in the Digital Collector\u2019s Edition.This skin is used only for the heavy weight class.",
     "fullgame": {
@@ -4062,9 +4233,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Czech, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231453/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231453/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231453/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231453/header.jpg?t=1521805505",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231453/capsule_231x87.jpg?t=1521805505",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231453/capsule_184x69.jpg?t=1521805505",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -4101,7 +4272,8 @@
       15,
       21,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       2
@@ -4114,11 +4286,21 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231453/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231453/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231453?t=1521805505",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231453?t=1521805505",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "232590": {
@@ -4269,7 +4451,7 @@
     "type": "dlc",
     "name": "COH 2 - German Skin: (M) Late War Factory Pattern",
     "steam_appid": 231458,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "GERMAN SKIN: (M) LATE WAR FACTORY PATTERNLate in the war, many German vehicles were delivered from the factory with yellow-brown sprayed in stripes over the raw red-brown primer in basic attempt at camouflage.This DLC is already included in the Digital Collector\u2019s Edition.This skin is used only for the medium weight class.",
     "fullgame": {
@@ -4277,9 +4459,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Czech, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231458/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231458/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231458/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231458/header.jpg?t=1521805485",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231458/capsule_231x87.jpg?t=1521805485",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231458/capsule_184x69.jpg?t=1521805485",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -4317,7 +4499,8 @@
       15,
       21,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       2
@@ -4330,11 +4513,21 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231458/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231458/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231458?t=1521805485",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231458?t=1521805485",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "233610": {
@@ -4435,9 +4628,9 @@
       "name": "Euro Truck Simulator 2"
     },
     "supported_languages": "English, German, French, Italian, Korean, Spanish - Spain, Simplified Chinese, Russian, Japanese, Portuguese - Portugal, Polish, Danish, Dutch, Finnish, Norwegian, Swedish, Hungarian, Czech, Romanian, Turkish, Portuguese - Brazil, Bulgarian, Greek",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231120/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231120/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231120/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231120/header.jpg?t=1590431627",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231120/capsule_231x87.jpg?t=1590431627",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231120/capsule_184x69.jpg?t=1590431627",
     "website": "http://eurotrucksimulator2.com/",
     "developers": [
       "SCS Software"
@@ -4469,11 +4662,35 @@
       "url": "http://eurotrucksimulator2.com/support.php",
       "email": "support@eurotrucksimulator2.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231120/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231120/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231120?t=1590431627",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231120?t=1590431627",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "3"
+      },
+      "usk": {
+        "rating": "0"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "231469": {
@@ -4619,7 +4836,7 @@
     "type": "dlc",
     "name": "CoH 2 - Soviet Commander: Mechanized Support Tactics",
     "steam_appid": 231461,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "SOVIET COMMANDER: MECHANIZED SUPPORT TACTICS; Counter a variety of threats with well-armed infantry, air cover, and heavy 152mm artillery.IL-2 PRECISION BOMBING STRIKEThe IL-2 will make a high-speed bombing run, clustering four FAB-50 50kg bombs into the target area.",
     "fullgame": {
@@ -4627,9 +4844,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Czech, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231461/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231461/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231461/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231461/header.jpg?t=1573214036",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231461/capsule_231x87.jpg?t=1573214036",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231461/capsule_184x69.jpg?t=1573214036",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -4663,7 +4880,8 @@
     "categories": [
       1,
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       2
@@ -4676,11 +4894,21 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231461/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231461/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231461?t=1573214036",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231461?t=1573214036",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "232050": {
@@ -4983,24 +5211,21 @@
     "type": "demo",
     "name": "Resident Evil: Revelations Demo",
     "steam_appid": 231250,
-    "required_age": "16",
+    "required_age": "17",
     "is_free": true,
     "controller_support": "full",
-    "short_description": "Resident Evil\u00ae Revelations returns redefined for PC complete with high quality HD visuals, enhanced lighting effects and an immersive sound experience. This latest version of Resident Evil Revelations will also deliver additional content including a terrifying new enemy, extra difficulty mode, integration with ResidentEvil.",
+    "short_description": "Resident Evil\u00ae Revelations returns redefined for PC complete with high quality HD visuals, enhanced lighting effects and an immersive sound experience. This latest version of Resident Evil Revelations will also deliver additional content including a terrifying new enemy, extra difficulty mode, integration with and improvements to Raid...",
     "fullgame": {
       "appid": "222480",
       "name": "Resident Evil Revelations"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian, Japanese<strong>*</strong>, Portuguese - Portugal, Polish, Dutch, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231250/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231250/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231250/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231250/header.jpg?t=1447357362",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231250/capsule_231x87.jpg?t=1447357362",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231250/capsule_184x69.jpg?t=1447357362",
     "website": "http://www.residentevil.com",
     "developers": [
       "Capcom"
-    ],
-    "publishers": [
-      ""
     ],
     "package_groups": [],
     "platforms": {
@@ -5031,11 +5256,76 @@
       "url": "http://shop.capcom.com/store/capcomus/html/pbPage.capcom-support",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231250?t=1447357362",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231250?t=1447357362",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "m",
+        "descriptors": "Blood and Gore\n\nIntense Violence\n\nLanguage",
+        "display_online_notice": "true",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "pegi": {
+        "rating": "16",
+        "descriptors": "Violence\n\nOnline Gameplay",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "usk": {
+        "rating": "16",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "oflc": {
+        "rating": "ma15",
+        "use_age_gate": "true",
+        "required_age": "15"
+      },
+      "nzoflc": {
+        "rating": "r16",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "cero": {
+        "rating": "d",
+        "descriptors": "\u66b4\u529b",
+        "use_age_gate": "true",
+        "required_age": "17"
+      },
+      "kgrb": {
+        "rating": "18",
+        "descriptors": "\u66b4\u529b\u6027\n\n\u6050\u6016",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "dejus": {
+        "rating": "16",
+        "descriptors": "Violencia",
+        "use_age_gate": "true",
+        "required_age": "16"
+      },
+      "fpb": {
+        "rating": "18",
+        "descriptors": "VH",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "csrr": {
+        "rating": "R",
+        "descriptors": "\u66b4\u529b\u3001\u6050\u6016",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "crl": {
+        "rating": "16",
+        "use_age_gate": "true",
+        "required_age": "16"
+      }
     }
   },
   "232910": {
@@ -5398,7 +5688,7 @@
     "type": "dlc",
     "name": "CoH 2 - German Commander: Fortified Armor Doctrine",
     "steam_appid": 231459,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "GERMAN COMMANDER: FORTIFIED ARMOR DOCTRINE; Your vehicles can live longer and fight harder with better vision, recon, defensive options and the presence of a Command Tank.ELEFANT TANK DESTROYERThis heavy tank destroyer has a massive armor envelope and one of the most potent guns ever mounted on a fighting vehicle; the 88mm Pak43.",
     "fullgame": {
@@ -5406,9 +5696,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Polish<strong>*</strong>, Czech<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231459/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231459/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231459/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231459/header.jpg?t=1573213265",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231459/capsule_231x87.jpg?t=1573213265",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231459/capsule_184x69.jpg?t=1573213265",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -5445,7 +5735,8 @@
       15,
       21,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       2
@@ -5458,11 +5749,21 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231459/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231459/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231459?t=1573213265",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231459?t=1573213265",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "233591": {
@@ -5882,9 +6183,9 @@
     "controller_support": "full",
     "short_description": "What if someone knew your mind better than you did? The Swapper is an award-winning, narrative driven puzzle game set in the furthest reaches of space.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231160/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231160/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231160/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/18296f9c4adf96ec1aedc3daf8b817afbc41f740/header.jpg?t=1742578969",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/capsule_231x87.jpg?t=1742578969",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/capsule_184x69.jpg?t=1742578969",
     "website": "http://facepalmgames.com/the-swapper",
     "developers": [
       "Olli Harjola, Otto Hantula, Tom Jubert, Carlo Castellano"
@@ -5908,8 +6209,8 @@
     ],
     "platforms": {
       "windows": true,
-      "mac": true,
-      "linux": true
+      "mac": false,
+      "linux": false
     },
     "metacritic": {
       "score": 87,
@@ -5920,7 +6221,8 @@
       22,
       28,
       29,
-      43
+      43,
+      62
     ],
     "genres": [
       1,
@@ -5938,18 +6240,36 @@
       "url": "http://steamcommunity.com/app/231160",
       "email": "support@facepalmgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231160/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231160/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231160?t=1742578969",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/d95d53386a4464422bd2815574204bb428209135/page_bg_raw.jpg?t=1742578969",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Schimpfw\u00f6rte\nFantasy-Gewalt"
+      }
     }
   },
   "231454": {
     "type": "dlc",
     "name": "COH 2 - Soviet Skin: (M) Winter Whitewash Voronezh Front",
     "steam_appid": 231454,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "SOVIET SKIN: (M) WINTER WHITEWASH VORONEZH FRONTMost winter camouflage was roughly applied by hand. The goal was not to completely cover the vehicle, as a pure white would stand out dramatically against darker backgrounds.This DLC is already included in the Digital Collector\u2019s Edition.This skin is used only for the medium weight class.",
     "fullgame": {
@@ -5957,9 +6277,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Czech, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231454/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231454/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231454/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231454/header.jpg?t=1521808181",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231454/capsule_231x87.jpg?t=1521808181",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231454/capsule_184x69.jpg?t=1521808181",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -5996,7 +6316,8 @@
       15,
       21,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       2
@@ -6009,11 +6330,21 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231454/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231454/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231454?t=1521808181",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231454?t=1521808181",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "232750": {
@@ -6732,7 +7063,7 @@
     "type": "dlc",
     "name": "CoH 2 - German Commander: Storm Doctrine",
     "steam_appid": 231455,
-    "required_age": "18",
+    "required_age": 0,
     "is_free": false,
     "short_description": "GERMAN COMMANDER: STORM DOCTRINE; Focused firepower and the ability to weather enemy counterattacks are hallmarks of this doctrine.STUKA BOMBING STRIKEA JU-87D Stuka will dive in and drop a 50kg bomb on the target location. Capture points are neutralized if hit.LEFH 18 ARTILLERYThis light 10.",
     "fullgame": {
@@ -6740,9 +7071,9 @@
       "name": "Company of Heroes 2"
     },
     "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Czech, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231455/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231455/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231455/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231455/header.jpg?t=1573213458",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231455/capsule_231x87.jpg?t=1573213458",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231455/capsule_184x69.jpg?t=1573213458",
     "website": "http://www.companyofheroes.com/",
     "developers": [
       "Relic Entertainment",
@@ -6779,7 +7110,8 @@
       15,
       21,
       22,
-      25
+      25,
+      62
     ],
     "genres": [
       2
@@ -6792,11 +7124,21 @@
       "url": "https://support.sega.co.uk",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231455/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231455/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231455?t=1573213458",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231455?t=1573213458",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "rp"
+      },
+      "pegi": {
+        "rating": "18",
+        "use_age_gate": "true",
+        "required_age": "18"
+      }
     }
   },
   "233230": {
@@ -7436,9 +7778,9 @@
     "is_free": false,
     "short_description": "Build cities, shape a world.Cities XL Platinum lets you design, build and link up cities of all shapes and sizes around the Cities XL planet!Build more impressive cities than ever before! Cities XL Platinum offers a huge variety of over 1,000 buildings and constructions (including 50 brand new structures), that you can freely place on...",
     "supported_languages": "English, German, French, Italian, Spanish - Spain, Polish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231140/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/231140/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/231140/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231140/header.jpg?t=1651242019",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231140/capsule_231x87.jpg?t=1651242019",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231140/capsule_184x69.jpg?t=1651242019",
     "website": "http://www.citiesxl.com/",
     "developers": [
       "Focus Entertainment"
@@ -7467,7 +7809,8 @@
     },
     "categories": [
       2,
-      23
+      23,
+      62
     ],
     "genres": [
       28
@@ -7483,11 +7826,26 @@
       "url": "http://www.focus-home.com/support/cxl/",
       "email": "support@focus-home.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/231140/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/231140/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231140?t=1651242019",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/231140?t=1651242019",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "esrb": {
+        "rating": "e",
+        "descriptors": "Mild Cartoon Violence"
+      },
+      "pegi": {
+        "rating": "3"
+      },
+      "usk": {
+        "rating": "0"
+      },
+      "oflc": {
+        "rating": "g"
+      }
     }
   },
   "232550": {
