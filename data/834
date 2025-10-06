@@ -189,12 +189,12 @@
     "short_description": "This pack, filled with bonuses and strategically designed to propel your progress, is your invaluable ally in the captivating world of farming and cooking.",
     "fullgame": {
       "appid": "2014620",
-      "name": "Farming Fever: Pizza and Burger Cooking game"
+      "name": "Farming Fever - Pizza and Burger Cooking game"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Swedish<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504330/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504330/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504330/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504330/header.jpg?t=1690152049",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504330/capsule_231x87.jpg?t=1690152049",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504330/capsule_184x69.jpg?t=1690152049",
     "website": null,
     "developers": [
       "Matryoshka"
@@ -239,11 +239,24 @@
       "url": "https://matryoshka.helpshift.com/hc/en/5-cooking-farm/",
       "email": "support@matryoshka.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504330/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504330/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504330?t=1690152049",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504330?t=1690152049",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2504540": {
@@ -254,9 +267,9 @@
     "is_free": false,
     "short_description": "The agile multiplayer arcade battle royale experience for soldiers of fortune and strategy experts.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504540/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504540/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504540/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504540/header.jpg?t=1707830597",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504540/capsule_231x87.jpg?t=1707830597",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504540/capsule_184x69.jpg?t=1707830597",
     "website": "http://www.cube-royale.com",
     "developers": [
       "Creature Factory"
@@ -264,7 +277,20 @@
     "publishers": [
       "Creature Factory"
     ],
-    "package_groups": [],
+    "packages": [
+      900737
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy CUBE ROYALE",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -283,7 +309,8 @@
       37,
       38,
       39,
-      49
+      49,
+      62
     ],
     "genres": [
       2,
@@ -291,19 +318,40 @@
       23,
       70
     ],
+    "achievements": {
+      "total": 27
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2023"
+      "coming_soon": false,
+      "date": "4 Dec, 2023"
     },
     "support_info": {
       "url": "www.cube-royale.com",
       "email": "help@cube-royale.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504540/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504540/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504540?t=1707830597",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504540/page_bg_raw.jpg?t=1707830597",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2503260": {
@@ -639,12 +687,12 @@
     "short_description": "Loaded with extra coins and powerful boosters, this pack is your shortcut to success in the world of farming and cooking.",
     "fullgame": {
       "appid": "2014620",
-      "name": "Farming Fever: Pizza and Burger Cooking game"
+      "name": "Farming Fever - Pizza and Burger Cooking game"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Swedish<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504310/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504310/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504310/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504310/header.jpg?t=1690151666",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504310/capsule_231x87.jpg?t=1690151666",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504310/capsule_184x69.jpg?t=1690151666",
     "website": null,
     "developers": [
       "Matryoshka"
@@ -688,11 +736,24 @@
       "url": "https://matryoshka.helpshift.com/hc/en/5-cooking-farm/",
       "email": "support@matryoshka.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504310/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504310/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504310?t=1690151666",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504310?t=1690151666",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2503000": {
@@ -998,10 +1059,10 @@
     "is_free": false,
     "short_description": "Will.exe, a game whose character no longer wants to be played. Not anymore.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504580/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504580/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504580/capsule_184x69.jpg",
-    "website": null,
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504580/header.jpg?t=1718127194",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504580/capsule_231x87.jpg?t=1718127194",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504580/capsule_184x69.jpg?t=1718127194",
+    "website": "https://scissorsintheplug.com/",
     "developers": [
       "Scissors In The Plug"
     ],
@@ -1015,7 +1076,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -1026,19 +1088,37 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "September 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "https://scissorsintheplug.com/",
       "email": "technique@scissorsintheplug.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504580/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504580/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504580?t=1718127194",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504580?t=1718127194",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nTemas sens\u00edveis\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2502420": {
@@ -1150,15 +1230,15 @@
   },
   "2504480": {
     "type": "game",
-    "name": "Indigo Park",
+    "name": "Indigo Park: Chapter 1",
     "steam_appid": 2504480,
     "required_age": 0,
-    "is_free": false,
+    "is_free": true,
     "short_description": "Explore the abandoned childhood wonder of Indigo Park! Guided by Rambley the Raccoon, help restore power to the destroyed amusement park while you run from the reason it shut down.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504480/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504480/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504480/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504480/header.jpg?t=1716044832",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504480/capsule_231x87.jpg?t=1716044832",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504480/capsule_184x69.jpg?t=1716044832",
     "website": null,
     "developers": [
       "UniqueGeese"
@@ -1183,18 +1263,36 @@
       37
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "18 May, 2024"
     },
     "support_info": {
       "url": "https://www.uniquegeese.com",
       "email": "business@uniquegeese.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504480/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504480/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504480?t=1716044832",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504480/page_bg_raw.jpg?t=1716044832",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia Extrema\nLinguagem impr\u00f3pria\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2502790": {
@@ -1396,16 +1494,13 @@
       "appid": "244850",
       "name": "Space Engineers"
     },
-    "supported_languages": "Angli\u010dtina, N\u011bm\u010dina, Evropsk\u00e1 \u0161pan\u011bl\u0161tina, \u010ce\u0161tina, D\u00e1n\u0161tina, Nizozem\u0161tina, Pol\u0161tina, Francouz\u0161tina, Ital\u0161tina, Fin\u0161tina, Ma\u010far\u0161tina, Nor\u0161tina, Brazilsk\u00e1 portugal\u0161tina, \u0160v\u00e9d\u0161tina, Ru\u0161tina, Zjednodu\u0161en\u00e1 \u010d\u00edn\u0161tina, Evropsk\u00e1 portugal\u0161tina",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504720/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504720/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504720/capsule_184x69.jpg",
+    "supported_languages": "English, German, Spanish - Spain, Czech, Danish, Dutch, Polish, French, Italian, Finnish, Hungarian, Norwegian, Portuguese - Brazil, Swedish, Russian, Simplified Chinese, Portuguese - Portugal",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504720/header.jpg?t=1739191716",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504720/1be508eb6ef880b30d8552183348e80600ee2c68/capsule_231x87.jpg?t=1739191716",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504720/1be508eb6ef880b30d8552183348e80600ee2c68/capsule_184x69.jpg?t=1739191716",
     "website": "http://www.SpaceEngineersGame.com",
     "developers": [
       "Keen Software House"
-    ],
-    "publishers": [
-      ""
     ],
     "packages": [
       900782
@@ -1413,9 +1508,9 @@
     "package_groups": [
       {
         "name": "default",
-        "title": "Zakoupit Space Engineers - Decorative Pack #3",
+        "title": "Buy Space Engineers - Decorative Pack #3",
         "description": "",
-        "selection_text": "Vyberte mo\u017enost n\u00e1kupu",
+        "selection_text": "Select a purchase option",
         "save_text": "",
         "display_type": 0,
         "is_recurring_subscription": "false"
@@ -1437,7 +1532,8 @@
       23,
       30,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -1447,50 +1543,81 @@
     ],
     "release_date": {
       "coming_soon": false,
-      "date": "31. srp. 2023"
+      "date": "31 Aug, 2023"
     },
     "support_info": {
       "url": "https://support.keenswh.com/spaceengineers",
       "email": "support@keenswh.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504720/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504720/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504720?t=1739191716",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504720/page_bg_raw.jpg?t=1739191716",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "12",
+        "descriptors": "The game was rated PEGI 12 for occasional non-realistic violence. Not appropriate for persons below 12 years of age."
+      },
+      "dejus": {
+        "rating": "14",
+        "descriptors": "Viol\u00eancia",
+        "use_age_gate": "true",
+        "required_age": "14"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2504380": {
     "type": "game",
-    "name": "Survival Nation GO",
+    "name": "Survival Nation: Lost Horizon",
     "steam_appid": 2504380,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Survival Nation GO is a flat-screen adaptation of the popular VR game Survival Nation. This is an open-world online RPG game with a Top-Down perspective in which you are the zombie apocalypse survivor. Your job is to support camp members, develop new skills, upgrade your equipment, and survive.",
+    "short_description": "Survival Nation: Lost Horizon is an open-world, top-down zombie survival game. Keep yourself and other survivors alive in a world gone to the zombies, upgrade your gear and skills, and keep civilization going in a world where humans are the top pick on the menu.",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Japanese, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504380/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504380/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504380/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504380/header.jpg?t=1729192181",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504380/capsule_231x87.jpg?t=1729192181",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504380/capsule_184x69.jpg?t=1729192181",
     "website": null,
     "developers": [
       "Wenkly Studio Sp. z o.o."
     ],
-    "publishers": [
-      "Wenkly Studio Sp. z o.o."
+    "packages": [
+      900703
     ],
-    "package_groups": [],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Survival Nation: Lost Horizon",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       1,
       2,
       9,
-      36,
+      22,
+      23,
       38,
-      49
+      62
     ],
     "genres": [
       1,
@@ -1499,22 +1626,43 @@
       25,
       70
     ],
+    "achievements": {
+      "total": 65
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2024"
+      "coming_soon": false,
+      "date": "15 Apr, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "support@wenklystudio.com"
+      "email": "support@indie.io"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504380/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504380/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504380?t=1729192181",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504380/page_bg_raw.jpg?t=1729192181",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
       "notes": "In Survival Nation you will find violence against zombies. It comes down to shooting zombies and beating them with melee weapons. You will NOT experience gore elements such as dismembering bodies."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2504240": {
@@ -2211,7 +2359,7 @@
   },
   "2504700": {
     "type": "music",
-    "name": "Shadow Gambit: The Cursed Crew Original Soundtrack",
+    "name": "Shadow Gambit: The Cursed Crew - Soundtrack",
     "steam_appid": 2504700,
     "required_age": 0,
     "is_free": false,
@@ -2220,14 +2368,15 @@
       "appid": "1545560",
       "name": "Shadow Gambit: The Cursed Crew"
     },
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504700/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504700/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504700/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504700/header.jpg?t=1734616751",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504700/capsule_231x87.jpg?t=1734616751",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504700/capsule_184x69.jpg?t=1734616751",
     "website": null,
     "developers": [
       "Mimimi Games"
     ],
     "publishers": [
+      "Hooded Horse",
       "Mimimi Games"
     ],
     "packages": [
@@ -2236,7 +2385,7 @@
     "package_groups": [
       {
         "name": "default",
-        "title": "Buy Shadow Gambit: The Cursed Crew Original Soundtrack",
+        "title": "Buy Shadow Gambit: The Cursed Crew - Soundtrack",
         "description": "",
         "selection_text": "Select a purchase option",
         "save_text": "",
@@ -2260,11 +2409,29 @@
       "url": "https://shadowgambit.com",
       "email": "mimi@mimimi.games"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504700/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504700/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504700?t=1734616751",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504700?t=1734616751",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2503810": {
@@ -2791,9 +2958,9 @@
     "controller_support": "full",
     "short_description": "A classic survival-horror experience set in a fictional universe where the invisible hand of unspeakable horrors is turning humanity into a fleeting memory. Enter the world of THE KING IN THE SHADES and rid this decaying world of the curse of Gods.",
     "supported_languages": "English<strong>*</strong>, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504640/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504640/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504640/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504640/0787065354fdd5611bfc38a4dd9c81011654d775/header.jpg?t=1750639590",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504640/1a2d464ce628f629950ce5ee9943d39f24920cf5/capsule_231x87.jpg?t=1750639590",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504640/1a2d464ce628f629950ce5ee9943d39f24920cf5/capsule_184x69.jpg?t=1750639590",
     "website": null,
     "developers": [
       "sp1r1t_d1tch_creations"
@@ -2815,8 +2982,16 @@
     },
     "categories": [
       2,
+      22,
       23,
-      28
+      28,
+      62,
+      67,
+      68,
+      69,
+      74,
+      75,
+      78
     ],
     "genres": [
       1,
@@ -2826,19 +3001,37 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q1 2024"
+      "date": "Q1 2026"
     },
     "support_info": {
       "url": "",
       "email": "sp1r1td1tch@protonmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504640/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504640/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504640?t=1750639590",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504640/page_bg_raw.jpg?t=1750639590",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "This game may contain content not appropriate for all ages such as scenes of explicit violence and gore, general mature content."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nMedo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2502600": {
@@ -3037,9 +3230,9 @@
     "is_free": true,
     "short_description": "This is a multiplayer online cooperative combat shooting game, the game players can experience the real shootout shooting pleasure, together to play a shootout.",
     "supported_languages": "English, French, Italian, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Portuguese - Portugal",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504460/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504460/header.jpg?t=1691146459",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504460/capsule_231x87.jpg?t=1691146459",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504460/capsule_184x69.jpg?t=1691146459",
     "website": null,
     "developers": [
       "FPS OL"
@@ -3075,11 +3268,29 @@
       "url": "",
       "email": "whoisdoggame@outlook.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504460/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504460?t=1691146459",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504460/page_bg_raw.jpg?t=1691146459",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2503780": {
@@ -3538,13 +3749,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504570/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504570/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504570/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504570/header.jpg?t=1688995465",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504570/capsule_231x87.jpg?t=1688995465",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504570/capsule_184x69.jpg?t=1688995465",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -3562,12 +3770,13 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504570?t=1688995465",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504570?t=1688995465",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2504970": {
     "type": "demo",
@@ -3581,9 +3790,9 @@
       "name": "Below the Stone"
     },
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504970/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504970/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504970/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504970/header.jpg?t=1689782117",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504970/capsule_231x87.jpg?t=1689782117",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504970/capsule_184x69.jpg?t=1689782117",
     "website": "http://belowthestone.com",
     "developers": [
       "Strollart"
@@ -3610,11 +3819,29 @@
       "url": "",
       "email": "belowthestoneofficial@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504970/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504970/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504970?t=1689782117",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504970?t=1689782117",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2502980": {
@@ -4363,12 +4590,11 @@
     "steam_appid": 2504620,
     "required_age": 0,
     "is_free": false,
-    "controller_support": "full",
     "short_description": "MatchGem 99 is a unique large-scale 3-match puzzle battle royale game where 99 players compete in real-time. Master the use of special blocks and gauge attacks to outlast your opponents and be the last one standing!",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504620/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504620/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504620/capsule_184x69.jpg",
+    "supported_languages": "English<strong>*</strong>, Japanese, Korean<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504620/header.jpg?t=1734710178",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504620/capsule_231x87.jpg?t=1734710178",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504620/capsule_184x69.jpg?t=1734710178",
     "website": null,
     "developers": [
       "Minimum Studio Corp."
@@ -4376,35 +4602,71 @@
     "publishers": [
       "Minimum Studio Corp."
     ],
-    "package_groups": [],
+    "packages": [
+      900752
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Match Gem 99",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       1,
-      28,
+      22,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       4,
+      23,
       29
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2023"
+      "coming_soon": false,
+      "date": "19 Dec, 2023"
     },
     "support_info": {
       "url": "https://home.minimumstudio.net/",
       "email": "team@minimumstudio.net"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504620/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504620/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504620?t=1734710178",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504620?t=1734710178",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2502210": {
@@ -4959,10 +5221,10 @@
     "is_free": false,
     "short_description": "The ultimate Air Hockey VR simulator",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504390/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504390/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504390/capsule_184x69.jpg",
-    "website": "https://air-hockey-vr.com/",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504390/header.jpg?t=1710007943",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504390/capsule_231x87.jpg?t=1710007943",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504390/capsule_184x69.jpg?t=1710007943",
+    "website": "https://linktr.ee/airhockeyvr",
     "ext_user_account_notice": "Microsoft Playfab ",
     "developers": [
       "Christian Perri"
@@ -4970,7 +5232,20 @@
     "publishers": [
       "Poligames Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      905394
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Air Hockey VR",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4979,9 +5254,8 @@
     "categories": [
       1,
       2,
-      15,
-      27,
-      54
+      54,
+      62
     ],
     "genres": [
       4,
@@ -4989,18 +5263,42 @@
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "24 Dec, 2023"
     },
     "support_info": {
       "url": "",
       "email": "poligamesstudio@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504390/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504390/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504390?t=1710007943",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504390/page_bg_raw.jpg?t=1710007943",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "pegi": {
+        "rating": "3"
+      },
+      "usk": {
+        "rating": "0"
+      },
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2502710": {
@@ -5157,9 +5455,9 @@
       "name": "Mask - Beyond Lies"
     },
     "supported_languages": "English, French",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504650/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504650/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504650/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504650/header.jpg?t=1696863692",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504650/capsule_231x87.jpg?t=1696863692",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504650/capsule_184x69.jpg?t=1696863692",
     "website": null,
     "developers": [
       "Kakera"
@@ -5185,11 +5483,29 @@
       "url": "",
       "email": "kakera.reveria@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504650/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504650/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504650?t=1696863692",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504650?t=1696863692",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Linguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Schimpfw\u00f6rte"
+      }
     }
   },
   "2502610": {
@@ -5431,9 +5747,9 @@
       "name": "SONIC SUPERSTARS"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Thai, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504600/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504600/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504600/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504600/header.jpg?t=1707299950",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504600/capsule_231x87.jpg?t=1707299950",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504600/capsule_184x69.jpg?t=1707299950",
     "website": "https://www.sonicsuperstars.com",
     "developers": [
       "SEGA"
@@ -5463,7 +5779,8 @@
     "categories": [
       2,
       21,
-      28
+      28,
+      62
     ],
     "genres": [
       1
@@ -5476,11 +5793,29 @@
       "url": "https://support.sega.com/hc/en-us",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504600/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504600/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504600?t=1707299950",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504600?t=1707299950",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2502430": {
@@ -5747,15 +6082,21 @@
     "controller_support": "full",
     "short_description": "Slug Gear is an action-packed Metroidvania within a universe of insect-human hybrids. Collect unique trinkets, fight powerful bosses and discover the lost lore of the world!",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504450/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504450/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504450/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504450/header.jpg?t=1738407827",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504450/capsule_231x87.jpg?t=1738407827",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504450/capsule_184x69.jpg?t=1738407827",
     "website": null,
     "developers": [
       "Slumberry"
     ],
     "publishers": [
       "Slumberry"
+    ],
+    "demos": [
+      {
+        "appid": 2608710,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -5766,7 +6107,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -5781,11 +6123,29 @@
       "url": "",
       "email": "rommr2002@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504450/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504450/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504450?t=1738407827",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504450?t=1738407827",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2503100": {
@@ -5877,12 +6237,12 @@
     "short_description": "Loaded with extra coins and powerful boosters, this pack is your shortcut to success in the hectic world of farming and cooking.",
     "fullgame": {
       "appid": "2014620",
-      "name": "Farming Fever: Pizza and Burger Cooking game"
+      "name": "Farming Fever - Pizza and Burger Cooking game"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Swedish<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504290/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504290/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504290/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504290/header.jpg?t=1690151389",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504290/capsule_231x87.jpg?t=1690151389",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504290/capsule_184x69.jpg?t=1690151389",
     "website": null,
     "developers": [
       "Matryoshka"
@@ -5926,11 +6286,24 @@
       "url": "https://matryoshka.helpshift.com/hc/en/5-cooking-farm/",
       "email": "support@matryoshka.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504290/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504290/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504290?t=1690151389",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504290?t=1690151389",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2504030": {
@@ -6463,9 +6836,9 @@
       "name": "Cute Capybaras"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong>, Azerbaijani<strong>*</strong>, Albanian<strong>*</strong>, Amharic<strong>*</strong>, Armenian<strong>*</strong>, Assamese<strong>*</strong>, Afrikaans<strong>*</strong>, Basque<strong>*</strong>, Belarusian<strong>*</strong>, Bangla<strong>*</strong>, Bosnian<strong>*</strong>, Valencian<strong>*</strong>, Welsh<strong>*</strong>, Wolof<strong>*</strong>, Galician<strong>*</strong>, Georgian<strong>*</strong>, Gujarati<strong>*</strong>, Dari<strong>*</strong>, Zulu<strong>*</strong>, Hebrew<strong>*</strong>, Igbo<strong>*</strong>, Indonesian<strong>*</strong>, Irish<strong>*</strong>, Icelandic<strong>*</strong>, Yoruba<strong>*</strong>, Kazakh<strong>*</strong>, Kannada<strong>*</strong>, Catalan<strong>*</strong>, Quechua<strong>*</strong>, Kinyarwanda<strong>*</strong>, K'iche'<strong>*</strong>, Konkani<strong>*</strong>, Xhosa<strong>*</strong>, Khmer<strong>*</strong>, Kyrgyz<strong>*</strong>, Latvian<strong>*</strong>, Lithuanian<strong>*</strong>, Luxembourgish<strong>*</strong>, Macedonian<strong>*</strong>, Malay<strong>*</strong>, Malayalam<strong>*</strong>, Maltese<strong>*</strong>, Maori<strong>*</strong>, Marathi<strong>*</strong>, Mongolian<strong>*</strong>, Nepali<strong>*</strong>, Odia<strong>*</strong>, Punjabi (Gurmukhi)<strong>*</strong>, Punjabi (Shahmukhi)<strong>*</strong>, Persian<strong>*</strong>, Serbian<strong>*</strong>, Sotho<strong>*</strong>, Sinhala<strong>*</strong>, Sindhi<strong>*</strong>, Slovak<strong>*</strong>, Slovenian<strong>*</strong>, Sorani<strong>*</strong>, Swahili<strong>*</strong>, Tajik<strong>*</strong>, Tamil<strong>*</strong>, Tatar<strong>*</strong>, Telugu<strong>*</strong>, Tigrinya<strong>*</strong>, Tswana<strong>*</strong>, Turkmen<strong>*</strong>, Uzbek<strong>*</strong>, Uyghur<strong>*</strong>, Urdu<strong>*</strong>, Filipino<strong>*</strong>, Hausa<strong>*</strong>, Hindi<strong>*</strong>, Croatian<strong>*</strong>, Cherokee<strong>*</strong>, Scots<strong>*</strong>, Estonian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504280/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504280/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504280/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504280/header.jpg?t=1689283127",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504280/capsule_231x87.jpg?t=1689283127",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504280/capsule_184x69.jpg?t=1689283127",
     "website": null,
     "developers": [
       "KuKo"
@@ -6494,7 +6867,8 @@
     },
     "categories": [
       2,
-      21
+      21,
+      62
     ],
     "genres": [
       4
@@ -6507,11 +6881,29 @@
       "url": "",
       "email": "vidon@inbox.lv"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504280/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504280/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504280?t=1689283127",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504280?t=1689283127",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2503820": {
@@ -6710,12 +7102,12 @@
     "short_description": "Loaded with extra coins and powerful boosters, this pack is your shortcut to success in the world of farming and cooking.",
     "fullgame": {
       "appid": "2014620",
-      "name": "Farming Fever: Pizza and Burger Cooking game"
+      "name": "Farming Fever - Pizza and Burger Cooking game"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Swedish<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504300/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504300/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504300/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504300/header.jpg?t=1690152281",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504300/capsule_231x87.jpg?t=1690152281",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504300/capsule_184x69.jpg?t=1690152281",
     "website": null,
     "developers": [
       "Matryoshka"
@@ -6759,11 +7151,24 @@
       "url": "https://matryoshka.helpshift.com/hc/en/5-cooking-farm/",
       "email": "support@matryoshka.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504300/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504300/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504300?t=1690152281",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504300?t=1690152281",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2502880": {
@@ -6820,12 +7225,12 @@
     "short_description": "Boost your progress with this pack.",
     "fullgame": {
       "appid": "2014620",
-      "name": "Farming Fever: Pizza and Burger Cooking game"
+      "name": "Farming Fever - Pizza and Burger Cooking game"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Swedish<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504340/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504340/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504340/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504340/header.jpg?t=1690151494",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504340/capsule_231x87.jpg?t=1690151494",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504340/capsule_184x69.jpg?t=1690151494",
     "website": null,
     "developers": [
       "Matryoshka"
@@ -6870,11 +7275,24 @@
       "url": "https://matryoshka.helpshift.com/hc/en/5-cooking-farm/",
       "email": "support@matryoshka.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504340/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504340/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504340?t=1690151494",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504340?t=1690151494",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2503860": {
@@ -7607,11 +8025,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Doodle Taxi is a Zen-like taxi driving experience in a paper world! Why doodle-like? Don't question my artistic vision. You can figure out that by game's story. If you missed early 2000s open world car games, this one is for you.",
+    "short_description": "Navigate an open world city in a car, while your vision is taken away. Deliver customers fast &amp; carefully to restore your vision.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504470/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504470/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504470/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504470/header.jpg?t=1733495443",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504470/capsule_231x87.jpg?t=1733495443",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504470/capsule_184x69.jpg?t=1733495443",
     "website": null,
     "developers": [
       "Metgan Games"
@@ -7641,7 +8059,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       4,
@@ -7649,7 +8068,7 @@
       28
     ],
     "achievements": {
-      "total": 6
+      "total": 19
     },
     "release_date": {
       "coming_soon": false,
@@ -7659,11 +8078,29 @@
       "url": "https://www.metgangames.com/",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504470/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504470/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504470?t=1733495443",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504470?t=1733495443",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2503740": {
@@ -7800,12 +8237,12 @@
     "short_description": "Packed with extras and designed to advance your progress, this pack serves as your perfect companion in the world of farming and cooking.",
     "fullgame": {
       "appid": "2014620",
-      "name": "Farming Fever: Pizza and Burger Cooking game"
+      "name": "Farming Fever - Pizza and Burger Cooking game"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Swedish<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504320/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504320/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504320/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504320/header.jpg?t=1690152031",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504320/capsule_231x87.jpg?t=1690152031",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504320/capsule_184x69.jpg?t=1690152031",
     "website": null,
     "developers": [
       "Matryoshka"
@@ -7849,11 +8286,24 @@
       "url": "https://matryoshka.helpshift.com/hc/en/5-cooking-farm/",
       "email": "support@matryoshka.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504320/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504320/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504320?t=1690152031",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504320?t=1690152031",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2504940": {
@@ -8042,9 +8492,9 @@
     "controller_support": "full",
     "short_description": "Help Dui find his way home in this challenging puzzle-adventure. Fight bosses, discover new abilities, and learn more about this quirky character on your journey home.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Spanish - Latin America, Portuguese - Brazil, Portuguese - Portugal, Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504440/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504440/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504440/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504440/header.jpg?t=1724807364",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504440/capsule_231x87.jpg?t=1724807364",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504440/capsule_184x69.jpg?t=1724807364",
     "website": null,
     "developers": [
       "Azilla Studio"
@@ -8061,7 +8511,8 @@
     "categories": [
       2,
       22,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -8076,11 +8527,29 @@
       "url": "",
       "email": "azilla.studio@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504440/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504440/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504440?t=1724807364",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504440?t=1724807364",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2504270": {
@@ -8091,9 +8560,9 @@
     "is_free": false,
     "short_description": "Searchbar Detective is a 2D Mystery Game set in a virtual world in which you use your searchbar to solve crimes and uncover conspiracies.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504270/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504270/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504270/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504270/header.jpg?t=1689011969",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504270/capsule_231x87.jpg?t=1689011969",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504270/capsule_184x69.jpg?t=1689011969",
     "website": null,
     "developers": [
       "Ohana Studio"
@@ -8109,7 +8578,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       23
@@ -8122,13 +8592,31 @@
       "url": "",
       "email": "hgreshake@web.de"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504270/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504270/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504270?t=1689011969",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504270?t=1689011969",
     "content_descriptors": {
       "ids": [
         5
       ],
       "notes": "There might be some grotesque visuals of supernatural creatures (like in the trailer), but no blood, extreme violence, sex or drug abuse"
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia\nMedo\nAtos criminosos"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Horror"
+      }
     }
   },
   "2502530": {
@@ -8829,12 +9317,12 @@
     "short_description": "Looking for a fun start in the farming and cooking world? This pack's got you covered!",
     "fullgame": {
       "appid": "2014620",
-      "name": "Farming Fever: Pizza and Burger Cooking game"
+      "name": "Farming Fever - Pizza and Burger Cooking game"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Romanian<strong>*</strong>, Swedish<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504350/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504350/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504350/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504350/header.jpg?t=1692780190",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504350/capsule_231x87.jpg?t=1692780190",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504350/capsule_184x69.jpg?t=1692780190",
     "website": null,
     "developers": [
       "Matryoshka"
@@ -8867,11 +9355,24 @@
       "url": "https://matryoshka.helpshift.com/hc/en/5-cooking-farm/",
       "email": "support@matryoshka.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504350/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504350/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504350?t=1692780190",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504350?t=1692780190",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "l"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2502910": {
@@ -9120,9 +9621,9 @@
     "controller_support": "full",
     "short_description": "Chickado is an isometric rogue-lite game where you play as an armed chick who seeks revenge against the other animals on the farm by battling them.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Korean, Spanish - Latin America, Portuguese - Portugal, Turkish",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504660/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504660/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504660/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504660/header.jpg?t=1729067001",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504660/capsule_231x87.jpg?t=1729067001",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504660/capsule_184x69.jpg?t=1729067001",
     "website": null,
     "developers": [
       "Bugy Games"
@@ -9151,7 +9652,8 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -9169,11 +9671,29 @@
       "url": "",
       "email": "mehmetkoksal.eem@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504660/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504660/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504660?t=1729067001",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504660/page_bg_raw.jpg?t=1729067001",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Atos criminosos\nViol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2502830": {
@@ -9727,11 +10247,11 @@
     "steam_appid": 2504400,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Deep Space Tavern is a playful fusion of management and clicker gameplay. Design your tavern, attract patrons from across the system, and master the art of keeping them happy and safe. Experience the joy of management without all the hassle!",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504400/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2504400/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2504400/capsule_184x69.jpg",
+    "short_description": "Deep Space Tavern is a clicker management game. Command your cantina with an arsenal of trash-guns, booze-drones and a Scottish AI.",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Spanish - Latin America, Japanese, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504400/header.jpg?t=1758428668",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504400/capsule_231x87.jpg?t=1758428668",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504400/capsule_184x69.jpg?t=1758428668",
     "website": null,
     "developers": [
       "World Away Games"
@@ -9739,33 +10259,67 @@
     "publishers": [
       "World Away Games"
     ],
-    "package_groups": [],
+    "packages": [
+      900707
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Deep Space Tavern",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
-      2,
       4,
       28
     ],
+    "achievements": {
+      "total": 0
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "February 2024"
+      "coming_soon": false,
+      "date": "27 Sep, 2024"
     },
     "support_info": {
       "url": "",
-      "email": "katabatic@myaz.co.uk"
+      "email": "nick@worldawaygames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2504400/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2504400/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504400?t=1758428668",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2504400?t=1758428668",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas l\u00edcitas\nLinguagem impr\u00f3pria"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Alkohol / Tabak"
+      }
     }
   },
   "2502300": {
