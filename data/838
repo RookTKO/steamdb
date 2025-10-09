@@ -2768,25 +2768,36 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "GUARDS! is a 1-4 player coop fantasy FPS that puts you in the underfunded and over-zealous steel boots of the City Watch. Kick down doors, bust criminals and cause excessive property damage as you fight to restore law and order to the corrupt city of New Alestead.",
-    "supported_languages": "English<strong>*</strong>, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514460/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2514460/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2514460/capsule_184x69.jpg",
+    "dlc": [
+      2665430
+    ],
+    "short_description": "GUARDS! is an online co-op fantasy FPS that puts you in the underfunded and over-zealous steel boots of the City Watch. Kick down doors, bust criminals and cause excessive property damage as you fight to restore law and order to the corrupt city of New Alestead.",
+    "supported_languages": "English<strong>*</strong>, Russian, Simplified Chinese, French, German, Japanese, Portuguese - Brazil, Ukrainian<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514460/header.jpg?t=1751325954",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514460/capsule_231x87.jpg?t=1751325954",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514460/capsule_184x69.jpg?t=1751325954",
     "website": "https://guards.cool",
     "developers": [
-      "WYLDERZONE"
+      "WYLDERZONE",
+      "Lowkey GameDev"
     ],
     "publishers": [
       "WYLDERZONE"
     ],
-    "demos": [
+    "packages": [
+      904003
+    ],
+    "package_groups": [
       {
-        "appid": 2653200,
-        "description": ""
+        "name": "default",
+        "title": "Buy GUARDS!",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2794,29 +2805,51 @@
     },
     "categories": [
       1,
-      2,
       9,
       22,
       28,
-      38
+      38,
+      62
     ],
     "genres": [
       1,
-      23
+      23,
+      25
     ],
+    "achievements": {
+      "total": 34
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "March 2024"
+      "coming_soon": false,
+      "date": "1 Mar, 2024"
     },
     "support_info": {
-      "url": "wylderzone.com",
-      "email": "info@wylderzone.com"
+      "url": "guards.cool",
+      "email": "guards@wylderzone.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2514460/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2514460/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2514460?t=1751325954",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514460/page_bg_raw.jpg?t=1751325954",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas il\u00edcitas\nViol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogen"
+      }
     }
   },
   "2515210": {
