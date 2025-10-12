@@ -3848,15 +3848,12 @@
       "name": "The Texas Chain Saw Massacre"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521700/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521700/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2521700/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521700/header.jpg?t=1758817093",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521700/capsule_231x87.jpg?t=1758817093",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521700/capsule_184x69.jpg?t=1758817093",
     "website": "https://www.txchainsawgame.com/",
     "developers": [
       "Sumo Digital"
-    ],
-    "publishers": [
-      ""
     ],
     "package_groups": [],
     "platforms": {
@@ -3870,7 +3867,8 @@
       22,
       28,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
@@ -3884,14 +3882,30 @@
       "url": "https://support.txchainsawgame.com/",
       "email": "Support@fearthegun.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2521700/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2521700/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2521700?t=1758817093",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2521700?t=1758817093",
     "content_descriptors": {
       "ids": [
         2,
         5
       ],
-      "notes": null
+      "notes": "This game regularly depicts violence and gore."
+    },
+    "ratings": {
+      "dejus": {
+        "rating": "18",
+        "descriptors": "Viol\u00eancia Extrema\r\nMedo\r\nLinguagem impr\u00f3pria",
+        "use_age_gate": "true",
+        "required_age": "18"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drastische Gewalt"
+      }
     }
   },
   "2521250": {
@@ -4254,17 +4268,30 @@
     "is_free": false,
     "short_description": "Humanity went out to the stars and conquered a decent portion of the known galaxy. While technology advanced society did not necessarily. Greed, the struggle for power and influence is stronger than ever before and while besieged from outside forces there\u2019s no lack of internal strife. -Visual Novel-",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521650/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521650/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2521650/capsule_184x69.jpg",
-    "website": "http://www.forgotten-lectures.com",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521650/header.jpg?t=1717774298",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521650/capsule_231x87.jpg?t=1717774298",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521650/capsule_184x69.jpg?t=1717774298",
+    "website": "https://www.forgotten-lectures.com",
     "developers": [
       "ForgottenLectures"
     ],
     "publishers": [
       "ForgottenLectures"
     ],
-    "package_groups": [],
+    "packages": [
+      906376
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Forgotten Lectures  - Fall of a Dynasty - The Beginning",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4272,22 +4299,25 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
-      23,
-      70
+      23
     ],
+    "achievements": {
+      "total": 10
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "5 Dec, 2023"
+      "coming_soon": false,
+      "date": "7 Jun, 2024"
     },
     "support_info": {
-      "url": "http://www.forgotten-lectures.com/",
+      "url": "https://www.forgotten-lectures.com/",
       "email": "info@forgotten-lectures.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2521650/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2521650/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2521650?t=1717774298",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521650/page_bg_raw.jpg?t=1717774298",
     "content_descriptors": {
       "ids": [
         1,
@@ -4295,6 +4325,24 @@
         5
       ],
       "notes": "The future is a hedonistic place with a different set of morals. The game contains implications on relationship actions and some light, scanty clothed characters. But no actual sexual acts."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nDrogas l\u00edcitas\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt\nAlkohol / Tabak"
+      }
     }
   },
   "2521410": {
@@ -4574,11 +4622,14 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
+    "dlc": [
+      2973910
+    ],
     "short_description": "Join Space Alliance as a new captain-in-training and work with your crew to solve the mysteries of an ancient relic found on the Grey Planet. Little-Known Galaxy is a cozy single-player RPG space adventure full of friendly characters, exploration, crafting, and farming.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521600/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521600/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2521600/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521600/header.jpg?t=1716224360",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521600/capsule_231x87.jpg?t=1716224360",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521600/capsule_184x69.jpg?t=1716224360",
     "website": "https://www.littleknowngalaxy.com",
     "developers": [
       "Carbon & Kay"
@@ -4586,7 +4637,26 @@
     "publishers": [
       "Carbon & Kay"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2679720,
+        "description": ""
+      }
+    ],
+    "packages": [
+      906360
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Little-Known Galaxy",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4596,7 +4666,8 @@
       2,
       22,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       3,
@@ -4605,19 +4676,40 @@
       25,
       28
     ],
+    "achievements": {
+      "total": 35
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 May, 2024"
     },
     "support_info": {
       "url": "www.littleknowngalaxy.com",
       "email": "contact@littleknowngalaxy.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2521600/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2521600/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2521600?t=1716224360",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2521600?t=1716224360",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas l\u00edcitas\nViol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Alkohol / Tabak"
+      }
     }
   },
   "2522640": {
@@ -5370,11 +5462,12 @@
     "steam_appid": 2521660,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Enter the prehistoric world dominated by primal reptiles. Fight through savage enemies and bosses with the combination of melee &amp; ranged combat and elemental magic. Explore the vast handpainted world and try to prevent the meteor from wiping out all life on the planet.",
+    "controller_support": "full",
+    "short_description": "An extinction-level threat looms over a prehistoric world of tribal reptiles and dinosaurs. Adapt, evolve, and outmaneuver savage enemies and seek to prevent the prophesied end of a hand painted jurassic world.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521660/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521660/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2521660/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521660/bb05a8910b7cce2ac6ceb3867c1ee34bbdf13a50/header.jpg?t=1743443944",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521660/cb51ac2689644fd3f5a162b6498f58fd61c193d0/capsule_231x87.jpg?t=1743443944",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521660/cb51ac2689644fd3f5a162b6498f58fd61c193d0/capsule_184x69.jpg?t=1743443944",
     "website": null,
     "developers": [
       "The Caecus"
@@ -5390,8 +5483,9 @@
     },
     "categories": [
       2,
-      18,
-      22
+      22,
+      28,
+      62
     ],
     "genres": [
       1,
@@ -5407,11 +5501,29 @@
       "url": "",
       "email": "teamcaecus@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2521660/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2521660/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2521660?t=1743443944",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521660/page_bg_raw.jpg?t=1743443944",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2521020": {
@@ -6849,16 +6961,17 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Mini Settlers is a minimalistic city builder! Settle islands, construct cities, and design efficient logistic networks to fulfill your buildings' needs and fuel population growth to adventure into new worlds.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521630/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521630/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2521630/capsule_184x69.jpg",
-    "website": null,
+    "supported_languages": "English, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese, Arabic, Spanish - Spain, Portuguese - Brazil, Traditional Chinese, Turkish",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521630/header.jpg?t=1758098064",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521630/capsule_231x87.jpg?t=1758098064",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521630/capsule_184x69.jpg?t=1758098064",
+    "website": "https://knightowlgamesstudio.com/Mini-Settlers/",
     "developers": [
       "Knight Owl Games"
     ],
     "publishers": [
-      "Knight Owl Games"
+      "Goblinz Publishing",
+      "IndieArk"
     ],
     "demos": [
       {
@@ -6866,7 +6979,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      906370
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Mini Settlers",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6874,27 +7000,58 @@
     },
     "categories": [
       2,
+      15,
       22,
-      25
+      23,
+      29,
+      62,
+      64,
+      67,
+      68,
+      74,
+      76,
+      78,
+      79
     ],
     "genres": [
       2,
       23,
       28
     ],
+    "achievements": {
+      "total": 67
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "6 May, 2025"
     },
     "support_info": {
       "url": "",
-      "email": "contactknightowlgames@gmail.com"
+      "email": "support@knightowlgamesstudio.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2521630/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2521630/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2521630?t=1758098064",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2521630?t=1758098064",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2521080": {
@@ -7425,17 +7582,23 @@
     "steam_appid": 2521670,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Escape the Charon is a sci-fi adventure meant to be played in one sitting. An ancient alien artifact has been brought to the space station Charon - soon after, the Charon goes dark. James West must search for clues and solve the mystery to discover what went wrong.",
-    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521670/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2521670/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2521670/capsule_184x69.jpg",
-    "website": null,
+    "short_description": "Escape the Charon is a sci-fi adventure. An ancient alien artifact has been brought to the space station Charon - soon after, the Charon goes dark. James West must search for clues and solve the mystery to discover what went wrong.",
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Indonesian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521670/header.jpg?t=1745538827",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521670/capsule_231x87.jpg?t=1745538827",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521670/capsule_184x69.jpg?t=1745538827",
+    "website": "https://escape-the-games.com/2/",
     "developers": [
       "Escape-The-Games"
     ],
     "publishers": [
       "Escape-The-Games"
+    ],
+    "demos": [
+      {
+        "appid": 3118590,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7444,24 +7607,44 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      13,
+      62
     ],
     "genres": [
       25
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q4 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "support@escape-the-games.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2521670/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2521670/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2521670?t=1745538827",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521670/page_bg_raw.jpg?t=1745538827",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2522630": {
