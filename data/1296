@@ -5372,11 +5372,11 @@
     "steam_appid": 3890620,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Zetris - the new puzzle game inspired by Tetris. More and more shapes based on triangles fall from the sky. Rotate them or move them left or right. Every couple of parts single White triangles will fall down, they will help you close the gaps formed between the shaped.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3890620/69a58222ce4daaf4711be94c979cf417dadd9784/header.jpg?t=1755085794",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3890620/082ddfef45d6c4d1b030ef81eea825283e317b25/capsule_231x87.jpg?t=1755085794",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3890620/082ddfef45d6c4d1b030ef81eea825283e317b25/capsule_184x69.jpg?t=1755085794",
+    "short_description": "Zetris reinvents Tetris using triangles. Snap vertices to complete triangles, trigger line clears, and build satisfying chains. Master 9 distinct modes from chill runs to score-attack marathons\u2014easy to learn, devilishly pointy to master.",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3890620/97d7de2ee549edcb8e5d0884d04c0ca3301c1443/header.jpg?t=1759871370",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3890620/082ddfef45d6c4d1b030ef81eea825283e317b25/capsule_231x87.jpg?t=1759871370",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3890620/082ddfef45d6c4d1b030ef81eea825283e317b25/capsule_184x69.jpg?t=1759871370",
     "website": null,
     "developers": [
       "Hot Pizza Games"
@@ -5384,7 +5384,26 @@
     "publishers": [
       "Hot Pizza Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3995780,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1367620
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Zetris",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5396,18 +5415,22 @@
       62
     ],
     "genres": [
-      4
+      4,
+      23
     ],
+    "achievements": {
+      "total": 33
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "7 Oct, 2025"
     },
     "support_info": {
       "url": "",
       "email": "hotpizzagames123@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3890620?t=1755085794",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3890620/ca445861d326e06ea4d9c8185c98461427023d84/page_bg_raw.jpg?t=1755085794",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3890620?t=1759871370",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3890620/ca445861d326e06ea4d9c8185c98461427023d84/page_bg_raw.jpg?t=1759871370",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -14143,6 +14166,78 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Alkohol / Tabak\nFantasy-Gewalt"
+      }
+    }
+  },
+  "3889980": {
+    "type": "game",
+    "name": "Scarf of Embers",
+    "steam_appid": 3889980,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "Scarf of Embers is a 3D action-platformer where Mandy, a fire-shadow witch, battles mischievous Imps with her broom, magical scarf, and spells. Explore vibrant worlds, collect gems, and unleash stylish combos.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889980/73fa67d3bec810494afb81dc44cb4c0cef81a5e0/header.jpg?t=1760457595",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889980/f76401d8ef0e71d87f0962597a84a9ddfb9c6287/capsule_231x87.jpg?t=1760457595",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889980/f76401d8ef0e71d87f0962597a84a9ddfb9c6287/capsule_184x69.jpg?t=1760457595",
+    "website": null,
+    "developers": [
+      "Hinges"
+    ],
+    "publishers": [
+      "Hinges"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      28,
+      62,
+      67,
+      68,
+      79
+    ],
+    "genres": [
+      1,
+      4,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "To be announced"
+    },
+    "support_info": {
+      "url": "",
+      "email": "substence.abuse@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3889980?t=1760457595",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889980/053679b6291f4f16b6e7dfea8c70c88e6bad2de9/page_bg_raw.jpg?t=1760457595",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
       }
     }
   }

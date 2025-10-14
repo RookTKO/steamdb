@@ -1625,11 +1625,16 @@
     "steam_appid": 2578400,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Embark on an enlightening journey through the Bible with our True or False Quiz Game. Immerse yourself in the world of biblical stories, characters, and events as you put your knowledge to the test.",
-    "supported_languages": "English, Portuguese - Brazil",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2578400/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2578400/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2578400/capsule_184x69.jpg",
+    "dlc": [
+      3437480,
+      3542340,
+      3820730
+    ],
+    "short_description": "Chat with Moses and answer 1,500+ questions! Discover Bible stories, unlock chapters, collect cards, and enjoy new music, enhanced visuals, and full language support.",
+    "supported_languages": "English, Portuguese - Brazil, Spanish - Spain, Russian, German, Simplified Chinese, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2578400/c3ddb7e1846f6398a6d47fc9c42a04ebfbeae954/header.jpg?t=1760112511",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2578400/2e48d60dfac68981dcdf954ee503e4c20c6685c4/capsule_231x87.jpg?t=1760112511",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2578400/2e48d60dfac68981dcdf954ee503e4c20c6685c4/capsule_184x69.jpg?t=1760112511",
     "website": null,
     "developers": [
       "Astro Game Studio"
@@ -1637,31 +1642,73 @@
     "publishers": [
       "Astro Game Studio"
     ],
-    "package_groups": [],
+    "packages": [
+      925834
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Bible Trivia",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62,
+      68,
+      74,
+      77,
+      78,
+      79
     ],
     "genres": [
-      4
+      4,
+      23
     ],
+    "achievements": {
+      "total": 38
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "19 Dec, 2023"
     },
     "support_info": {
       "url": "",
       "email": "astrogscompany@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2578400/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2578400/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2578400?t=1760112511",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2578400?t=1760112511",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Atos criminosos"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
     }
   },
   "2577410": {

@@ -10355,8 +10355,8 @@
       "url": "",
       "email": "support@ultivan.net"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272440/page_bg_generated_v6b.jpg?t=1729787336",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272440/page_bg_generated.jpg?t=1729787336",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272440?t=1729787336",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272440?t=1729787336",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10388,47 +10388,60 @@
     "is_free": false,
     "short_description": "An indie space golf game set across an infinite multiverse filled with stylized planets, stars, and other celestial wonders. Bogey, par, or birdie your way through tailored and procedurally generated courses. In Swingularity, the cosmos becomes your fairway.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272450/header.jpg?t=1731484937",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272450/eeb60254a0e9bb468d08d1088733ce56c73b327d/capsule_231x87.jpg?t=1731484937",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272450/eeb60254a0e9bb468d08d1088733ce56c73b327d/capsule_184x69.jpg?t=1731484937",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272450/header.jpg?t=1742118867",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272450/eeb60254a0e9bb468d08d1088733ce56c73b327d/capsule_231x87.jpg?t=1742118867",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272450/eeb60254a0e9bb468d08d1088733ce56c73b327d/capsule_184x69.jpg?t=1742118867",
     "website": null,
     "developers": [
-      "Redshift"
+      "Team Redshift"
     ],
     "publishers": [
-      "Redshift"
+      "Team Redshift"
     ],
-    "demos": [
+    "packages": [
+      1159424
+    ],
+    "package_groups": [
       {
-        "appid": 3305580,
-        "description": ""
+        "name": "default",
+        "title": "Buy Swingularity",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
       }
     ],
-    "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       4,
       18,
       23,
-      25
+      25,
+      28
     ],
+    "achievements": {
+      "total": 11
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Mar, 2025"
     },
     "support_info": {
       "url": "",
-      "email": "teamredshift2024@gmail.com"
+      "email": "theteamredshift@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272450/page_bg_generated_v6b.jpg?t=1731484937",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272450/page.bg.jpg?t=1731484937",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272450?t=1742118867",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272450/page_bg_raw.jpg?t=1742118867",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10492,8 +10505,8 @@
       "url": "",
       "email": "flowingdreamsteam@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272480/page_bg_generated_v6b.jpg?t=1728348948",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272480/page.bg.jpg?t=1728348948",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272480?t=1728348948",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272480/page_bg_raw.jpg?t=1728348948",
     "content_descriptors": {
       "ids": [
         5
@@ -10560,8 +10573,8 @@
       "url": "https://www.kastelogames.com/contact",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272490/page_bg_generated_v6b.jpg?t=1728434951",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272490/page.bg.jpg?t=1728434951",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272490?t=1728434951",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272490/page_bg_raw.jpg?t=1728434951",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10587,20 +10600,20 @@
   },
   "3272520": {
     "type": "demo",
-    "name": "BrokenLore: LOW Demo",
+    "name": "BrokenLore: LOW DEMO",
     "steam_appid": 3272520,
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
-    "short_description": "LOW, a first-person Horror Game, immerses players in the dark prelude of BrokenLore's story. Set in a mist-shrouded Japanese village, players uncover deep-seated hatred and ancient secrets. Navigate a hyperrealistic, claustrophobic environment where supernatural forces and tragic cycles abound.",
+    "short_description": "BrokenLore: LOW is a psychological horror game set in a mist-covered, beautiful Japanese village, blending hyper-realistic graphics with low-poly elements. The main enemy is a Gashadokuro, a yokai from Japanese folklore.",
     "fullgame": {
       "appid": "3014520",
       "name": "BrokenLore: LOW"
     },
-    "supported_languages": "English<strong>*</strong>, French, Italian, Spanish - Spain, Japanese, Portuguese - Brazil, Portuguese - Portugal, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Korean<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272520/header.jpg?t=1729753379",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272520/d62cd1c8286ed5ac2902b328c85806520aff724d/capsule_231x87.jpg?t=1729753379",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272520/d62cd1c8286ed5ac2902b328c85806520aff724d/capsule_184x69.jpg?t=1729753379",
+    "supported_languages": "English<strong>*</strong>, French, Italian, Spanish - Spain, Japanese, Portuguese - Brazil, Portuguese - Portugal, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Korean, German, Polish, Russian, Ukrainian<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272520/header.jpg?t=1747973678",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272520/d62cd1c8286ed5ac2902b328c85806520aff724d/capsule_231x87.jpg?t=1747973678",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272520/d62cd1c8286ed5ac2902b328c85806520aff724d/capsule_184x69.jpg?t=1747973678",
     "website": null,
     "developers": [
       "Serafini Productions"
@@ -10627,8 +10640,8 @@
       "url": "https://serafiniproductions.com/",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272520?t=1747973678",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272520?t=1747973678",
     "content_descriptors": {
       "ids": [
         5
@@ -10656,7 +10669,7 @@
   },
   "3272530": {
     "type": "demo",
-    "name": "BrokenLore: DON'T WATCH Demo",
+    "name": "BrokenLore: DON'T WATCH DEMO",
     "steam_appid": 3272530,
     "required_age": 0,
     "is_free": true,
@@ -10667,9 +10680,9 @@
       "name": "BrokenLore: DON'T WATCH"
     },
     "supported_languages": "English, French, Italian, Spanish - Spain, Japanese, Portuguese - Brazil, Portuguese - Portugal, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272530/header.jpg?t=1729753405",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272530/749ab6cae8eb93431f5eb0899a67e499080f82f9/capsule_231x87.jpg?t=1729753405",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272530/749ab6cae8eb93431f5eb0899a67e499080f82f9/capsule_184x69.jpg?t=1729753405",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272530/3b5b9987c4776b57c58aa9f33047e8aa6d3f6324/header.jpg?t=1747037625",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272530/ea3cb8a218dca01f6c64c20192ddc7d620c52ab0/capsule_231x87.jpg?t=1747037625",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272530/ea3cb8a218dca01f6c64c20192ddc7d620c52ab0/capsule_184x69.jpg?t=1747037625",
     "website": null,
     "developers": [
       "Serafini Productions"
@@ -10696,8 +10709,8 @@
       "url": "https://serafiniproductions.com/",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272530?t=1747037625",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272530?t=1747037625",
     "content_descriptors": {
       "ids": [
         5
@@ -10785,8 +10798,8 @@
       "url": "",
       "email": "samuelcrevier@hotmail.fr"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272550/page_bg_generated_v6b.jpg?t=1729436260",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272550/page_bg_generated.jpg?t=1729436260",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272550?t=1729436260",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272550?t=1729436260",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10823,15 +10836,15 @@
       "name": "Ghost Frequency"
     },
     "supported_languages": "English, French, Italian, Spanish - Spain, Japanese, Portuguese - Portugal, Simplified Chinese, Spanish - Latin America, Traditional Chinese, German, Korean, Portuguese - Brazil, Russian, Ukrainian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272570/header.jpg?t=1729753452",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272570/7f6fa6c4f1ed085997025675743ec6105a5c02d2/capsule_231x87.jpg?t=1729753452",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272570/7f6fa6c4f1ed085997025675743ec6105a5c02d2/capsule_184x69.jpg?t=1729753452",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272570/114c545c9737337ddab8c3c5dd2c9823996fc6a0/header.jpg?t=1752684877",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272570/36f77cf29d804e43c367f2058156e406c0d16e1f/capsule_231x87.jpg?t=1752684877",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272570/36f77cf29d804e43c367f2058156e406c0d16e1f/capsule_184x69.jpg?t=1752684877",
     "website": null,
     "developers": [
-      "Serafini Producitons"
+      "PIT GAMES"
     ],
     "publishers": [
-      "Serafini Producitons"
+      "PIT GAMES"
     ],
     "package_groups": [],
     "platforms": {
@@ -10849,11 +10862,11 @@
       "date": "14 Oct, 2024"
     },
     "support_info": {
-      "url": "",
-      "email": "7talez@gmail.com"
+      "url": "https://pitofficial.it/",
+      "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272570?t=1752684877",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272570?t=1752684877",
     "content_descriptors": {
       "ids": [
         5
@@ -10891,9 +10904,9 @@
       "name": "Farmer's Shop Simulator"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272580/header.jpg?t=1730898830",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272580/858bc2c317cdbb18506b66b5f80c4af0ca8d18bf/capsule_231x87.jpg?t=1730898830",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272580/858bc2c317cdbb18506b66b5f80c4af0ca8d18bf/capsule_184x69.jpg?t=1730898830",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272580/header.jpg?t=1737478258",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272580/858bc2c317cdbb18506b66b5f80c4af0ca8d18bf/capsule_231x87.jpg?t=1737478258",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272580/858bc2c317cdbb18506b66b5f80c4af0ca8d18bf/capsule_184x69.jpg?t=1737478258",
     "website": null,
     "developers": [
       "SleepySealsGames"
@@ -10924,8 +10937,8 @@
       "url": "",
       "email": "sleepysealsgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272580/page_bg_generated_v6b.jpg?t=1730898830",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272580/page_bg_generated.jpg?t=1730898830",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272580?t=1737478258",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272580/page_bg_raw.jpg?t=1737478258",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10990,8 +11003,8 @@
       "url": "https://discord.gg/ehWdAH5H96",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272590?t=1728098371",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272590?t=1728098371",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11023,15 +11036,15 @@
     "is_free": false,
     "short_description": "Support Olivia as she works to repay her debt, and let your choices shape the fate of this human simulation game. Engage in secret negotiations and deals to change her destiny!",
     "supported_languages": "Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272610/header.jpg?t=1731030732",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272610/c45812e3dc75056d5e79d958d4920419bda5aaf1/capsule_231x87.jpg?t=1731030732",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272610/c45812e3dc75056d5e79d958d4920419bda5aaf1/capsule_184x69.jpg?t=1731030732",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272610/header.jpg?t=1737518639",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272610/c45812e3dc75056d5e79d958d4920419bda5aaf1/capsule_231x87.jpg?t=1737518639",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272610/c45812e3dc75056d5e79d958d4920419bda5aaf1/capsule_184x69.jpg?t=1737518639",
     "website": null,
     "developers": [
-      "Human Simulation"
+      "HUMAN SIMULATE"
     ],
     "publishers": [
-      "Human Simulation"
+      "HUMAN SIMULATE"
     ],
     "packages": [
       1159485
@@ -11067,8 +11080,8 @@
       "url": "",
       "email": "gamecreate1190@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272610/page_bg_generated_v6b.jpg?t=1731030732",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272610/page_bg_generated.jpg?t=1731030732",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272610?t=1737518639",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272610?t=1737518639",
     "content_descriptors": {
       "ids": [
         1,
@@ -11122,8 +11135,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272630?t=1731710126",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272630?t=1731710126",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11250,8 +11263,8 @@
       "url": "",
       "email": "swat2054@naver.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272680/page_bg_generated_v6b.jpg?t=1730100996",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272680/page_bg_generated.jpg?t=1730100996",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272680?t=1730100996",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272680?t=1730100996",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11286,11 +11299,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "A Broken Friendship, a Stolen Love\u2014 To save his beloved, taken by his closest friend, a dark avenger cuts through the shadows in a high-speed, thrilling action runner.",
-    "supported_languages": "English, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272710/header.jpg?t=1732594894",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272710/9b159e20206f0d4beda8cd2b36351efce6f17571/capsule_231x87.jpg?t=1732594894",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272710/9b159e20206f0d4beda8cd2b36351efce6f17571/capsule_184x69.jpg?t=1732594894",
+    "short_description": "A high-speed, exhilarating run action where a jet-black avenger cuts through the darkness. Cut down enemies with fast and thrilling moves like a hero from manga or anime, and rescue your beloved imprisoned in the depths of Yomi.",
+    "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272710/65b34042361d5d91f2f377e8035fdc9d4a9019ee/header.jpg?t=1760094269",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272710/30585498cf7eb0567da0ac813ac423e3544edf01/capsule_231x87.jpg?t=1760094269",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272710/30585498cf7eb0567da0ac813ac423e3544edf01/capsule_184x69.jpg?t=1760094269",
     "website": null,
     "developers": [
       "Black Beard Design Studio Inc."
@@ -11313,7 +11326,8 @@
     "categories": [
       2,
       23,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -11321,14 +11335,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "2026"
     },
     "support_info": {
       "url": "",
       "email": "support-akegarasu@kurohige.jp"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272710/page_bg_generated_v6b.jpg?t=1732594894",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272710/page.bg.jpg?t=1732594894",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272710?t=1760094269",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272710/page_bg_raw.jpg?t=1760094269",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11408,8 +11422,8 @@
       "url": "",
       "email": "tibetgames.info@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272730/page_bg_generated_v6b.jpg?t=1731704801",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272730/page.bg.jpg?t=1731704801",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272730?t=1731704801",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272730/page_bg_raw.jpg?t=1731704801",
     "content_descriptors": {
       "ids": [
         2,
@@ -11543,8 +11557,8 @@
       "url": "https://oasisblitz.com",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272800?t=1728865939",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272800?t=1728865939",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11610,14 +11624,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q4 2024"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "https://ethernity.game",
       "email": "team@ethernity.game"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272810/page_bg_generated_v6b.jpg?t=1729314449",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272810/page.bg.jpg?t=1729314449",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272810?t=1729314449",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272810/page_bg_raw.jpg?t=1729314449",
     "content_descriptors": {
       "ids": [
         1,
@@ -11686,8 +11700,8 @@
       "url": "https://x.com/savedtekty",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272820/page_bg_generated_v6b.jpg?t=1730105554",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272820/page_bg_generated.jpg?t=1730105554",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272820?t=1730105554",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272820?t=1730105554",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -11764,8 +11778,8 @@
       "url": "www.revengeofthesunfish.com",
       "email": "nimbuswad@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272830/page_bg_generated_v6b.jpg?t=1730255435",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272830/page.bg.jpg?t=1730255435",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3272830?t=1730255435",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272830/page_bg_raw.jpg?t=1730255435",
     "content_descriptors": {
       "ids": [
         1,
