@@ -5,13 +5,13 @@
     "steam_appid": 3279000,
     "required_age": 0,
     "is_free": true,
-    "short_description": "Welcome to BYTEWORLD, a fully interactive, Twitch integrated experience for both streamers and viewers!",
+    "short_description": "Welcome to BYTEWORLD, the ultimate VR experience that aims to bring streamers and viewers together like never before!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279000/header.jpg?t=1732506074",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279000/66e8a232bd02fb60ff4007aff7820f1bd89428ca/capsule_231x87.jpg?t=1732506074",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279000/66e8a232bd02fb60ff4007aff7820f1bd89428ca/capsule_184x69.jpg?t=1732506074",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279000/60e5780b4f7c3a9a0e4da5222ac10d94a2b6e8f3/header.jpg?t=1755619817",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279000/314d689c22f3a287abcd326bcbe27c8dce2e06d8/capsule_231x87.jpg?t=1755619817",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279000/314d689c22f3a287abcd326bcbe27c8dce2e06d8/capsule_184x69.jpg?t=1755619817",
     "website": null,
-    "ext_user_account_notice": "You must have a Twitch account to host or join a game. ",
+    "ext_user_account_notice": "Twitch ",
     "developers": [
       "Finndustries"
     ],
@@ -31,7 +31,10 @@
       "linux": false
     },
     "categories": [
-      1
+      1,
+      17,
+      30,
+      35
     ],
     "genres": [
       4,
@@ -39,14 +42,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "22 Feb, 2026"
     },
     "support_info": {
       "url": "",
-      "email": "tankteamhelp@gmail.com"
+      "email": "helpdustries@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279000/page_bg_generated_v6b.jpg?t=1732506074",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279000/page_bg_generated.jpg?t=1732506074",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279000?t=1755619817",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279000?t=1755619817",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -54,19 +57,19 @@
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "14",
-        "required_age": "14",
+        "rating": "l",
+        "required_age": "0",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Viol\u00eancia"
+        "descriptors": "Viol\u00eancia fantasiosa"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "16",
-        "required_age": "16",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Drastische Gewalt"
+        "descriptors": "Fantasy-Gewalt"
       }
     }
   },
@@ -78,9 +81,9 @@
     "is_free": false,
     "short_description": "Arm yourself with weapons, traps, and supplies in this survival horror FPS. Battle ruthless bandits and a relentless wendigo as you uncover the truth and fight to survive in this open world horror game.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279030/header.jpg?t=1729127321",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279030/abd0d13a9d100398269aa3b33d8d6d9713a85a71/capsule_231x87.jpg?t=1729127321",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279030/abd0d13a9d100398269aa3b33d8d6d9713a85a71/capsule_184x69.jpg?t=1729127321",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279030/header.jpg?t=1747056619",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279030/abd0d13a9d100398269aa3b33d8d6d9713a85a71/capsule_231x87.jpg?t=1747056619",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279030/abd0d13a9d100398269aa3b33d8d6d9713a85a71/capsule_184x69.jpg?t=1747056619",
     "website": "https://www.youtube.com/@merchantofstories",
     "developers": [
       "Merchant Of Stories"
@@ -88,30 +91,48 @@
     "publishers": [
       "Merchant Of Stories"
     ],
-    "package_groups": [],
+    "packages": [
+      1161670
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Blue Hill Wendigo",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       1,
       23,
       25
     ],
+    "achievements": {
+      "total": 3
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "12 May, 2025"
     },
     "support_info": {
       "url": "",
       "email": "rahulraj.gamedev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279030/page_bg_generated_v6b.jpg?t=1729127321",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279030/page.bg.jpg?t=1729127321",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279030?t=1747056619",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279030/page_bg_raw.jpg?t=1747056619",
     "content_descriptors": {
       "ids": [
         5
@@ -149,9 +170,9 @@
       "name": "BYTEWORLD"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279100/header.jpg?t=1732505764",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279100/66e8a232bd02fb60ff4007aff7820f1bd89428ca/capsule_231x87.jpg?t=1732505764",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279100/66e8a232bd02fb60ff4007aff7820f1bd89428ca/capsule_184x69.jpg?t=1732505764",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279100/fa35cd3cbc60dadb5a768a059a7f22e5bd2474e3/header.jpg?t=1755462797",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279100/314d689c22f3a287abcd326bcbe27c8dce2e06d8/capsule_231x87.jpg?t=1755462797",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279100/314d689c22f3a287abcd326bcbe27c8dce2e06d8/capsule_184x69.jpg?t=1755462797",
     "website": null,
     "ext_user_account_notice": "You must have a Twitch account to host or join a game ",
     "developers": [
@@ -181,8 +202,8 @@
       "url": "",
       "email": "tankteamhelp@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279100/page_bg_generated_v6b.jpg?t=1732505764",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279100/page_bg_generated.jpg?t=1732505764",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279100?t=1755462797",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279100?t=1755462797",
     "content_descriptors": {
       "ids": [
         2,
@@ -221,10 +242,10 @@
       "appid": "3190620",
       "name": "Byte The Dust"
     },
-    "supported_languages": "English<strong>*</strong>, Norwegian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279110/header.jpg?t=1728851535",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279110/e69c6e6683b2ace345dba38506c2ae4b74887e4d/capsule_231x87.jpg?t=1728851535",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279110/e69c6e6683b2ace345dba38506c2ae4b74887e4d/capsule_184x69.jpg?t=1728851535",
+    "supported_languages": "English<strong>*</strong>, Norwegian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, German<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279110/header.jpg?t=1755206154",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279110/e69c6e6683b2ace345dba38506c2ae4b74887e4d/capsule_231x87.jpg?t=1755206154",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279110/e69c6e6683b2ace345dba38506c2ae4b74887e4d/capsule_184x69.jpg?t=1755206154",
     "website": null,
     "developers": [
       "DiwloGames"
@@ -236,7 +257,7 @@
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": true
+      "linux": false
     },
     "categories": [
       2,
@@ -256,8 +277,8 @@
       "url": "",
       "email": "diwlogames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279110/page_bg_generated_v6b.jpg?t=1728851535",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279110/page.bg.jpg?t=1728851535",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279110?t=1755206154",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279110/page_bg_raw.jpg?t=1755206154",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -283,19 +304,20 @@
   },
   "3279120": {
     "type": "game",
-    "name": "Arisen Force: Life Devotee",
+    "name": "Arisen Force: Life Devotee - Initial Ver.",
     "steam_appid": 3279120,
     "required_age": 0,
     "is_free": true,
     "controller_support": "full",
     "dlc": [
+      3359010,
       3359000
     ],
-    "short_description": "Enjoy a free-to-play, stylish action combat experience as you explore a chapter storylines from Journey to the West.",
+    "short_description": "Enjoy a stylish action combat experience as you explore a chapter storylines from Journey to the West.",
     "supported_languages": "Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279120/header.jpg?t=1732676911",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279120/f3a7a884e171ce31bdabca8921eb22a8e4583bad/capsule_231x87.jpg?t=1732676911",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279120/f3a7a884e171ce31bdabca8921eb22a8e4583bad/capsule_184x69.jpg?t=1732676911",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279120/header.jpg?t=1749607054",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279120/ca38f92ae28e86fa4a14177c2ef76e8325f1c344/capsule_231x87.jpg?t=1749607054",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279120/ca38f92ae28e86fa4a14177c2ef76e8325f1c344/capsule_184x69.jpg?t=1749607054",
     "website": null,
     "developers": [
       "Lemport"
@@ -323,7 +345,7 @@
       37
     ],
     "achievements": {
-      "total": 27
+      "total": 48
     },
     "release_date": {
       "coming_soon": false,
@@ -333,8 +355,8 @@
       "url": "https://twitter.com/Contrariagame",
       "email": "ArisenForceTeam@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279120/page_bg_generated_v6b.jpg?t=1732676911",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279120/page.bg.jpg?t=1732676911",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279120?t=1749607054",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279120/page_bg_raw.jpg?t=1749607054",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -436,9 +458,9 @@
     "is_free": false,
     "short_description": "As the only male in the swimsuit Summer Frenzy competition, challenge the strongest three women, the simple confrontation game of postgraduate judgment and reaction!",
     "supported_languages": "Simplified Chinese, English, Japanese, Traditional Chinese, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279140/header.jpg?t=1731528570",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279140/ec6334a40da603bd6e8369b1ed9799a1b05dba13/capsule_231x87.jpg?t=1731528570",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279140/ec6334a40da603bd6e8369b1ed9799a1b05dba13/capsule_184x69.jpg?t=1731528570",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279140/header.jpg?t=1733351046",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279140/ec6334a40da603bd6e8369b1ed9799a1b05dba13/capsule_231x87.jpg?t=1733351046",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279140/ec6334a40da603bd6e8369b1ed9799a1b05dba13/capsule_184x69.jpg?t=1733351046",
     "website": null,
     "developers": [
       "1v1combat"
@@ -446,7 +468,20 @@
     "publishers": [
       "1v1combat"
     ],
-    "package_groups": [],
+    "packages": [
+      1161705
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Swimsuit Girl: Battle to Avoid",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -455,23 +490,27 @@
     "categories": [
       2,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
       1,
       4,
       9
     ],
+    "achievements": {
+      "total": 14
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2024"
+      "coming_soon": false,
+      "date": "4 Dec, 2024"
     },
     "support_info": {
       "url": "",
       "email": "12622426@qq.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279140/page_bg_generated_v6b.jpg?t=1731528570",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279140/page_bg_generated.jpg?t=1731528570",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279140?t=1733351046",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279140?t=1733351046",
     "content_descriptors": {
       "ids": [
         1,
@@ -508,18 +547,16 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Only Up: LIZARDS MUST FALL is an incredible multiplayer parkour game where precision and speed are important. Jump and climb over various obstacles. Defeat the cursed Lizards. The slightest mistake can result in falling to the starting location and your Rus brothers will stop respecting you.",
-    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279160/header.jpg?t=1732116742",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279160/aa9504fcc454739f3ec3fccc16e9942484060cd3/capsule_231x87.jpg?t=1732116742",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279160/aa9504fcc454739f3ec3fccc16e9942484060cd3/capsule_184x69.jpg?t=1732116742",
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, German, Japanese, French, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279160/header.jpg?t=1752856744",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279160/aa9504fcc454739f3ec3fccc16e9942484060cd3/capsule_231x87.jpg?t=1752856744",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279160/aa9504fcc454739f3ec3fccc16e9942484060cd3/capsule_184x69.jpg?t=1752856744",
     "website": null,
     "developers": [
-      "Grand Technology Associates",
       "Rosa Special Studio"
     ],
     "publishers": [
-      "Rosa Special Studio",
-      "Grand Technology Associates"
+      "Rosa Special Studio"
     ],
     "demos": [
       {
@@ -527,7 +564,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1161711
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Only Up: LIZARDS MUST FALL",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -540,11 +590,14 @@
       22,
       25,
       28,
+      29,
       36,
       38,
       47,
       48,
-      49
+      49,
+      61,
+      62
     ],
     "genres": [
       1,
@@ -553,16 +606,19 @@
       28,
       29
     ],
+    "achievements": {
+      "total": 4
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "29 Nov, 2024"
+      "coming_soon": false,
+      "date": "3 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "devinside.contact@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279160/page_bg_generated_v6b.jpg?t=1732116742",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279160/page_bg_generated.jpg?t=1732116742",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279160?t=1752856744",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279160?t=1752856744",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -599,9 +655,9 @@
       "name": "Only Up: LIZARDS MUST FALL"
     },
     "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, German<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279180/header.jpg?t=1732215717",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279180/aa9504fcc454739f3ec3fccc16e9942484060cd3/capsule_231x87.jpg?t=1732215717",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279180/aa9504fcc454739f3ec3fccc16e9942484060cd3/capsule_184x69.jpg?t=1732215717",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279180/header.jpg?t=1752869367",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279180/aa9504fcc454739f3ec3fccc16e9942484060cd3/capsule_231x87.jpg?t=1752869367",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279180/aa9504fcc454739f3ec3fccc16e9942484060cd3/capsule_184x69.jpg?t=1752869367",
     "website": null,
     "developers": [
       "Grand Technology Associates",
@@ -644,8 +700,8 @@
       "url": "",
       "email": "devinside.contact@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279180/page_bg_generated_v6b.jpg?t=1732215717",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279180/page_bg_generated.jpg?t=1732215717",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279180?t=1752869367",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279180?t=1752869367",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -709,8 +765,8 @@
       "url": "",
       "email": "SeeyuServices@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279190/page_bg_generated_v6b.jpg?t=1728914448",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279190/page.bg.jpg?t=1728914448",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279190?t=1728914448",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279190/page_bg_raw.jpg?t=1728914448",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -736,21 +792,27 @@
   },
   "3279270": {
     "type": "game",
-    "name": "VIOZIC SUNS",
+    "name": "REGOLITH: VIOZIC SUNS",
     "steam_appid": 3279270,
     "required_age": 0,
-    "is_free": true,
+    "is_free": false,
     "short_description": "A top-down space shooter roguelike set in a handcrafted, procedurally-enriched galaxy. Coming soon.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279270/header.jpg?t=1732315247",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279270/4dc42f14c99334cb3804e36175b2b97e57b5a0cf/capsule_231x87.jpg?t=1732315247",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279270/4dc42f14c99334cb3804e36175b2b97e57b5a0cf/capsule_184x69.jpg?t=1732315247",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279270/84936053741d565b130410109d4cf685eb215af2/header.jpg?t=1756855786",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279270/b19af9cb1cfbb88f9b68b6222828bd8d309b5fc5/capsule_231x87.jpg?t=1756855786",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279270/b19af9cb1cfbb88f9b68b6222828bd8d309b5fc5/capsule_184x69.jpg?t=1756855786",
     "website": null,
     "developers": [
       "splet"
     ],
     "publishers": [
       "splet"
+    ],
+    "demos": [
+      {
+        "appid": 3747560,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -759,12 +821,13 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
       25,
-      37
+      70
     ],
     "release_date": {
       "coming_soon": true,
@@ -774,8 +837,8 @@
       "url": "",
       "email": "viozicsuns@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279270/page_bg_generated_v6b.jpg?t=1732315247",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279270/page.bg.jpg?t=1732315247",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279270?t=1756855786",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279270/page_bg_raw.jpg?t=1756855786",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -783,11 +846,11 @@
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "12",
-        "required_age": "12",
+        "rating": "14",
+        "required_age": "14",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Drogas l\u00edcitas\nLinguagem impr\u00f3pria\nAtos criminosos"
+        "descriptors": "Linguagem impr\u00f3pria\nDrogas l\u00edcitas\nAtos criminosos"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -795,7 +858,7 @@
         "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Alkohol / Tabak\nSchimpfw\u00f6rte\nFantasy-Gewalt"
+        "descriptors": "Alkohol / Tabak\nDerbe Sprache\nFantasy-Gewalt"
       }
     }
   },
@@ -844,8 +907,8 @@
       "url": "",
       "email": "jjharrison(hyphen)eason(at)hotmail(dot)commercial"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279290/page_bg_generated_v6b.jpg?t=1729284676",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279290/page.bg.jpg?t=1729284676",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279290?t=1729284676",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279290/page_bg_raw.jpg?t=1729284676",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -878,9 +941,9 @@
     "controller_support": "full",
     "short_description": "Doodle Hunt: Halloween Rush is a thrilling seek-and-find game set in haunted, hand-drawn Halloween scenes. Explore eerie maps, uncover hidden spooky items, and bring them to life with glowing color! A magical Halloween adventure for all ages.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279300/header.jpg?t=1729839654",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279300/4033374d334c8646b3e70279ed9a14c6d111d122/capsule_231x87.jpg?t=1729839654",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279300/4033374d334c8646b3e70279ed9a14c6d111d122/capsule_184x69.jpg?t=1729839654",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279300/header.jpg?t=1743586862",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279300/4033374d334c8646b3e70279ed9a14c6d111d122/capsule_231x87.jpg?t=1743586862",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279300/4033374d334c8646b3e70279ed9a14c6d111d122/capsule_184x69.jpg?t=1743586862",
     "website": null,
     "developers": [
       "Revolt Games"
@@ -925,8 +988,8 @@
       "url": "https://revolt-games.com/",
       "email": "support@revolt-games.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279300/page_bg_generated_v6b.jpg?t=1729839654",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279300/page.bg.jpg?t=1729839654",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279300?t=1743586862",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279300/page_bg_raw.jpg?t=1743586862",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -998,8 +1061,8 @@
       "url": "",
       "email": "maaroof@macncheesegames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279320/page_bg_generated_v6b.jpg?t=1730738936",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279320/page_bg_generated.jpg?t=1730738936",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279320?t=1730738936",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279320?t=1730738936",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1031,11 +1094,10 @@
     "is_free": false,
     "short_description": "Fight in an epic first/third-person battlefield with your friends! In this cooperative PvE game, there are 3 factions, all fully playable: Army, Insects, Dinosaurs. Hundreds of allied/enemy bots on screen! Old school fun, baby!",
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Portuguese - Brazil, Portuguese - Portugal, Russian, Spanish - Latin America, Traditional Chinese, Korean, Polish, Thai, Turkish<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279330/header.jpg?t=1729556531",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279330/fc54e631192d3fef74a69942779ed32587bc541e/capsule_231x87.jpg?t=1729556531",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279330/fc54e631192d3fef74a69942779ed32587bc541e/capsule_184x69.jpg?t=1729556531",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279330/header.jpg?t=1757346209",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279330/fc54e631192d3fef74a69942779ed32587bc541e/capsule_231x87.jpg?t=1757346209",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279330/fc54e631192d3fef74a69942779ed32587bc541e/capsule_184x69.jpg?t=1757346209",
     "website": null,
-    "ext_user_account_notice": "Francesco Ferrantini ",
     "developers": [
       "Insane Dreamers"
     ],
@@ -1052,7 +1114,8 @@
       1,
       2,
       9,
-      38
+      38,
+      62
     ],
     "genres": [
       1,
@@ -1066,8 +1129,8 @@
       "url": "",
       "email": "insanedreamersstudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279330/page_bg_generated_v6b.jpg?t=1729556531",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279330/page.bg.jpg?t=1729556531",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279330?t=1757346209",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279330/page_bg_raw.jpg?t=1757346209",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1097,11 +1160,11 @@
     "steam_appid": 3279360,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Code Trainer is an educational programming tool. Solve coding problems and improve your understanding of computer science.",
+    "short_description": "Code Trainer is a programming practice tool. Solve coding problems and improve your understanding of computer science. Prior programming experience is required.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/header.jpg?t=1732009497",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/3f22913cb985fec857b03c1accaa0cc98aecd05d/capsule_231x87.jpg?t=1732009497",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/3f22913cb985fec857b03c1accaa0cc98aecd05d/capsule_184x69.jpg?t=1732009497",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/header.jpg?t=1754520065",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/3f22913cb985fec857b03c1accaa0cc98aecd05d/capsule_231x87.jpg?t=1754520065",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/3f22913cb985fec857b03c1accaa0cc98aecd05d/capsule_184x69.jpg?t=1754520065",
     "website": null,
     "developers": [
       "Erickson Software"
@@ -1115,7 +1178,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1161776
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Code Trainer",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1127,7 +1203,8 @@
       22,
       23,
       36,
-      49
+      49,
+      62
     ],
     "genres": [
       23,
@@ -1136,16 +1213,19 @@
       56,
       57
     ],
+    "achievements": {
+      "total": 15
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "5 Mar, 2025"
     },
     "support_info": {
       "url": "https://bsky.app/profile/ericksonsoftware.bsky.social",
       "email": "matt.erickson.software@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/page_bg_generated_v6b.jpg?t=1732009497",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/page.bg.jpg?t=1732009497",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279360?t=1754520065",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/page_bg_raw.jpg?t=1754520065",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1175,17 +1255,23 @@
     "steam_appid": 3279410,
     "required_age": 0,
     "is_free": false,
-    "short_description": "It was supposed to be a party, but nobody's celebrating! Peek into the lives of each grumpy family member, collect clues, and cheer everyone up in this cozy fill-in-the-blank mystery.",
+    "short_description": "It was supposed to be a party, but nobody's celebrating! Peek into the lives of each unfortunate family member, make deductions, and solve this cute yet challenging fill-in-the-blank mystery.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279410/header.jpg?t=1731969023",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279410/f23c83d1314b893e132697b55945b39da7778559/capsule_231x87.jpg?t=1731969023",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279410/f23c83d1314b893e132697b55945b39da7778559/capsule_184x69.jpg?t=1731969023",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279410/99222843e7a8cc31418357ab0518b6272320d6d1/header.jpg?t=1758922010",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279410/94bef1b2c1018c8c49ddba8236178acae5c83631/capsule_231x87.jpg?t=1758922010",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279410/94bef1b2c1018c8c49ddba8236178acae5c83631/capsule_184x69.jpg?t=1758922010",
     "website": "https://www.herogameco.com/case-of-the-worst-day-ever",
     "developers": [
       "Hero Game Co LLC"
     ],
     "publishers": [
       "Hero Game Co LLC"
+    ],
+    "demos": [
+      {
+        "appid": 3368670,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -1195,7 +1281,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       4,
@@ -1209,8 +1296,8 @@
       "url": "https://www.herogameco.com/contact",
       "email": "herogameco@tutanota.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279410/page_bg_generated_v6b.jpg?t=1731969023",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279410/page.bg.jpg?t=1731969023",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279410?t=1758922010",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279410/page_bg_raw.jpg?t=1758922010",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1288,8 +1375,8 @@
       "url": "https://gortagon.com/",
       "email": "gortagongame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279420/page_bg_generated_v6b.jpg?t=1730785130",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279420/page.bg.jpg?t=1730785130",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279420?t=1730785130",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279420/page_bg_raw.jpg?t=1730785130",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1321,16 +1408,22 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "Drone Sector is a futuristic gunship game. Provide close air support by firing variety of weapons at the enemies and guide your allied troops via commands. Keep your troops alive, complete objectives, collect resources and recruit engineers. Research better weaponry for the gunship and the troops.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/header.jpg?t=1730883198",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/509f6d168e4da709b2d8c10113d6e121fc6c5eb5/capsule_231x87.jpg?t=1730883198",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/509f6d168e4da709b2d8c10113d6e121fc6c5eb5/capsule_184x69.jpg?t=1730883198",
-    "website": null,
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Ukrainian, Estonian<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/09d6da334e31c4d9a9a2e624bd9b01ce9e6a2215/header.jpg?t=1759005252",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/68d9bfbf3b9b8e5852a75ab31447d55257d927c2/capsule_231x87.jpg?t=1759005252",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/68d9bfbf3b9b8e5852a75ab31447d55257d927c2/capsule_184x69.jpg?t=1759005252",
+    "website": "https://icosphere.dev/drone-sector",
     "developers": [
       "Icosphere"
     ],
     "publishers": [
-      "Icosphere"
+      "MicroProse Software"
+    ],
+    "demos": [
+      {
+        "appid": 3710740,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -1340,21 +1433,24 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
-      1
+      1,
+      2,
+      28
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
       "email": "ingmar.trump@icosphere.dev"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/page_bg_generated_v6b.jpg?t=1730883198",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/page.bg.jpg?t=1730883198",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279440?t=1759005252",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/efb7a18db251e36bb1e46a09d8a3f335aba5e901/page_bg_raw.jpg?t=1759005252",
     "content_descriptors": {
       "ids": [
         5
@@ -1387,11 +1483,15 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
+    "dlc": [
+      3803290,
+      3826880
+    ],
     "short_description": "Tezcatlipoca is inspired by classic retro horror games with tank controls, like Alone in the Dark, Silent Hill, and Resident Evil. However, unlike those titles, while the game features enemies, combat is not a central feature.",
-    "supported_languages": "English, Spanish - Spain, Spanish - Latin America",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279450/header.jpg?t=1732206006",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279450/92b6661b85fac3b4af250469697d10f247bd3f7c/capsule_231x87.jpg?t=1732206006",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279450/92b6661b85fac3b4af250469697d10f247bd3f7c/capsule_184x69.jpg?t=1732206006",
+    "supported_languages": "English, Spanish - Spain, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279450/header.jpg?t=1754857974",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279450/9b095fad81c0fb4de405891937fa377bf4ed9e1e/capsule_231x87.jpg?t=1754857974",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279450/9b095fad81c0fb4de405891937fa377bf4ed9e1e/capsule_184x69.jpg?t=1754857974",
     "website": null,
     "developers": [
       "LuQui"
@@ -1399,7 +1499,26 @@
     "publishers": [
       "LuQui"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3279610,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1161807
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Tezcatlipoca",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1408,22 +1527,27 @@
     "categories": [
       2,
       22,
-      28
+      23,
+      28,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 24
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "30 Oct, 2025"
+      "coming_soon": false,
+      "date": "28 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "LuQuiGames@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279450/page_bg_generated_v6b.jpg?t=1732206006",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279450/page.bg.jpg?t=1732206006",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279450?t=1754857974",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279450/page_bg_raw.jpg?t=1754857974",
     "content_descriptors": {
       "ids": [
         1,
@@ -1492,8 +1616,8 @@
       "url": "",
       "email": "contact@nimavoha.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279460?t=1728502987",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279460?t=1728502987",
     "content_descriptors": {
       "ids": [
         2,
@@ -1561,8 +1685,8 @@
       "url": "",
       "email": "amynounougames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279480/page_bg_generated_v6b.jpg?t=1731278017",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279480/page_bg_generated.jpg?t=1731278017",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279480?t=1731278017",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279480?t=1731278017",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1744,9 +1868,9 @@
       "name": "Metrophobia"
     },
     "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Turkish, Ukrainian, Japanese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279510/header.jpg?t=1730190766",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279510/c32f939347ac9c45421b102dddc1c83a3bf88dbc/capsule_231x87.jpg?t=1730190766",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279510/c32f939347ac9c45421b102dddc1c83a3bf88dbc/capsule_184x69.jpg?t=1730190766",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279510/header.jpg?t=1755707975",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279510/c32f939347ac9c45421b102dddc1c83a3bf88dbc/capsule_231x87.jpg?t=1755707975",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279510/c32f939347ac9c45421b102dddc1c83a3bf88dbc/capsule_184x69.jpg?t=1755707975",
     "website": "https://fangslab.com/",
     "developers": [
       "Fang's Lab"
@@ -1777,8 +1901,8 @@
       "url": "",
       "email": "support@fangslab.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279510?t=1755707975",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279510?t=1755707975",
     "content_descriptors": {
       "ids": [
         5
@@ -1863,8 +1987,8 @@
       "url": "",
       "email": "pauloondra.lgopt@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279550/page_bg_generated_v6b.jpg?t=1731238195",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279550/page_bg_generated.jpg?t=1731238195",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279550?t=1731238195",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279550?t=1731238195",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1899,9 +2023,9 @@
       "appid": "1877650",
       "name": "Zero Orders Tactics"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279560/header.jpg?t=1731885141",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279560/8955b600f918cfec46b882328c458200d0f4e9d7/capsule_231x87.jpg?t=1731885141",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279560/8955b600f918cfec46b882328c458200d0f4e9d7/capsule_184x69.jpg?t=1731885141",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279560/header.jpg?t=1758712064",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279560/8955b600f918cfec46b882328c458200d0f4e9d7/capsule_231x87.jpg?t=1758712064",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279560/8955b600f918cfec46b882328c458200d0f4e9d7/capsule_184x69.jpg?t=1758712064",
     "website": null,
     "developers": [
       "Pauloondra"
@@ -1936,8 +2060,8 @@
       "url": "",
       "email": "pauloondra.lgopt@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279560/page_bg_generated_v6b.jpg?t=1731885141",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279560/page_bg_generated.jpg?t=1731885141",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279560?t=1758712064",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279560?t=1758712064",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2019,8 +2143,8 @@
       "url": "",
       "email": "hello@cornfieldgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279580/page_bg_generated_v6b.jpg?t=1730973310",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279580/page.bg.jpg?t=1730973310",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3279580?t=1730973310",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279580/page_bg_raw.jpg?t=1730973310",
     "content_descriptors": {
       "ids": [
         2,
