@@ -1738,9 +1738,9 @@
       "name": "Gunsmith Simulator"
     },
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Traditional Chinese<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Turkish<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288480/header.jpg?t=1732707039",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288480/6e284ea33a19f5366d96df0b89dd376ba0e77edf/capsule_231x87.jpg?t=1732707039",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288480/6e284ea33a19f5366d96df0b89dd376ba0e77edf/capsule_184x69.jpg?t=1732707039",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288480/header.jpg?t=1755603856",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288480/6e284ea33a19f5366d96df0b89dd376ba0e77edf/capsule_231x87.jpg?t=1755603856",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288480/6e284ea33a19f5366d96df0b89dd376ba0e77edf/capsule_184x69.jpg?t=1755603856",
     "website": null,
     "developers": [
       "GameHunters"
@@ -1748,7 +1748,20 @@
     "publishers": [
       "PlayWay S.A."
     ],
-    "package_groups": [],
+    "packages": [
+      1164787
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Gunsmith Simulator - Flint & Powder",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1757,22 +1770,23 @@
     "categories": [
       2,
       21,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
       28
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "December 2024"
+      "coming_soon": false,
+      "date": "9 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "press@gamehunters-studio.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288480/page_bg_generated_v6b.jpg?t=1732707039",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288480/page.bg.jpg?t=1732707039",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288480?t=1755603856",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288480/page_bg_raw.jpg?t=1755603856",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1800,11 +1814,11 @@
     "steam_appid": 3288510,
     "required_age": 0,
     "is_free": false,
-    "short_description": "In this mind-bending puzzle game, you can only move left and right, but any direction could be your left and right!",
-    "supported_languages": "English, Simplified Chinese, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288510/header.jpg?t=1731520913",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288510/f3512051937936fe4d3234685f7bc9e3fd091e36/capsule_231x87.jpg?t=1731520913",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288510/f3512051937936fe4d3234685f7bc9e3fd091e36/capsule_184x69.jpg?t=1731520913",
+    "short_description": "In this puzzling space capsule, you can only move left and right, but any direction could be your left and right!",
+    "supported_languages": "English, Simplified Chinese, Japanese, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288510/header.jpg?t=1745607242",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288510/f3512051937936fe4d3234685f7bc9e3fd091e36/capsule_231x87.jpg?t=1745607242",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288510/f3512051937936fe4d3234685f7bc9e3fd091e36/capsule_184x69.jpg?t=1745607242",
     "website": null,
     "developers": [
       "Artless Games"
@@ -1812,7 +1826,26 @@
     "publishers": [
       "Artless Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3469390,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1164822
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Spacecaps",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -1820,21 +1853,25 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       23
     ],
+    "achievements": {
+      "total": 8
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2025"
+      "coming_soon": false,
+      "date": "21 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "artlessgame@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288510/page_bg_generated_v6b.jpg?t=1731520913",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288510/page.bg.jpg?t=1731520913",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288510?t=1745607242",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288510/page_bg_raw.jpg?t=1745607242",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1860,45 +1897,69 @@
   },
   "3288520": {
     "type": "game",
-    "name": "La Liti\u00e8re : Trigo",
+    "name": "The Litter: Trigo",
     "steam_appid": 3288520,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Mathematics feel like cat poop ? Recycle your weaknesses with La Liti\u00e8re Trigo !",
-    "supported_languages": "French, English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288520/header.jpg?t=1729531719",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288520/e20f3d4881a169a63a15eb3dd192458ddde9d367/capsule_231x87.jpg?t=1729531719",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288520/e20f3d4881a169a63a15eb3dd192458ddde9d367/capsule_184x69.jpg?t=1729531719",
-    "website": null,
+    "short_description": "Mathematics feel like cat poop ? Recycle your weaknesses with The Litter: Trigo !",
+    "supported_languages": "French<strong>*</strong>, English<strong>*</strong>, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288520/header.jpg?t=1758784662",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288520/e20f3d4881a169a63a15eb3dd192458ddde9d367/capsule_231x87.jpg?t=1758784662",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288520/e20f3d4881a169a63a15eb3dd192458ddde9d367/capsule_184x69.jpg?t=1758784662",
+    "website": "https://www.furiouspixel.com",
     "developers": [
       "furiouspixel_studio"
     ],
     "publishers": [
       "FuriousPixelStudio"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3529790,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1164825
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The Litter: Trigo",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "March 2025"
+      "coming_soon": false,
+      "date": "21 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "contact@furiouspixel.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288520/page_bg_generated_v6b.jpg?t=1729531719",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288520/page_bg_generated.jpg?t=1729531719",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288520?t=1758784662",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288520/page_bg_raw.jpg?t=1758784662",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1999,9 +2060,9 @@
     "is_free": false,
     "short_description": "Forgotten Cave is a roguelite dungeon crawler featuring endless procedurally generated dungeons. Collect loot, find powerful upgrades, and survive as long as you can in this mysterious cave!",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288560/header.jpg?t=1731948455",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288560/938ee174db4e2955c8b528d0a038ff875f8fa244/capsule_231x87.jpg?t=1731948455",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288560/938ee174db4e2955c8b528d0a038ff875f8fa244/capsule_184x69.jpg?t=1731948455",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288560/header.jpg?t=1746379192",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288560/938ee174db4e2955c8b528d0a038ff875f8fa244/capsule_231x87.jpg?t=1746379192",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288560/938ee174db4e2955c8b528d0a038ff875f8fa244/capsule_184x69.jpg?t=1746379192",
     "website": null,
     "developers": [
       "Hard Shark Games"
@@ -2009,7 +2070,20 @@
     "publishers": [
       "Hard Shark Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1164845
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Forgotten Cave: Roguelite Dungeon Crawler",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2017,7 +2091,8 @@
     },
     "categories": [
       2,
-      18
+      18,
+      62
     ],
     "genres": [
       1,
@@ -2026,15 +2101,15 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "3 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "hardsharkgames.contact@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288560/page_bg_generated_v6b.jpg?t=1731948455",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288560/page_bg_generated.jpg?t=1731948455",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288560?t=1746379192",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288560?t=1746379192",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2098,8 +2173,8 @@
       "url": "https://entharielgames.com",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288590?t=1729014953",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288590?t=1729014953",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2129,11 +2204,11 @@
     "steam_appid": 3288600,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Skibidi Gyatrooms is a 1-5 player co-op horror game. You and the homies just fell into the Backrooms, you must out-GYAT the Skibidi Toilet with max rizz or get flushed. Expect cursed levels, and brainrot that\u2019ll keep you on edge.",
-    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288600/header.jpg?t=1730206807",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288600/3bee99d81c97f131da8331b693aae5a160548b04/capsule_231x87.jpg?t=1730206807",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288600/3bee99d81c97f131da8331b693aae5a160548b04/capsule_184x69.jpg?t=1730206807",
+    "short_description": "Skibidi Gyatrooms is a 1-4 player co-op horror game. You and the homies just fell into the Backrooms, you must out-GYAT the Skibidi Toilet with max rizz or get flushed. Expect cursed levels, and brainrot that\u2019ll keep you on edge.",
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese<strong>*</strong>, Ukrainian<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288600/header.jpg?t=1758563303",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288600/f312c5cded58ee6b24691c9d46c33492b7664e06/capsule_231x87.jpg?t=1758563303",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288600/f312c5cded58ee6b24691c9d46c33492b7664e06/capsule_184x69.jpg?t=1758563303",
     "website": null,
     "developers": [
       "FoodWithoutTaste",
@@ -2142,7 +2217,20 @@
     "publishers": [
       "HeartstuckStudios"
     ],
-    "package_groups": [],
+    "packages": [
+      1164859
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy SKIBIDI GYATROOMS",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -2153,23 +2241,27 @@
       2,
       9,
       22,
-      38
+      38,
+      62
     ],
     "genres": [
       1,
       4,
       25
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "20 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "heartstuckstudios@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288600/page_bg_generated_v6b.jpg?t=1730206807",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288600/page_bg_generated.jpg?t=1730206807",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288600?t=1758563303",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288600?t=1758563303",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2177,19 +2269,19 @@
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "10",
-        "required_age": "10",
+        "rating": "12",
+        "required_age": "12",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Drogas\nMedo"
+        "descriptors": "Viol\u00eancia\nDrogas"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "10",
-        "required_age": "10",
+        "rating": "16",
+        "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Drogen\n\u00c4ngstigende Inhalte"
+        "descriptors": "Gewalt\nDrogen"
       }
     }
   },
@@ -2204,9 +2296,10 @@
       "appid": "3170800",
       "name": "Love is in the Airship"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288690/header.jpg?t=1729249330",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288690/2371c07b210c26990536d166a92b6790f0e69761/capsule_231x87.jpg?t=1729249330",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288690/2371c07b210c26990536d166a92b6790f0e69761/capsule_184x69.jpg?t=1729249330",
+    "supported_languages": "English, Japanese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288690/header.jpg?t=1749381271",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288690/2371c07b210c26990536d166a92b6790f0e69761/capsule_231x87.jpg?t=1749381271",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288690/2371c07b210c26990536d166a92b6790f0e69761/capsule_184x69.jpg?t=1749381271",
     "website": null,
     "developers": [
       "Yuri Kissaten"
@@ -2217,8 +2310,8 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       10
@@ -2231,8 +2324,8 @@
       "url": "https://yurikissaten.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288690/page_bg_generated_v6b.jpg?t=1729249330",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288690/page.bg.jpg?t=1729249330",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288690?t=1749381271",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288690/page_bg_raw.jpg?t=1749381271",
     "content_descriptors": {
       "ids": [
         5
@@ -2267,15 +2360,15 @@
     "controller_support": "full",
     "short_description": "Traverse Colour Space is a maze game where the player is also building walls as they move. Similar to a Hamiltonian Path the player must find the best path of best fit though each level to maximise their points. As the player collects paint they gain more points as they move about.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288810/header.jpg?t=1732104071",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288810/6a0472e5bde1587da5a440ea2e9f814b54b5b54d/capsule_231x87.jpg?t=1732104071",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288810/6a0472e5bde1587da5a440ea2e9f814b54b5b54d/capsule_184x69.jpg?t=1732104071",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288810/header.jpg?t=1740847471",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288810/6a0472e5bde1587da5a440ea2e9f814b54b5b54d/capsule_231x87.jpg?t=1740847471",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288810/6a0472e5bde1587da5a440ea2e9f814b54b5b54d/capsule_184x69.jpg?t=1740847471",
     "website": null,
     "developers": [
-      "Squirreled Away Games"
+      "Rfent"
     ],
     "publishers": [
-      "Squirreled Away Games"
+      "Rfent"
     ],
     "packages": [
       1164923
@@ -2313,8 +2406,8 @@
       "url": "",
       "email": "squirreledawaygames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288810/page_bg_generated_v6b.jpg?t=1732104071",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288810/page_bg_generated.jpg?t=1732104071",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288810?t=1740847471",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288810?t=1740847471",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2396,8 +2489,8 @@
       "url": "https://broncogames.wordpress.com/",
       "email": "broncomotion@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288830/page_bg_generated_v6b.jpg?t=1730198183",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288830/page_bg_generated.jpg?t=1730198183",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288830?t=1730198183",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288830?t=1730198183",
     "content_descriptors": {
       "ids": [
         5
@@ -2449,7 +2542,8 @@
     },
     "categories": [
       1,
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -2464,8 +2558,8 @@
       "url": "",
       "email": "SoftwareTechnologies@media.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288870/page_bg_generated_v6b.jpg?t=1729171955",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288870/page.bg.jpg?t=1729171955",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288870?t=1729171955",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288870/page_bg_raw.jpg?t=1729171955",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2541,8 +2635,8 @@
       "url": "https://www.firegamestudios.com",
       "email": "contact@firegamestudios.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288910/page_bg_generated_v6b.jpg?t=1731109880",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288910/page.bg.jpg?t=1731109880",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288910?t=1731109880",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288910/page_bg_raw.jpg?t=1731109880",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2624,8 +2718,8 @@
       "url": "http://store.steampowered.com/search/?publisher=Archor%20Games",
       "email": "archor@archor.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288940/page_bg_generated_v6b.jpg?t=1730294775",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288940/page.bg.jpg?t=1730294775",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3288940?t=1730294775",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288940/page_bg_raw.jpg?t=1730294775",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2739,11 +2833,12 @@
     "steam_appid": 3289000,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "A battle ensues and the fauna of the depths has awaken. Those who seek fortune, those who seek power gathered. You find yourself amidst it all, with no memory on how you reached the Island in the first place. What will you do?",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289000/header.jpg?t=1731351247",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289000/67a63d05e72afa9f04e4da9169a9f48740a8a248/capsule_231x87.jpg?t=1731351247",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289000/67a63d05e72afa9f04e4da9169a9f48740a8a248/capsule_184x69.jpg?t=1731351247",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289000/header.jpg?t=1751986620",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289000/67a63d05e72afa9f04e4da9169a9f48740a8a248/capsule_231x87.jpg?t=1751986620",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289000/67a63d05e72afa9f04e4da9169a9f48740a8a248/capsule_184x69.jpg?t=1751986620",
     "website": null,
     "developers": [
       "Moonkey Lab"
@@ -2751,30 +2846,49 @@
     "publishers": [
       "Moonkey Lab"
     ],
-    "package_groups": [],
+    "packages": [
+      1164987
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Shadows Of Lir'Ah",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      28,
+      62
     ],
     "genres": [
       1,
       23,
       25
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q4 2024"
+      "coming_soon": false,
+      "date": "12 Dec, 2024"
     },
     "support_info": {
       "url": "https://moonkey-lab.itch.io/",
       "email": "moonkelab@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289000/page_bg_generated_v6b.jpg?t=1731351247",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289000/page.bg.jpg?t=1731351247",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3289000?t=1751986620",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289000/page_bg_raw.jpg?t=1751986620",
     "content_descriptors": {
       "ids": [
         2,
@@ -2914,8 +3028,8 @@
       "url": "https://kenkoma.carrd.co",
       "email": "kenkomadev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289030/page_bg_generated_v6b.jpg?t=1729440057",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289030/page.bg.jpg?t=1729440057",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3289030?t=1729440057",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289030/page_bg_raw.jpg?t=1729440057",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2994,8 +3108,8 @@
       "url": "",
       "email": "gearheadfoxgames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289040/page_bg_generated_v6b.jpg?t=1730998962",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289040/page.bg.jpg?t=1730998962",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3289040?t=1730998962",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3289040/page_bg_raw.jpg?t=1730998962",
     "content_descriptors": {
       "ids": [],
       "notes": null
