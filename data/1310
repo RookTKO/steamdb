@@ -3996,16 +3996,22 @@
     "is_free": false,
     "controller_support": "full",
     "short_description": "In this procedurally generated mining roguelite you dig for precious ores by day and defend your city from relentless monsters by night. Each night the waves attacking the core are getting deadlier - upgrade your gear, unlock powerful spells, and descend deeper. Can you survive 10 nights?",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931000/137ac94f68220555a678812d723c0d9595b59335/header.jpg?t=1755853786",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931000/195d42b76ad34d956c471ae18db3da153c59a1c2/capsule_231x87.jpg?t=1755853786",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931000/195d42b76ad34d956c471ae18db3da153c59a1c2/capsule_184x69.jpg?t=1755853786",
+    "supported_languages": "English, German",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931000/137ac94f68220555a678812d723c0d9595b59335/header.jpg?t=1760687065",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931000/195d42b76ad34d956c471ae18db3da153c59a1c2/capsule_231x87.jpg?t=1760687065",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931000/195d42b76ad34d956c471ae18db3da153c59a1c2/capsule_184x69.jpg?t=1760687065",
     "website": "https://bytebeyond.net",
     "developers": [
       "ByteBeyond"
     ],
     "publishers": [
       "ByteBeyond"
+    ],
+    "demos": [
+      {
+        "appid": 3960100,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4015,6 +4021,7 @@
     },
     "categories": [
       2,
+      23,
       28,
       62,
       68,
@@ -4034,8 +4041,8 @@
       "url": "https://bytebeyond.net",
       "email": "info@bytebeyond.net"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3931000?t=1755853786",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931000/2c3c439352a3badbe21c6305b35e5e01a4e34d74/page_bg_raw.jpg?t=1755853786",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3931000?t=1760687065",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931000/2c3c439352a3badbe21c6305b35e5e01a4e34d74/page_bg_raw.jpg?t=1760687065",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4067,15 +4074,15 @@
     "is_free": false,
     "short_description": "Scav is a low poly looter shooter with survival elements. Gear up in the safezone, drop into quarantine zones, scavenge valuable loot, fight enemies and zombies, and extract before the nuke hits. Survive the raid or lose everything.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931750/d3131bd85fd59904bde98532a8e1d52e95cfa108/header.jpg?t=1755914581",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931750/30b20d46156b76b4bd5859d15c6212baba5cb85e/capsule_231x87.jpg?t=1755914581",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931750/30b20d46156b76b4bd5859d15c6212baba5cb85e/capsule_184x69.jpg?t=1755914581",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931750/d3131bd85fd59904bde98532a8e1d52e95cfa108/header.jpg?t=1760469065",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931750/30b20d46156b76b4bd5859d15c6212baba5cb85e/capsule_231x87.jpg?t=1760469065",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931750/30b20d46156b76b4bd5859d15c6212baba5cb85e/capsule_184x69.jpg?t=1760469065",
     "website": null,
     "developers": [
-      "Cannabusy"
+      "Cannabusy \u2122"
     ],
     "publishers": [
-      "Cannabusy Games"
+      "Cannabusy \u2122"
     ],
     "demos": [
       {
@@ -4083,7 +4090,20 @@
         "description": ""
       }
     ],
-    "package_groups": [],
+    "packages": [
+      1381356
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Scav",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4107,15 +4127,15 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "27 Aug, 2025"
+      "coming_soon": false,
+      "date": "28 Aug, 2025"
     },
     "support_info": {
       "url": "https://discord.gg/As7WeGCPfu",
       "email": "cannabusygames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3931750?t=1755914581",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931750/efcf47fc105eb7f69106ac48000184bac99bbdd0/page_bg_raw.jpg?t=1755914581",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3931750?t=1760469065",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931750/05b380e21c6c63dc8785d93ce8ef3d10705bf438/page_bg_raw.jpg?t=1760469065",
     "content_descriptors": {
       "ids": [
         2,
@@ -4219,9 +4239,9 @@
     "is_free": false,
     "short_description": "TINAD is a unique tower defense game where you defend your retirement home from overeager heroes. Play as the dungeon itself. Deploy traps, summon minions, and prove you\u2019re just trying to enjoy your golden years in peace against heroes who can\u2019t read the sign and assume every dungeon is evil.",
     "supported_languages": "English, Simplified Chinese, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932170/176cd20bede13772d24f9de234f50076f1043561/header.jpg?t=1755699297",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932170/d97657f7ad750e292fcd6c0170875a056b4c3122/capsule_231x87.jpg?t=1755699297",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932170/d97657f7ad750e292fcd6c0170875a056b4c3122/capsule_184x69.jpg?t=1755699297",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932170/176cd20bede13772d24f9de234f50076f1043561/header.jpg?t=1758921378",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932170/d97657f7ad750e292fcd6c0170875a056b4c3122/capsule_231x87.jpg?t=1758921378",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932170/d97657f7ad750e292fcd6c0170875a056b4c3122/capsule_184x69.jpg?t=1758921378",
     "website": null,
     "developers": [
       "Paper Kite Games"
@@ -4257,8 +4277,8 @@
       "url": "",
       "email": "paperkitegames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932170?t=1755699297",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932170?t=1755699297",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932170?t=1758921378",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932170?t=1758921378",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4680,16 +4700,22 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "A 2D/3D hybrid rogue-lite card game. Top demon realm streamers Momo &amp; Dodo face a mysterious network crash that drives all demons mad! After receiving &quot;Dr. M's&quot; salvation card deck, they battle via live-streams to save fans. Uncover the realm's truth through animated story chapters &amp; multi-endings.",
-    "supported_languages": "English, Japanese, Simplified Chinese<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/5fc1df68e68ef68f33f811f8c8a230391209ce3b/header.jpg?t=1755256508",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/15592d173354e4317301b31bd2c006668e0cb5f0/capsule_231x87.jpg?t=1755256508",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/15592d173354e4317301b31bd2c006668e0cb5f0/capsule_184x69.jpg?t=1755256508",
+    "supported_languages": "English, Japanese, Simplified Chinese<strong>*</strong>, Russian, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/5fc1df68e68ef68f33f811f8c8a230391209ce3b/header.jpg?t=1760501324",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/15592d173354e4317301b31bd2c006668e0cb5f0/capsule_231x87.jpg?t=1760501324",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/15592d173354e4317301b31bd2c006668e0cb5f0/capsule_184x69.jpg?t=1760501324",
     "website": null,
     "developers": [
       "HAJI HEAVY INDUSTIRES"
     ],
     "publishers": [
       "HAJI HEAVY INDUSTIRES"
+    ],
+    "demos": [
+      {
+        "appid": 4032590,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4699,7 +4725,6 @@
     },
     "categories": [
       2,
-      13,
       22,
       62
     ],
@@ -4718,8 +4743,8 @@
       "url": "",
       "email": "zdj@mdmdgame.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932140?t=1755256508",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932140?t=1755256508",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932140?t=1760501324",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932140?t=1760501324",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4755,9 +4780,9 @@
       "name": "Taina's Cursed Legacy"
     },
     "supported_languages": "English, Russian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932600/625e79a5e339c54c958b428cbe38fac7386538d7/header.jpg?t=1755252234",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932600/32d2104b28e785dcfaabe49960e529f974833b10/capsule_231x87.jpg?t=1755252234",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932600/32d2104b28e785dcfaabe49960e529f974833b10/capsule_184x69.jpg?t=1755252234",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932600/625e79a5e339c54c958b428cbe38fac7386538d7/header.jpg?t=1756316904",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932600/32d2104b28e785dcfaabe49960e529f974833b10/capsule_231x87.jpg?t=1756316904",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932600/32d2104b28e785dcfaabe49960e529f974833b10/capsule_184x69.jpg?t=1756316904",
     "website": null,
     "developers": [
       "dark_room_game"
@@ -4765,7 +4790,20 @@
     "publishers": [
       "dark_room_game"
     ],
-    "package_groups": [],
+    "packages": [
+      1381626
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Taina's Cursed Legacy: Chapter II",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4783,15 +4821,15 @@
       25
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "August 2025"
+      "coming_soon": false,
+      "date": "27 Aug, 2025"
     },
     "support_info": {
       "url": "",
       "email": "tainascursedlegacy@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932600?t=1755252234",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932600?t=1755252234",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932600?t=1756316904",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932600?t=1756316904",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4822,17 +4860,23 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "In Drop: Save the Forest, use the power of water to solve environmental puzzles, extinguish wildfires, and save biomes inspired by the Dolomites. \ud83c\udfd4\ufe0f Combine elements like wind, fire, and plants in a lively pixel art adventure. \ud83d\udca7\ud83c\udf31\ud83d\udd25",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932710/e1f25d9bc6cd25e758082e3e660fc16033064810/header.jpg?t=1755525742",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932710/0f92321b34f8f486a859c5ae37c33891cb48a801/capsule_231x87.jpg?t=1755525742",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932710/0f92321b34f8f486a859c5ae37c33891cb48a801/capsule_184x69.jpg?t=1755525742",
-    "website": "https://ric-giol.itch.io/drop",
+    "supported_languages": "English, French, Italian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932710/e1f25d9bc6cd25e758082e3e660fc16033064810/header.jpg?t=1761158713",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932710/0f92321b34f8f486a859c5ae37c33891cb48a801/capsule_231x87.jpg?t=1761158713",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932710/0f92321b34f8f486a859c5ae37c33891cb48a801/capsule_184x69.jpg?t=1761158713",
+    "website": null,
     "developers": [
       "Riccardo Giol",
       "Games Greenhouse"
     ],
     "publishers": [
       "Games Greenhouse"
+    ],
+    "demos": [
+      {
+        "appid": 3988790,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4852,7 +4896,8 @@
     ],
     "genres": [
       1,
-      23
+      23,
+      70
     ],
     "release_date": {
       "coming_soon": true,
@@ -4862,8 +4907,8 @@
       "url": "",
       "email": "riccardogiol@outlook.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932710?t=1755525742",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932710?t=1755525742",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932710?t=1761158713",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3932710?t=1761158713",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7223,9 +7268,9 @@
     "controller_support": "full",
     "short_description": "Tower of Wizard is a survival rogue-lite where you ascend a cursed tower filled with monstrous foes and fallen wizards. Collect powerful relics, craft broken builds, and uncover the mystery that waits at the top floor.",
     "supported_languages": "English, Spanish - Spain, Korean, Simplified Chinese, French, German, Arabic, Japanese, Polish, Portuguese - Portugal, Russian, Spanish - Latin America, Thai, Traditional Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930570/10c7b9056d779bcd7f7f295ae7fcf857998d0cb5/header.jpg?t=1756006279",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930570/74d46e01060e30a41f5e2a5fef194065555e9165/capsule_231x87.jpg?t=1756006279",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930570/74d46e01060e30a41f5e2a5fef194065555e9165/capsule_184x69.jpg?t=1756006279",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930570/10c7b9056d779bcd7f7f295ae7fcf857998d0cb5/header.jpg?t=1758248252",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930570/74d46e01060e30a41f5e2a5fef194065555e9165/capsule_231x87.jpg?t=1758248252",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930570/74d46e01060e30a41f5e2a5fef194065555e9165/capsule_184x69.jpg?t=1758248252",
     "website": "https://towerofwizard.com/",
     "developers": [
       "ratweeb"
@@ -7259,8 +7304,8 @@
       "url": "https://towerofwizard.com/",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3930570?t=1756006279",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930570/7e5873f63201c25c704012117bc371354c68231e/page_bg_raw.jpg?t=1756006279",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3930570?t=1758248252",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930570/7e5873f63201c25c704012117bc371354c68231e/page_bg_raw.jpg?t=1758248252",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7291,10 +7336,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "A neon arcade about road and music. Ride your motorcycle on an endless highway and pass clipping zones to keep the rhythm: the road speeds up, the gaps get tighter, one mistake ends the run. Meditative yet challenging.",
-    "supported_languages": "English, Russian, Simplified Chinese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931960/fdf98708e0560ec9a3c920b996af610367993c89/header.jpg?t=1755985986",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931960/14372d75982400bdc7044982993b20a9a5ce9b27/capsule_231x87.jpg?t=1755985986",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931960/14372d75982400bdc7044982993b20a9a5ce9b27/capsule_184x69.jpg?t=1755985986",
+    "supported_languages": "Russian, English, Traditional Chinese",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931960/fdf98708e0560ec9a3c920b996af610367993c89/header.jpg?t=1758917795",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931960/14372d75982400bdc7044982993b20a9a5ce9b27/capsule_231x87.jpg?t=1758917795",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931960/14372d75982400bdc7044982993b20a9a5ce9b27/capsule_184x69.jpg?t=1758917795",
     "website": null,
     "developers": [
       "TsuraiKuromaru"
@@ -7302,7 +7347,20 @@
     "publishers": [
       "Tsurai Productions"
     ],
-    "package_groups": [],
+    "packages": [
+      1381422
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Nightcrawler",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7310,23 +7368,32 @@
     },
     "categories": [
       2,
-      62
+      22,
+      23,
+      62,
+      69,
+      70,
+      74,
+      75
     ],
     "genres": [
       4,
       9,
       23
     ],
+    "achievements": {
+      "total": 5
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "26 Sep, 2025"
     },
     "support_info": {
       "url": "",
       "email": "tsurugi.pirs@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3931960?t=1755985986",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931960/01c6f8cdfb1994f4001e6b6ef493c203ae357ff0/page_bg_raw.jpg?t=1755985986",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3931960?t=1758917795",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931960/01c6f8cdfb1994f4001e6b6ef493c203ae357ff0/page_bg_raw.jpg?t=1758917795",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -7358,15 +7425,21 @@
     "is_free": false,
     "short_description": "A horror roguelike deckbuilder. You're trapped in a kitchen, forced to feed a half-chef monster that crawls through the vents. Don't let it starve.",
     "supported_languages": "English<strong>*</strong>, German, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/27b069f5c74a41ae21e3a7cd9da32c23870c77cd/header.jpg?t=1756126555",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/5c6c19f47319d78d696e9e3973fd12af981d62ed/capsule_231x87.jpg?t=1756126555",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/5c6c19f47319d78d696e9e3973fd12af981d62ed/capsule_184x69.jpg?t=1756126555",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/f49a9c9355f66adf32daf6f235518c0623fdd849/header.jpg?t=1761067955",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/6e82fcf58bbb57e13f3945c9bfd8e57901e12b72/capsule_231x87.jpg?t=1761067955",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/6e82fcf58bbb57e13f3945c9bfd8e57901e12b72/capsule_184x69.jpg?t=1761067955",
     "website": null,
     "developers": [
       "Eduardo Scarpato"
     ],
     "publishers": [
       "Eduardo Scarpato"
+    ],
+    "demos": [
+      {
+        "appid": 3977370,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -7391,14 +7464,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "November 2025"
+      "date": "To be announced"
     },
     "support_info": {
-      "url": "https://eduardoscarpato.com/",
-      "email": "contato@eduardoscarpato.com"
+      "url": "",
+      "email": "eduardotscarpato@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3930510?t=1756126555",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/54f77adfe579ac9a63889ca79ea091337395b896/page_bg_raw.jpg?t=1756126555",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3930510?t=1761067955",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/5315fc90f3ef5c0cac90393af39e7715fd30f067/page_bg_raw.jpg?t=1761067955",
     "content_descriptors": {
       "ids": [],
       "notes": null
