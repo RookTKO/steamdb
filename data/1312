@@ -4117,17 +4117,24 @@
     "steam_appid": 3937560,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Fight horrible creatures. Devour other fairytales' hearts. Set the Princess free from her cage... and rewrite her fate!",
+    "controller_support": "full",
+    "short_description": "Fight horrible creatures. Devour other fairytales' hearts. Set the Princess free from her cage...and rewrite her fate! To Crown or to Destroy is a narrative RPG inspired by dark fairy tales, and tragic love stories.",
     "supported_languages": "English, Italian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937560/da8e4ce64388c4ec01dafc05c07e7c7a4bc1ab95/header.jpg?t=1756195577",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937560/dfd3c3870a07d6e327daf8ceee7de7a79c75d151/capsule_231x87.jpg?t=1756195577",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937560/dfd3c3870a07d6e327daf8ceee7de7a79c75d151/capsule_184x69.jpg?t=1756195577",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937560/da8e4ce64388c4ec01dafc05c07e7c7a4bc1ab95/header.jpg?t=1758033699",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937560/dfd3c3870a07d6e327daf8ceee7de7a79c75d151/capsule_231x87.jpg?t=1758033699",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937560/dfd3c3870a07d6e327daf8ceee7de7a79c75d151/capsule_184x69.jpg?t=1758033699",
     "website": "https://www.sezhes.com/",
     "developers": [
       "Sezhes"
     ],
     "publishers": [
       "Sezhes"
+    ],
+    "demos": [
+      {
+        "appid": 4039640,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4139,6 +4146,7 @@
       2,
       22,
       23,
+      28,
       62,
       68,
       74,
@@ -4158,30 +4166,30 @@
       "url": "https://www.sezhes.com/",
       "email": "sezhes.gamedev@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3937560?t=1756195577",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3937560?t=1756195577",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3937560?t=1758033699",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3937560?t=1758033699",
     "content_descriptors": {
       "ids": [
         5
       ],
-      "notes": null
+      "notes": "- Fantasy violence\r\n- Blood\r\n- Objectification of women"
     },
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "10",
-        "required_age": "10",
+        "rating": "14",
+        "required_age": "14",
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Viol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
-        "rating": "12",
-        "required_age": "12",
+        "rating": "16",
+        "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Gewalt"
+        "descriptors": "Drastische Gewalt"
       }
     }
   },
@@ -4194,9 +4202,9 @@
     "controller_support": "full",
     "short_description": "Top-down dual stick shooter, help Nugget to find her path and combat against Rosties in the game or other minigames.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937960/f66392783fc615024c2314438b77f1034f0cdff9/header.jpg?t=1755318622",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937960/3ef7693ccc99d0d11d8c0e2b0fa74e75a21ef6ef/capsule_231x87.jpg?t=1755318622",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937960/3ef7693ccc99d0d11d8c0e2b0fa74e75a21ef6ef/capsule_184x69.jpg?t=1755318622",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937960/a83c361f09f6a0d599d8da3c8ff27791ba9959b9/header.jpg?t=1761066598",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937960/3ef7693ccc99d0d11d8c0e2b0fa74e75a21ef6ef/capsule_231x87.jpg?t=1761066598",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937960/3ef7693ccc99d0d11d8c0e2b0fa74e75a21ef6ef/capsule_184x69.jpg?t=1761066598",
     "website": "https://www.quacksquad.es/",
     "developers": [
       "Boxcutter L.A"
@@ -4204,7 +4212,20 @@
     "publishers": [
       "BoxCutter L.A"
     ],
-    "package_groups": [],
+    "packages": [
+      1383378
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy QuackSquad",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4212,7 +4233,6 @@
     },
     "categories": [
       2,
-      14,
       28,
       62,
       67,
@@ -4223,16 +4243,19 @@
       1,
       23
     ],
+    "achievements": {
+      "total": 9
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "25 Sep, 2025"
     },
     "support_info": {
       "url": "https://quacksquad.es/",
       "email": "quackcentral@quacksquad.es"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3937960?t=1755318622",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937960/a7f36400e1b5698628dcc3553082df835d9033c2/page_bg_raw.jpg?t=1755318622",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3937960?t=1761066598",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937960/a7f36400e1b5698628dcc3553082df835d9033c2/page_bg_raw.jpg?t=1761066598",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4265,16 +4288,22 @@
     "controller_support": "full",
     "short_description": "Start digging with your grandpa\u2019s map! In this stylized co-op digging game (up to 4 players), dig, upgrade, and reach the treasure together. Work as a team or compete! Fun, chaos, and rivalry await deep underground.",
     "supported_languages": "English, French, Italian, German, Simplified Chinese, Traditional Chinese, Japanese, Korean, Portuguese - Portugal, Russian, Turkish, Swedish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938040/081e366e86da2ddc5b94c09423c623a4a53643e2/header.jpg?t=1755869469",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938040/641fd380d2ab575336d4b65fe405d55d8cdaec4c/capsule_231x87.jpg?t=1755869469",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938040/641fd380d2ab575336d4b65fe405d55d8cdaec4c/capsule_184x69.jpg?t=1755869469",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938040/081e366e86da2ddc5b94c09423c623a4a53643e2/header.jpg?t=1761576966",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938040/641fd380d2ab575336d4b65fe405d55d8cdaec4c/capsule_231x87.jpg?t=1761576966",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938040/641fd380d2ab575336d4b65fe405d55d8cdaec4c/capsule_184x69.jpg?t=1761576966",
     "website": "https://www.subergamestudio.com",
     "developers": [
       "Suber Game Studio",
       "Cem Bal"
     ],
     "publishers": [
-      "Suber Game Studio"
+      "PlayWay S.A."
+    ],
+    "demos": [
+      {
+        "appid": 4057650,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -4299,14 +4328,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Q3 2025"
+      "date": "November 2025"
     },
     "support_info": {
       "url": "https://www.subergamestudio.com",
       "email": "subergamestudio@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3938040?t=1755869469",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938040/a3b3650694bd2dea49fc02d30e48dcee5eb5d01c/page_bg_raw.jpg?t=1755869469",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3938040?t=1761576966",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938040/a3b3650694bd2dea49fc02d30e48dcee5eb5d01c/page_bg_raw.jpg?t=1761576966",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6600,9 +6629,9 @@
       "name": "Dragon of Calon Valley"
     },
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936570/0d94ec8086674563850d5c0be1e93bc25780a1a1/header.jpg?t=1756293129",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936570/ba4003b1cf982a2eabe77f5709ba872a22936a16/capsule_231x87.jpg?t=1756293129",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936570/ba4003b1cf982a2eabe77f5709ba872a22936a16/capsule_184x69.jpg?t=1756293129",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936570/0d94ec8086674563850d5c0be1e93bc25780a1a1/header.jpg?t=1758813165",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936570/ba4003b1cf982a2eabe77f5709ba872a22936a16/capsule_231x87.jpg?t=1758813165",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936570/ba4003b1cf982a2eabe77f5709ba872a22936a16/capsule_184x69.jpg?t=1758813165",
     "website": null,
     "developers": [
       "FireValleyGames"
@@ -6631,15 +6660,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "25 Sep, 2025"
     },
     "support_info": {
       "url": "",
       "email": "firevalleygames@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3936570?t=1756293129",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3936570?t=1756293129",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3936570?t=1758813165",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3936570?t=1758813165",
     "content_descriptors": {
       "ids": [
         1,
@@ -6676,9 +6705,9 @@
     "is_free": false,
     "short_description": "Mindfall: Song of the Echo. The mind is at war, and the realms are cracking. Enter a world where the realm of harmony holds secrets and every step echoes into eternity. Dive into a captivating story filled with love, betrayal, and redemption in this epic classic style JRPG.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938210/821bd3774fb50cb43f86358cc2db16af83470998/header.jpg?t=1756237604",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938210/6be9ce98c4663cb11e36d7bce20f86afda51a2c3/capsule_231x87.jpg?t=1756237604",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938210/6be9ce98c4663cb11e36d7bce20f86afda51a2c3/capsule_184x69.jpg?t=1756237604",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938210/821bd3774fb50cb43f86358cc2db16af83470998/header.jpg?t=1761528445",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938210/6be9ce98c4663cb11e36d7bce20f86afda51a2c3/capsule_231x87.jpg?t=1761528445",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938210/6be9ce98c4663cb11e36d7bce20f86afda51a2c3/capsule_184x69.jpg?t=1761528445",
     "website": "https://www.lukedesalvo.com",
     "developers": [
       "Luke De Salvo"
@@ -6686,7 +6715,20 @@
     "publishers": [
       "Luke De Salvo"
     ],
-    "package_groups": [],
+    "packages": [
+      1383463
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Mindfall: Song of the Echo",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -6701,15 +6743,15 @@
       3
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "26 Oct, 2025"
     },
     "support_info": {
       "url": "https://www.lukedesalvo.com",
       "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3938210?t=1756237604",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3938210?t=1756237604",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3938210?t=1761528445",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3938210?t=1761528445",
     "content_descriptors": {
       "ids": [
         5

@@ -7714,9 +7714,9 @@
     "is_free": false,
     "short_description": "An adult slice-of-life visual novel where you move into a lively apartment building, meet bold and unique women, build relationships through choices, and shape romantic and seductive encounters.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066730/387036ddd1b1ae832decf49d87ea11a0c743761b/header.jpg?t=1760200970",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066730/9de83eea1a80e1f60f0dbb1d878982e9410456be/capsule_231x87.jpg?t=1760200970",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066730/9de83eea1a80e1f60f0dbb1d878982e9410456be/capsule_184x69.jpg?t=1760200970",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066730/387036ddd1b1ae832decf49d87ea11a0c743761b/header.jpg?t=1761391313",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066730/9de83eea1a80e1f60f0dbb1d878982e9410456be/capsule_231x87.jpg?t=1761391313",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066730/9de83eea1a80e1f60f0dbb1d878982e9410456be/capsule_184x69.jpg?t=1761391313",
     "website": null,
     "developers": [
       "Naughty Pixel"
@@ -7746,8 +7746,8 @@
       "url": "",
       "email": "playnaughtypixel@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4066730?t=1760200970",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4066730?t=1760200970",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4066730?t=1761391313",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4066730?t=1761391313",
     "content_descriptors": {
       "ids": [
         1,
@@ -7784,9 +7784,9 @@
     "is_free": false,
     "short_description": "When you don't have an actual gamepad, you can utilize a keyboard and mouse to emulate gamepad inputs.",
     "supported_languages": "English, French, Spanish - Spain, Russian, Japanese, Simplified Chinese, Traditional Chinese, Portuguese - Portugal, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067590/7c738e7ac3277273cb9298600d8d54a8829e065e/header.jpg?t=1760248259",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067590/b7c76bd7700e8955dd1c83470e710191ed940412/capsule_231x87.jpg?t=1760248259",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067590/b7c76bd7700e8955dd1c83470e710191ed940412/capsule_184x69.jpg?t=1760248259",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067590/7c738e7ac3277273cb9298600d8d54a8829e065e/header.jpg?t=1761510714",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067590/b7c76bd7700e8955dd1c83470e710191ed940412/capsule_231x87.jpg?t=1761510714",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067590/b7c76bd7700e8955dd1c83470e710191ed940412/capsule_184x69.jpg?t=1761510714",
     "website": null,
     "developers": [
       "Little fatty studio"
@@ -7794,7 +7794,20 @@
     "publishers": [
       "Little fatty studio"
     ],
-    "package_groups": [],
+    "packages": [
+      1426276
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy VirtuStick",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7805,20 +7818,37 @@
       60
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "25 Oct, 2025"
     },
     "support_info": {
       "url": "",
       "email": "mintools2525@outlook.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4067590?t=1760248259",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4067590?t=1760248259",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4067590?t=1761510714",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4067590?t=1761510714",
     "content_descriptors": {
       "ids": [],
       "notes": null
     },
-    "ratings": null
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
+    }
   },
   "4065470": {
     "type": "demo",
@@ -10880,6 +10910,153 @@
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Drogen\nVerbrechen"
+      }
+    }
+  },
+  "4067300": {
+    "type": "game",
+    "name": "Mirrors Castle",
+    "steam_appid": 4067300,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "What if you could pass through a mirror into its reflection? And what if the mirror is &quot;distorted&quot; and reflects not quite correctly? Solve all the mysteries of the Castle of Mirrors by traveling through its mirrors!",
+    "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067300/d7ec60eaed102b8b2385e987eec69f856b83336a/header.jpg?t=1761605529",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067300/8d866a5654107296f462a671b19535c759ee3130/capsule_231x87.jpg?t=1761605529",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067300/8d866a5654107296f462a671b19535c759ee3130/capsule_184x69.jpg?t=1761605529",
+    "website": null,
+    "developers": [
+      "Siorinex"
+    ],
+    "publishers": [
+      "Siorinex"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "categories": [
+      1,
+      2,
+      9,
+      22,
+      23,
+      27,
+      28,
+      38,
+      62,
+      65,
+      67,
+      68,
+      69,
+      70,
+      78,
+      79
+    ],
+    "genres": [
+      1,
+      23,
+      25
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "",
+      "email": "siorinex@gmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4067300?t=1761605529",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067300/e20e46f19ca2b6d96b20b46c46a7a99cfeaf4eb9/page_bg_raw.jpg?t=1761605529",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Medo"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "\u00c4ngstigende Inhalte"
+      }
+    }
+  },
+  "4067920": {
+    "type": "game",
+    "name": "Tiny Friends Desktop Pet",
+    "steam_appid": 4067920,
+    "required_age": 0,
+    "is_free": false,
+    "short_description": "Tiny Friends is an adorable, customizable desktop companion that brings your screen to life with fun interactions and playful charm.Play, interact, and make your screen more fun than ever!",
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067920/4986107ed1d941fc69adaee0ad61459bd6f7c950/header.jpg?t=1761592670",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067920/c14602effe13187a91f5534531ce85ab759d9486/capsule_231x87.jpg?t=1761592670",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067920/c14602effe13187a91f5534531ce85ab759d9486/capsule_184x69.jpg?t=1761592670",
+    "website": null,
+    "developers": [
+      "TinyTail Games"
+    ],
+    "publishers": [
+      "TinyTail Games"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      2,
+      62
+    ],
+    "genres": [
+      4,
+      23,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "",
+      "email": "ali.senesen@hotmail.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4067920?t=1761592670",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4067920?t=1761592670",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
       }
     }
   }
