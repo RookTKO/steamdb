@@ -3218,9 +3218,9 @@
     "is_free": false,
     "short_description": "The House of Toys is a horror game in which the player ventures into an old mansion filled with seemingly harmless toys. His mission is to explore each room, searching for clues to discover which of the toys is cursed. To free the soul trapped in this toy, the player must solve intricate puzzles.",
     "supported_languages": "English, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321000/header.jpg?t=1730886731",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321000/41db53513e5ba07a08fc6c582bcff62ae0158db6/capsule_231x87.jpg?t=1730886731",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321000/41db53513e5ba07a08fc6c582bcff62ae0158db6/capsule_184x69.jpg?t=1730886731",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321000/header.jpg?t=1761584444",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321000/41db53513e5ba07a08fc6c582bcff62ae0158db6/capsule_231x87.jpg?t=1761584444",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321000/41db53513e5ba07a08fc6c582bcff62ae0158db6/capsule_184x69.jpg?t=1761584444",
     "website": null,
     "developers": [
       "Old School Bros"
@@ -3228,7 +3228,20 @@
     "publishers": [
       "Old School Bros"
     ],
-    "package_groups": [],
+    "packages": [
+      1175932
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy The House of Toys",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -3236,7 +3249,8 @@
     },
     "categories": [
       2,
-      22
+      22,
+      62
     ],
     "genres": [
       1,
@@ -3244,16 +3258,19 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 23
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "27 Oct, 2025"
     },
     "support_info": {
       "url": "",
       "email": "theoldschoolbros@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321000/page_bg_generated_v6b.jpg?t=1730886731",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321000/page_bg_generated.jpg?t=1730886731",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321000?t=1761584444",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321000?t=1761584444",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3284,11 +3301,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Navigate tricky terrain, dodge obstacles, and roll your way to victory in Fluff\u2019n\u2019Roll! Master your skills to conquer increasingly challenging levels.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321020/header.jpg?t=1732733101",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321020/d98746efb4725659b2ff7908e992161925826bf1/capsule_231x87.jpg?t=1732733101",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321020/d98746efb4725659b2ff7908e992161925826bf1/capsule_184x69.jpg?t=1732733101",
+    "short_description": "Fluff\u2019n\u2019Roll is a high-speed precision platformer with real level rotations, unlocking wild movement tech and next-level physics. Race against the clock and compete to get the best time!",
+    "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Japanese<strong>*</strong>, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321020/c261d25115fdcacf8dda0b13ffd5d84ea4457b5b/header.jpg?t=1761066021",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321020/397c242d71944ca735758b97b992b01599a8b829/capsule_231x87.jpg?t=1761066021",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321020/397c242d71944ca735758b97b992b01599a8b829/capsule_184x69.jpg?t=1761066021",
     "website": null,
     "developers": [
       "Studio Fluff"
@@ -3299,12 +3316,14 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
       2,
-      28
+      25,
+      28,
+      62
     ],
     "genres": [
       1,
@@ -3313,14 +3332,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "2026"
     },
     "support_info": {
       "url": "",
       "email": "support@studiofluff.dev"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321020/page_bg_generated_v6b.jpg?t=1732733101",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321020/page_bg_generated.jpg?t=1732733101",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321020?t=1761066021",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321020?t=1761066021",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3392,8 +3411,8 @@
       "url": "",
       "email": "support@babayagagames.ru"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321110/page_bg_generated_v6b.jpg?t=1731184513",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321110/page_bg_generated.jpg?t=1731184513",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321110?t=1731184513",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321110?t=1731184513",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3472,8 +3491,8 @@
       "url": "https://gametriclabs.com/",
       "email": "studioinitium@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321120/page_bg_generated_v6b.jpg?t=1731958965",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321120/page.bg.jpg?t=1731958965",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321120?t=1731958965",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321120/page_bg_raw.jpg?t=1731958965",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3540,8 +3559,8 @@
       "url": "",
       "email": "gabriel.tex.galam@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321130/page_bg_generated_v6b.jpg?t=1730998650",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321130/page_bg_generated.jpg?t=1730998650",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321130?t=1730998650",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321130?t=1730998650",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -3590,7 +3609,8 @@
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
@@ -3604,8 +3624,8 @@
       "url": "",
       "email": "bmfowler99@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321150/page_bg_generated_v6b.jpg?t=1731539719",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321150/page_bg_generated.jpg?t=1731539719",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321150?t=1731539719",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3321150?t=1731539719",
     "content_descriptors": {
       "ids": [
         2,

@@ -1049,7 +1049,7 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "October 2025"
+      "date": "Coming soon"
     },
     "support_info": {
       "url": "",
@@ -8379,9 +8379,9 @@
     "is_free": false,
     "short_description": "A challenging platformer where deadly traps and unexpected obstacles await at every step. Players must jump, dodge, and rely on quick reflexes to survive while collecting coins along the way. Only by gathering all coins can they advance to the next level.",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949030/bc26b5d28a343d071dbb06827df689626c9821f0/header.jpg?t=1756461015",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949030/710fdf36b9822e9cf48e5229ead8965017dfa4a6/capsule_231x87.jpg?t=1756461015",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949030/710fdf36b9822e9cf48e5229ead8965017dfa4a6/capsule_184x69.jpg?t=1756461015",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949030/bc26b5d28a343d071dbb06827df689626c9821f0/header.jpg?t=1759514919",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949030/710fdf36b9822e9cf48e5229ead8965017dfa4a6/capsule_231x87.jpg?t=1759514919",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949030/710fdf36b9822e9cf48e5229ead8965017dfa4a6/capsule_184x69.jpg?t=1759514919",
     "website": null,
     "developers": [
       "Gerreiro"
@@ -8389,7 +8389,20 @@
     "publishers": [
       "Gerreiro"
     ],
-    "package_groups": [],
+    "packages": [
+      1386982
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy LeapTerra",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8403,15 +8416,15 @@
       4
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "3 Oct, 2025"
     },
     "support_info": {
       "url": "",
       "email": "gerreiro.dev@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3949030?t=1756461015",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3949030?t=1756461015",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3949030?t=1759514919",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3949030?t=1759514919",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8442,10 +8455,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Grow crops, sell your harvest at the market, and expand your farm in this cozy low-poly farming simulator. Unlock new seeds, tools, and upgrades as you enjoy a relaxing countryside life at your own pace.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949430/2be0977a62fa2a86b3dd2fc982bf42b1cdaf6908/header.jpg?t=1756459854",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949430/fb0115a529212b49c2cb03098e44096c6f659fa8/capsule_231x87.jpg?t=1756459854",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949430/fb0115a529212b49c2cb03098e44096c6f659fa8/capsule_184x69.jpg?t=1756459854",
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Portugal<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949430/2be0977a62fa2a86b3dd2fc982bf42b1cdaf6908/header.jpg?t=1759239981",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949430/fb0115a529212b49c2cb03098e44096c6f659fa8/capsule_231x87.jpg?t=1759239981",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949430/fb0115a529212b49c2cb03098e44096c6f659fa8/capsule_184x69.jpg?t=1759239981",
     "website": null,
     "developers": [
       "Astra Develop"
@@ -8453,7 +8466,20 @@
     "publishers": [
       "Astra Develop"
     ],
-    "package_groups": [],
+    "packages": [
+      1387117
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Farmer's Market",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -8464,18 +8490,22 @@
       62
     ],
     "genres": [
-      4
+      4,
+      70
     ],
+    "achievements": {
+      "total": 6
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "September 2025"
+      "coming_soon": false,
+      "date": "30 Sep, 2025"
     },
     "support_info": {
       "url": "",
       "email": "mainastradevelop@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3949430?t=1756459854",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949430/5a5bd2e36f79c84f13a21991918a63f6f850e188/page_bg_raw.jpg?t=1756459854",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3949430?t=1759239981",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949430/5a5bd2e36f79c84f13a21991918a63f6f850e188/page_bg_raw.jpg?t=1759239981",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8508,9 +8538,9 @@
     "controller_support": "full",
     "short_description": "A Thrilling Hybrid Action RPG, featuring a Dual Narrative",
     "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/31051756b552ef7a3f1f1dff9abc329981f2959a/header.jpg?t=1756436896",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/d4327658ae512f79afb5c31f606701a07f71b870/capsule_231x87.jpg?t=1756436896",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/d4327658ae512f79afb5c31f606701a07f71b870/capsule_184x69.jpg?t=1756436896",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/ee582fcde01feabf17ed4e31a54a2b9f7e7284a3/header.jpg?t=1757067901",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/c19c90b1c804cf6bfa74bbecf4657b47bf0dd550/capsule_231x87.jpg?t=1757067901",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/c19c90b1c804cf6bfa74bbecf4657b47bf0dd550/capsule_184x69.jpg?t=1757067901",
     "website": "https://duetnightabyss.dna-panstudio.com/",
     "developers": [
       "Pan Studio"
@@ -8550,8 +8580,8 @@
       "url": "https://duetnightabyss.dna-panstudio.com/",
       "email": "dna_cs@dna-panstudio.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3950020?t=1756436896",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/e61f4f883abc6dc3a0a58a5d051596bcdb8b7b8e/page_bg_raw.jpg?t=1756436896",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3950020?t=1757067901",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/e61f4f883abc6dc3a0a58a5d051596bcdb8b7b8e/page_bg_raw.jpg?t=1757067901",
     "content_descriptors": {
       "ids": [],
       "notes": null
