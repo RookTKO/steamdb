@@ -4390,9 +4390,9 @@
     "is_free": false,
     "short_description": "A candy alchemist finds a candy golem in her basement workshop...",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Greek, Hungarian, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Turkish, Ukrainian, Vietnamese, Hebrew",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946740/a95802150be51925b3ed12b268f69d95eeeaaa30/header.jpg?t=1756013142",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946740/2887687174ef72d40c995002505834d92aa6b426/capsule_231x87.jpg?t=1756013142",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946740/2887687174ef72d40c995002505834d92aa6b426/capsule_184x69.jpg?t=1756013142",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946740/a95802150be51925b3ed12b268f69d95eeeaaa30/header.jpg?t=1759258811",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946740/2887687174ef72d40c995002505834d92aa6b426/capsule_231x87.jpg?t=1759258811",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946740/2887687174ef72d40c995002505834d92aa6b426/capsule_184x69.jpg?t=1759258811",
     "website": "https://nomnomnami.com/",
     "developers": [
       "NomnomNami"
@@ -4400,7 +4400,20 @@
     "publishers": [
       "NomnomNami"
     ],
-    "package_groups": [],
+    "packages": [
+      1386207
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Syrup and the Ultimate Sweet",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4426,25 +4439,31 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 10
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "30 Sep, 2025"
     },
     "support_info": {
       "url": "https://nomnomnami.com/",
       "email": "nomnomnamidev@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946740?t=1756013142",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946740?t=1756013142",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946740?t=1759258811",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946740?t=1759258811",
     "content_descriptors": {
-      "ids": [],
-      "notes": null
+      "ids": [
+        1,
+        5
+      ],
+      "notes": "the candy golem is unclothed when you first meet her. no details are shown (she is made of candy)"
     },
     "ratings": {
       "dejus": {
         "rating_generated": "1",
-        "rating": "12",
-        "required_age": "12",
+        "rating": "14",
+        "required_age": "14",
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": "Nudez"
@@ -4466,10 +4485,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Syrup the Candy Alchemist is looking to expand the variety of delicious candies offered at her store, Atelier Sweets! Travel around the world with friends, collecting rare ingredients and battling adorable monsters along the way.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946750/c4634a8d4ef268434766833150276cc0bfeed80f/header.jpg?t=1755715905",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946750/1ba0592558ade94d3e39f406b5849550e15067c1/capsule_231x87.jpg?t=1755715905",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946750/1ba0592558ade94d3e39f406b5849550e15067c1/capsule_184x69.jpg?t=1755715905",
+    "supported_languages": "English, Portuguese - Brazil, French",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946750/c4634a8d4ef268434766833150276cc0bfeed80f/header.jpg?t=1761924394",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946750/1ba0592558ade94d3e39f406b5849550e15067c1/capsule_231x87.jpg?t=1761924394",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946750/1ba0592558ade94d3e39f406b5849550e15067c1/capsule_184x69.jpg?t=1761924394",
     "website": "https://nomnomnami.com/",
     "developers": [
       "NomnomNami"
@@ -4477,7 +4496,26 @@
     "publishers": [
       "NomnomNami"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 4041740,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1386210
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Syrup 2: Candy Alchemy RPG",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4506,15 +4544,15 @@
       70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "2026"
+      "coming_soon": false,
+      "date": "31 Oct, 2025"
     },
     "support_info": {
       "url": "https://nomnomnami.com/",
       "email": "nomnomnamidev@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946750?t=1755715905",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946750?t=1755715905",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946750?t=1761924394",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946750?t=1761924394",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4546,9 +4584,9 @@
     "is_free": false,
     "short_description": "Experience a BDSM-filled day with Kuroga, your 274cm tall, yandere, goth, sadistic girlfriend, who loves you so much that she can't stay away from you for more than a few minutes at a time.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946940/3b64f0022e179a316e412363235f1164265d9bf6/header.jpg?t=1755664653",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946940/f661dcea4b939c843d5c4fb9b602039b3985669c/capsule_231x87.jpg?t=1755664653",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946940/f661dcea4b939c843d5c4fb9b602039b3985669c/capsule_184x69.jpg?t=1755664653",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946940/3b64f0022e179a316e412363235f1164265d9bf6/header.jpg?t=1756832549",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946940/f661dcea4b939c843d5c4fb9b602039b3985669c/capsule_231x87.jpg?t=1756832549",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946940/f661dcea4b939c843d5c4fb9b602039b3985669c/capsule_184x69.jpg?t=1756832549",
     "website": null,
     "developers": [
       "Bully Revenge Studios"
@@ -4556,7 +4594,20 @@
     "publishers": [
       "Bully Revenge Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1386270
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy My Giant Goth Girlfriend Is a Sadist",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -4574,16 +4625,19 @@
       23,
       28
     ],
+    "achievements": {
+      "total": 5
+    },
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "2 Sep, 2025"
     },
     "support_info": {
       "url": "",
       "email": "bullyrevengestudios@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946940?t=1755664653",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946940/58a26eda4cebad287debb71cbe37dc76a017d73b/page_bg_raw.jpg?t=1755664653",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946940?t=1756832549",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946940/58a26eda4cebad287debb71cbe37dc76a017d73b/page_bg_raw.jpg?t=1756832549",
     "content_descriptors": {
       "ids": [
         1,
@@ -4614,21 +4668,21 @@
   },
   "3947450": {
     "type": "game",
-    "name": "LOST: Another Realm",
+    "name": "-",
     "steam_appid": 3947450,
     "required_age": 0,
     "is_free": true,
-    "short_description": "A survival horror game where the strange loss of a plane leads Arga to darker secrets of his family and the mystical Kalash Mountain.",
+    "short_description": "",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947450/0ac13308c3a9323eb98005332034ad3e43e59297/header.jpg?t=1755680036",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947450/ff00558b4af2f154a2a08d51c09b14cd7fcb4c36/capsule_231x87.jpg?t=1755680036",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947450/ff00558b4af2f154a2a08d51c09b14cd7fcb4c36/capsule_184x69.jpg?t=1755680036",
-    "website": "https://glaid.co.id/",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947450/0ac13308c3a9323eb98005332034ad3e43e59297/header.jpg?t=1757480558",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947450/ff00558b4af2f154a2a08d51c09b14cd7fcb4c36/capsule_231x87.jpg?t=1757480558",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947450/ff00558b4af2f154a2a08d51c09b14cd7fcb4c36/capsule_184x69.jpg?t=1757480558",
+    "website": null,
     "developers": [
-      "Glaid Studio"
+      "-"
     ],
     "publishers": [
-      "Glaid Studio"
+      "-"
     ],
     "package_groups": [],
     "platforms": {
@@ -4646,14 +4700,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
-      "url": "https://glaid.co.id/",
-      "email": "info@glaid.co.id"
+      "url": "",
+      "email": ""
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947450?t=1755680036",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947450?t=1755680036",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947450?t=1757480558",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947450?t=1757480558",
     "content_descriptors": {
       "ids": [
         2,
@@ -4688,9 +4742,9 @@
     "is_free": false,
     "short_description": "cringe cotnrok stil; wants asnd indtednds to detstory the intenert and our heros want to stop them, for some reaosn. 180 levels of more projecitle dodging action!!!!!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947570/1449efdfce9d222c6c82e1dad2ab5675c811fdf5/header.jpg?t=1756054406",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947570/f0eb758bb97e4cc473bf19ab0798fbc3a4ebec20/capsule_231x87.jpg?t=1756054406",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947570/f0eb758bb97e4cc473bf19ab0798fbc3a4ebec20/capsule_184x69.jpg?t=1756054406",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947570/1449efdfce9d222c6c82e1dad2ab5675c811fdf5/header.jpg?t=1756942347",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947570/f0eb758bb97e4cc473bf19ab0798fbc3a4ebec20/capsule_231x87.jpg?t=1756942347",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947570/f0eb758bb97e4cc473bf19ab0798fbc3a4ebec20/capsule_184x69.jpg?t=1756942347",
     "website": null,
     "developers": [
       "idiotideas"
@@ -4698,7 +4752,20 @@
     "publishers": [
       "idiotideas"
     ],
-    "package_groups": [],
+    "packages": [
+      1386470
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy You suck and I hate you: part 2",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4713,15 +4780,15 @@
       1
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "3 Sep, 2025"
     },
     "support_info": {
       "url": "",
       "email": "idiotideas@protonmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947570?t=1756054406",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947570/4236262b3b89622b3ea435e7872264551c06b166/page_bg_raw.jpg?t=1756054406",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947570?t=1756942347",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947570/4236262b3b89622b3ea435e7872264551c06b166/page_bg_raw.jpg?t=1756942347",
     "content_descriptors": {
       "ids": [
         5
@@ -4755,9 +4822,9 @@
     "is_free": false,
     "short_description": "A simple match-2 puzzle game where you unlock images of \u201chappy\u201d memories between you and your sweet lover, Violet",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947760/39ad5e90d311397f14b5ef00a2f637bd73bfd02e/header.jpg?t=1756261342",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947760/5dc85b87b4d529764fb7e93dc9c5f31eca681629/capsule_231x87.jpg?t=1756261342",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947760/5dc85b87b4d529764fb7e93dc9c5f31eca681629/capsule_184x69.jpg?t=1756261342",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947760/39ad5e90d311397f14b5ef00a2f637bd73bfd02e/header.jpg?t=1757989808",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947760/5dc85b87b4d529764fb7e93dc9c5f31eca681629/capsule_231x87.jpg?t=1757989808",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947760/5dc85b87b4d529764fb7e93dc9c5f31eca681629/capsule_184x69.jpg?t=1757989808",
     "website": null,
     "developers": [
       "Mature Games"
@@ -4765,7 +4832,20 @@
     "publishers": [
       "Mature Games"
     ],
-    "package_groups": [],
+    "packages": [
+      1386529
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Hentai Bae Violet",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4773,22 +4853,26 @@
     },
     "categories": [
       2,
+      22,
       62
     ],
     "genres": [
       4,
       23
     ],
+    "achievements": {
+      "total": 14
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "8 Sep, 2025"
+      "coming_soon": false,
+      "date": "5 Sep, 2025"
     },
     "support_info": {
       "url": "",
       "email": "mgameltd@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947760?t=1756261342",
-    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947760?t=1756261342",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947760?t=1757989808",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3947760?t=1757989808",
     "content_descriptors": {
       "ids": [
         1,
@@ -7751,9 +7835,9 @@
     "is_free": false,
     "short_description": "Welcome to a world where even robots can care! You are an automated postman whose task is to deliver important letters to every corner of the city.",
     "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946430/b5be85b8bb3e6ed2d7895324305c03fe7956e18d/header.jpg?t=1756541360",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946430/80febf3d792dfea101b2fffd4bc3d2cbe88963d2/capsule_231x87.jpg?t=1756541360",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946430/80febf3d792dfea101b2fffd4bc3d2cbe88963d2/capsule_184x69.jpg?t=1756541360",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946430/b5be85b8bb3e6ed2d7895324305c03fe7956e18d/header.jpg?t=1757749656",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946430/80febf3d792dfea101b2fffd4bc3d2cbe88963d2/capsule_231x87.jpg?t=1757749656",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946430/80febf3d792dfea101b2fffd4bc3d2cbe88963d2/capsule_184x69.jpg?t=1757749656",
     "website": null,
     "developers": [
       "Green Goose Corporation"
@@ -7761,7 +7845,20 @@
     "publishers": [
       "Green Goose Corporation"
     ],
-    "package_groups": [],
+    "packages": [
+      1386106
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Robot-Mail Rush",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -7780,16 +7877,19 @@
       4,
       23
     ],
+    "achievements": {
+      "total": 60
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "13 Sep, 2025"
     },
     "support_info": {
       "url": "https://store.steampowered.com/app/3416350",
       "email": "greengoosecorporation@gmail.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946430?t=1756541360",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946430/13c697adc8db990c78540a86e6724621e0d8b543/page_bg_raw.jpg?t=1756541360",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946430?t=1757749656",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946430/13c697adc8db990c78540a86e6724621e0d8b543/page_bg_raw.jpg?t=1757749656",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -16338,6 +16438,82 @@
         "rating_generated": "1",
         "rating": "12",
         "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      }
+    }
+  },
+  "3946390": {
+    "type": "game",
+    "name": "Tethered Tails",
+    "steam_appid": 3946390,
+    "required_age": 0,
+    "is_free": false,
+    "controller_support": "full",
+    "short_description": "Trapped underground, climb together through chaotic worlds. Solo or co-op, reach the top and face what\u2019s waiting there. A difficult journey that demands precision, patience, and unbreakable will.",
+    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946390/610be91f52ab06b166303e2d4b40ec36a66d63da/header.jpg?t=1761992422",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946390/c934be0e458fcc6218feb411e2dc665952e7894c/capsule_231x87.jpg?t=1761992422",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946390/c934be0e458fcc6218feb411e2dc665952e7894c/capsule_184x69.jpg?t=1761992422",
+    "website": "https://tetheredtails.goblinkgames.com/",
+    "developers": [
+      "Goblink Games"
+    ],
+    "publishers": [
+      "Goblink Games"
+    ],
+    "package_groups": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      1,
+      2,
+      9,
+      22,
+      24,
+      28,
+      39,
+      44,
+      62
+    ],
+    "genres": [
+      1,
+      4,
+      23,
+      25,
+      28
+    ],
+    "release_date": {
+      "coming_soon": true,
+      "date": "Coming soon"
+    },
+    "support_info": {
+      "url": "https://support.goblinkgames.com/",
+      "email": "support@goblinkgames.com"
+    },
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3946390?t=1761992422",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946390/42481fd6c8d4c268e181cd651b67748b6d11f89f/page_bg_raw.jpg?t=1761992422",
+    "content_descriptors": {
+      "ids": [],
+      "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": ""
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "0",
+        "required_age": "0",
         "banned": "0",
         "use_age_gate": "0",
         "descriptors": ""
