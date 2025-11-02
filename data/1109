@@ -5783,13 +5783,13 @@
     "name": "Timefront",
     "steam_appid": 3328840,
     "required_age": 0,
-    "is_free": true,
-    "short_description": "Timefront is a high-fantasy, real-time strategy game with deck-building mechanics. Explore the story behind the characters on its immersive campaign, play with friends on co-op challenges, or with the community on innovative custom games. Try this refreshing take on the old and beloved genre!",
+    "is_free": false,
+    "short_description": "Timefront is an RTS game blending battle royale mechanics where you control one of four asymmetrical races in a fight for conquest over an ever-shifting battlefield. Brave the Known World and try this refreshing take on the RTS genre.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328840/header.jpg?t=1732631832",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328840/5c9edff0ac77fecd296e445c482e85f39decf79f/capsule_231x87.jpg?t=1732631832",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328840/5c9edff0ac77fecd296e445c482e85f39decf79f/capsule_184x69.jpg?t=1732631832",
-    "website": "https://timefront.xyz/",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328840/f839eeb1999044ae469c236129427a31256ca4f3/header.jpg?t=1761604318",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328840/36d06f85ba44b08983d0904feba2d553be52bac4/capsule_231x87.jpg?t=1761604318",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328840/36d06f85ba44b08983d0904feba2d553be52bac4/capsule_184x69.jpg?t=1761604318",
+    "website": "https://playtimefront.com",
     "developers": [
       "Flama Craftworks"
     ],
@@ -5806,24 +5806,25 @@
       1,
       2,
       9,
+      17,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
-      2,
-      37
+      2
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "To be announced"
+      "date": "Coming soon"
     },
     "support_info": {
-      "url": "https://discord.gg/Timefront",
+      "url": "https://discord.gg/bHdagJzSJs",
       "email": "hello@flamacraftworks.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328840/page_bg_generated_v6b.jpg?t=1732631832",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328840/page_bg_generated.jpg?t=1732631832",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3328840?t=1761604318",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3328840?t=1761604318",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6460,9 +6461,9 @@
     "is_free": false,
     "short_description": "Click and create small balls. Progress and earn money. Unlock new features. It's great fun to earn money for free. Don't forget to check the prize bags at short intervals. There will be more prizes in your chest in these bags! In the final, a very special creature will be waiting for you.",
     "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329000/header.jpg?t=1732799730",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329000/9fbb39a1e62fce214841ef5082ba90b43b97e9ab/capsule_231x87.jpg?t=1732799730",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329000/9fbb39a1e62fce214841ef5082ba90b43b97e9ab/capsule_184x69.jpg?t=1732799730",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329000/header.jpg?t=1734120006",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329000/9fbb39a1e62fce214841ef5082ba90b43b97e9ab/capsule_231x87.jpg?t=1734120006",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329000/9fbb39a1e62fce214841ef5082ba90b43b97e9ab/capsule_184x69.jpg?t=1734120006",
     "website": "https://discord.gg/F4yPQxWqQY",
     "developers": [
       "Comar Studios"
@@ -6470,14 +6471,28 @@
     "publishers": [
       "Comar Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1178580
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Finger Fury Clicker",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       2,
@@ -6485,15 +6500,15 @@
       23
     ],
     "release_date": {
-      "coming_soon": true,
+      "coming_soon": false,
       "date": "13 Dec, 2024"
     },
     "support_info": {
       "url": "https://discord.gg/F4yPQxWqQY",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329000/page_bg_generated_v6b.jpg?t=1732799730",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329000/page.bg.jpg?t=1732799730",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329000?t=1734120006",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329000/page_bg_raw.jpg?t=1734120006",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6557,8 +6572,8 @@
       "url": "",
       "email": "business@ubermc.net"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329010/page_bg_generated_v6b.jpg?t=1731103810",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329010/page_bg_generated.jpg?t=1731103810",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329010?t=1731103810",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329010?t=1731103810",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6636,8 +6651,8 @@
       "url": "https://discord.gg/F4yPQxWqQY",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329020/page_bg_generated_v6b.jpg?t=1733406088",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329020/page.bg.jpg?t=1733406088",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329020?t=1733406088",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329020/page_bg_raw.jpg?t=1733406088",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6669,15 +6684,15 @@
     "is_free": true,
     "short_description": "(This game was created as both a proof of concept and game design showcase) A 2D action showcase for players new to video games.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329040/header.jpg?t=1732555661",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329040/94702204d0dad1508041cbad0c02d9bfe94a7d8f/capsule_231x87.jpg?t=1732555661",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329040/94702204d0dad1508041cbad0c02d9bfe94a7d8f/capsule_184x69.jpg?t=1732555661",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329040/header.jpg?t=1738355991",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329040/94702204d0dad1508041cbad0c02d9bfe94a7d8f/capsule_231x87.jpg?t=1738355991",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329040/94702204d0dad1508041cbad0c02d9bfe94a7d8f/capsule_184x69.jpg?t=1738355991",
     "website": null,
     "developers": [
-      "Adam Rodriguez"
+      "Montiago"
     ],
     "publishers": [
-      "Adam Rodriguez (Montiago)"
+      "Montiago"
     ],
     "package_groups": [],
     "platforms": {
@@ -6702,8 +6717,8 @@
       "url": "ourmontiago.com",
       "email": "adam.r@ourmontiago.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329040/page_bg_generated_v6b.jpg?t=1732555661",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329040/page_bg_generated.jpg?t=1732555661",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329040?t=1738355991",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329040?t=1738355991",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6775,8 +6790,8 @@
       "url": "https://www.othertalesinteractive.com/contact-us",
       "email": "support@othertalesinteractive.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329070/page_bg_generated_v6b.jpg?t=1731592868",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329070/page_bg_generated.jpg?t=1731592868",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329070?t=1731592868",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329070?t=1731592868",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6857,8 +6872,8 @@
       "url": "",
       "email": "PrimalFearFoundFootage@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329080/page_bg_generated_v6b.jpg?t=1732114338",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329080/page.bg.jpg?t=1732114338",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329080?t=1732114338",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3329080/page_bg_raw.jpg?t=1732114338",
     "content_descriptors": {
       "ids": [
         2,
@@ -6910,8 +6925,8 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329090?t=1732951614",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3329090?t=1732951614",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -9531,11 +9546,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Roguebound Pirates is an adventure roguelike with intense naval battles and deep ship customization. Plunder ships, search for lost treasures and create game-breaking builds to become the one true ruler of the seas.",
-    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Finnish<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327000/header.jpg?t=1733409345",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327000/195ec5526aa9ea619dadc233094e2db1080b96a6/capsule_231x87.jpg?t=1733409345",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327000/195ec5526aa9ea619dadc233094e2db1080b96a6/capsule_184x69.jpg?t=1733409345",
+    "short_description": "Roguebound Pirates is an adventure roguelike with deep ship customization. Plunder ships, search for lost treasures and create game-breaking builds to take your place as master of the seas.",
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Finnish<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Italian<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327000/41d9de88d2551c88c2a9e9bf2bf05e576aa9ea22/header.jpg?t=1761717688",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327000/e109da3a0d3959f5957fef13d060da9c8c03ec86/capsule_231x87.jpg?t=1761717688",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327000/e109da3a0d3959f5957fef13d060da9c8c03ec86/capsule_184x69.jpg?t=1761717688",
     "website": "https://www.redbeakgames.com",
     "developers": [
       "Redbeak Games"
@@ -9554,7 +9569,15 @@
       15,
       22,
       23,
-      28
+      28,
+      62,
+      67,
+      68,
+      69,
+      74,
+      75,
+      78,
+      79
     ],
     "genres": [
       1,
@@ -9563,14 +9586,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "2026"
     },
     "support_info": {
       "url": "https://www.redbeakgames.com",
       "email": "contact@redbeakgames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327000/page_bg_generated_v6b.jpg?t=1733409345",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327000/page_bg_generated.jpg?t=1733409345",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3327000?t=1761717688",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3327000?t=1761717688",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -10146,11 +10169,12 @@
     "steam_appid": 3327700,
     "required_age": 0,
     "is_free": false,
-    "short_description": "A choice-filled Open World RPG where you navigate the story through conversation, combat, or stealth.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327700/header.jpg?t=1733846013",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327700/b9b48fab844ef5deb34768ecbde816ecb60fe21f/capsule_231x87.jpg?t=1733846013",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327700/b9b48fab844ef5deb34768ecbde816ecb60fe21f/capsule_184x69.jpg?t=1733846013",
+    "controller_support": "full",
+    "short_description": "An open-world RPG of branching choices, craft insane builds, battle 25+ epic bosses, and explore a deadly planet.",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Portuguese - Portugal, Polish, Russian, Turkish, Arabic, Portuguese - Brazil, Filipino, Hindi<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327700/be9971853863230f2651a7bd83e0ce418c789378/header.jpg?t=1759170374",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327700/8cf21de5e4e19f98db5f9c983988c728b1c10689/capsule_231x87.jpg?t=1759170374",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327700/8cf21de5e4e19f98db5f9c983988c728b1c10689/capsule_184x69.jpg?t=1759170374",
     "website": null,
     "developers": [
       "The Free Company"
@@ -10158,7 +10182,26 @@
     "publishers": [
       "Perfect Gen"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3589850,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1178137
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Starium",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -10168,26 +10211,34 @@
       1,
       2,
       9,
-      18,
       24,
+      28,
       39,
-      44
+      44,
+      62,
+      67,
+      68,
+      74,
+      78,
+      79
     ],
     "genres": [
       1,
+      3,
       4,
-      23
+      23,
+      70
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "11 Sep, 2025"
     },
     "support_info": {
       "url": "https://www.pg-publishing.com/",
       "email": "support@pg-publishing.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327700/page_bg_generated_v6b.jpg?t=1733846013",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327700/page.bg.jpg?t=1733846013",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3327700?t=1759170374",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327700/page_bg_raw.jpg?t=1759170374",
     "content_descriptors": {
       "ids": [],
       "notes": null

@@ -10847,19 +10847,40 @@
     "steam_appid": 2577850,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Lead your people back to the homeland! To do that you need to make it in time for the Eclipse. Choose your leader and build towns to defeat obstacles in this roguelike city builder with deck building mechanics.",
-    "supported_languages": "English, Japanese, Korean, Simplified Chinese",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2577850/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2577850/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2577850/capsule_184x69.jpg",
-    "website": null,
+    "controller_support": "full",
+    "short_description": "A turn-based roguelike combining city-building and deckbuilding. Build thriving towns as you forge a path towards the eclipse. Strategically produce resources to appease the gods and unleash their divine wrath upon your enemies.",
+    "supported_languages": "English, Japanese, Korean, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, French",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577850/header.jpg?t=1755690090",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577850/capsule_231x87.jpg?t=1755690090",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577850/capsule_184x69.jpg?t=1755690090",
+    "website": "https://subscribepage.io/YjbvQV",
     "developers": [
-      "Emilijus Games"
+      "ThinKING Cat Games"
     ],
     "publishers": [
-      "Emilijus Games"
+      "ThinKING Cat Games",
+      "Hawthorn Games"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 2979720,
+        "description": ""
+      }
+    ],
+    "packages": [
+      925652
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Seekers of Eclipse",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -10867,25 +10888,55 @@
     },
     "categories": [
       2,
-      22
+      22,
+      23,
+      25,
+      28,
+      62,
+      68,
+      74,
+      76,
+      78,
+      79
     ],
     "genres": [
       2,
       23
     ],
+    "achievements": {
+      "total": 25
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "2 Jun, 2025"
     },
     "support_info": {
       "url": "",
       "email": "emilijusdaubaras0@gmail.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2577850/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2577850/page_bg_generated.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2577850?t=1755690090",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2577850?t=1755690090",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2577530": {
