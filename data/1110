@@ -87,11 +87,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Create your own wonderful dice art by laying down colorful and small dice.",
+    "short_description": "Create your own wonderful dice art by laying down colorful and small dice. With reference photos and videos, anyone can easily get started with dice art.",
     "supported_languages": "English, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330070/header.jpg?t=1734480397",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330070/1df4e29fbe5f6040da2af5c61c733ff15b5700b8/capsule_231x87.jpg?t=1734480397",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330070/1df4e29fbe5f6040da2af5c61c733ff15b5700b8/capsule_184x69.jpg?t=1734480397",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330070/header.jpg?t=1735181272",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330070/1df4e29fbe5f6040da2af5c61c733ff15b5700b8/capsule_231x87.jpg?t=1735181272",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330070/1df4e29fbe5f6040da2af5c61c733ff15b5700b8/capsule_184x69.jpg?t=1735181272",
     "website": "http://myojostudio.com",
     "developers": [
       "Myojo Studio"
@@ -136,8 +136,8 @@
       "url": "http://myojostudio.com",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330070/page_bg_generated_v6b.jpg?t=1734480397",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330070/page_bg_generated.jpg?t=1734480397",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3330070?t=1735181272",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3330070?t=1735181272",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -251,9 +251,9 @@
     "is_free": false,
     "short_description": "Step into the role of a lord, starting from scratch to build your kingdom. Gather resources, construct buildings, recruit troops, explore, and embark on adventures to continuously expand your territory and defend your homeland.",
     "supported_languages": "English, Japanese, Simplified Chinese, French, Italian, German, Spanish - Spain, Russian, Turkish, Polish, Traditional Chinese, Portuguese - Brazil, Korean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330160/header.jpg?t=1733390446",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330160/6b327c6e12ad190b70dcc1cf70fef369b2344c91/capsule_231x87.jpg?t=1733390446",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330160/6b327c6e12ad190b70dcc1cf70fef369b2344c91/capsule_184x69.jpg?t=1733390446",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330160/1fe6bc72ae06b29602cede91002815e17f61f0e4/header.jpg?t=1752898902",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330160/c6cdf716f5bc72b91f8068a480e472fcbcd13cfb/capsule_231x87.jpg?t=1752898902",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330160/c6cdf716f5bc72b91f8068a480e472fcbcd13cfb/capsule_184x69.jpg?t=1752898902",
     "website": null,
     "developers": [
       "RainRingStudio"
@@ -261,14 +261,31 @@
     "publishers": [
       "RainRingStudio"
     ],
-    "package_groups": [],
+    "packages": [
+      1178980
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Kingdom Ascension",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      15,
+      22,
+      23,
+      62
     ],
     "genres": [
       2,
@@ -276,16 +293,19 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 50
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2025"
+      "coming_soon": false,
+      "date": "18 Jul, 2025"
     },
     "support_info": {
       "url": "",
       "email": "rainringstudio@163.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330160/page_bg_generated_v6b.jpg?t=1733390446",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330160/page.bg.jpg?t=1733390446",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3330160?t=1752898902",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330160/7be0e855dec1e6ee25f6082690e1360a9876256b/page_bg_raw.jpg?t=1752898902",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -314,12 +334,12 @@
     "name": "Sync Sprint",
     "steam_appid": 3330170,
     "required_age": 0,
-    "is_free": true,
-    "short_description": "A challenging sci-fi themed 2D platformer where precision and timing are key. Repair critical lab components to unlock unique character customization options. Race through immersive and futuristic dimensions and push your skills to the limit in this thrilling adventure!",
+    "is_free": false,
+    "short_description": "Dive into diverse dimensions, each brimming with unique and thrilling challenges. Conquer temples by blasting your way through intense action sequences and embark on exhilarating adventures in ever-changing realms! Repair the laboratory to unlock epic customization!",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330170/header.jpg?t=1734782034",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330170/ec61a40d81eb482a91925f730f68f69a6dfe95a1/capsule_231x87.jpg?t=1734782034",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330170/ec61a40d81eb482a91925f730f68f69a6dfe95a1/capsule_184x69.jpg?t=1734782034",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330170/header.jpg?t=1738451738",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330170/ec61a40d81eb482a91925f730f68f69a6dfe95a1/capsule_231x87.jpg?t=1738451738",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330170/ec61a40d81eb482a91925f730f68f69a6dfe95a1/capsule_184x69.jpg?t=1738451738",
     "website": "https://syncsprint.net",
     "drm_notice": "None<br>None machine activation limit",
     "ext_user_account_notice": "None ",
@@ -329,20 +349,33 @@
     "publishers": [
       "Sync Sprint"
     ],
-    "package_groups": [],
+    "packages": [
+      1221780
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Sync Sprint",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      62
     ],
     "genres": [
       1,
       23,
-      25,
-      37
+      25
     ],
     "release_date": {
       "coming_soon": false,
@@ -352,8 +385,8 @@
       "url": "http://syncsprint.net",
       "email": "syncsprint@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330170/page_bg_generated_v6b.jpg?t=1734782034",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330170/page.bg.jpg?t=1734782034",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3330170?t=1738451738",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330170/page_bg_raw.jpg?t=1738451738",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -685,13 +718,15 @@
       3390970,
       3396610,
       3415470,
-      3418070
+      3431670,
+      3418070,
+      3556570
     ],
     "short_description": "Free solitaire collection, no ads. 120+ variants.",
     "supported_languages": "English, French, German, Spanish - Spain, Czech, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Traditional Chinese, Ukrainian, Croatian, Serbian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330280/header.jpg?t=1734753000",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330280/d45942401c1cc804eaf391de3e40f3ef00345c40/capsule_231x87.jpg?t=1734753000",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330280/d45942401c1cc804eaf391de3e40f3ef00345c40/capsule_184x69.jpg?t=1734753000",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330280/header.jpg?t=1759512466",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330280/d45942401c1cc804eaf391de3e40f3ef00345c40/capsule_231x87.jpg?t=1759512466",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330280/d45942401c1cc804eaf391de3e40f3ef00345c40/capsule_184x69.jpg?t=1759512466",
     "website": null,
     "developers": [
       "WMGames"
@@ -723,10 +758,10 @@
     },
     "support_info": {
       "url": "",
-      "email": "wmgames3.41@gmail.com"
+      "email": "wmgames3.14@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330280/page_bg_generated_v6b.jpg?t=1734753000",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330280/page_bg_generated.jpg?t=1734753000",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3330280?t=1759512466",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3330280?t=1759512466",
     "content_descriptors": {
       "ids": [
         5
@@ -890,21 +925,21 @@
   },
   "3330380": {
     "type": "game",
-    "name": "Throwup Club: The Wrong Side",
+    "name": "Ad Nauseam - The Wrong Side",
     "steam_appid": 3330380,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Throwup Club is a choice-heavy psychological horror game about trauma, identity, romance, and vomit. It combines many staples of VN, P&amp;C, and RPG games to create something entirely unique. Solve mysteries, form strong bonds, blur the line between mind and body, and utilize grotesque abilities.",
+    "short_description": "Ad Nauseam is a choice-heavy psychological horror game about trauma, identity, romance, and vomit. It combines many staples of VN, P&amp;C, and RPG games to create something entirely unique. Solve mysteries, form strong bonds, blur the line between mind and body, and witness grotesque abilities.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/header.jpg?t=1734751723",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/2d181890e342010167af8d998158deb6f9d25119/capsule_231x87.jpg?t=1734751723",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/2d181890e342010167af8d998158deb6f9d25119/capsule_184x69.jpg?t=1734751723",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/33ad76d2ab01e1fafd4b55b268c6dd0fdb18928c/header.jpg?t=1740928357",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/f62061f120fa2c18f93e45a9c7530203f1752e10/capsule_231x87.jpg?t=1740928357",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/f62061f120fa2c18f93e45a9c7530203f1752e10/capsule_184x69.jpg?t=1740928357",
     "website": null,
     "developers": [
-      "throwpup"
+      "Pukebucket"
     ],
     "publishers": [
-      "throwpup"
+      "Pukebucket"
     ],
     "demos": [
       {
@@ -915,28 +950,28 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
       13,
-      22
+      22,
+      62
     ],
     "genres": [
-      23,
-      70
+      23
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "Q4 2025"
     },
     "support_info": {
       "url": "",
       "email": "throwpupdev@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/page_bg_generated_v6b.jpg?t=1734751723",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/page.bg.jpg?t=1734751723",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3330380?t=1740928357",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/page_bg_raw.jpg?t=1740928357",
     "content_descriptors": {
       "ids": [
         2,
@@ -2448,17 +2483,23 @@
     "steam_appid": 3330930,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Locked in my Darkness 2: The Room is a psychological horror game that takes place from the perspective of an exchange student, in an apartment complex in New York.",
-    "supported_languages": "English, French, German, Spanish - Latin America, Portuguese - Brazil, Russian, Turkish",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330930/header.jpg?t=1734650206",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330930/7eaf455677149efca80bb7d187a9378d4e9dca8f/capsule_231x87.jpg?t=1734650206",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330930/7eaf455677149efca80bb7d187a9378d4e9dca8f/capsule_184x69.jpg?t=1734650206",
+    "short_description": "A psychological horror walking sim set between realities\u2014where the past never truly stays buried.",
+    "supported_languages": "English, French, German, Spanish - Latin America, Japanese<strong>*</strong>, Portuguese - Brazil, Russian, Turkish<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330930/c66642eae6a25222087dd3bc6e36cb41328a5c24/header.jpg?t=1758918913",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330930/b75456d2ebc5b84ab8f55917d03503673306aaf6/capsule_231x87.jpg?t=1758918913",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330930/b75456d2ebc5b84ab8f55917d03503673306aaf6/capsule_184x69.jpg?t=1758918913",
     "website": null,
     "developers": [
       "Blusagi Team"
     ],
     "publishers": [
-      "Blusagi Team"
+      "indie.io"
+    ],
+    "demos": [
+      {
+        "appid": 3472170,
+        "description": ""
+      }
     ],
     "package_groups": [],
     "platforms": {
@@ -2468,9 +2509,10 @@
     },
     "categories": [
       2,
-      18,
       22,
-      23
+      23,
+      29,
+      62
     ],
     "genres": [
       23,
@@ -2478,14 +2520,14 @@
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "Coming soon"
+      "date": "To be announced"
     },
     "support_info": {
       "url": "",
-      "email": "blusagiteam@outlook.com"
+      "email": "support@indie.io"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330930/page_bg_generated_v6b.jpg?t=1734650206",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330930/page_bg_generated.jpg?t=1734650206",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3330930?t=1758918913",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330930/8d043be17a948be24341bb18b5ba5f12a4420ed0/page_bg_raw.jpg?t=1758918913",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2746,13 +2788,14 @@
     "is_free": false,
     "controller_support": "full",
     "dlc": [
-      3350730
+      3350730,
+      3420350
     ],
     "short_description": "Neon lights, palm trees, synthwave, '80s supercars speeding down an endless highway... Welcome to the world of Retrowave!",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Catalan",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331000/header.jpg?t=1734488994",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331000/c693f665fc04d9496732948a05b82ba0eb3d8dd7/capsule_231x87.jpg?t=1734488994",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331000/c693f665fc04d9496732948a05b82ba0eb3d8dd7/capsule_184x69.jpg?t=1734488994",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331000/header.jpg?t=1757817756",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331000/c693f665fc04d9496732948a05b82ba0eb3d8dd7/capsule_231x87.jpg?t=1757817756",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331000/c693f665fc04d9496732948a05b82ba0eb3d8dd7/capsule_184x69.jpg?t=1757817756",
     "website": null,
     "developers": [
       "RewindApp"
@@ -2790,6 +2833,7 @@
       22,
       25,
       28,
+      29,
       62
     ],
     "genres": [
@@ -2811,8 +2855,8 @@
       "url": "",
       "email": "rewindappstudio@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331000/page_bg_generated_v6b.jpg?t=1734488994",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331000/page_bg_generated.jpg?t=1734488994",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3331000?t=1757817756",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3331000?t=1757817756",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6306,10 +6350,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "Become the next god of thunder and explore the world in this story rich RPG",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332070/header.jpg?t=1734675808",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332070/e499313dcd3dc59f44830b61f0ecce49e78ef707/capsule_231x87.jpg?t=1734675808",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332070/e499313dcd3dc59f44830b61f0ecce49e78ef707/capsule_184x69.jpg?t=1734675808",
+    "supported_languages": "English, Italian, Russian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332070/header.jpg?t=1737354861",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332070/ed06da2904ef2e91172351419b9dc31347424630/capsule_231x87.jpg?t=1737354861",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332070/ed06da2904ef2e91172351419b9dc31347424630/capsule_184x69.jpg?t=1737354861",
     "website": null,
     "developers": [
       "RPMeister"
@@ -6317,14 +6361,35 @@
     "publishers": [
       "RPMeister"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3412190,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1179614
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Dark Fantasy Godhood",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
-      2
+      2,
+      22,
+      62
     ],
     "genres": [
       1,
@@ -6334,16 +6399,19 @@
       25,
       70
     ],
+    "achievements": {
+      "total": 21
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "January 2025"
+      "coming_soon": false,
+      "date": "15 Jan, 2025"
     },
     "support_info": {
       "url": "",
       "email": "Indianatkdev@outlook.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332070/page_bg_generated_v6b.jpg?t=1734675808",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332070/page_bg_generated.jpg?t=1734675808",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3332070?t=1737354861",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3332070?t=1737354861",
     "content_descriptors": {
       "ids": [
         1,
@@ -8393,8 +8461,8 @@
       "url": "",
       "email": "support@gnomichgame.online"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332730/page_bg_generated_v6b.jpg?t=1733400017",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332730/page_bg_generated.jpg?t=1733400017",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3332730?t=1733400017",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3332730?t=1733400017",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -8641,10 +8709,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "This is an action game where you control the main character, a novice female adventurer named Nirvana, as she completes the requests of the sorcerer Mary and is attacked by monsters.",
-    "supported_languages": "English, Simplified Chinese, Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332860/header.jpg?t=1734102088",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332860/910a5137bb2fde724007e62a2395cb45b72c7e8c/capsule_231x87.jpg?t=1734102088",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332860/910a5137bb2fde724007e62a2395cb45b72c7e8c/capsule_184x69.jpg?t=1734102088",
+    "supported_languages": "English, Simplified Chinese, Japanese, Korean",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332860/header.jpg?t=1738948716",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332860/910a5137bb2fde724007e62a2395cb45b72c7e8c/capsule_231x87.jpg?t=1738948716",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332860/910a5137bb2fde724007e62a2395cb45b72c7e8c/capsule_184x69.jpg?t=1738948716",
     "website": null,
     "developers": [
       "Dasaku Laboratory"
@@ -8692,8 +8760,8 @@
       "url": "https://ci-en.dlsite.com/creator/324/article/1249316",
       "email": "dasaku_labo@hotmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332860/page_bg_generated_v6b.jpg?t=1734102088",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332860/page_bg_generated.jpg?t=1734102088",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3332860?t=1738948716",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3332860?t=1738948716",
     "content_descriptors": {
       "ids": [
         1,
@@ -10662,11 +10730,11 @@
     "required_age": 0,
     "is_free": false,
     "controller_support": "full",
-    "short_description": "Parry and thrust your way into a 2.5D swashbuckling adventure! Trapped in an Andalusian fairy tale, you will duel strange creatures, avoid deadly traps, and confront that most unexpected of enemies: the Spanish Inquisition.",
-    "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330540/header.jpg?t=1734783839",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330540/901ff01100e6c72421fcbbf821c4080b33f93cc4/capsule_231x87.jpg?t=1734783839",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330540/901ff01100e6c72421fcbbf821c4080b33f93cc4/capsule_184x69.jpg?t=1734783839",
+    "short_description": "Parry and thrust your way into a 2.5D action platformer with a unique style-based combat system. As you explore hidden passageways and duel strange creatures, you will need all of your swashbuckling panache to survive.",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Japanese, Korean, Portuguese - Brazil, Portuguese - Portugal, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330540/header.jpg?t=1742834038",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330540/02d91ca137651a2be66141268c381f27a3d5a66d/capsule_231x87.jpg?t=1742834038",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330540/02d91ca137651a2be66141268c381f27a3d5a66d/capsule_184x69.jpg?t=1742834038",
     "website": null,
     "developers": [
       "Scruffy Dog Games"
@@ -10683,7 +10751,8 @@
     "categories": [
       2,
       13,
-      28
+      28,
+      62
     ],
     "genres": [
       1,
@@ -10698,8 +10767,8 @@
       "url": "",
       "email": "info@scruffydoggames.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330540/page_bg_generated_v6b.jpg?t=1734783839",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330540/page.bg.jpg?t=1734783839",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3330540?t=1742834038",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330540/page_bg_raw.jpg?t=1742834038",
     "content_descriptors": {
       "ids": [],
       "notes": null
