@@ -1151,9 +1151,9 @@
     "is_free": false,
     "short_description": "MeMic is an atmospheric stealth game where you play as a mimic hiding among objects to hunt adventurers. Explore a world filled with Easter eggs, secrets, and references, find the perfect moments to strike, and immerse yourself in a suspenseful survival experience.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Ukrainian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336430/header.jpg?t=1734791745",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336430/31681a0d7273986a7d64ff79b632c614f4b41bb0/capsule_231x87.jpg?t=1734791745",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336430/31681a0d7273986a7d64ff79b632c614f4b41bb0/capsule_184x69.jpg?t=1734791745",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336430/header.jpg?t=1741719301",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336430/4d0fc903e5c072028e88229ab664e6db3c462ce8/capsule_231x87.jpg?t=1741719301",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336430/4d0fc903e5c072028e88229ab664e6db3c462ce8/capsule_184x69.jpg?t=1741719301",
     "website": null,
     "developers": [
       "OnlineKingdom"
@@ -1161,30 +1161,50 @@
     "publishers": [
       "OnlineKingdom"
     ],
-    "package_groups": [],
+    "packages": [
+      1181084
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy MeMic",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
-      "linux": false
+      "linux": true
     },
     "categories": [
       2,
+      18,
       22,
-      23
+      23,
+      62
     ],
     "genres": [
+      3,
+      4,
       23
     ],
+    "achievements": {
+      "total": 12
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "Q1 2025"
+      "coming_soon": false,
+      "date": "11 Mar, 2025"
     },
     "support_info": {
       "url": "",
       "email": "memic@onlinekingdom.com.ua"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336430/page_bg_generated_v6b.jpg?t=1734791745",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336430/page_bg_generated.jpg?t=1734791745",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3336430?t=1741719301",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3336430?t=1741719301",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1388,11 +1408,14 @@
     "steam_appid": 3336530,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3621530
+    ],
     "short_description": "Embers Adrift is a unique fantasy PvE MMO - group play truly shines and solo play is still rewarding. Designed with classic MMO principles in mind we desire to bring players together to create lasting memories and friendships in an immersive world wherein you may lose track of time. Welcome drifter!",
     "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336530/header.jpg?t=1733951760",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336530/c6549c8d177fbe5c6d33aa1d1758068e8b152820/capsule_231x87.jpg?t=1733951760",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336530/c6549c8d177fbe5c6d33aa1d1758068e8b152820/capsule_184x69.jpg?t=1733951760",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336530/header.jpg?t=1759245167",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336530/c6549c8d177fbe5c6d33aa1d1758068e8b152820/capsule_231x87.jpg?t=1759245167",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336530/c6549c8d177fbe5c6d33aa1d1758068e8b152820/capsule_184x69.jpg?t=1759245167",
     "website": "https://www.embersadrift.com/",
     "developers": [
       "Stormhaven Studios"
@@ -1400,15 +1423,29 @@
     "publishers": [
       "Stormhaven Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1181117
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Embers Adrift",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
-      "linux": false
+      "linux": true
     },
     "categories": [
       1,
-      20
+      20,
+      35
     ],
     "genres": [
       2,
@@ -1418,15 +1455,15 @@
       29
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "29 Apr, 2025"
     },
     "support_info": {
       "url": "",
       "email": "support@stormhavenstudios.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336530/page_bg_generated_v6b.jpg?t=1733951760",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336530/page.bg.jpg?t=1733951760",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3336530?t=1759245167",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336530/page_bg_raw.jpg?t=1759245167",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -1718,17 +1755,26 @@
     "steam_appid": 3336940,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3595040
+    ],
     "short_description": "Swap dreams to more suitable, as sweet FOR PAID USERS.",
-    "supported_languages": "Japanese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336940/header.jpg?t=1734321070",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336940/b8170e866e798bda07746b90adc7fbd1c00d4d8e/capsule_231x87.jpg?t=1734321070",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336940/b8170e866e798bda07746b90adc7fbd1c00d4d8e/capsule_184x69.jpg?t=1734321070",
+    "supported_languages": "Japanese, English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336940/header.jpg?t=1746768119",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336940/b8170e866e798bda07746b90adc7fbd1c00d4d8e/capsule_231x87.jpg?t=1746768119",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336940/b8170e866e798bda07746b90adc7fbd1c00d4d8e/capsule_184x69.jpg?t=1746768119",
     "website": null,
     "developers": [
       "Uranus-net.com"
     ],
     "publishers": [
       "Uranus-net.com"
+    ],
+    "demos": [
+      {
+        "appid": 3707470,
+        "description": ""
+      }
     ],
     "packages": [
       1181246
@@ -1751,12 +1797,18 @@
     },
     "categories": [
       2,
-      62
+      22,
+      62,
+      68,
+      76
     ],
     "genres": [
       25,
       28
     ],
+    "achievements": {
+      "total": 10
+    },
     "release_date": {
       "coming_soon": false,
       "date": "15 Dec, 2024"
@@ -1765,8 +1817,8 @@
       "url": "https://uranus-net.com/index.html",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336940/page_bg_generated_v6b.jpg?t=1734321070",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336940/page.bg.jpg?t=1734321070",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3336940?t=1746768119",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336940/page_bg_raw.jpg?t=1746768119",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2153,16 +2205,16 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "In Wandaria, use magic to survive against creatures, rivals, and world dangers. Build, cultivate, and explore mysterious lands. Form alliances or defend your domain. Magic is your greatest weapon.",
-    "supported_languages": "English, French, Italian, German, Spanish - Spain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337120/header.jpg?t=1731811360",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337120/709ec2f1141ef5a43014cc2c0e6757d688121f40/capsule_231x87.jpg?t=1731811360",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337120/709ec2f1141ef5a43014cc2c0e6757d688121f40/capsule_184x69.jpg?t=1731811360",
-    "website": null,
+    "supported_languages": "English",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337120/8884ecc15bb9b0886c0f5fc88d7fdf72ab686299/header.jpg?t=1749716360",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337120/06c93637039ba7c7d590853b5b8e0eb8f7a9131c/capsule_231x87.jpg?t=1749716360",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337120/06c93637039ba7c7d590853b5b8e0eb8f7a9131c/capsule_184x69.jpg?t=1749716360",
+    "website": "https://www.wandariagame.com/",
     "developers": [
-      "Warden's Gate studio"
+      "JDL Studio"
     ],
     "publishers": [
-      "Warden's Gate studio"
+      "JDL Studio"
     ],
     "package_groups": [],
     "platforms": {
@@ -2175,19 +2227,18 @@
       2,
       9,
       20,
-      22,
-      30,
-      35,
       36,
       38,
-      49
+      49,
+      62
     ],
     "genres": [
       1,
       3,
       23,
       25,
-      29
+      29,
+      70
     ],
     "release_date": {
       "coming_soon": true,
@@ -2197,8 +2248,8 @@
       "url": "",
       "email": "wandaria.games@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337120/page_bg_generated_v6b.jpg?t=1731811360",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337120/page_bg_generated.jpg?t=1731811360",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3337120?t=1749716360",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3337120?t=1749716360",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -2967,8 +3018,8 @@
       "url": "",
       "email": "fkstudios.off@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337790/page_bg_generated_v6b.jpg?t=1734649410",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337790/page.bg.jpg?t=1734649410",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3337790?t=1734649410",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337790/page_bg_raw.jpg?t=1734649410",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4009,8 +4060,8 @@
       "url": "",
       "email": "millivoltp2@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336440/page_bg_generated_v6b.jpg?t=1734333610",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336440/page_bg_generated.jpg?t=1734333610",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3336440?t=1734333610",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3336440?t=1734333610",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4808,17 +4859,16 @@
     "is_free": false,
     "short_description": "This collection takes you into mysterious events set in isolated locations and seemingly ordinary jobs, offering immersive experiences with a night-time theme. Each game features unique, choice-driven stories with multiple outcomes and memorable moments.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337050/header.jpg?t=1734649012",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337050/6594c601a93d2b044dfd68d14ec78316f49582fa/capsule_231x87.jpg?t=1734649012",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337050/6594c601a93d2b044dfd68d14ec78316f49582fa/capsule_184x69.jpg?t=1734649012",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337050/header.jpg?t=1760961597",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337050/6594c601a93d2b044dfd68d14ec78316f49582fa/capsule_231x87.jpg?t=1760961597",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337050/6594c601a93d2b044dfd68d14ec78316f49582fa/capsule_184x69.jpg?t=1760961597",
     "website": null,
     "developers": [
-      "Mergen",
-      "eys"
+      "eys",
+      "Mergen"
     ],
     "publishers": [
-      "Mergen",
-      "eys"
+      "Void Night"
     ],
     "packages": [
       1181282
@@ -4861,8 +4911,8 @@
       "url": "",
       "email": "pisipisigames@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337050/page_bg_generated_v6b.jpg?t=1734649012",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337050/page_bg_generated.jpg?t=1734649012",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3337050?t=1760961597",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3337050?t=1760961597",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -4964,11 +5014,14 @@
     "steam_appid": 3337140,
     "required_age": 0,
     "is_free": false,
+    "dlc": [
+      3744030
+    ],
     "short_description": "Can you rebuild civilisation after a zombie apocalypse? From the creator of Plague Inc. comes a unique blend of strategic simulation, survival city builder and \u2018mini 4X\u2019. Build settlements, harvest resources and shape society as you lead Humanity out of the darkness.",
-    "supported_languages": "English",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337140/header.jpg?t=1732641081",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337140/b9569510e5acdf70b3219ecd8d513415589e85a6/capsule_231x87.jpg?t=1732641081",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337140/b9569510e5acdf70b3219ecd8d513415589e85a6/capsule_184x69.jpg?t=1732641081",
+    "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337140/6fcdaa28406a00534933796cb098e81eaff54fbc/header_alt_assets_0.jpg?t=1759941278",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337140/1105e25572a5e22acd850e8aca2fe3287f4248b2/capsule_231x87_alt_assets_0.jpg?t=1759941278",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337140/1105e25572a5e22acd850e8aca2fe3287f4248b2/capsule_184x69_alt_assets_0.jpg?t=1759941278",
     "website": "https://afterincgame.com",
     "developers": [
       "Ndemic Creations"
@@ -4976,29 +5029,64 @@
     "publishers": [
       "Ndemic Creations"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3676860,
+        "description": ""
+      }
+    ],
+    "packages": [
+      1181310
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy After Inc: Revival",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
-      "mac": false,
+      "mac": true,
       "linux": false
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      25,
+      29,
+      62,
+      67,
+      68,
+      69,
+      74,
+      76,
+      78,
+      79
     ],
     "genres": [
       2,
+      28,
       70
     ],
+    "achievements": {
+      "total": 47
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2025"
+      "coming_soon": false,
+      "date": "17 Jun, 2025"
     },
     "support_info": {
-      "url": "https://www.ndemiccreations.com/en/",
+      "url": "https://www.ndemiccreations.com/en/1-support",
       "email": ""
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337140/page_bg_generated_v6b.jpg?t=1732641081",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337140/page.bg.jpg?t=1732641081",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3337140?t=1759941278",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337140/86d7cd24a3bbb0ec3bf5e04d6e1889e1e24f1d10/page_bg_raw.jpg?t=1759941278",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6168,9 +6256,9 @@
     "is_free": false,
     "short_description": "Enter a winter fairy tale with cat people, elves and cute atmosphere. Explore a cozy forest and Santa's workshop, uncovering over 300 hidden objects, from winter sweets to magical surprises. Relax with hand-painted scenes and soothing melodies in this enchanting seasonal adventure.",
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Vietnamese, Greek, Danish, Simplified Chinese, Traditional Chinese, Korean, Norwegian, Dutch, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Romanian, Thai, Turkish, Hungarian, Ukrainian, Finnish, Czech, Swedish, Japanese, Indonesian, Spanish - Latin America, Azerbaijani, Albanian, Amharic, Assamese, Afrikaans, Basque, Bangla, Bosnian, Belarusian, Valencian, Welsh, Wolof, Armenian, Galician, Georgian, Gujarati, Hindi, Dari, Estonian, Zulu, Yoruba, Kazakh, Kannada, Catalan, Quechua, Kyrgyz, Konkani, Khmer, Xhosa, K'iche', Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Punjabi (Shahmukhi), Punjabi (Gurmukhi), Persian, Kinyarwanda, Serbian, Sotho, Sinhala, Sindhi, Scots, Slovak, Slovenian, Sorani, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Uzbek, Uyghur, Urdu, Filipino, Hausa, Croatian, Cherokee, Hebrew, Irish, Icelandic, Igbo",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337920/header.jpg?t=1734795133",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337920/06c14f9c96f24abde512a57cedb3b45179af9f71/capsule_231x87.jpg?t=1734795133",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337920/06c14f9c96f24abde512a57cedb3b45179af9f71/capsule_184x69.jpg?t=1734795133",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337920/header.jpg?t=1754856026",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337920/06c14f9c96f24abde512a57cedb3b45179af9f71/capsule_231x87.jpg?t=1754856026",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337920/06c14f9c96f24abde512a57cedb3b45179af9f71/capsule_184x69.jpg?t=1754856026",
     "website": null,
     "developers": [
       "Galysh Company"
@@ -6216,10 +6304,10 @@
     },
     "support_info": {
       "url": "",
-      "email": "oleg10galysh@gmail.com"
+      "email": "galyshcompany@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337920/page_bg_generated_v6b.jpg?t=1734795133",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337920/page_bg_generated.jpg?t=1734795133",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3337920?t=1754856026",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3337920?t=1754856026",
     "content_descriptors": {
       "ids": [],
       "notes": null

@@ -3504,13 +3504,10 @@
     "required_age": 0,
     "is_free": false,
     "short_description": "",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2631740/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2631740/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2631740/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631740/header.jpg?t=1697256371",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631740/capsule_231x87.jpg?t=1697256371",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631740/capsule_184x69.jpg?t=1697256371",
     "website": null,
-    "publishers": [
-      ""
-    ],
     "package_groups": [],
     "platforms": {
       "windows": true,
@@ -3525,12 +3522,13 @@
       "url": "",
       "email": ""
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2631740?t=1697256371",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2631740?t=1697256371",
     "content_descriptors": {
       "ids": [],
       "notes": null
-    }
+    },
+    "ratings": null
   },
   "2632160": {
     "type": "game",
@@ -8545,15 +8543,16 @@
   },
   "2631450": {
     "type": "game",
-    "name": "Bean Beasts - Tower Defence",
+    "name": "Bean Beasts",
     "steam_appid": 2631450,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Fight back the hordes of enemies alongside your Bean Beasts in this Tower Defence game featuring evolving monsters and upgradable traps.",
-    "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2631450/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2631450/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2631450/capsule_184x69.jpg",
+    "controller_support": "full",
+    "short_description": "Defeat monster hordes alongside your Bean Beasts in this cute, challenging Tower Defense Game! Evolve your companions, explore upgrade paths for traps and take on epic boss battles!",
+    "supported_languages": "English, Spanish - Spain, Spanish - Latin America, German, Simplified Chinese, Japanese, French, Portuguese - Brazil",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631450/f5b80182ede29a23167279d2a723944fd13a6e12/header.jpg?t=1759168057",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631450/6d66a927deef9264ef339d803c680b08d745e86c/capsule_231x87.jpg?t=1759168057",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631450/6d66a927deef9264ef339d803c680b08d745e86c/capsule_184x69.jpg?t=1759168057",
     "website": null,
     "developers": [
       "Anxious Noob"
@@ -8561,7 +8560,26 @@
     "publishers": [
       "Anxious Noob"
     ],
-    "package_groups": [],
+    "demos": [
+      {
+        "appid": 3059510,
+        "description": ""
+      }
+    ],
+    "packages": [
+      943713
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Bean Beasts",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
@@ -8569,7 +8587,10 @@
     },
     "categories": [
       2,
-      18
+      22,
+      23,
+      28,
+      62
     ],
     "genres": [
       1,
@@ -8578,19 +8599,40 @@
       23,
       25
     ],
+    "achievements": {
+      "total": 20
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "2024"
+      "coming_soon": false,
+      "date": "21 Aug, 2025"
     },
     "support_info": {
       "url": "https://discord.com/invite/22rq3vZfdA",
-      "email": ""
+      "email": "josh@anxiousnoobgames.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2631450/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2631450/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2631450?t=1759168057",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631450/257df4543733d0c38d33840fab33f027ba6eb804/page_bg_raw.jpg?t=1759168057",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "l",
+        "required_age": "0",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia fantasiosa"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "6",
+        "required_age": "6",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Fantasy-Gewalt"
+      }
     }
   },
   "2632050": {
@@ -9460,11 +9502,14 @@
     "steam_appid": 2633150,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Visual novel about sexual affairs in Sophia's Spa. The basic idea of the game is that the main character Sophia solves normal problems in an abnormal way - with sex, so nudity and explicit sex scenes are included in almost all additional tasks and minigames as well as in the main story.",
+    "dlc": [
+      2778720
+    ],
+    "short_description": "Visual novel about sexual affairs in Sophia's Spa. The basic idea of the game is that the main character Sophia solves normal problems in an abnormal way - with sex, so nudity and explicit sex scenes are included in the main story, additional tasks and minigames.",
     "supported_languages": "English",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2633150/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2633150/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2633150/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2633150/header.jpg?t=1740820944",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2633150/capsule_231x87.jpg?t=1740820944",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2633150/capsule_184x69.jpg?t=1740820944",
     "website": null,
     "developers": [
       "DMA Games"
@@ -9492,25 +9537,28 @@
       "linux": true
     },
     "categories": [
-      2
+      2,
+      22,
+      23,
+      29,
+      62
     ],
     "genres": [
-      25,
-      70
+      25
     ],
     "achievements": {
-      "total": 9
+      "total": 11
     },
     "release_date": {
       "coming_soon": false,
-      "date": "29 Oct, 2023"
+      "date": "7 Mar, 2024"
     },
     "support_info": {
-      "url": "",
+      "url": "https://valdea.com/dmamods/viewforum.php?f=26",
       "email": "sophiaspa@valdea.com"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2633150/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2633150/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2633150?t=1740820944",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2633150/page_bg_raw.jpg?t=1740820944",
     "content_descriptors": {
       "ids": [
         1,
@@ -9518,7 +9566,25 @@
         4,
         5
       ],
-      "notes": "The basic idea of the game is that the main character (Sophia) solves normal problems in an abnormal way - with sex, so nudity and explicit sex scenes are included in almost all additional tasks and mini-games as well as in the main story."
+      "notes": "This game contains adult material and is reserved for an adult public.\r\nAll characters in this game are fictional and over the legal age of 18 years old.\r\n\r\nIf you are easily offended or in a tough period of your life, this game is not for you."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "18",
+        "required_age": "18",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "BANNED",
+        "required_age": "2147483647",
+        "banned": "1",
+        "use_age_gate": "0",
+        "descriptors": "Sexuelle Inhalte"
+      }
     }
   },
   "2633250": {
@@ -10226,9 +10292,9 @@
       "name": "Fallen Seeds"
     },
     "supported_languages": "Russian",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2631540/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2631540/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2631540/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631540/header.jpg?t=1707174323",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631540/capsule_231x87.jpg?t=1707174323",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631540/capsule_184x69.jpg?t=1707174323",
     "website": "https://fallenseeds.net",
     "developers": [
       "KPD"
@@ -10249,7 +10315,7 @@
       22
     ],
     "achievements": {
-      "total": 8
+      "total": 2
     },
     "release_date": {
       "coming_soon": false,
@@ -10259,11 +10325,29 @@
       "url": "https://fallenseeds.net",
       "email": "dev@fallenseeds.net"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2631540?t=1707174323",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2631540?t=1707174323",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogas il\u00edcitas\nLinguagem impr\u00f3pria\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Drogen"
+      }
     }
   },
   "2633610": {
