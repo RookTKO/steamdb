@@ -4997,9 +4997,9 @@
       "name": "The Adventures of Tango Rio"
     },
     "supported_languages": "English, Italian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356550/header.jpg?t=1732350765",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356550/183761a73557f709592cc8d1691b384026dbf828/capsule_231x87.jpg?t=1732350765",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356550/183761a73557f709592cc8d1691b384026dbf828/capsule_184x69.jpg?t=1732350765",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356550/header.jpg?t=1752666638",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356550/183761a73557f709592cc8d1691b384026dbf828/capsule_231x87.jpg?t=1752666638",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356550/183761a73557f709592cc8d1691b384026dbf828/capsule_184x69.jpg?t=1752666638",
     "website": null,
     "ext_user_account_notice": "Emanuele Baronti ",
     "developers": [
@@ -5011,8 +5011,8 @@
     "package_groups": [],
     "platforms": {
       "windows": true,
-      "mac": false,
-      "linux": false
+      "mac": true,
+      "linux": true
     },
     "categories": [
       2,
@@ -5026,8 +5026,8 @@
       "url": "www.beanadventureagency.com",
       "email": "beanadventureagency@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356550?t=1752666638",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356550?t=1752666638",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5060,9 +5060,9 @@
     "controller_support": "full",
     "short_description": "Rebecca's search for her missing girlfriend, Leanna, takes her to the Hemisfair Health Clinic, where nothing is as it seems. Uncover secrets, face gripping encounters, and unravel a chilling mystery in this story-focused third-person experience.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356570/header.jpg?t=1732918828",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356570/0ba83bb43b3c88526cc63c1cd8fec9aba3c00975/capsule_231x87.jpg?t=1732918828",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356570/0ba83bb43b3c88526cc63c1cd8fec9aba3c00975/capsule_184x69.jpg?t=1732918828",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356570/header.jpg?t=1745014775",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356570/0ba83bb43b3c88526cc63c1cd8fec9aba3c00975/capsule_231x87.jpg?t=1745014775",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356570/0ba83bb43b3c88526cc63c1cd8fec9aba3c00975/capsule_184x69.jpg?t=1745014775",
     "website": "https://www.celestialrealmstudios.net/",
     "developers": [
       "Mario Leal"
@@ -5070,7 +5070,20 @@
     "publishers": [
       "Celestial Realm Studios"
     ],
-    "package_groups": [],
+    "packages": [
+      1188005
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy Unforgivable",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -5078,22 +5091,23 @@
     },
     "categories": [
       2,
-      28
+      28,
+      62
     ],
     "genres": [
       3,
       23
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "17 Apr, 2025"
     },
     "support_info": {
       "url": "celestialrealmstudios.net",
       "email": "mario@nebula480.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356570/page_bg_generated_v6b.jpg?t=1732918828",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356570/page.bg.jpg?t=1732918828",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356570?t=1745014775",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356570/page_bg_raw.jpg?t=1745014775",
     "content_descriptors": {
       "ids": [
         5
@@ -5107,7 +5121,7 @@
         "required_age": "14",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Linguagem impr\u00f3pria\nViol\u00eancia\nDrogas l\u00edcitas"
+        "descriptors": "Linguagem impr\u00f3pria\nConte\u00fado sexual\nViol\u00eancia"
       },
       "steam_germany": {
         "rating_generated": "1",
@@ -5115,7 +5129,7 @@
         "required_age": "16",
         "banned": "0",
         "use_age_gate": "0",
-        "descriptors": "Drastische Gewalt\nAlkohol / Tabak\nDerbe Sprache"
+        "descriptors": "Sexuelle Inhalte\nDrastische Gewalt\nAlkohol / Tabak"
       }
     }
   },
@@ -5180,8 +5194,8 @@
       "url": "https://twitter.com/JaminsonJohn",
       "email": "johnjaminson1@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356580/page_bg_generated_v6b.jpg?t=1732131665",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356580/page_bg_generated.jpg?t=1732131665",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356580?t=1732131665",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356580?t=1732131665",
     "content_descriptors": {
       "ids": [
         2,
@@ -5247,8 +5261,8 @@
       "url": "",
       "email": "resonategamesmmcg@gmail.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356600/page_bg_generated_v6b.jpg?t=1732129827",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356600/page.bg.jpg?t=1732129827",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356600?t=1732129827",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356600/page_bg_raw.jpg?t=1732129827",
     "content_descriptors": {
       "ids": [
         5
@@ -5286,9 +5300,9 @@
       "name": "Slip 'n Slime"
     },
     "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356650/header.jpg?t=1732258621",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356650/b236ec6a1b2fa5f4056c4014fb47ce45cd7f4ecc/capsule_231x87.jpg?t=1732258621",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356650/b236ec6a1b2fa5f4056c4014fb47ce45cd7f4ecc/capsule_184x69.jpg?t=1732258621",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356650/header.jpg?t=1756250119",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356650/b236ec6a1b2fa5f4056c4014fb47ce45cd7f4ecc/capsule_231x87.jpg?t=1756250119",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356650/b236ec6a1b2fa5f4056c4014fb47ce45cd7f4ecc/capsule_184x69.jpg?t=1756250119",
     "website": "https://slipnslimegame.com/",
     "developers": [
       "Wild Magic Studio"
@@ -5321,8 +5335,8 @@
       "url": "https://slipnslimegame.com/",
       "email": "hello@slipnslimegame.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356650/page_bg_generated_v6b.jpg?t=1732258621",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356650/page_bg_generated.jpg?t=1732258621",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356650?t=1756250119",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356650?t=1756250119",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -5794,8 +5808,8 @@
       "url": "http://store.steampowered.com/search/?publisher=Archor%20Games",
       "email": "archor@archor.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356780/page_bg_generated_v6b.jpg?t=1733213018",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356780/page.bg.jpg?t=1733213018",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356780?t=1733213018",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356780/page_bg_raw.jpg?t=1733213018",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6025,8 +6039,8 @@
       "url": "https://pixart.games/",
       "email": "contact@pixart.games"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356850/page_bg_generated_v6b.jpg?t=1733243693",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356850/page.bg.jpg?t=1733243693",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356850?t=1733243693",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356850/page_bg_raw.jpg?t=1733243693",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6102,8 +6116,8 @@
       "url": "",
       "email": "2000altar@mail.ru"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356860/page_bg_generated_v6b.jpg?t=1733217477",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356860/page_bg_generated.jpg?t=1733217477",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356860?t=1733217477",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356860?t=1733217477",
     "content_descriptors": {
       "ids": [],
       "notes": null
@@ -6282,9 +6296,9 @@
       "appid": "3256840",
       "name": "Odyssey to the Frozen Legion"
     },
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356900/header.jpg?t=1732277535",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356900/1d0880e703ee6f12572ed0f5e0b0dd18360b0f69/capsule_231x87.jpg?t=1732277535",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356900/1d0880e703ee6f12572ed0f5e0b0dd18360b0f69/capsule_184x69.jpg?t=1732277535",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356900/header.jpg?t=1737987742",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356900/555f011a87d88a36a10a9fb6e1045c4a9e83e830/capsule_231x87.jpg?t=1737987742",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356900/555f011a87d88a36a10a9fb6e1045c4a9e83e830/capsule_184x69.jpg?t=1737987742",
     "website": null,
     "developers": [
       "Metal Grapes"
@@ -6309,8 +6323,8 @@
       "url": "",
       "email": "metalgrapesstudio@gmail.com"
     },
-    "background": "",
-    "background_raw": "",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356900?t=1737987742",
+    "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356900?t=1737987742",
     "content_descriptors": {
       "ids": [
         2,
@@ -6610,11 +6624,12 @@
     "steam_appid": 3356980,
     "required_age": 0,
     "is_free": false,
-    "short_description": "Blast your way through hordes of demonic forces in an exotic universe with an arsenal of powerful weapons and abilities.",
+    "controller_support": "full",
+    "short_description": "An intense journey through otherworldly realms. Adventure and explore through exotic locations, discover ancient artifacts and sacred relics of unimaginable power. Shatter demonic forces with brutal weapons and devastating powers as you uncover secrets in a vibrant, arcane universe.",
     "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356980/header.jpg?t=1732845395",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356980/a3f5eb650ccec613bae61ebe1d1a6ff2479c0c3b/capsule_231x87.jpg?t=1732845395",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356980/a3f5eb650ccec613bae61ebe1d1a6ff2479c0c3b/capsule_184x69.jpg?t=1732845395",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356980/header.jpg?t=1760284239",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356980/a3f5eb650ccec613bae61ebe1d1a6ff2479c0c3b/capsule_231x87.jpg?t=1760284239",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356980/a3f5eb650ccec613bae61ebe1d1a6ff2479c0c3b/capsule_184x69.jpg?t=1760284239",
     "website": "https://www.exongame.com",
     "developers": [
       "HuxDev"
@@ -6636,21 +6651,23 @@
     },
     "categories": [
       2,
-      61
+      28,
+      61,
+      62
     ],
     "genres": [
       1
     ],
     "release_date": {
       "coming_soon": true,
-      "date": "2025"
+      "date": "2026"
     },
     "support_info": {
       "url": "",
       "email": "hux@hux-dev.com"
     },
-    "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356980/page_bg_generated_v6b.jpg?t=1732845395",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356980/page.bg.jpg?t=1732845395",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3356980?t=1760284239",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356980/page_bg_raw.jpg?t=1760284239",
     "content_descriptors": {
       "ids": [
         2,

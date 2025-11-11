@@ -4093,11 +4093,12 @@
     "steam_appid": 2637050,
     "required_age": 0,
     "is_free": false,
+    "controller_support": "full",
     "short_description": "Shape the void with the power of your cursor! A Void Shaper is an arcade game about avoiding shapes and killing them, while you collect upgrades. Unlock new enemy shapes and upgrades as you progress through the game and complete your collection.",
     "supported_languages": "English, German",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637050/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2637050/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2637050/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637050/header.jpg?t=1717952638",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637050/capsule_231x87.jpg?t=1717952638",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637050/capsule_184x69.jpg?t=1717952638",
     "website": "https://avoidshaper.de",
     "developers": [
       "Paragrimm",
@@ -4106,7 +4107,20 @@
     "publishers": [
       "DreamStudios"
     ],
-    "package_groups": [],
+    "packages": [
+      945599
+    ],
+    "package_groups": [
+      {
+        "name": "default",
+        "title": "Buy A Void Shaper",
+        "description": "",
+        "selection_text": "Select a purchase option",
+        "save_text": "",
+        "display_type": 0,
+        "is_recurring_subscription": "false"
+      }
+    ],
     "platforms": {
       "windows": true,
       "mac": false,
@@ -4116,26 +4130,49 @@
       2,
       15,
       22,
-      25
+      25,
+      28,
+      62
     ],
     "genres": [
       1,
       4,
       23
     ],
+    "achievements": {
+      "total": 18
+    },
     "release_date": {
-      "coming_soon": true,
-      "date": "To be announced"
+      "coming_soon": false,
+      "date": "14 Feb, 2024"
     },
     "support_info": {
       "url": "",
       "email": "support@avoidshaper.de"
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2637050/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2637050/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2637050?t=1717952638",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637050/page_bg_raw.jpg?t=1717952638",
     "content_descriptors": {
       "ids": [],
       "notes": null
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "10",
+        "required_age": "10",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Viol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "12",
+        "required_age": "12",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2639920": {
@@ -9804,9 +9841,9 @@
     "is_free": true,
     "short_description": "Echo of Soul is a free-to-play Massively Multiplayer Online Role-Playing Game with a fast-paced action combat, various character customizations and no subscription fee required. Travel the vast open world, compete in PvP modes, and explore EoS.",
     "supported_languages": "English, French, German",
-    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2639000/header.jpg",
-    "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2639000/capsule_231x87.jpg",
-    "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2639000/capsule_184x69.jpg",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2639000/header.jpg?t=1702958797",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2639000/capsule_231x87.jpg?t=1702958797",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2639000/capsule_184x69.jpg?t=1702958797",
     "website": "https://eos.papayaplay.com/eos.do?tp=home",
     "ext_user_account_notice": "Papaya Play Account (Supports Linking to Steam Account)",
     "developers": [
@@ -9835,21 +9872,39 @@
       29
     ],
     "release_date": {
-      "coming_soon": true,
-      "date": "Coming soon"
+      "coming_soon": false,
+      "date": "18 Dec, 2023"
     },
     "support_info": {
       "url": "https://vertigogamesaid.freshdesk.com/support/solutions/66000285368",
       "email": ""
     },
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/2639000/page_bg_generated_v6b.jpg",
-    "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2639000/page.bg.jpg",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2639000?t=1702958797",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2639000/page_bg_raw.jpg?t=1702958797",
     "content_descriptors": {
       "ids": [
         1,
         5
       ],
-      "notes": null
+      "notes": "This game contains content that may not be suitable for children and teen, or for use in the workplaces:\r\n\r\nFrequent violence, gore present, general exposure."
+    },
+    "ratings": {
+      "dejus": {
+        "rating_generated": "1",
+        "rating": "14",
+        "required_age": "14",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Nudez\nViol\u00eancia"
+      },
+      "steam_germany": {
+        "rating_generated": "1",
+        "rating": "16",
+        "required_age": "16",
+        "banned": "0",
+        "use_age_gate": "0",
+        "descriptors": "Gewalt"
+      }
     }
   },
   "2638260": {
